@@ -1,0 +1,272 @@
+"astro-ph/9612238","Michael Koenig","Michael Koenig (1), Jens Timmer (2) ((1) Institute for Astronomy and
+  Astrophysics, Dep. Astronomy, University of Tuebingen, Germany (2) Physics
+  Department, University of Freiburg, Germany)","Analyzing X-ray variability by Linear State Space Models","8 pages, Latex, 4 PostScript figures, to be published in Astron. and
+  Astrophys. Suppl",,"10.1051/aas:1997104",,"astro-ph",,"  In recent years, autoregressive models have had a profound impact on the
+description of astronomical time series as the observation of a stochastic
+process. These methods have advantages compared with common Fourier techniques
+concerning their inherent stationarity and physical background. However, if
+autoregressive models are used, it has to be taken into account that real data
+always contain observational noise often obscuring the intrinsic time series of
+the object. We apply the technique of a Linear State Space Model which
+explicitly models the noise of astronomical data and allows to estimate the
+hidden autoregressive process. As an example, we have analysed the X-ray flux
+variability of the Active Galaxy NGC 5506 observed with EXOSAT.
+","[{""version"":""v1"",""created"":""Sun, 29 Dec 1996 18:51:55 GMT""}]","2009-10-28"
+"astro-ph/9612239","James Lowenthal","James D. Lowenthal, David C. Koo, Rafael Guzman, Jesus Gallego, Andrew
+  C. Phillips, S. M. Faber, Nicole P. Vogt, Garth D. Illingworth, and Caryl
+  Gronwall (UCO/Lick Observatory)","Keck Spectroscopy of Redshift z~3 Galaxies in the Hubble Deep Field","45 pages, AASLaTeX, 3 postscript tables, 2 JPG + 3 GIF + 5
+  encapsulated postscript figures. To appear in The Astrophysical Journal. Also
+  available at http://www.ucolick.org/~deep/papers/papers.html and
+  http://www.ucolick.org/~james/papers/hdf/hdf.html","Astrophys.J.481:673,1997","10.1086/304092",,"astro-ph",,"  We have obtained spectra with the 10-m Keck telescope of a sample of 24
+galaxies having colors consistent with star-forming galaxies at redshifts
+2<z<4.5 in the Hubble Deep Field (HDF). Eleven of these galaxies are confirmed
+to be at high redshift (median z=3.0), one is at z=0.5, and the other 12 have
+uncertain redshifts but have spectra consistent with their being at z>2.
+Combined with 5 previously confirmed high-redshift galaxies in the HDF, the 16
+confirmed sources yield a comoving volume density of n>2.5^-4 h50^3 Mpc^-3 for
+q0=0.05, or n>1.2^-3 h50^3 Mpc^-3 for q0=0.5. These densities are comparable to
+estimates of the local volume density of galaxies brighter than L*, and could
+be almost three times higher still if all 29 of the unconfirmed candidates in
+our original sample are indeed also at high redshift. The galaxies are small
+but luminous, with half-light radii 1.8 < r(1/2) < 6.5 h50^-1 kpc and absolute
+magnitudes -21.5 > M_B > -23. The HST images show a wide range of morphologies,
+including several with very close, small knots of emission embedded in wispy
+extended structures. Using rest-frame UV continuum fluxes with no dust
+correction, we calculate star formation rates in the range 7 - 24 or 3 - 9
+h50^-2 Msun/yr for q0=0.05 and q0=0.5, respectively. The variety of
+morphologies and the high number density of z=3 galaxies in the HDF suggest
+that they represent a range of physical processes and stages of galaxy
+formation and evolution, rather than any one class of object, such as massive
+ellipticals. A key issue remains the measurement of masses. These high-redshift
+objects are likely to be the low-mass, starbursting building blocks of more
+massive galaxies seen today.
+","[{""version"":""v1"",""created"":""Mon, 30 Dec 1996 04:02:13 GMT""}]","2011-07-18"
+"cond-mat/9612238","Dima Shepelyansky","G.Benenti, G.Casati and D.L.Shepelyansky","Chaotic enhancement of hydrogen atoms excitation in magnetic and
+  microwave fields","revtex, 9 pages, 3 figures",,"10.1103/PhysRevA.56.3297",,"cond-mat",,"  We numerically investigate multiphoton ionization of excited hydrogen atoms
+in magnetic and microwave fields when up to 600 photons are required for
+ionization. The analytical estimates for the quantum localization length in the
+classically chaotic regime are in agreement with numerical data. The excitation
+is much stronger as compared to the case with microwave field only due to the
+chaotic structure of eigenstates in magnetic field.
+","[{""version"":""v1"",""created"":""Sun, 29 Dec 1996 16:13:06 GMT""}]","2009-10-28"
+"cond-mat/9612239","Cristian F. Moukarzel","Cristian F. Moukarzel (HLRZ Juelich), Phillip M. Duxbury (MSU), P. L.
+  Leath (Rutgers)","Infinite-cluster geometry in central-force networks","6 pages, 4 figures, uses epsfig. Accepted for publication in Physical
+  Review Letters","Phys. Rev. Lett. 78 (1997), 1486.","10.1103/PhysRevLett.78.1480",,"cond-mat.stat-mech cond-mat.mtrl-sci physics.comp-ph",,"  We show that the infinite percolating cluster (with density P_inf) of
+central-force networks is composed of: a fractal stress-bearing backbone (Pb)
+and; rigid but unstressed ``dangling ends'' which occupy a finite
+volume-fraction of the lattice (Pd). Near the rigidity threshold pc, there is
+then a first-order transition in P_inf = Pd + Pb, while Pb is second-order with
+exponent Beta'. A new mean field theory shows Beta'(mf)=1/2, while simulations
+of triangular lattices give Beta'_tr = 0.255 +/- 0.03.
+","[{""version"":""v1"",""created"":""Sun, 29 Dec 1996 16:28:44 GMT""}]","2016-08-31"
+"cond-mat/9612240","Gabor Papp","Romuald A. Janik, Maciej A. Nowak, Gabor Papp and Ismail Zahed","Nonhermitean Random Matrix Models","49 pages RevTex, with modified feynmf sty, 9 EPSF figures included.
+  Version submitted to Nuclear Physics B","Nucl.Phys. B501 (1997) 603-642","10.1016/S0550-3213(97)00418-5",,"cond-mat hep-lat hep-ph hep-th",,"  We introduce an extension of the diagrammatic rules in random matrix theory
+and apply it to nonhermitean random matrix models using the 1/N approximation.
+A number of one- and two-point functions are evaluated on their holomorphic and
+nonholomorphic supports to leading order in 1/N. The one-point functions
+describe the distribution of eigenvalues, while the two-point functions
+characterize their macroscopic correlations. Generic form for the two-point
+functions are obtained, generalizing the concept of macroscopic universality to
+nonhermitean random matrices. We show that the holomorphic and nonholomorphic
+one- and two-point functions condition the behavior of pertinent partition
+functions to order $O(1/N)$. We derive explicit conditions for the location and
+distribution of their singularities. Most of our analytical results are found
+to be in good agreement with numerical calculations using large ensembles of
+complex matrices.
+","[{""version"":""v1"",""created"":""Sun, 29 Dec 1996 19:35:52 GMT""},{""version"":""v2"",""created"":""Thu, 29 May 1997 19:35:16 GMT""}]","2009-10-28"
+"cond-mat/9612241","Michael Jost","M. Jost and K.D. Usadel","Domain wall roughening in three dimensional magnets at the depinning
+  transition","5 pages with 2 figures, Revtex",,"10.1016/S0378-4371(97)00012-5",,"cond-mat.dis-nn cond-mat.stat-mech",,"  The kinetic roughening of a driven interface between three dimensional
+spin-up and spin-down domains in a model with non-conserved scalar order
+parameter and quenched disorder is studied numerically within a discrete time
+dynamics at zero temperature. The exponents characterizing the morphology of
+the interface are obtained close to the depinning-transition
+","[{""version"":""v1"",""created"":""Mon, 30 Dec 1996 07:55:44 GMT""}]","2015-06-25"
+"cond-mat/9612242","Lee Sooyeul","Sooyeul Lee, Koo-Chul Lee, and J. M. Kosterlitz","Phase diagram of the restricted solid-on-solid model coupled to the
+  Ising model","17 pages, source RevTeX file and 8 PS figures are tarred and
+  compressed via uufiles",,"10.1103/PhysRevB.56.340","SNUTP 96-128","cond-mat.stat-mech",,"  We study the phase transitions of a restricted solid-on-solid model coupled
+to an Ising model, which can be derived from the coupled XY-Ising model. There
+are two kinds of phase transition lines. One is a Ising transition line and the
+other is surface roughening transition line. The latter is a KT transition line
+from the viewpoint of the XY model. Using a microcanonical Monte Carlo
+technique, we obtain a very accurate two dimensional phase diagram. The two
+transition lines are separate in all the parameter space we study. This result
+is strong evidence that the fully frustrated XY model orders by two separate
+transitions and that roughening and reconstruction transitions of crystal
+surfaces occur separately.
+","[{""version"":""v1"",""created"":""Mon, 30 Dec 1996 08:05:48 GMT""}]","2016-08-31"
+"cond-mat/9612243","Viola Larionova","V.A. Larionova and A.V. Germanenko","Interband mixing between two-dimensional states localized in a surface
+  quantum well and heavy hole states of the valence band in narrow gap
+  semiconductor","12 pages (RevTEX) and 4 PostScript-figures",,"10.1103/PhysRevB.55.13062","131067","cond-mat",,"  Theoretical calculations in the framework of Kane model have been carried out
+in order to elucidate the role of interband mixing in forming the energy
+spectrum of two-dimensional carriers, localized in a surface quantum well in
+narrow gap semiconductor. Of interest was the mixing between the 2D states and
+heavy hole states in the volume of semiconductor. It has been shown that the
+interband mixing results in two effects: the broadening of 2D energy levels and
+their shift, which are mostly pronounced for semiconductors with high doping
+level. The interband mixing has been found to influence mostly the effective
+mass of 2D carriers for large their concentration, whereas it slightly changes
+the subband distribution in a wide concentration range.
+","[{""version"":""v1"",""created"":""Mon, 30 Dec 1996 12:50:47 GMT""}]","2009-10-28"
+"cond-mat/9612244","Dimitri Aristov","D.N. Aristov","Indirect RKKY interaction in any dimensionality","3 pages, REVTEX, accepted to Phys.Rev. B",,"10.1103/PhysRevB.55.8064",,"cond-mat.str-el",,"  We present an analytical method which enables one to find the exact spatial
+dependence of the indirect RKKY interaction between the localized moments via
+the conduction electrons for the arbitrary dimensionality $n$. The
+corresponding momentum dependence of the Lindhard function is exactly found for
+any $n$ as well. Demonstrating the capability of the method we find the RKKY
+interaction in a system of metallic layers weakly hybridized to each other.
+Along with usual $2k_F$ in-plane oscillations the RKKY interaction has the
+sign-reversal character in a direction perpendicular to layers, thus favoring
+the antiferromagnetic type of layers' stacking.
+","[{""version"":""v1"",""created"":""Mon, 30 Dec 1996 14:22:44 GMT""}]","2009-10-28"
+"cond-mat/9612245","Dimitri Aristov","D.N. Aristov and A.G. Yashenkin","Comment on ``Impurity states and the absence of quasiparticle
+  localization in disordered d-wave superconductors''","1 page, REVTEX",,,,"cond-mat.str-el",,"  In a recent Letter Balatsky and Salkola made their conclusion about the
+absence of localization in disordered d-wave superconductors exploiting the
+idea that strongly overlapping impurity states formed a network capable to
+provide the transport. We present here the correct estimate of hopping matrix
+elements between two impurities which were the basic quantities for the
+subsequent consideration in the abovementioned Letter. We conclude, that the
+picture of the impurity-impurity potential acting only within the slowly
+broadening tails claimed by Balatsky and Salkola as well as all the physical
+consequences of this picture appear to be incorrect.
+","[{""version"":""v1"",""created"":""Mon, 30 Dec 1996 14:43:10 GMT""}]","2008-02-03"
+"cond-mat/9612246","J. J. Rodriguez","S. Schafroth (Uni-Zurich), J.J. Rodriguez (UFF), H. Beck (Neuchatel)","Some Global Properties of the Attractive Hubbard Model in the
+  Superconducting Phase: T-Matrix Approximation in 2D","LaTex, 6 pages, 3 included figures. Accepted for publication in J.
+  Phys: Condensed Matter L9",,"10.1088/0953-8984/9/9/001",,"cond-mat.supr-con cond-mat.str-el",,"  We have applied the Fast Fourier transform (FFT), which allows to compute
+efficiently convolution sums, to solve the set of self-consistent T-matrix
+equations to get the Green function of the two dimensional attractive-U Hubbard
+modelbelow $T_c$, extending previous calculations of the same authors. Using a
+constant order parameter $\Delta(T)$, we calculated $T_c$ as a function of
+electron density and interaction strength $U$. These global results deviate
+from the BCS behavior remarkably.
+","[{""version"":""v1"",""created"":""Mon, 30 Dec 1996 15:15:01 GMT""}]","2009-10-28"
+"funct-an/9612009","Doug Pickrell","Doug Pickrell","On invariant measures for the group of diffeomorphisms of the circle","36 pages, AMSTEX",,,,"funct-an math.OA",,"  In a previous paper the author constructed biinvariant measures (possibly
+having values in a line bundle) for a loop group LK (with compact simply
+connected K) acting on the formal completion of its complexification LG. One
+motivation for this was to find a geometric construction for the unitary
+structure for the positive energy representations of LK. In this paper we
+pursue an analogous construction for the group of diffeomorphisms of the
+circle.
+","[{""version"":""v1"",""created"":""Sun, 29 Dec 1996 16:42:58 GMT""}]","2008-02-03"
+"gr-qc/9612065","Jai-chan Hwang","J. Hwang and H. Noh","Density Spectrums from Kinetic Inflations","8 pages, revtex, no figures",,,,"gr-qc",,"  The pole-like accelerated expansion stages purely driven by the coupling
+between the gravity and the dilaton field without referring to the potential
+term can be realized in a class of generalized gravity theories. We consider
+three such scenarios based on the scalar-tensor gravity, the induced gravity
+and the string theory. Quantum fluctuations during the expansion stages
+(including more general situations) can be derived in exact analytic forms.
+Assuming that the pole-like acceleration stage provides a viable inflation
+scenario in the early universe we derive the generated classical density
+spectrums. The generated classical density field shows a generic tilted
+spectrum with $n \simeq 4$ which differs from the observed spectrum supporting
+$n \simeq 1$.
+","[{""version"":""v1"",""created"":""Mon, 30 Dec 1996 02:18:42 GMT""}]","2007-05-23"
+"hep-ph/9612484","Ernest Ma","Ernest Ma (UC Riverside)","Broken Supersymmetric U(1) Gauge Factor at the TeV Scale","9 pages, to appear in Proc. of the Third International Workshop on
+  Particle Physics Phenomenology, Chin Shan, Taiwan (Nov 1996)",,,"UCRHEP-T183 (Dec 1996)","hep-ph",,"  The appearance of a broken supersymmetric U(1) gauge factor at the TeV scale
+is relevant for several reasons. If it truly exists, then one important
+consequence is that at the 100 GeV energy scale, the two-doublet Higgs
+structure is of a more general form than that of the Minimal Supersymmetric
+Standard Model (MSSM). This is a prime example of tree-level nondecoupling.
+Furthermore, a particular U(1)_N from the superstring-inspired E_6 model allows
+for the existence of naturally light singlet neutrinos which may be necessary
+to accommodate the totality of neutrino-oscillation experiments.
+","[{""version"":""v1"",""created"":""Mon, 30 Dec 1996 00:17:41 GMT""}]","2007-05-23"
+"hep-ph/9612485","Yumian Su","Yumian Su","$B \to X_s \mu^+ \mu^-$ in Technicolor with Scalars","19 pages, LaTeX, includes 6 figures","Phys. Rev. D 56, 335 (1997)","10.1103/PhysRevD.56.335","BUHEP-96-48","hep-ph",,"  We compute the flavor changing neutral current process $B \to X_s \mu^+
+\mu^-$ in technicolor models with scalars. We find that the branching ratio can
+be enhanced relative to that of the Standard Model by as much as 60%. The full
+parameter space of the model is consistent with the present CLEO and CDF
+exclusive limits. However, the viability of the model could soon be tested
+since the decay signals are expected to be observed in the next few years with
+the upgraded CLEO detector and in the CDF Run II.
+","[{""version"":""v1"",""created"":""Mon, 30 Dec 1996 09:57:45 GMT""}]","2016-08-24"
+"hep-ph/9612486","Maxim Polyakov","M.V. Polyakov, and G. Weidl","Chiral expansion in the dual (string) models of the Goldstone meson
+  scattering","13 pages, no figures",,,,"hep-ph",,"  We consider in details the dual models for the Goldstone mesons (pions)
+scattering in the presence of the explicit chiral symmetry breaking caused by
+non-zero current quark mass. New method of incorporation of the quark masses
+into the dual model is suggested. In contrast to the previously considered in
+the literature methods, the dual amplitude obtained by this method is
+consistent with all low-energy theorems following from the Effective Chiral
+Lagrangian (EChL) to the O(p^4) order and simultaneously it does not contain
+states with negative width. The resonance spectrum of the model and its
+implications for the fourth and sixth order EChL in large N_c limit are
+discussed. We argue that the possible relations between large N_c QCD and some
+underlying string theory can be revealed by studying interactions of hadrons at
+low-energies.
+","[{""version"":""v1"",""created"":""Mon, 30 Dec 1996 13:28:33 GMT""}]","2007-05-23"
+"hep-th/9612246","Paulo Teotonio-Sobrinho","Tom D. Imbo and P. Teotonio-Sobrinho","Topology Change and theta-Vacua in 2D Yang-Mills Theory","16 pages, 4 figures, uses harvmac and psbox","Nucl.Phys. B500 (1997) 565-578","10.1016/S0550-3213(97)00378-7","UICHEP-TH/96-02","hep-th",,"  We discuss the existence of $\theta$-vacua in pure Yang-Mills theory in two
+space-time dimensions. More precisely, a procedure is given which allows one to
+classify the distinct quantum theories possessing the same classical limit for
+an arbitrary connected gauge group G and compact space-time manifold M
+(possibly with boundary) possessing a special basepoint. For any such G and M
+it is shown that the above quantizations are in one-to-one correspondence with
+the irreducible unitary representations (IUR's) of $\pi_1(G)$ if M is
+orientable, and with the IUR's of $\pi_1(G)/2\pi_1(G)$ if M is nonorientable.
+","[{""version"":""v1"",""created"":""Sun, 29 Dec 1996 21:48:20 GMT""}]","2016-09-06"
+"hep-th/9612247","Arshad Momen","A.P. Balachandran, V. John, Arshad Momen and F. Moraes","Anomalous Defects and Their Quantized Transverse Conductivities","New material added. ReVTeX , 31 pgs., 4 figs.(uses epsf)","Int.J.Mod.Phys. A13 (1998) 841-861","10.1142/S0217751X98000378","SU-4240-648","hep-th",,"  Using a description of defects in solids in terms of three-dimensional
+gravity, we study the propagation of electrons in the background of
+disclinations and screw dislocations. We study the situations where there are
+bound states that are effectively localized on the defect and hence can be
+described in terms of an effective 1+1 dimensional field theory for the low
+energy excitations. In the case of screw dislocations, we find that these
+excitations are chiral and can be described by an effective field theory of
+chiral fermions. Fermions of both chirality occur even for a given direction of
+the magnetic field. The ``net'' chirality of the system however is not always
+the same for a given direction of the magnetic field, but changes from one sign
+of the chirality through zero to the other sign as the Fermi momentum or the
+magnitude of the magnetic flux is varied. On coupling to an external
+electromagnetic field, the latter becomes anomalous, and predicts novel
+conduction properties for these materials.
+","[{""version"":""v1"",""created"":""Sun, 29 Dec 1996 21:52:48 GMT""},{""version"":""v2"",""created"":""Mon, 30 Dec 1996 18:06:03 GMT""},{""version"":""v3"",""created"":""Tue, 29 Apr 1997 21:09:38 GMT""}]","2009-10-30"
+"hep-th/9612248",,"Nemanja Kaloper, Robert C. Myers and Harold Roussel","Wavy Strings: Black or Bright?","45 pages, latex, no figures","Phys.Rev. D55 (1997) 7625-7644","10.1103/PhysRevD.55.7625","McGill 96-44/WATPHYS-TH-96/17","hep-th gr-qc",,"  Recent developments in string theory have brought forth a considerable
+interest in time-dependent hair on extended objects. This novel new hair is
+typically characterized by a wave profile along the horizon and angular
+momentum quantum numbers $l,m$ in the transverse space. In this work, we
+present an extensive treatment of such oscillating black objects, focusing on
+their geometric properties. We first give a theorem of purely geometric nature,
+stating that such wavy hair cannot be detected by any scalar invariant built
+out of the curvature and/or matter fields. However, we show that the tidal
+forces detected by an infalling observer diverge at the `horizon' of a black
+string superposed with a vibration in any mode with $l \ge 1$. The same
+argument applied to longitudinal ($l=0$) waves detects only finite tidal
+forces. We also provide an example with a manifestly smooth metric, proving
+that at least a certain class of these longitudinal waves have regular
+horizons.
+","[{""version"":""v1"",""created"":""Mon, 30 Dec 1996 04:29:57 GMT""}]","2009-10-30"
+"hep-th/9612249","Hyung Won Lee","Jin Young Kim (Dongseo University), H.W. Lee and Y.S. Myung (Inje
+  University)","Classical instanton and wormhole solutions of Type IIB string theory","revised and title is changed, 11 pages in ReVTeX, two postscript
+  figures","Phys.Lett. B400 (1997) 32-36","10.1016/S0370-2693(97)00320-1","INJE-TP-96-6","hep-th",,"  We study $p=-1$ D-brane in type IIB superstring theory. In addition to RR
+instanton, we obtain the RR charged wormhole solution in the Einstein frame.
+This corresponds to the ten-dimensional singular wormhole solution with
+infinite euclidean action.
+","[{""version"":""v1"",""created"":""Mon, 30 Dec 1996 05:00:42 GMT""},{""version"":""v2"",""created"":""Sat, 22 Mar 1997 05:09:47 GMT""}]","2015-06-26"
+"nucl-th/9612065","Jacek Golak","J. Golak (1), K. Miyagawa (2), H. Kamada (3), H. Wita{\l}a (1), W.
+  Gl\""ockle (4), A. Parre\~no (5), A. Ramos (5), C. Bennhold (6) ((1)
+  Jagellonian Univ., (2) Okayama Univ. of Science, (3) Paul Scherrer Institute,
+  (4) Ruhr Univ. Bochum, (5) Univ. of Barcelona, (6) The George Washington
+  Univ.)","The nonmesonic weak decay of the hypertriton","27 pages, 20 figures, revtex, submitted to Phys. Rev. C","Phys.Rev.C55:2196-2213,1997; Erratum-ibid.C56:2892-2892,1997","10.1103/PhysRevC.55.2196 10.1103/PhysRevC.56.2892",,"nucl-th",,"  The nonmesonic decay of the hypertriton is calculated based on a hypertriton
+wavefunction and 3N scattering states, which are rigorous solutions of 3-body
+Faddeev equations using realistic NN and hyperon-nucleon interactions. The
+pion-exchange together with heavier meson exchanges for the $\Lambda N \to N N
+$ transition is considered. The total nonmesonic decay rate is found to be 0.5%
+of the free $\Lambda$ decay rate. Integrated as well as differential decay
+rates are given. The p- and n- induced decays are discussed thoroughly and it
+is shown that the corresponding total rates cannot be measured individually.
+","[{""version"":""v1"",""created"":""Mon, 30 Dec 1996 09:27:59 GMT""}]","2014-11-18"
+"physics/9612014","Ludwik Dabrowski","L. Dabrowski, P. Stovicek","Aharonov-Bohm Effect with $\delta$--type Interaction","19 pages, Latex","J. Math. Phys. 39, 47-62, 1998","10.1063/1.532307","SISSA 171/96/FM","math-ph math.MP",,"  A quantum particle interacting with a thin solenoid and a magnetic flux is
+described by a five-parameter family of Hamilton operators, obtained via the
+method of self-adjoint extensions. One of the parameters, the value of the
+flux, corresponds to the Aharonov-Bohm effect; the other four parameters
+correspond to the strength of a singular potential barrier. The spectrum and
+eigenstates are computed and the scattering problem is solved.
+","[{""version"":""v1"",""created"":""Mon, 30 Dec 1996 14:40:00 GMT""}]","2015-06-26"
+"solv-int/9701002","Jarmo Hietarinta","Jarmo Hietarinta","Painleve equations in terms of entire functions","22 pages, lectures given at the summer school ``The Painleve
+  property, one century later'', Cargese, 3-22 June, 1996",,,,"solv-int nlin.SI",,"  In these lectures we discuss how the Painleve equations can be written in
+terms of entire functions, and then in the Hirota bilinear (or multilinear)
+form. Hirota's method, which has been so useful in soliton theory, is reviewed
+and connections from soliton equations to Painleve equations through similarity
+reductions are discussed from this point of view. In the main part we discuss
+how singularity structure of the solutions and formal integration of the
+Painleve equations can be used to find a representation in terms of entire
+functions. Sometimes the final result is a pair of Hirota bilinear equations,
+but for $P_{VI}$ we need also a quadrilinear expression. The use of discrete
+versions of Painleve equations is also discussed briefly. It turns out that
+with discrete equations one gets better information on the singularities, which
+can then be represented in terms of functions with a simple zero.
+","[{""version"":""v1"",""created"":""Mon, 30 Dec 1996 10:35:06 GMT""}]","2008-02-03"

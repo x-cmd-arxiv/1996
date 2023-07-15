@@ -1,0 +1,189 @@
+"astro-ph/9612233",,"William H. Waller, Frank Varosi, Francois Boulanger, and Seth W. Digel","Survey of Fine-Scale Structure in the Far-Infrared Milky Way","Paper format (LaTeX); length of paper (3); 1 encapsulated postscript
+  figure file; 1 gif color plate file; uses style file crckapb.sty; Journal
+  Reference: to be published in ``New Horizons from Multi-Wavelength Sky
+  Surveys,'' IAU Symposium 179, Barry Lasker, Marc Postman, editors, Kluwer
+  Academic Publishers",,,,"astro-ph",,"  Using the IRAS Infrared Sky Survey Atlas, we have made 60 x 60 deg mosaics of
+the far-infrared emission in the Milky Way. By applying a median normalizing
+spatial filter, we were able to eliminate the strong gradient in brightness
+towards the Galactic midplane. The resulting images reveal a ""froth"" of
+superposed filaments, voids, and shells. This fine-scale structure extends all
+the way down to the Galactic midplane. Moreover, it scales in intensity with
+the smoothly varying background, independent of latitude, thus indicating that
+the fine-scale residual emission is co-extensive with the smooth background. We
+conclude that the fine-scale structure is not merely of local origin, but
+consists of both nearby and more distant features in the disk. Although we had
+expected to find morphological evidence for supernova-driven ""worms"" or
+""chimneys"" rooted in the Galactic plane, our processing shows the FIR
+fine-scale structure to be more complex (e.g. less coherent and less rooted) as
+viewed in projection. Analysis of the spatial statistics shows that the FIR
+fine-scale structure is self-similar with a spatial power-law exponent of -3
+and a fractal dimension of 2.5 --- similar behavior to that found in isolated
+cirrus and molecular clouds. On scales larger than 1.5 deg, the power-law
+exponent flattens to -2.5, perhaps indicating a change in the characteristic
+structure. This could be due to different dynamical inputs organizing the small
+and large-scale structures (e.g. turbulence and diffusion on small scales vs.
+macroscopic winds and shock fronts on larger scales).
+","[{""version"":""v1"",""created"":""Fri, 27 Dec 1996 19:41:27 GMT""}]","2007-05-23"
+"astro-ph/9612235",,"William H. Waller","Starburst Anatomy: Stellar and Nebular Properties of Nearby Giant HII
+  Regions","Paper format (latex); length of paper (3); uses style file
+  rmaaconf.sty; Journal Reference: to be published in Revista Mexicana de
+  Astronomia y Astrofisica",,,,"astro-ph",,"  Resolution of nearby giant HII regions into their stellar and nebular
+constituents provides fundamental insights for interpreting more distant and
+powerful starburst activity. The following summarizes recent advances in our
+understanding of the stellar populations and nebular energetics associated with
+giant HII regions.
+  Photometry and spectroscopy of ionizing clusters in the Galaxy, LMC, and SMC
+reveal no significant relation between metallicity and the slope of the
+power-law initial mass function (IMF). HST/WFPC2 photometry of 3 giant HII
+regions in M33 also does not show any consistent trend involving metal
+abundance and IMF slope -- contrary to predictions based on emission-line
+ratios. The upper stellar mass limit appears to be constrained more by cluster
+age than by anything else.
+  The ionizing luminosities from some of the resolved stellar populations are
+insufficient to account for the ionization rates inferred from measurements of
+the composite (integrated) H-alpha emission. Absorption of stellar EUV emission
+by nebular dust grains would only amplify these photoionizing shortfalls.
+Leakage of ionizing photons from the HII regions would further exacerbate the
+situation. What then is providing the additional ionization? Prospects for
+higher stellar EUV luminosities and/or alternative sources of nebular
+ionization (e.g. shocks) are evaluated with this question in mind.
+","[{""version"":""v1"",""created"":""Fri, 27 Dec 1996 18:43:19 GMT""}]","2007-05-23"
+"astro-ph/9612236","Albert Bosma","E. Athanassoula, I. Puerari and A. Bosma","Formation of rings in galactic discs by infalling small companions","21 pages Latex, 22 figures, of which 7 as separate gif-files.
+  Requires mn.sty, accepted for publication in MNRAS. High resolution version
+  at http://www-obs.cnrs-mrs.fr/dynamique/pap/ring.html",,"10.1093/mnras/286.2.284",,"astro-ph",,"  We use N-body simulations to study the formation of rings in a disc galaxy by
+the impact of a small spherical companion. Both barred and nonbarred target
+discs are considered. We discuss the effect of the properties of the target
+disc (distribution of mass in the disc, velocity dispersion, etc.) as well as
+of the mass and orbit of the companion on the properties of the rings, such as
+their amplitude, width, shape, expansion velocity and lifetime. In particular
+the amplitude, width, lifetime and expansion velocity of the first ring
+increase considerably with companion mass, and so does the expansion velocity
+of the particles in it and the total extent of the disc after the interaction.
+We also discuss the formation and evolution of spokes and show that they can be
+caused by companions of relatively small mass. In our three examples of oblique
+impacts on barred target galaxies we note important transient displacements of
+the bar, as well as changes of its pattern speed and size. An asymmetric
+pseudoring is formed in each case, and during the first stages of its evolution
+the bar forms part of it.
+","[{""version"":""v1"",""created"":""Fri, 27 Dec 1996 17:43:37 GMT""}]","2015-06-24"
+"chao-dyn/9701002","Zoltan Toroczkai","A. Pentek, J. B. Kadtke and Z. Toroczkai","Stabilizing chaotic vortex trajectories: an example of high-dimensional
+  control","15 LaTex pages, 4 Postscript figures added","Physics Letters A, 224 (1996) 85","10.1016/S0375-9601(96)00792-X",,"chao-dyn nlin.CD",,"  A chaos control algorithm is developed to actively stabilize unstable
+periodic orbits of higher-dimensional systems. The method assumes knowledge of
+the model equations and a small number of experimentally accessible parameters.
+General conditions for controllability are discussed. The algorithm is applied
+to the Hamiltonian problem of point vortices inside a circular cylinder with
+applications to an experimental plasma system.
+","[{""version"":""v1"",""created"":""Fri, 27 Dec 1996 18:34:54 GMT""}]","2019-08-17"
+"chao-dyn/9701003","Tim Sauer","R. Castro and T. Sauer","Noise-enhanced reconstruction of attractors","11 pages, revtex, 5 ps figures",,,,"chao-dyn nlin.CD",,"  In principle, the state space of a chaotic attractor can be partially or
+wholly reconstructed from interspike intervals recorded from experiment. Under
+certain conditions, the quality of a partial reconstruction, as measured by the
+spike train prediction error, can be increased by adding noise to the spike
+creation process. This phenomenon for chaotic systems is an analogue of
+stochastic resonance.
+","[{""version"":""v1"",""created"":""Fri, 27 Dec 1996 20:27:56 GMT""}]","2008-02-03"
+"cond-mat/9612235","Motohiko Yoshimura","I. Joichi, Sh. Matsumoto, and M. Yoshimura","Quantum Dissipation in Open Harmonic Systems: Operator Solution","15 pages, LATEX file with 2 PS figures.Figures also available at
+  ftp://tuhep.phys.tohoku.ac.jp/preprints/operator","Prog.Theor.Phys. 98 (1997) 9-28","10.1143/PTP.98.9","TU/96/514","cond-mat.stat-mech hep-ph nucl-th",,"  A finite number of harmonic oscillators coupled to infinitely many
+environment oscillators is fundamental to the problem of understanding quantum
+dissipation of a small system immersed in a large environment. Exact operator
+solution as a function of time is given to this problem, by using diagonalized
+dynamical variable of the entire system, the small system plus the environment.
+The decay law of prepared initial configuration is worked out in greatest
+detail. A clear separation of the exponential- and the power-law decay period
+is made possible by our method. Behavior of physical quantities at
+asymptotically late times can be understood in terms of the overlap probability
+of the system variable with the diagonal variable of the entire system.
+","[{""version"":""v1"",""created"":""Sat, 28 Dec 1996 05:12:46 GMT""}]","2009-10-28"
+"hep-ph/9612477","Mr Nidal Chamoun","N. Chamoun, G.G. Ross (University of Oxford)","QCD Sum Rule Analysis of Leading Twist Non-Singlet Operator Matrix
+  Elements","11 pages, 6 figures",,,,"hep-ph",,"  We use QCD sum rules to determine the difference between moments of the
+non-singlet structure functions. This combination decouples from the singular
+behaviour of the structure functions near x=1 as calculated in the quark-gluon
+basis and thus should lead to improved sum rule predictions. However, we find
+there are still very large errors due to higher order corrections. In order to
+refine the error analysis, we study the effect of renormalon ambiguities on our
+QCD sum rules results.
+","[{""version"":""v1"",""created"":""Fri, 27 Dec 1996 17:14:42 GMT""}]","2007-05-23"
+"hep-ph/9612478","Big Bad Bob","Qaisar Shafi and Robert K. Schaefer, (Bartol Research Institute,
+  University of Delaware)","The Cold Plus Hot Dark Matter Model From Supersymmetric Inflation","13 pages LaTEX, with two postscript figures. To appear in the
+  Proceedings of the Dark Matter '96 meeting in Heldelberg, Germany",,,,"hep-ph astro-ph",,"  The cold plus hot dark matter (CHDM) model is arguably the best theory we
+currently have for a consistent description of the observed large scale
+structure formation. This is especially true if the primordial density
+fluctuations are assumed to be essentially scale invariant, in which case a
+mixture with 20-25 % HDM, 5- 10 % baryons, and the rest in CDM correctly
+predicted (in 1989) the quadrupole anisotropy measured a few years later by the
+COBE satellite. After a brief historical introduction, we present a model of
+supersymmetric inflation in which the CHDM model is neatly realized with a
+spectral index n= 0.98, while the dark matter consists of a few eV `tau'
+neutrino and the LSP (essentially the `bino'). We also provide a comparison of
+this model against the observations.
+","[{""version"":""v1"",""created"":""Fri, 27 Dec 1996 20:53:05 GMT""}]","2007-05-23"
+"hep-ph/9612479","Slava Ilyin","V.A. Ilyin, D.N. Kovalenko, A.E. Pukhov","Recursive Algorithm for the Generation of Relativistic Kinematics for
+  Collisions and Decays with Regularizations of Sharp Peaks","10 pages, standard LaTeX code","Int.J.Mod.Phys. C7 (1996) 761","10.1142/S0129183196000648","INP MSU Preprint-95-2/366","hep-ph",,"  We describe an algorithm for the generation of relativistic kinematics for
+collision and decay processes with multiparticle final states. In the framework
+of this algorithm it is possible to generate different kinematics covering most
+of practically interesting cases. One gets a possibility to introduce different
+sets of integration variables. As a result different sets of kinematical
+singularities can be regularized. To smooth sharp peaks some regularization
+formulas and procedures are used covering most typical cases. The algorithm is
+realized in the package CompHEP created for automatic calculations of collision
+and decay processes.
+","[{""version"":""v1"",""created"":""Sat, 28 Dec 1996 13:57:09 GMT""}]","2015-06-25"
+"hep-th/9612243","Igor A. Naumov","A. Maslikov (2), I. Naumov (2), G. Volkov (1,2) ((1) INFN Sezione di
+  Padova and Dipartimento di Fisica Universit\`a di Padova, (2) Institute for
+  High Energy Physics, Protvino Russia)","The Paths of Unification In The GUST With The G x G Gauge Groups of E(8)
+  x E(8)","18 pages, 2 Postscript figures, uses epsf.sty","Phys.Lett. B409 (1997) 160-172; Mod.Phys.Lett. A12 (1997)
+  1909-1927","10.1142/S0217732397001965","Preprint DFPD 96/TH/61","hep-th hep-ph",,"  In the framework of the four dimensional heterotic superstring with free
+fermions we discuss the rank eight and/or sixteen Grand Unified String Theories
+(GUST) which contain the SU(3)_H - gauge family symmetry. We explicitly
+investigate the paths of the unification in the GUST with gauge symmetry G x G
+= [SU(5) x U(1) x (SU(3) x U(1))_H]^2. We show that the GUSTs with the G x G
+gauge group allow to make the scale of unification to be consistent with the
+string scale M_SU = g_{string} * 5 * 10^17 GeV.
+","[{""version"":""v1"",""created"":""Sat, 28 Dec 1996 01:19:40 GMT""}]","2016-09-06"
+"hep-th/9612244","Chaiho Rim","Chaiho Rim","Fermion Ground State of Three Particles in a Harmonic Potential Well and
+  Its Anyon Interpolation","RevTex, 11pages","J.KoreanPhys.Soc.29:559-562,1996",,"SNUTP/96-052","hep-th",,"  We examine the detail of the analytic structure of an exact analytic solution
+of three anyons, which interpolates to the fermion ground state in a harmonic
+potential well. The analysis is done on the fundamental domain with appropriate
+boundary conditions. Some remarks on the hard-core conditions and
+self-adjointness are made.
+","[{""version"":""v1"",""created"":""Sat, 28 Dec 1996 04:07:54 GMT""}]","2008-11-26"
+"nucl-th/9612063","Silvano Simula","F. Cardarelli, E. Pace, G. Salm\'e and S. Simula","Light-front CQM calculations of baryon electromagnetic form factors","to appear in the Proceedings of the International Workshop on Hadron
+  Dynamics with the new DAPHNE and CEBAF facilities, Frascati, Italy, 11-14
+  November 1996","Nucl.Phys. A623 (1997) 361c-366c","10.1016/S0375-9474(97)00456-9","preprint INFN-ISS 96/12","nucl-th hep-ph",,"  The parameter-free predictions for the $N - P_{11}(1440)$ and $N -
+P_{33}(1232)$ electromagnetic transition form factors, obtained within our
+light-front constituent quark model using eigenfunctions of a baryon mass
+operator which includes a large amount of configuration mixing, are reported.
+The effects due to small components in the baryon wave functions, such as S'-
+and D-wave, are also investigated.
+","[{""version"":""v1"",""created"":""Fri, 27 Dec 1996 16:35:14 GMT""}]","2009-10-30"
+"nucl-th/9612064","Morten Hjorth-Jensen","A. Holt, T. Engeland, E. Osnes, M. Hjorth-Jensen and J. Suhonen","Extended shell-model calculation for even N=82 isotones with realistic
+  effective interactions","25 pages, Elsevier latex style. Submitted to Nuclear Physics A","Nucl.Phys. A618 (1997) 107-125","10.1016/S0375-9474(97)00123-1",,"nucl-th",,"  The shell model within the $2s1d0g_{7/2}0h_{11/2}$ shell is applied to
+calculate nuclear structure properties of the even Z=52 - 62, N=82 isotones.
+The results are compared with experimental data and with the results of a
+quasiparticle random-phase approximation (QRPA) calculation. The interaction
+used in these calculations is a realistic two-body G-matrix interaction derived
+from modern meson-exchange potential models for the nucleon-nucleon
+interaction. For the shell model all the two-body matrix elements are
+renormalized by the $\hat{Q}$-box method whereas for the QRPA the effective
+interaction is defined by the G-matrix.
+","[{""version"":""v1"",""created"":""Sat, 28 Dec 1996 12:24:38 GMT""}]","2009-10-30"
+"physics/9612013","Cristian Fernando Moukarze","Cristian F. Moukarzel","An efficient algorithm for two-dimensional central-force rigidity","LaTeX, 18 pages, 10 eps figures","J. Phys. A: Math. Gen. 29 (1996), 8097",,,"physics.comp-ph math-ph math.MP",,"  Given a structure made up of n sites connected by b bars, the problem of
+recognizing which subsets of sites form rigid units is not a trivial one,
+because of the non-local character of rigidity in central-force systems. Even
+though this is a very old problem of statics, no simple algorithms are
+available for it so the most usual approach has been to solve the elastic
+equations, which is very time-consuming for large systems. Recently an integer
+algorithm was proposed for this problem in two dimensions, using matching
+methods from graph theory and Laman's theorem for two-dimensional graphs. The
+method is relatively simple, but its time complexity grows as $n^2$ in the
+worst case, and almost as fast on practical cases, so that an improvement is
+highly desirable. I describe here a further elaboration of that procedure,
+which relies upon the description of the system as a collection of rigid bodies
+connected by bars, instead of sites connected by bars. Sets of rigidly
+connected objects are replaced by a unique body, and this is done recursively
+as more rigid connections between bodies are discovered at larger scales. As a
+consequence of this ``rescaling transformation'', our algorithm has much
+improved average behavior, even when its worst-case complexity remains $n^2$.
+The time complexity of the body-bar algorithm is found to scale as $n^{1.12}$
+for the randomly diluted triangular lattice, while the original site-bar
+version scales as $n^{1.9}$ on the same problem.
+","[{""version"":""v1"",""created"":""Fri, 27 Dec 1996 16:47:42 GMT""}]","2016-09-08"

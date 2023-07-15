@@ -1,0 +1,168 @@
+"atom-ph/9605001","A. Y. Potekhin","A.Y. Potekhin (1,2,3), G.G. Pavlov (4,1), J. Ventura (2,3) ((1) Ioffe
+  Phys.-Tech. Institute http://www.ioffe.rssi.ru/ ; (2) Dept. of Physics, Univ.
+  of Crete http://www.uch.gr/ ; (3) IESL http://www.iesl.forth.gr/ ; (4)
+  Pennsylvania State Univ. http://www.psu.edu/ )","Ionization of the hydrogen atom in strong magnetic fields: beyond the
+  adiabatic approximation","14 pages, A&A-LaTeX (l-aa.sty included), 6 embedded PostScript
+  figures (epsf.tex included), tarred, gzipped. Accepted by Astronomy and
+  Astrophysics","Astron. Astrophys. 317 (1997) 618",,,"atom-ph astro-ph physics.atom-ph",,"  High magnetic fields in neutron stars, B ~ 10^{11} - 10^{13} G, substantially
+modify the properties of atoms and their interaction with radiation. In
+particular, the photoionization cross section becomes anisotropic and strongly
+polarization dependent. In a number of previous works based on the adiabatic
+approximation the conclusion was drawn that the transverse cross section
+vanishes for frequencies smaller than the electron cyclotron frequency. In
+other works (which employed a different form of the interaction operator)
+appreciable finite values were obtained. An adequate interpretation of the
+neutron star thermal-like radiation requires a resolution of this controversy.
+  In this work the atomic wave functions for both discrete and continuum states
+are calculated by solving the coupled channel equations allowing the admixture
+between different Landau levels, which provides much higher accuracy than the
+adiabatic approximation. This enables to resolve the above contradiction in
+favour of the finite transverse cross sections. The non-adiabatic treatment of
+the continuum includes coupling between closed and open channels, which leads
+to the autoionization of quasi-bound energy levels associated with the electron
+cyclotron excitations and gives rise to Beutler - Fano resonances of the
+photoionization cross section. Autoionization widths of these quasi-bound
+levels are calculated and compared with the radiative widths. The results are
+important for investigations of the radiation emergent from the surface layers
+of neutron stars.
+","[{""version"":""v1"",""created"":""Sun, 5 May 1996 05:58:47 GMT""}]","2008-02-03"
+"chao-dyn/9605001","Greg Eyink","Gregory L. Eyink","Action Principle in Nonequilibrium Statistical Dynamics","46 pages, LaTex Version 2.09, tar + gzip + uuencode The tar file
+  contains xyzvar.tex, the LaTeX file itself, and seceq.sty, a stylefile for
+  sequential numering of equations by section. The file seceq.sty will
+  automatically be input from the same directory when formatting the LaTeX
+  file. The paper is submitted to Phys. Rev. E",,"10.1103/PhysRevE.54.3419",,"chao-dyn nlin.CD",,"  We introduce a variational method for approximating distribution functions of
+dynamics with a ``Liouville operator'' $\hL,$ in terms of a {\em nonequilibrium
+action functional} for two independent (left and right) trial states. The
+method is valid for deterministic or stochastic Markov dynamics, and for
+stationary or time-dependent distributions. A practical Rayleigh-Ritz procedure
+is advanced, whose inputs are finitely-parametrized ansatz for the trial
+states, leading to a ``parametric action'' for their evolution. The
+Euler-Lagrange equations of the action principle are Hamiltonian in form
+(generally noncanonical). This permits a simple identification of fixed points
+as critical points of the parametric Hamiltonian. We also establish a
+variational principle for low-order statistics, such as mean values and
+correlation functions, by means of {\em least effective action.} The latter is
+a functional of the given variable, which is positive and convex as a
+consequence of H\""{o}lder realizability inequalities. Its value measures the
+``cost'' for a fluctuation from the average to occur and in a weak-noise limit
+it reduces to the Onsager-Machlup action. In general, the effective action is
+shown to arise from the nonequilibrium action functional by a constrained
+variation. This result provides a Rayleigh-Ritz scheme for calculating just the
+desired low-order statistics, with internal consistency checks less demanding
+than for the full distribution.
+","[{""version"":""v1"",""created"":""Sat, 4 May 1996 19:09:03 GMT""}]","2009-10-28"
+"cmp-lg/9605007","Saliha Azzam","Saliha Azzam (Sheffield University)","Resolving Anaphors in Embedded Sentences","7 pages, to appear in Proceedings of ACL 1996. LaTeX source, 1 EPS
+  figure, needs aclap.sty",,,,"cmp-lg cs.CL",,"  We propose an algorithm to resolve anaphors, tackling mainly the problem of
+intrasentential antecedents. We base our methodology on the fact that such
+antecedents are likely to occur in embedded sentences. Sidner's focusing
+mechanism is used as the basic algorithm in a more complete approach. The
+proposed algorithm has been tested and implemented as a part of a conceptual
+analyser, mainly to process pronouns. Details of an evaluation are given.
+","[{""version"":""v1"",""created"":""Sat, 4 May 1996 16:16:27 GMT""}]","2008-02-03"
+"cmp-lg/9605008","Dilek Z. Hakkani","Dilek Zeynep Hakkani, Kemal Oflazer, Ilyas Cicekli","Tactical Generation in a Free Constituent Order Language","gzipped, uuencoded postscript file","Proceedings of 1996 International Workshop on Natural Language
+  Generation",,,"cmp-lg cs.CL",,"  This paper describes tactical generation in Turkish, a free constituent order
+language, in which the order of the constituents may change according to the
+information structure of the sentences to be generated. In the absence of any
+information regarding the information structure of a sentence (i.e., topic,
+focus, background, etc.), the constituents of the sentence obey a default
+order, but the order is almost freely changeable, depending on the constraints
+of the text flow or discourse. We have used a recursively structured finite
+state machine for handling the changes in constituent order, implemented as a
+right-linear grammar backbone. Our implementation environment is the GenKit
+system, developed at Carnegie Mellon University--Center for Machine
+Translation. Morphological realization has been implemented using an external
+morphological analysis/generation component which performs concrete morpheme
+selection and handles morphographemic processes.
+","[{""version"":""v1"",""created"":""Sun, 5 May 1996 08:01:50 GMT""}]","2008-02-03"
+"cmp-lg/9605009","Karov Yael","Yael Karov and Shimon Edelman (The Weizmann Institute of Science)","Learning similarity-based word sense disambiguation from sparse data","To appear in the Fourth Workshop on Very Large Corpora, 1996,
+  Copenhagen. 18 pages. (revised, format change only)",,,"Weizmann CS-TR 96-05, March 1996","cmp-lg cs.CL",,"  We describe a method for automatic word sense disambiguation using a text
+corpus and a machine-readable dictionary (MRD). The method is based on word
+similarity and context similarity measures. Words are considered similar if
+they appear in similar contexts; contexts are similar if they contain similar
+words. The circularity of this definition is resolved by an iterative,
+converging process, in which the system learns from the corpus a set of typical
+usages for each of the senses of the polysemous word listed in the MRD. A new
+instance of a polysemous word is assigned the sense associated with the typical
+usage most similar to its context. Experiments show that this method performs
+well, and can learn even from very sparse training data.
+","[{""version"":""v1"",""created"":""Sun, 5 May 1996 10:25:22 GMT""},{""version"":""v2"",""created"":""Thu, 11 Jul 1996 13:09:50 GMT""}]","2008-02-03"
+"cond-mat/9605028","Kalyan Kundu","K. Kundu, D. Giri and K. Ray","A study of one dimensional correlated disordered systems using invariant
+  measure method","28 pages, LATEX file",,"10.1088/0305-4470/29/17/040","IP-BBSR/96-31","cond-mat",,"  The behavior of electronic states of one dimensional correlated disordered
+systems which are modelled by a tight binding Hamiltonian is studied
+analytically using the invariant measure method. The approach of Bovier is
+generalized to include the possibility of different site energies and nearest
+neighbor hopping integrals inside the correlated sites or the cluster. The
+process is further elaborated by applying to the symmetric random trimer model
+which contains in it many hitherto known models of this category. An
+alternative mathematical definition of the exceptional energy ($E_S$) from the
+invariant measure density along with physical arguments substantiating it is
+presented. Furthermore, the procedure for obtaining exceptional energies is
+outlined and applied to the symmetric random trimer model to derive conditions
+for obtaining doubly degenerate exceptional energies. The Lyapunov exponent
+($\gamma (E)$) or the inverse localization length of states around the
+exceptional energy is found to vary as $\sim (E - E_S)^{2n}$ in the leading
+order. $n$ denotes the degeneracy of the exceptional energy. The density of
+states at the exceptional energies are calculated. We further propose that one
+dimensional correlated disordered systems can be mapped to a Lloyd model in
+which the width of the distribution of site energies is determined by the
+reflection coefficient of the cluster embedded in the lattice of the another
+constituent. The importance of our results is discussed.
+","[{""version"":""v1"",""created"":""Sun, 5 May 1996 14:36:33 GMT""}]","2009-10-28"
+"hep-th/9605026","Dmitry Vasilevich","E. Elizalde, M. Lygren, D.V. Vassilevich","Zeta function for the Laplace operator acting on forms in a ball with
+  gauge boundary conditions","Latex, no figures, no special macros","Commun.Math.Phys. 183 (1997) 645-660","10.1007/s002200050046","UB-ECM-PF 96/7","hep-th",,"  The Laplace operator acting on antisymmetric tensor fields in a
+$D$--dimensional Euclidean ball is studied. Gauge-invariant local boundary
+conditions (absolute and relative ones, in the language of Gilkey) are
+considered. The eigenfuctions of the operator are found explicitly for all
+values of $D$. Using in a row a number of basic techniques, as Mellin
+transforms, deformation and shifting of the complex integration contour, and
+pole compensation, the zeta function of the operator is obtained. From its
+expression, in particular, $\zeta (0)$ and $\zeta'(0)$ are evaluated exactly. A
+table is given in the paper for $D=3, 4, ...,8$. The functional determinants
+and Casimir energies are obtained for $D=3, 4, ...,6$.
+","[{""version"":""v1"",""created"":""Sun, 5 May 1996 11:57:07 GMT""}]","2009-10-30"
+"q-alg/9605006","Micho Durdevic","Mico Durdevic","First-Order Differential Calculi Over Multi-Braided Quantum Groups","32 pages, AMS-LaTeX/1, this is the revised version of an unpublished
+  `92 article",,,"Preprint im604-md1, IM-UNAM, Mexico","q-alg math.QA",,"  A differential calculus of the first order over multi-braided quantum groups
+is developed. In analogy with the standard theory, left/right-covariant and
+bicovariant differential structures are introduced and investigated.
+Furthermore, antipodally covariant calculi are studied. The concept of the
+*-structure on a multi-braided quantum group is formulated, and in particular
+the structure of left-covariant *-covariant calculi is analyzed. A special
+attention is given to differential calculi covariant with respect to the action
+of the associated braid system. In particular it is shown that the left/right
+braided-covariance appears as a consequence of the left/right-covariance
+relative to the group action. Braided counterparts of all basic results of the
+standard theory are found.
+","[{""version"":""v1"",""created"":""Sun, 5 May 1996 02:48:41 GMT""}]","2008-02-03"
+"q-alg/9605007","Micho Durdevic","Mico Durdevic","General Frame Structures On Quantum Principal Bundles","16 pages, AMS-LaTeX, extended version",,,"Preprint im604-md2, Institute of Mathematics, UNAM, Mexico","q-alg math.QA",,"  A noncommutative-geometric generalization of the classical formalism of frame
+bundles is developed, incorporating into the theory of quantum principal
+bundles the concept of the Levi-Civita connection. The construction of a
+natural differential calculus on quantum principal frame bundles is presented,
+including the construction of the associated differential calculus on the
+structure group. General torsion operators are defined and analyzed.
+Illustrative examples are presented.
+","[{""version"":""v1"",""created"":""Sun, 5 May 1996 02:52:07 GMT""}]","2008-02-03"
+"q-alg/9605008","Micho Durdevic","Mico Durdevic","Quantum Principal Bundles and Their Characteristic Classes","10 pages, AMS-LaTeX, Lectures, Workshop on Quantum and Classical
+  Gauge Theories, Banach Center, Warsaw, Poland, May 1995",,,"Preprint im604-md3, Instituto de Matematicas, UNAM, Mexico","q-alg math.QA",,"  A brief exposition of the general theory of characteristic classes of quantum
+principal bundles is given. The theory of quantum characteristic classes
+incorporates ideas of classical Weil theory into the conceptual framework of
+non-commutative differential geometry. A purely cohomological interpretation of
+the Weil homomorphism is given, together with a standard geometrical
+interpretation via quantum invariant polynomials. A natural spectral sequence
+is described. Some quantum phenomena appearing in the formalism are discussed.
+","[{""version"":""v1"",""created"":""Sun, 5 May 1996 02:55:16 GMT""}]","2008-02-03"
+"q-alg/9605009","Micho Durdevic","Mico Durdevic","Quantum Classifying Spaces and Universal Quantum Characteristic Classes","12 pages, AMS-LaTeX, Lectures, Quantum Groups and Quantum Spaces
+  Minisemester, Banach Center, Warsaw, Poland, November 1995",,,"Preprint im604-md4, Instituto de Matematicas, UNAM, Mexico","q-alg math.QA",,"  A construction of the noncommutative-geometric counterparts of classical
+classifying spaces is presented, for general compact matrix quantum structure
+groups. A quantum analogue of the classical concept of the classifying map is
+introduced and analyzed. Interrelations with the abstract algebraic theory of
+quantum characteristic classes are discussed. Various non-equivalent approaches
+to defining universal characteristic classes are outlined.
+","[{""version"":""v1"",""created"":""Sun, 5 May 1996 02:58:15 GMT""}]","2008-02-03"
+"q-alg/9605010","Micho Durdevic","Mico Durdevic","Quantum Gauge Transformations and Braided Structure on Quantum Principal
+  Bundles","20 pages, AMS-LaTeX",,,"Preprint im604-md5, Instituto de Matematicas, UNAM, Mexico","q-alg math.QA",,"  It is shown that every quantum principal bundle is braided, in the sense that
+there exists an intrinsic braid operator twisting the functions on the bundle.
+A detailed algebraic analysis of this operator is performed. In particular, it
+turns out that the braiding admits a natural extension to the level of
+arbitrary differential forms on the bundle. Applications of the formalism to
+the study of quantum gauge transformations are presented.
+","[{""version"":""v1"",""created"":""Sun, 5 May 1996 03:00:57 GMT""}]","2008-02-03"

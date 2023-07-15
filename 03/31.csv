@@ -1,0 +1,84 @@
+"chao-dyn/9603015","Balkovsky Eugeni","E. Balkovsky, G. Falkovich, I. Kolokolov and V. Lebedev","Viscous Instanton for Burgers' Turbulence","15 pages, RevTeX 3.0","Phys. Rev. Lett., 78, 1452, (1997)","10.1103/PhysRevLett.78.1452",,"chao-dyn cond-mat hep-th nlin.CD",,"  We consider the tails of probability density functions (PDF) for different
+characteristics of velocity that satisfies Burgers equation driven by a
+large-scale force. The saddle-point approximation is employed in the path
+integral so that the calculation of the PDF tails boils down to finding the
+special field-force configuration (instanton) that realizes the extremum of
+probability. We calculate high moments of the velocity gradient $\partial_xu$
+and find out that they correspond to the PDF with $\ln[{\cal
+P}(\partial_xu)]\propto-(-\partial_xu/{\rm Re})^{3/2}$ where ${\rm Re}$ is the
+Reynolds number. That stretched exponential form is valid for negative
+$\partial_xu$ with the modulus much larger than its root-mean-square (rms)
+value. The respective tail of PDF for negative velocity differences $w$ is
+steeper than Gaussian, $\ln{\cal P}(w)\sim-(w/u_{\rm rms})^3$, as well as
+single-point velocity PDF $\ln{\cal P}(u)\sim-(|u|/u_{\rm rms})^3$. For high
+velocity derivatives $u^{(k)}=\partial_x^ku$, the general formula is found:
+$\ln{\cal P}(|u^{(k)}|)\propto -(|u^{(k)}|/{\rm Re}^k)^{3/(k+1)}$.
+","[{""version"":""v1"",""created"":""Sun, 31 Mar 1996 14:10:51 GMT""}]","2009-10-28"
+"cond-mat/9603199",,"Girish S. Setlur and Y. C. Chang (Univ. of Illinois, Urbana)","The Role of Nonequilibrium Dynamical Screening in Carrier Thermalization","Revised version with additional refs. 12 pages, figs. available upon
+  request; Submitted to Phys. Rev. B",,"10.1103/PhysRevB.55.1517",,"cond-mat",,"  We investigate the role played by nonequilibrium dynamical screening in the
+thermalization of carriers in a simplified two-component two-band model of a
+semiconductor. The main feature of our approach is the theoretically sound
+treatment of collisions. We abandon Fermi's Golden rule in favor of a
+nonequilibrium field theoretic formalism as the former is applicable only in
+the long-time regime. We also introduce the concept of nonequilibrium dynamical
+screening. The dephasing of excitonic quantum beats as a result of
+carrier-carrier scattering is brought out. At low densities it is found that
+the dephasing times due to carrier-carrier scattering is in picoseconds and not
+femtoseconds, in agreement with experiments. The polarization dephasing rates
+are computed as a function of the excited carrier density and it is found that
+the dephasing rate for carrier-carrier scattering is proportional to the
+carrier density at ultralow densities. The scaling relation is sublinear at
+higher densities, which enables a comparison with experiment.
+","[{""version"":""v1"",""created"":""Sun, 31 Mar 1996 03:04:47 GMT""},{""version"":""v2"",""created"":""Wed, 24 Apr 1996 04:29:26 GMT""}]","2009-10-28"
+"cond-mat/9603200","Franz Silvio","Diego Alvarez, Silvio Franz and Felix Ritort","Fragile-glass behavior of a short range $p$-spin model","8 pages, LaTeX, 8 postscript figures","Phys. Rev. B 54, 9756 (1996)","10.1103/PhysRevB.54.9756",,"cond-mat",,"  In this paper we propose a short range generalization of the $p$-spin
+interaction spin-glass model. The model is well suited to test the idea that an
+entropy collapse is at the bottom-line of the dynamical singularity encountered
+in structural glasses. The model is studied in three dimensions through Monte
+Carlo simulations, which put in evidence fragile glass behavior with stretched
+exponential relaxation and super-Arrhenius behavior of the relaxation time. Our
+data are in favor of a Vogel-Fulcher behavior of the relaxation time, related
+to an entropy collapse at the Kauzmann temperature. We however encounter
+difficulties analogous to those found in experimental systems when
+extrapolating thermodynamical data at low temperatures. We study the spin glass
+susceptibility investigating the behavior of the correlation length in the
+system. We find that the the increase of the relaxation time is not accompanied
+by any growth of the correlation length. We discuss the scaling properties of
+off-equilibrium dynamics in the glassy regime, finding qualitative agreement
+with the mean-field theory.
+","[{""version"":""v1"",""created"":""Sun, 31 Mar 1996 12:07:09 GMT""}]","2009-10-28"
+"gr-qc/9603063","Carlo Rovelli","Carlo Rovelli","Black Hole Entropy from Loop Quantum Gravity","5 pages, latex-revtex, no figures","Phys.Rev.Lett.77:3288-3291,1996","10.1103/PhysRevLett.77.3288",,"gr-qc",,"  We argue that the statistical entropy relevant for the thermal interactions
+of a black hole with its surroundings is (the logarithm of) the number of
+quantum microstates of the hole which are distinguishable from the hole's
+exterior, and which correspond to a given hole's macroscopic configuration. We
+compute this number explicitly from first principles, for a Schwarzschild black
+hole, using nonperturbative quantum gravity in the loop representation. We
+obtain a black hole entropy proportional to the area, as in the
+Bekenstein-Hawking formula.
+","[{""version"":""v1"",""created"":""Sat, 30 Mar 1996 19:45:20 GMT""}]","2008-11-26"
+"hep-ph/9603435","Yuping Kuang","Hong-Yi Zhou, Chong-Sheng Li, Yu-Ping Kuang","Yukawa Corrections to Top Quark Production at the LHC in Two-
+  Higgs-Doublet Models","16-page text in LaTex. uuencoded file for Fig.1-6 will be sent
+  separately","Phys.Rev. D55 (1997) 4412-4420","10.1103/PhysRevD.55.4412","TUIMP-TH-96/77","hep-ph",,"  The O(alpha m_t^2/m_W^2) corrections to top quark pair production by
+gluon-gluon fusion at the LHC are calculated in two-Higgs-doublet models. We
+find that the correction to the cross-section can exceed about -10% for certain
+parameter values.
+","[{""version"":""v1"",""created"":""Sun, 31 Mar 1996 02:22:00 GMT""}]","2009-10-28"
+"hep-ph/9603444","Andrei Johansen","A. Anselm, A. Johansen, E. Leader and L. L ukaszuk","Form factor $\pi^0\to \gamma^* +\gamma^*$ at different photon
+  virtualities","harvmac tex, 30 pages, 11 figures; references are corrected","Z.Phys. A359 (1997) 457-466","10.1007/s002180050427","HUTP--95/A037","hep-ph",,"  The $\pi^0 \gamma\gamma$ vertex for virtual photons of squared masses $q_1^2$
+and $q_2^2$ plays a vital r\^ole in several physical processes; for example for
+$q_1^2<0$, $q_2^2<0$, in the two-photon physics reaction $e^+ e^-\to e^+ e^-
+\pi^0$, and for $q_1^2>0$, $q_2^2>0$, in the annihilation process $e^+ e^-\to
+\pi^0 l^+ l^-$. It is also of interest because of its link to the axial
+anomaly. We suggest a new approach to this problem. We have obtained a closed
+analytic expression for the vertex in the limit in which at least one of
+$|q_1^2|$ and $|q_2^2|$ is large for arbitrary fixed values of the ratio
+$q_1^2/q_2^2$. We compare our results with those obtained previously by Brodsky
+and Lepage. It should be straightforward to test our predictions
+experimentally.
+","[{""version"":""v1"",""created"":""Sat, 30 Mar 1996 16:24:22 GMT""},{""version"":""v2"",""created"":""Mon, 4 Nov 1996 22:56:23 GMT""}]","2009-10-28"
+"hep-ph/9603445","Andrew Akeroyd","A.G.Akeroyd","Non-minimal neutral Higgs bosons at LEP2","12 pages inc 4 figures, Latex, to appear in Physics Letters B","Phys.Lett. B377 (1996) 95-101","10.1016/0370-2693(96)00330-9","DTP/96/04","hep-ph",,"  We study the phenomenology of the neutral Higgs sector of a non-SUSY
+non-minimal Standard Model. Models with more than one Higgs doublet are
+possible, and may contain neutral Higgs scalars with branching ratios
+significantly different to those of the Minimal Standard Model Higgs boson. We
+show how these differences may be exploited at LEP2 in order to distinguish the
+non-minimal Standard Model from the minimal version.
+","[{""version"":""v1"",""created"":""Sat, 30 Mar 1996 18:50:56 GMT""}]","2009-10-28"

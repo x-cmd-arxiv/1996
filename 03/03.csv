@@ -1,0 +1,93 @@
+"cond-mat/9603013","Andrei L. Talapov","A.L. Talapov and H.W.J. Bl\""ote","The Magnetization of the 3D Ising Model","7 pages, 5 Postscript figures","J.Phys.A29:5727-5734,1996","10.1088/0305-4470/29/17/042",,"cond-mat hep-lat",,"  We present highly accurate Monte Carlo results for simple cubic Ising
+lattices containing up to $256^3$ spins. These results were obtained by means
+of the Cluster Processor, a newly built special-purpose computer for the Wolff
+cluster simulation of the 3D Ising model. We find that the magnetization $M(t)$
+is perfectly described by $M(t)=(a_0-a_1 t^{\theta} - a_2 t) t^{\beta} $, where
+$t=(T_{\rm c}-T)/T_{\rm c}$, in a wide temperature range $0.0005 < t < 0.26 $.
+If there exist corrections to scaling with higher powers of $t$, they are very
+small. The magnetization exponent is determined as $\beta=0.3269$ (6). An
+analysis of the magnetization distribution near criticality yields a new
+determination of the critical point: $K_{\rm c}=J/k_B T_{\rm c}=0.2216544$,
+with a standard deviation of $3\cdot 10^{-7}$.
+","[{""version"":""v1"",""created"":""Sat, 2 Mar 1996 16:27:49 GMT""}]","2008-11-26"
+"cond-mat/9603014","Riccardo Zecchina","Remi Monasson and Riccardo Zecchina","The Entropy of the K-Satisfiability Problem","revtex, 11 pages + 1 figure",,"10.1103/PhysRevLett.76.3881",,"cond-mat",,"  The threshold behaviour of the K-Satisfiability problem is studied in the
+framework of the statistical mechanics of random diluted systems. We find that
+at the transition the entropy is finite and hence that the transition itself is
+due to the abrupt appearance of logical contradictions in all solutions and not
+to the progressive decreasing of the number of these solutions down to zero. A
+physical interpretation is given for the different cases $K=1$, $K=2$ and $K
+\geq 3$.
+","[{""version"":""v1"",""created"":""Sat, 2 Mar 1996 17:30:49 GMT""}]","2009-10-28"
+"cond-mat/9603015","Daniel Hone","Martin Holthaus and Daniel W. Hone","Localization Effects in ac-driven Tight-Binding Lattices","41 pages, latex; figures available by mail from authors:
+  holthaus@ax1309.physik.uni-marburg.de or hone@itp.ucsb.edu; to be published
+  in Phil. Mag. B",,"10.1080/01418639608240331","NSF-ITP-95-125","cond-mat",,"  We study coherent dynamics of tight-binding systems interacting with static
+and oscillating external fields. We consider Bloch oscillations and
+Wannier-Stark localization caused by dc fields, and compare these effects to
+dynamic localization that occurs in the presence of additional ac fields. Our
+analysis relies on quasienergy eigenstates, which take over the role of the
+usual Bloch waves. The widths of the quasienergy bands depend non-monotonically
+on the field parameters. If there is lattice disorder, the degree of the
+resulting Anderson localization is determined by the ratio of disorder strength
+and quasienergy band width. Therefore, the localization lengths can be
+controlled, within wide ranges, by adjusting the ac amplitude. Experimental
+realizations of our model systems are given by semiconductor superlattices in
+far-infrared laser fields, or by ultracold atoms in modulated standing light
+waves. In both cases the system parameters, as well as the field amplitudes and
+frequencies, are readily accessible to experimental control, suggesting these
+as highly attractive candidates for systematic study of localization phenomena.
+","[{""version"":""v1"",""created"":""Sat, 2 Mar 1996 20:16:46 GMT""}]","2015-06-25"
+"cond-mat/9603016","Chao Tang","Hao Li, Robert Helling, Chao Tang, and Ned Wingreen (NEC Research
+  Institute)","Why Do Proteins Look Like Proteins?","5 pages, 4 figures, RevTex, some minor changes from the original
+  version, also available at http://www.neci.nj.nec.com/homepages/tang.html","Science 273 (1996) 666","10.1126/science.273.5275.666",,"cond-mat adap-org nlin.AO q-bio.BM",,"  Protein structures in nature often exhibit a high degree of regularity
+(secondary structures, tertiary symmetries, etc.) absent in random compact
+conformations. We demonstrate in a simple lattice model of protein folding that
+structural regularities are related to high designability and evolutionary
+stability. We measure the designability of each compact structure by the number
+of sequences which can design the structure, i.e., which possess the structure
+as their nondegenerate ground state. We find that compact structures are
+drastically different in terms of their designability; highly designable
+structures emerge with a number of associated sequences much larger than the
+average. These structures are found to have ``protein like'' secondary
+structure and even tertiary symmetries. In addition, they are also
+thermodynamically more stable than ordinary structures. These results suggest
+that protein structures are selected because they are easy to design and stable
+against mutations, and that such a selection simutaneously leads to
+thermodynamic stability.
+","[{""version"":""v1"",""created"":""Sun, 3 Mar 1996 04:30:32 GMT""},{""version"":""v2"",""created"":""Wed, 6 Mar 1996 04:00:56 GMT""}]","2009-10-28"
+"cond-mat/9603017","Yacov Kantor","Yacov Kantor (Tel Aviv U.) and Mehran Kardar (MIT)","Conformations of Randomly Linked Polymers","6 pages, 3 Postscript figures, LaTeX","Phys. Rev. E54, 5263-5267 (1996)","10.1103/PhysRevE.54.5263",,"cond-mat",,"  We consider polymers in which M randomly selected pairs of monomers are
+restricted to be in contact. Analytical arguments and numerical simulations
+show that an ideal (Gaussian) chain of N monomers remains expanded as long as
+M<<N; its mean squared end to end distance growing as r^2 ~ M/N. A possible
+collapse transition (to a region of order unity) is related to percolation in a
+one dimensional model with long--ranged connections. A directed version of the
+model is also solved exactly. Based on these results, we conjecture that the
+typical size of a self-avoiding polymer is reduced by the links to R >
+(N/M)^(nu). The number of links needed to collapse a polymer in three
+dimensions thus scales as N^(phi), with (phi) > 0.43.
+","[{""version"":""v1"",""created"":""Sun, 3 Mar 1996 11:20:42 GMT""}]","2009-10-28"
+"hep-ph/9604219",,"P. Bicudo and J. Ribeiro (Centro de Fisica das Interacoes
+  fundamentais, Instituto Superior Tecnico, Lisboa)","The solution to the strong CP problem at the BCS level of chiral
+  rotations","13 pages in latex revtex, 2 Postscript figures",,,"FISIST/2-96/CFIF","hep-ph",,"  We briefly review the cases of forced and spontaneous chiral symmetry
+breaking. In particular the chiral condensate of q anti-q pairs is parametrized
+with two angles, phi which measures the chiral condensation, and theta which
+measures the chiral rotation. The strong CP problem arises when it is assumed
+that the current quark masses of the Standard Model, have a theta phase that
+differs from the phase induced by the instanton term wich is originated in the
+QCD sector of the Standard Model. We show how chiral symmetry breaking may
+solve the strong CP problem at the BCS level. We show variationally that the
+physical vacuum is CP conserving and therefore the interplay of the instanton
+and the current mass terms cannot produce any strong CP violation. We also
+study the possible effect of theta in weak interactions, and conclude that it
+does not produce weak CP.
+","[{""version"":""v1"",""created"":""Sat, 2 Mar 1996 16:03:50 GMT""}]","2007-05-23"
+"quant-ph/9603001","Terence Rudolph","T.Rudolph (Dept. of Physics, York Univ. Toronto)","Quantum computing Hamiltonian cycles","4 pages, LaTex, 2 figures",,,,"quant-ph",,"  An algorithm for quantum computing Hamiltonian cycles of simple, cubic,
+bipartite graphs is discussed. It is shown that it is possible to evolve a
+quantum computer into an entanglement of states which map onto the set of all
+possible paths originating from a chosen vertex, and furthermore to
+subsequently project out all states not corresponding to Hamiltonian cycles.
+","[{""version"":""v1"",""created"":""Sun, 3 Mar 1996 05:10:39 GMT""}]","2007-05-23"
+"quant-ph/9603002",,"S. Mancini, V. I. Man'ko, P.Tombesi","Symplectic tomography as classical approach to quantum systems","12 pages, LATEX,preprint of Camerino University, to appear in
+  Phys.Lett.A (1996)","Phys.Lett. A213 (1996) 1","10.1016/0375-9601(96)00107-7",,"quant-ph",,"  By using a generalization of the optical tomography technique we describe the
+dynamics of a quantum system in terms of equations for a purely classical
+probability distribution which contains complete information about the system.
+","[{""version"":""v1"",""created"":""Sun, 3 Mar 1996 10:27:10 GMT""}]","2009-10-30"

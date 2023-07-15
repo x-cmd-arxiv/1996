@@ -1,0 +1,120 @@
+"astro-ph/9603086","Francoise Combes","M. Drinkwater (1), F. Combes (2), T. Wiklind (3) ((1) Anglo-Australian
+  Observatory, Australia, (2) Observatoire de Paris, France, (3) Onsala Space
+  Observatory, Sweden)","Search for molecular absorption in the tori of active galactic nuclei","6 pages, 1 figure, uses Latex, L-AA, postcript of figure available at
+  ftp://mesiom.obspm.fr/pub/francoise/cygnusa.ps accepted for publication in
+  A&A",,,,"astro-ph",,"  We describe a search for molecular absorption at millimetre wavelengths
+associated with dusty molecular tori in active galactic nuclei (AGN). The
+sample observed consists of 11 flat-spectrum radio sources known to have red
+optical to infra-red colours plus two steep-spectrum narrow-line radio
+galaxies. Spectra of the sources were obtained in the 3-, 2- and 1.3-millimetre
+bands at frequencies corresponding to common molecular transitions of CO, HCO+,
+HCN and CS at the AGN redshift. No absorptions were detected in any of the
+sources. We calculated upper limits to the column density in molecular
+absorption, using an excitation temperature of 10 K, to be N(CO) < 10^{15} -
+10^{16} cm^-2, equivalent to hydrogen columns of order N(H) < 10^{19} - 10^{20}
+cm^-2.
+  These limits are significantly lower than the values N(H) \approx (2 - 6)
+10^{21} cm^-2 that might be expected if the red colours of these sources were
+due to dust absorption at the quasar redshift as suggested by Webster et al.
+(1995). Should the excitation temperature of the molecular transitions be
+higher than 100K, the upper limits to the H2 column densities would be greater
+than those derived from the red colours. To explain the lack of molecular
+absorption we conclude that either the optical extinction takes place outside
+the host galaxy (along the line of sight), or the excitation temperature of the
+molecular transitions is very high, or the obscuration is not associated with
+significant amounts of cold molecular gas. It is quite possible that the hard
+X-ray flux from the central source of these AGN is strong enough to
+photo-dissociate the molecules.
+","[{""version"":""v1"",""created"":""Sat, 16 Mar 1996 17:12:45 GMT""}]","2016-08-30"
+"chao-dyn/9603007","Greg Eyink","Gregory L. Eyink (University of Arizona)","Intermittency and Anomalous Scaling of Passive Scalars in Any Space
+  Dimension","20 pages, LaTeX, submitted to Phys. Rev. E",,"10.1103/PhysRevE.54.1497",,"chao-dyn nlin.CD",,"  We establish exact inequalities for the structure-function scaling exponents
+of a passively advected scalar in both the inertial-convective and
+viscous-convective ranges. These inequalities involve the scaling exponents of
+the velocity structure functions and, in a refined form, an intermittency
+exponent of the convective-range scalar flux. They are valid for 3D
+Navier-Stokes turbulence and satisfied within errors by present experimental
+data. The inequalities also hold for any ``synthetic'' turbulent velocity
+statistics with a finite correlation in time. We show that for time-correlation
+exponents of the velocity smaller than the ``local turnover'' exponent, the
+scalar spectral exponent is strictly less than that in Kraichnan's soluble
+``rapid-change'' model with velocity delta-correlated in time. Our results
+include as a special case an exponent-inequality derived previously by
+Constantin \& Procaccia [Nonlinearity {\bf 7} 1045 (1994)], but with a more
+direct proof. The inequalities in their simplest form follow from a
+Kolmogorov-type relation for the turbulent passive scalar valid in each space
+dimension $d.$ Our improved inequalities are based upon a rigorous version of
+the refined similarity hypothesis for passive scalars. These are compared with
+the relations implied by ``fusion rules'' hypothesized for scalar gradients.
+","[{""version"":""v1"",""created"":""Sun, 17 Mar 1996 15:51:30 GMT""}]","2009-10-28"
+"cond-mat/9603121","Igor L. Aleiner","I.L. Aleiner and A.I. Larkin","Divergence of the Classical trajectories and Weak Localization","23 pages, 4 .eps figures; Major revisions in Secs. 3, 4, and 6; To
+  appear in Phys. Rev. B, Nov. 15, 1996",,"10.1103/PhysRevB.54.14423",,"cond-mat",,"  We study the weak localization correction (WLC) to transport coefficients of
+a system of electrons in a static long-range potential (e.g. an antidot array
+or ballistic cavity). We found that the weak localization correction to the
+current response is delayed by the large time $t_E = \lambda^{-1} |\ln \hbar|$,
+where $\lambda$ is the Lyapunov exponent. In the semiclassical regime $t_E$ is
+much larger than the transport lifetime. Thus, the fundamental characteristic
+of the classical chaotic motion, Lyapunov exponent, may be found by measuring
+the frequency or temperature dependence of WLC.
+","[{""version"":""v1"",""created"":""Sat, 16 Mar 1996 19:45:27 GMT""},{""version"":""v2"",""created"":""Sun, 6 Oct 1996 00:11:13 GMT""}]","2009-10-28"
+"cond-mat/9603122",,"A.M. Rudin, I.L. Aleiner, and L.I. Glazman","Tunneling ``zero-bias'' anomaly in the quasi-ballistic regime","4 pages, 2 .eps figures, submitted to Phys. Rev. Lett",,"10.1103/PhysRevB.55.9322",,"cond-mat",,"  For the first time, we study the tunneling density of states (DOS) of the
+interacting electron gas beyond the diffusive limit. A strong correction to the
+DOS persists even at electron energies exceeding the inverse transport
+relaxation time, which could not be expected from the well-known
+Altshuler-Aronov-Lee (AAL) theory. This correction originates from the
+interference between the electron waves scattered by an impurity and by the
+Friedel oscillation this impurity creates. Account for such processes also
+revises the AAL formula for the DOS in the diffusive limit.
+","[{""version"":""v1"",""created"":""Sun, 17 Mar 1996 00:20:42 GMT""}]","2009-10-28"
+"hep-lat/9603010","Christof Gattringer","Christof Gattringer","Lattice Fermions Coupled to Interpolated Gauge Fields - Results in 2
+  Dimensions","Talk given at `Hadron Structure 96', February, 11-16, 1996, Stara
+  Lesna, Slovakia",,,"MPI-PhT 96-18, UNIGRAZ-UTP-13-03-96","hep-lat hep-th",,"  We discuss a new approach for putting gauge theories on the lattice. The
+gauge fields are defined on the lattice only, but are interpolated to the
+interior of the lattice cells, where they couple to continuum fermions. The
+purpose of this approach is to avoid doublers and keep the chiral symmetry of
+the action intact. In two dimensional models (Schwinger model and chiral
+Schwinger model) many results for this hybrid approach can be obtained
+analytically. For the vectorlike Schwinger model we concentrate on proving the
+existence of a critical point where the continuum limit can be constructed, on
+analyzing the chiral properties and on proving the Osterwalder-Schrader
+positivity which allows the reconstruction of the physical Hilbert space. We
+conclude with outlining how the results can be generalized to the chiral
+Schwinger model.
+","[{""version"":""v1"",""created"":""Sat, 16 Mar 1996 18:04:49 GMT""}]","2007-05-23"
+"hep-th/9603112","Guillermo Zemba","Marialuisa Frau, Alberto Lerda, Stefano Sciuto, Guillermo R. Zemba","Algebraic bosonization: the study of the Heisenberg and
+  Calogero-Sutherland models","51 pages, plain LaTeX","Int.J.Mod.Phys. A12 (1997) 4611-4661","10.1142/S0217751X97002498","DFTT 07/96","hep-th cond-mat",,"  We propose an approach to treat (1+1)--dimensional fermionic systems based on
+the idea of algebraic bosonization. This amounts to decompose the elementary
+low-lying excitations around the Fermi surface in terms of basic building
+blocks which carry a representation of the W_{1+\infty} \times {\overline
+W_{1+\infty}} algebra, which is the dynamical symmetry of the Fermi quantum
+incompressible fluid. This symmetry simply expresses the local particle-number
+current conservation at the Fermi surface. The general approach is illustrated
+in detail in two examples: the Heisenberg and Calogero-Sutherland models, which
+allow for a comparison with the exact Bethe Ansatz solution.
+","[{""version"":""v1"",""created"":""Sat, 16 Mar 1996 23:56:16 GMT""}]","2009-10-30"
+"hep-th/9603113","Ashoke Sen","Ashoke Sen","Orbifolds of M-Theory and String Theory","LaTeX file, 10 pages","Mod.Phys.Lett.A11:1339-1348,1996","10.1142/S021773239600134X","MRI-PHY/96-10","hep-th",,"  It is shown that many of the conjectured dualities involving orbifold
+compactification of M-theory follow from the known dualities involving M-theory
+and string theory in ten dimensions, and the ansatz that orbifolding procedure
+commutes with the duality transformation. This ansatz also leads to a new
+duality conjecture, namely that M-theory compactified on $T^8/Z_2$ is dual to
+type I string theory on $T^7$. In this case the `twisted sector states' in
+M-theory live on sixteen membranes transverse to the internal manifold.
+","[{""version"":""v1"",""created"":""Sun, 17 Mar 1996 14:29:44 GMT""}]","2009-09-15"
+"hep-th/9603114","Shao-Ming Fei","Sergio Albeverio and Shao-Ming Fei","Current Algebraic Structures over Manifolds: Poisson Algebras,
+  q-Deformations and Quantization","25 pages, Latex","J.Geom.Phys. 27 (1998) 30-48","10.1016/S0393-0440(97)00069-7",,"hep-th alg-geom math.AG math.QA q-alg",,"  Poisson algebraic structures on current manifolds (of maps from a finite
+dimensional Riemannian manifold into a 2-dimensional manifold) are investigated
+in terms of symplectic geometry. It is shown that there is a one to one
+correspondence between such current manifolds and Poisson current algebras with
+three generators. A geometric meaning is given to q-deformations of current
+algebras. The geometric quantization of current algebras and quantum current
+algebraic maps is also studied.
+","[{""version"":""v1"",""created"":""Sun, 17 Mar 1996 11:37:59 GMT""}]","2009-10-30"
+"nucl-th/9603023","Dmitri Diakonov","Dmitri Diakonov","Foundations of the Constituent Quark Model","Lecture at the International School of Nuclear Physics, September 19
+  -- 27, 1995, Erice, Italy. 17 p. LaTeX, to be published in the Proceedings","Prog.Part.Nucl.Phys.36:1-18,1996","10.1016/0146-6410(96)00003-8",,"nucl-th",,"  'Constituent quarks' means massive quarks, in contrast to the nearly massless
+u,d,s quarks of the QCD lagrangian. The dynamical or constituent masses appear
+owing to the spontaneous chiral symmetry breaking in QCD. A realistic mechanism
+of the chiral symmetry breaking is provided by instantons. Therefore, I review
+the present status of the QCD instanton vacuum, emphasizing the mechanism of
+chiral symmetry breaking and of the generation of the constitutent quark mass.
+I end up with the Nambu--Jona-Lasinio-type effective theory to which QCD is
+reduced at low momenta.
+","[{""version"":""v1"",""created"":""Sun, 17 Mar 1996 12:04:02 GMT""}]","2011-07-19"

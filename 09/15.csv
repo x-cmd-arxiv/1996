@@ -1,0 +1,188 @@
+"alg-geom/9609011","Misha S. Verbitsky","Misha Verbitsky","Algebraic structures on hyperkaehler manifold","reference to Fujiki paper added in revision. LaTeX2e, 6 pages","Math. Res. Lett. 3 763-767 1996",,,"alg-geom math.AG",,"  Let $M$ be a compact hyperkaehler manifold. The hyperkaehler structure equips
+$M$ with a set $R$ of complex structures parametrized by $CP^1$, called ""the
+set of induced complex structures"". It was known previously that induced
+complex structures are non-algebraic, except may be a countable set. We prove
+that a countable set of induced complex structures is algebraic, and this set
+is dense in $R$. A more general version of this theorem was proven by Fujiki.
+","[{""version"":""v1"",""created"":""Sat, 14 Sep 1996 20:43:16 GMT""},{""version"":""v2"",""created"":""Thu, 10 Oct 1996 12:57:38 GMT""}]","2008-02-03"
+"astro-ph/9609096","Andrew J. S. Hamilton","A. J. S. Hamilton, R. A. Fesen, C.-C. Wu, D. M. Crenshaw, C. L.
+  Sarazin","Interpretation of UV Absorption Lines in SN1006","24 pages, with 8 figures included. Accepted for publication in the
+  Astrophysical Journal","ApJ (1997) 481, 838-856","10.1086/304069",,"astro-ph",,"  We present a theoretical interpretation of the broad silicon and iron UV
+absorption features observed with the Hubble Space Telescope in the spectrum of
+the Schweizer-Middleditch star behind the remnant of Supernova 1006. These
+features are caused by supernova ejecta in SN1006. We propose that the
+redshifted SiII2 1260 A feature consists of both unshocked and shocked SiII.
+The sharp red edge of the line at 7070 km/s indicates the position of the
+reverse shock, while its Gaussian blue edge reveals shocked Si with a mean
+velocity of 5050 km/s and a dispersion of 1240 km/s, implying a reverse shock
+velocity of 2860 km/s. The measured velocities satisfy the energy jump
+condition for a strong shock, provided that all the shock energy goes into
+ions, with little or no collisionless heating of electrons. The line profiles
+of the SiIII and SiIV absorption features indicate that they arise mostly from
+shocked Si. The total mass of shocked and unshocked Si inferred from the SiII,
+SiIII and SiIV profiles is M_Si = 0.25 \pm 0.01 Msun on the assumption of
+spherical symmetry. Unshocked Si extends upwards from 5600 km/s. Although there
+appears to be some Fe mixed with the Si at lower velocities < 7070 km/s, the
+absence of FeII absorption with the same profile as the shocked SiII suggests
+little Fe mixed with Si at higher (before being shocked) velocities. The column
+density of shocked SiII is close to that expected for SiII undergoing steady
+state collisional ionization behind the reverse shock, provided that the
+electron to SiII ratio is low, from which we infer that most of the shocked Si
+is likely to be of a fairly high degree of purity, unmixed with other elements.
+We propose that the ambient interstellar density on the far side of SN1006 is
+anomalously low compared to the density around the rest of the remnant. This
+","[{""version"":""v1"",""created"":""Sat, 14 Sep 1996 23:37:42 GMT""}]","2009-10-28"
+"astro-ph/9609097","Vyatcheslav Zavlin","G. G. Pavlov (Pennsylvania State University, USA), V. E. Zavlin, J.
+  Truemper and R. Neuhaeuser (MPE, Graching, Germany)","Multiwavelength observations of isolated neutron stars as a tool to
+  probe the properties of their surfaces","a few misprints corrected, aaspp4.sty, accepted for publication in
+  ApJ Letters",,"10.1086/310355",,"astro-ph",,"  We show that an analysis of multiwavelength observations of isolated neutron
+stars based on neutron star atmosphere models can be used not only to evaluate
+the neutron star effective temperature, but also to determine chemical
+composition of its surface. To demonstrate how this new method can be applied
+to a specific object, we chose the old isolated neutron star candidate
+RXJ1856.5-3754, whose soft X-ray radiation has been studied recently by Walter
+et al. (1996). We fitted the soft X-ray spectrum of this object with neutron
+star atmosphere models of different chemical compositions and used these fits
+to calculate the source spectrum over a broad wavelength range. We showed, in
+particular, that the optical/UV flux expected from this object depends
+drastically on the composition of its surface. In particular, the neutron star
+covered with hydrogen would be 5-6 magnitudes brighter than the neutron star
+with an iron surface. The object should also be observable with $EUVE$; the EUV
+flux is expected to be almost twice higher for the iron surface than for the
+hydrogen one. Thus, multiwavelength observations of this object would enable
+one to examine, for the first time, chemical composition of the neutron star
+surface. The method proposed can be applied to other nearby isolated neutron
+stars.
+","[{""version"":""v1"",""created"":""Sun, 15 Sep 1996 09:10:49 GMT""},{""version"":""v2"",""created"":""Mon, 16 Sep 1996 06:39:47 GMT""}]","2009-10-28"
+"chao-dyn/9609007","Martin Zirnbauer","Martin R. Zirnbauer","Supersymmetry for Systems with Unitary Disorder: Circular Ensembles","19 pages, REVTEX, to appear in J. Phys. A (Math. and Gen.)","J. Phys. A 29 (1996) 7113","10.1088/0305-4470/29/22/013",,"chao-dyn cond-mat nlin.CD",,"  A generalized Hubbard-Stratonovitch transformation relating an integral over
+random unitary N times N matrices to an integral over Efetov's unitary sigma
+model manifold, is introduced. This transformation adapts the supersymmetry
+method to disordered and chaotic systems that are modeled not by a Hamiltonian
+but by their scattering matrix or time-evolution operator. In contrast to the
+standard method, no saddle-point approximation is made, and no massive modes
+have to be eliminated. This first paper on the subject applies the generalized
+Hubbard-Stratonovitch transformation to Dyson's Circular Unitary Ensemble. It
+is shown how to use a supersymmetric variant of the
+Harish-Chandra-Itzykson-Zuber formula to compute, in the large-N limit, the
+n-level correlation function for any n. Nontrivial applications to random
+network models, quantum chaotic maps, and lattice gauge theory, are expected.
+","[{""version"":""v1"",""created"":""Sat, 14 Sep 1996 23:43:14 GMT""}]","2009-10-28"
+"cond-mat/9609127","Nejat Bulut","N. Bulut and D.J. Scalapino (UCSB)","Determining the structure of the superconducting gap in Cu_{2}O_{3}
+  2-leg ladder materials","12 pages including 7 eps figures, uses revtex with epsf",,"10.1103/PhysRevB.55.R11985",,"cond-mat",,"  Superconductivity has been recently observed in
+Sr_{0.4}Ca_{13.6}Cu_{24}O_{41.84} which contains quasi-one-dimensional
+Cu_{2}O_{3} 2-leg ladders. If, as suggested by some theories, the
+superconductivity arises from these 2-leg ladders, it will be important to
+determine the structure of the superconducting gap. In particular, does the gap
+in a 2-leg ladder change sign when one goes from the bonding to antibonding
+fermi surface points? Here we carry out phenomenological calculations of
+nuclear relaxation rates and inelastic neutron scattering intensity in order to
+provide estimates of the experimental resolution that will be required to
+determine the structure of the superconducting gap associated with an array of
+weakly coupled 2-leg ladders.
+","[{""version"":""v1"",""created"":""Sat, 14 Sep 1996 23:43:37 GMT""}]","2009-10-28"
+"cond-mat/9609131","Nejat Bulut","N. Bulut and D.J. Scalapino (UCSB)","d_{x^2-y^2} Symmetry and the Pairing Mechanism","9 pages and 2 eps figs, uses revtex with epsf, in press, PRB",,"10.1103/PhysRevB.54.14971",,"cond-mat",,"  An important question is if the gap in the high temperature cuprates has
+d_{x^2-y^2} symmetry, what does that tell us about the underlying interaction
+responsible for pairing. Here we explore this by determining how three
+different types of electron-phonon interactions affect the d_{x^2-y^2} pairing
+found within an RPA treatment of the 2D Hubbard model. These results imply that
+interactions which become more positive as the momentum transfer increases
+favor d_{x^2-y^2} pairing in a nearly half-filled band.
+","[{""version"":""v1"",""created"":""Sun, 15 Sep 1996 00:58:23 GMT""}]","2009-10-28"
+"cond-mat/9609132",,"B. L. Altshuler (NEC), Y. Gefen (Weizmann Inst.), A. Kamenev (Weizmann
+  Inst.) and L. S. Levitov (MIT)","Quasiparticle Lifetime in a Finite System: A Non--Perturbative Approach","13 pages, LaTeX, one figure","Phys. Rev. Lett. 78, 2803 (1997)","10.1103/PhysRevLett.78.2803",,"cond-mat",,"  The problem of electron--electron lifetime in a quantum dot is studied beyond
+perturbation theory by mapping it onto the problem of localization in the Fock
+space. We identify two regimes, localized and delocalized, corresponding to
+quasiparticle spectral peaks of zero and finite width, respectively. In the
+localized regime, quasiparticle states are very close to single particle
+excitations. In the delocalized state, each eigenstate is a superposition of
+states with very different quasiparticle content. A transition between the two
+regimes occurs at the energy $\simeq\Delta(g/\ln g)^{1/2}$, where $\Delta$ is
+the one particle level spacing, and $g$ is the dimensionless conductance. Near
+this energy there is a broad critical region in which the states are
+multifractal, and are not described by the Golden Rule.
+","[{""version"":""v1"",""created"":""Sun, 15 Sep 1996 01:26:07 GMT""}]","2008-04-12"
+"cond-mat/9609133","Gan Chee Kwan","Chee Kwan Gan and Jian-Sheng Wang","Series expansion studies of random sequential adsorption with
+  diffusional relaxation","35 pages. revtex. 16 eps figures. Series expansion coefficients are
+  attached at the end of the soure/LaTex file (named diff.tex). uses fleqn.sty",,"10.1103/PhysRevE.55.107",,"cond-mat",,"  We obtain long series (28 terms or more) for the coverage (occupation
+fraction) $\theta$, in powers of time $t$ for two models of random sequential
+adsorption with diffusional relaxation using an efficient algorithm developed
+by the authors. Three different kinds of analyses of the series are performed
+for a wide range of $\gamma$, the rate of diffusion of the adsorbed particles,
+to investigate the power law approach of $\theta$ at large times. We find that
+the primitive series expansions in time $t$ for $\theta$ capture rich short and
+intermediate time kinetics of the systems very well. However, we see that the
+series are still not long enough to extract the kinetics at large times for
+general $\gamma$. We have performed extensive computer simulations employing an
+efficient event-driven algorithm to confirm the $t^{-1/2}$ saturation approach
+of $\theta$ at large times for both models, as well as to investigate the short
+and intermediate time behaviors of the systems.
+","[{""version"":""v1"",""created"":""Sun, 15 Sep 1996 08:42:12 GMT""}]","2009-10-28"
+"cond-mat/9609134","Dima Shepelyansky","D. L. Shepelyansky","Two interacting particles in the Harper model","revtex, 3 pages, 3 figures, to appear in Phys. Rev. B",,"10.1103/PhysRevB.54.14896","NSF-ITP-96-51 UCSB","cond-mat",,"  Dynamics of two particles with short range repulsive or attractive
+interaction is studied numerically in the Harper model. It is shown that
+interaction leads to appearance of localized states and pure-point spectrum
+component in the case when noninteractive system is quasi-diffusive or
+ballistic. In the localized phase interaction gives only stronger localization
+contrary to the case of two interacting particles in a random potential.
+","[{""version"":""v1"",""created"":""Sun, 15 Sep 1996 14:05:47 GMT""}]","2009-10-28"
+"hep-ph/9609358","Felice Pisano","Felice Pisano (IFT - S. Paulo - Brazil)","A Simple Solution for the Flavor Question","13 pages, latex, no figures; To appear in Mod.Phys.Lett.A","Mod.Phys.Lett. A11 (1996) 2639-2647","10.1142/S0217732396002630","IFT-P.031/96","hep-ph",,"  We consider a simple way for solving the flavor question by embedding the
+three-familiy Standard Model in a semisimple gauge group extending minimally
+the weak isospin factor. Quantum chiral anomalies between families of fermions
+cancel with a matching of the number of families and the number of color
+degrees of freedom. Our demonstration shows how the theory leads to
+determination of families structure when the Standard Model is the input at low
+energies. The new physics is limited to start below a few TeVs within the reach
+of the next generation colliders.
+","[{""version"":""v1"",""created"":""Sun, 15 Sep 1996 00:28:42 GMT""}]","2009-10-28"
+"hep-ph/9609359","Teimuraz Zaqarashvili","A. Kobakhidze","On the possible solution of the doublet-triplet problem in extended
+  $SU(\geq 8)$ SUSY GUTs","8 pages, latex, 2 latex figures included","Phys.Lett.B391:335-340,1997","10.1016/S0370-2693(96)01502-X","IPGAS-HEP-TH/30/96","hep-ph",,"  The generalization of the ""custodial symmetry"" mechanism which leads to the
+natural (without fine tuning) explanation of the doublet-triplet hierarchy is
+suggested in the frames of extended $SU(N\geq 8)$ SUSY GUTs. It is shown also
+that such type of SUSY GUT can predict the value of strong gauge coupling
+constant $\alpha_S(M_Z)$ consistent with present experimental data.
+","[{""version"":""v1"",""created"":""Sun, 15 Sep 1996 09:21:31 GMT""}]","2008-11-26"
+"hep-th/9609114","Giuseppe Dito","Giuseppe Dito and Moshe Flato","Generalized Abelian Deformations: Application to Nambu Mechanics","Plain LaTeX209 file with AMS Fonts. 19 pages","Lett.Math.Phys. 39 (1997) 107-125",,"RIMS preprint no 1103, September 1996","hep-th math.QA q-alg",,"  We study Abelian generalized deformations of the usual product of polynomials
+introduced in hep-th/9602016. We construct an explicit example for the case of
+$su/2$ which provides a tentative of a quantum-mechanical description of Nambu
+Mechanics on $R^3$. By introducing the notions of strong and weak triviality of
+generalized deformations, we show that the Zariski product is never trivial in
+either sense, while the example constructed here in a quantum-mechanical
+context is only strongly non-trivial.
+","[{""version"":""v1"",""created"":""Sun, 15 Sep 1996 06:27:35 GMT""},{""version"":""v2"",""created"":""Sat, 28 Sep 1996 08:31:33 GMT""}]","2016-09-06"
+"math/9609215","Shelah Office","Saharon Shelah","Characterizing aleph_epsilon-saturated models of superstable ndop
+  theories by L_{infty, aleph_epsilon}-theory",,,,"Shelah [Sh:401]","math.LO",,"  After the main gap theorem was proved (see [Sh:c]), in discussion, Harrington
+expressed a desire for a finer structure - of finitary character (when we have
+a structure theorem at all). I point out that the logic L_{infty,aleph_0}(d.q.)
+(d.q. stands for dimension quantifier) does not suffice: e.g., for T=Th(lambda
+x 2^\omega,E_n)_{n<omega} where (alpha,eta)E_n(beta,nu) =: eta|n=nu|n and for a
+subset S of 2^omega we define
+  M_S = M | {(alpha,eta): [eta in S -> alpha<omega_1] and [eta in 2^\omega
+backslash S -> alpha<omega]}.
+  Hence, it seems to me we should try L_{infty,aleph_epsilon}(d.q.)
+(essentially, in C we can quantify over sets which are included in the
+algebraic closure of finite sets), and Harrington accepts this interpretation.
+Here the conjecture is proved for aleph_epsilon-saturated models. I.e., the
+main theorem is M equiv_{L_{infty,aleph_epsilon}(d.q.)} N iff M cong N for
+aleph_epsilon--saturated models of a superstable countable (first order) theory
+T without dop.
+","[{""version"":""v1"",""created"":""Sun, 15 Sep 1996 00:00:00 GMT""}]","2016-09-06"
+"math/9609216","Shelah Office","Saharon Shelah","On sigma-entangled linear orders",,"Fund. Math. 153 (1997), 199--275",,"Shelah [Sh:462]","math.LO math.GN",,"  We investigate sigma-entangled linear orders and narrowness of Boolean
+algebras. We show existence of sigma-entangled linear orders in many cardinals,
+and we build Boolean algebras with neither large chains nor large pies. We
+study the behavior of these notions in ultraproducts.
+","[{""version"":""v1"",""created"":""Sun, 15 Sep 1996 00:00:00 GMT""}]","2016-09-06"
+"math/9609217","Saharon Shelah","Saharon Shelah","Non-existence of universals for classes like reduced torsion free
+  abelian groups under embeddings which are not necessarily pure",,,,"Shelah [Sh:552]","math.LO math.RA","http://arxiv.org/licenses/nonexclusive-distrib/1.0/","  We consider a class K of structures e.g. trees with omega +1 levels, metric
+spaces and mainly, classes of Abelian groups like the one mentioned in the
+title and the class of reduced separable (Abelian) p-groups. We say M in K is
+universal for K if any member N of K of cardinality not bigger than the
+cardinality of M can be embedded into M . This is a natural, often raised,
+problem. We try to draw consequences of cardinal arithmetic to non-existence of
+universal members for such natural classes.
+","[{""version"":""v1"",""created"":""Sun, 15 Sep 1996 00:00:00 GMT""},{""version"":""v2"",""created"":""Sun, 23 Oct 2022 19:34:50 GMT""}]","2022-10-25"
+"math/9609218","Shelah Office","Saharon Shelah","Colouring and non-productivity of aleph_2-cc",,"Ann. Pure Appl. Logic 84 (1997), 153-174",,"Shelah [Sh:572]","math.LO math.GN",,"  We prove that colouring of pairs from aleph_2 with strong properties exists.
+The easiest to state (and quite a well known problem) it solves: there are two
+topological spaces with cellularity aleph_1 whose product has cellularity
+aleph_2 ; equivalently we can speak on cellularity of Boolean algebras or on
+Boolean algebras satisfying the aleph_2-c.c. whose product fails the
+aleph_2-c.c. We also deal more with guessing of clubs.
+","[{""version"":""v1"",""created"":""Sun, 15 Sep 1996 00:00:00 GMT""}]","2008-02-03"

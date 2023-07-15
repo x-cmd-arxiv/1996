@@ -1,0 +1,251 @@
+"alg-geom/9605002","Yuri G. Prokhorov","Yuri G. Prokhorov","On Extremal Contractions from Threefolds to Surfaces: the Case of One
+  non-Gorenstein Point","LaTeX2e, to appear in Contemporary Math. AMS","In Birational algebraic geometry (Baltimore, MD, 1996), Contemp.
+  Math., vol. 207, 119-141. Amer. Math. Soc., Providence, RI, 1997.",,,"alg-geom math.AG",,"  Let $f\colon X\to S$ be an extremal contraction from a threefold with only
+terminal singularities to a surface. We study local analytic structure such
+contractions near degenerate fiber $C$ in the case when $C$ is irreducible and
+$X$ has on $C$ only one non-Gorenstein point.
+","[{""version"":""v1"",""created"":""Sat, 11 May 1996 16:26:20 GMT""},{""version"":""v2"",""created"":""Mon, 17 Feb 1997 07:45:53 GMT""}]","2010-05-12"
+"alg-geom/9605003","Yuri G. Prokhorov","Yuri G. Prokhorov","On the existence of good divisors on Fano varieties of coindex 3","to appear in English translation of Proc. Steclov Math. Inst. 208, 11
+  pages, LaTeX","Proc. Steklov Inst. Math., 208:234-243, 1995",,,"alg-geom math.AG",,"  We prove that the linear system $|-1/3K_X| on a non-singular Fano fivefold
+$X$ of index 3 contains an irreducible divisor with only canonical
+singularities.
+","[{""version"":""v1"",""created"":""Sat, 11 May 1996 21:15:28 GMT""}]","2010-05-12"
+"astro-ph/9605058","Israel","L. Stella, S. Mereghetti and G. L. Israel","A new class of X-ray Pulsars ?","12 pages (figures included), latex style included, HIGHLIGHTS OF
+  EUROPEAN ASTRONOMY, Proc. 4th European and 39th Italian Astron. Soc. Meetings
+  (Catania, Italy), M. Rodono' and S. Catalano (eds.), Mem.S.A.It., 1996 (in
+  press)",,,,"astro-ph",,"  While the distribution of spin periods of High Mass X-ray Binaries (HMXBs)
+spans more than four orders of magnitude (69ms - 25min), the few known X-ray
+pulsars accreting from very low mass companions (<1 Msun) have very similar
+periods between 5.4 and 8.7s . These pulsars display also several other
+similarities and they are probably members of a subclass of Low Mass X-ray
+Binaries (LMXBs) with similar magnetic field (a few 10^11 G), companion stars
+and, possibly, evolutionary histories. If they are rotating at, or close to,
+the equilibrium period, their properties are consistent with luminosities of
+the order of a few 10^35 erg/s. These pulsars might represent the closest
+members of a subclass of LMXBs characterized by lower luminosities, higher
+magnetic fields and smaller ages than non-pulsating LMXBs.
+","[{""version"":""v1"",""created"":""Sat, 11 May 1996 16:11:02 GMT""}]","2007-05-23"
+"astro-ph/9605059","Fred Rasio","F. A. Rasio, C. A. Tout, S. H. Lubow, and M. Livio","Tidal Decay of Close Planetary Orbits","AAS LaTeX macros v.4, 14 pages, 2 postscript figures, also available
+  from http://ensor.mit.edu/~rasio/, to appear in ApJ",,"10.1086/177941",,"astro-ph",,"  The 4.2-day orbit of the newly discovered planet around 51~Pegasi is formally
+unstable to tidal dissipation. However, the orbital decay time in this system
+is longer than the main-sequence lifetime of the central star. Given our best
+current understanding of tidal interactions, a planet of Jupiter's mass around
+a solar-like star could have dynamically survived in an orbit with a period as
+short as $\sim10\,$hr. Since radial velocities increase with decreasing period,
+we would expect to find those planets close to the tidal limit first and,
+unless this is a very unusual system, we would expect to find many more. We
+also consider the tidal stability of planets around more evolved stars and we
+re-examine in particular the question of whether the Earth can dynamically
+survive the red-giant phase in the evolution of the Sun.
+","[{""version"":""v1"",""created"":""Sat, 11 May 1996 18:16:07 GMT""}]","2009-10-28"
+"astro-ph/9605060","Sergio Torres Arzayus","S. Torres, V. Canon, R. Casas, A. Umana, C. Tello, T. Villela, M.
+  Bersanelli, M. Bensadoun, G. De Amici, M. Limon, G. Smoot, C. Witebsky","The GEM Project: an International Collaboration to Survey Galactic
+  Radiation Emission","6 pages, Plain Latex + 1 (uuencoded) PostScript figure Fig. 1 and
+  Fig. 2 not included, available from storres@cdcnet.uniandes.edu.co","Astrophys.Space Sci. 240 (1996) 225","10.1007/BF00639587","CIF-09-05-96","astro-ph",,"  The GEM (Galactic Emission Mapping) project is an international collaboration
+established with the aim of surveying the full sky at long wavelengths with a
+multi-frequency radio telescope. A total of 745 hours of observation at 408 MHz
+were completed from an Equatorial site in Colombia. The observations cover the
+celestial band $0^h < \alpha < 24^h$, and $-24^{\circ} \ 22^{\prime} < \delta <
++35^{\circ} \ 37^{\prime}$. Preliminary results of this partial survey will be
+discussed. A review of the instrumental setup and a $\sim 10^{\circ}$
+resolution sky map at 408 MHz is presented.
+","[{""version"":""v1"",""created"":""Sun, 12 May 1996 15:07:32 GMT""}]","2009-10-28"
+"cmp-lg/9605013","Li Hang","Hang Li and Naoki Abe (Theory NEC Lab., RWCP)","Learning Dependencies between Case Frame Slots","12 pages, LaTex source, 2 eps figures, uses colap.sty and epsf.sty ;
+  an extended abstract of this paper appeared in Proc. of COLING'96, page 10-15",,,,"cmp-lg cs.CL",,"  We address the problem of automatically acquiring case frame patterns
+(selectional patterns) from large corpus data. In particular, we propose a
+method of learning dependencies between case frame slots. We view the problem
+of learning case frame patterns as that of learning multi-dimensional discrete
+joint distributions, where random variables represent case slots. We then
+formalize the dependencies between case slots as the probabilistic dependencies
+between these random variables. Since the number of parameters in a
+multi-dimensional joint distribution is exponential, it is infeasible to
+accurately estimate them in practice. To overcome this difficulty, we settle
+with approximating the target joint distribution by the product of low order
+component distributions, based on corpus data. In particular we propose to
+employ an efficient learning algorithm based on the MDL principle to realize
+this task. Our experimental results indicate that for certain classes of verbs,
+the accuracy achieved in a disambiguation experiment is improved by using the
+acquired knowledge of dependencies.
+","[{""version"":""v1"",""created"":""Sun, 12 May 1996 08:19:35 GMT""},{""version"":""v2"",""created"":""Thu, 26 Sep 1996 04:24:13 GMT""}]","2008-02-03"
+"cmp-lg/9605014","Li Hang","Hang Li and Naoki Abe (Theory NEC Lab., RWCP)","Clustering Words with the MDL Principle","11 pages, LaTex source, 4 eps figures, uses colap.sty and epsf.sty;
+  an extended abstract of this paper appeared in Proc. of COLING'96, page 4-9",,,,"cmp-lg cs.CL",,"  We address the problem of automatically constructing a thesaurus
+(hierarchically clustering words) based on corpus data. We view the problem of
+clustering words as that of estimating a joint distribution over the Cartesian
+product of a partition of a set of nouns and a partition of a set of verbs, and
+propose an estimation algorithm using simulated annealing with an energy
+function based on the Minimum Description Length (MDL) Principle. We
+empirically compared the performance of our method based on the MDL Principle
+against that of one based on the Maximum Likelihood Estimator, and found that
+the former outperforms the latter. We also evaluated the method by conducting
+pp-attachment disambiguation experiments using an automatically constructed
+thesaurus. Our experimental results indicate that we can improve accuracy in
+disambiguation by using such a thesaurus.
+","[{""version"":""v1"",""created"":""Sun, 12 May 1996 06:21:39 GMT""},{""version"":""v2"",""created"":""Thu, 26 Sep 1996 03:33:19 GMT""}]","2008-02-03"
+"cond-mat/9605076","Alexey I. Nesvizhskii","A.I. Nesvizhskii and A.Yu. Zyuzin (A.F. Ioffe Physico-Technical
+  Institute, St. Petersburg, Russia)","Orbital Magnetism of 2D Chaotic Lattices","6 pages, Latex file, figures available upon request",,"10.1134/1.567121",,"cond-mat",,"  We study the orbital magnetism of 2D lattices with chaotic motion of
+electrons withing a primitive cell. Using the temperature diagrammatic
+technique we evaluate the averaged value and rms fluctuation of magnetic
+response in the diffusive regime withing the model of non-interacting
+electrons. The fluctuations of magnetic susceptibility turn out to be large and
+at low temperature can be of the order of $\chi_{L} (k_{F}l)^{3/2}$, where
+$k_{F}$ is the Fermi wavevector, $l$ is the mean free path, and $\chi_{L}$ is
+the Landau susceptibility. In the certain region of magnetic fields the
+paramagnetic contribution to the averaged response is field independent and
+larger than the absolute value of Landau response.
+","[{""version"":""v1"",""created"":""Sun, 12 May 1996 10:42:12 GMT""}]","2009-10-28"
+"gr-qc/9605024","Jai-chan Hwang","J. Hwang","Evolution of Structures in Generalized Gravity Theories","9 pages, revtex, no figures","Class.Quant.Grav.14:1981-1991,1997","10.1088/0264-9381/14/7/029",,"gr-qc",,"  A broad class of generalized Einstein's gravity can be cast into Einstein's
+gravity with a minimally coupled scalar field using suitable conformal
+rescaling of the metric. Using this conformal equivalence between the theories,
+we derive the equations for the background and the perturbations, and the
+general asymptotic solutions for the perturbations in the generalized
+Einstein's gravity from the simple results known in the minimally coupled
+scalar field. Results for the scalar and tensor perturbations can be presented
+in unified forms. The large scale evolutions for both modes are characterized
+by corresponding conserved quantities. We also present the normalization
+condition for canonical quantization.
+","[{""version"":""v1"",""created"":""Sun, 12 May 1996 05:18:58 GMT""}]","2011-09-30"
+"hep-ex/9605004","Takashi Asakawa","F. Abe, et al. (CDF Collaboration)","Further Properties of High-Mass Multijet Events at the Fermilab
+  Proton-Antiproton Collider","49 pages with 19 figures. Submitted to Phys. Rev. D. PostScript with
+  full resolution figures also available at
+  http://www-cdf.fnal.gov/physics/pub96/cdf3480_multijet_prd_draft3.ps","Phys.Rev.D54:4221-4233,1996","10.1103/PhysRevD.54.4221","FERMILAB-PUB-96/098-E","hep-ex",,"  The properties of high-mass multijet events produced at the Fermilab
+proton-antiproton collider are compared with leading order QCD matrix element
+predictions, QCD parton shower Monte Carlo predictions, and the predictions
+from a model in which events are distributed uniformly over the available
+multibody phase-space. Multijet distributions corresponding to (4N-4) variables
+that span the N-body parameter space are found to be well described by the QCD
+calculations for inclusive three-jet, four-jet, and five-jet events. The
+agreement between data, QCD Matrix Element calculations, and QCD parton shower
+Monte Carlo predictions suggests that 2 -> 2 scattering plus gluon radiation
+provides a good first approximation to the full LO QCD matrix element for
+events with three, four, or even five jets in the final state.
+","[{""version"":""v1"",""created"":""Sat, 11 May 1996 22:06:27 GMT""}]","2010-05-12"
+"hep-ph/9605280","A. Dolgov","A.D. Dolgov","Antimatter in Different Baryogenesis Scenarios","Latex, 9 pages, presented at International Workshop on Baryon
+  Instability, Oak Ridge, Tennessee, March 28-39, 1996. (to be published in the
+  Proceedings)",,,"TAC-1996-010","hep-ph astro-ph",,"  Possible mechanisms of abundant creation of antimatter in the universe are
+reviewed. The necessary conditions for that are: baryonic charge
+nonconservation, spontaneous breaking of charge symmetry or nonequilibrium
+initial state, and the formation of appropriate initial conditions during
+inflation. In this case the universe may be populated with domains, cells, or
+even stellar size objects consisting of antimatter.
+","[{""version"":""v1"",""created"":""Sat, 11 May 1996 22:13:04 GMT""}]","2007-05-23"
+"hep-ph/9605281","Anders Edin","A. Edin, G. Ingelman, J. Rathsman","Unified Description of Rapidity Gaps and Energy Flows in DIS Final
+  States","24 pages LaTeX2e, 13 encapsulated PostScript figures","Z.Phys. C75 (1997) 57-70",,"DESY 96-060","hep-ph",,"  We show that the `orthogonal' characteristics of the observed rapidity gaps
+and large forward energy flows in deep inelastic scattering at HERA, can be
+described within a single framework. Our Monte Carlo model is based on
+perturbative QCD matrix elements and parton showers together with Lund string
+model hadronization, but has in addition a new mechanism for soft colour
+interactions which modifies the perturbative colour structure and thereby the
+hadronization. Effects of perturbative multiparton emission are investigated
+and the non-perturbative treatment of the proton remnant is discussed and
+comparison to the observed transverse energy flow is made. We investigate the
+resulting diffractive-like properties of the model; such as rapidity gap
+events, $t$- and $M_X$-distributions and the diffractive structure function in
+comparison to H1 data.
+","[{""version"":""v1"",""created"":""Sat, 11 May 1996 18:34:25 GMT""}]","2016-09-01"
+"hep-ph/9605282","Tom Browder","T.E. Browder (University of Hawaii)","Two Topics in Particle-Antiparticle Mixing","2 pages, LATEX format. To appear in the Proceedings of the 1995
+  Brussels Europhysics Conference",,,,"hep-ph",,"  This paper summarizes two experimental issues in the study of particle
+antiparticle mixing. We propose a new method to extract the ratio
+$|V_{ts}/V_{td}|^2$ from a measurement of $\Delta \Gamma/\Gamma$ for the $B_s$
+meson. This method is experimentally more sensitive than the conventional
+method for large values of $|V_{ts}|$ but depends on the accuracy of parton
+level calculations. We then briefly discuss the implications of large CP
+violation and final state interactions (FSI) in the experimental search for
+$D^0-\bar{D}^0$ mixing. The work described here was carried out in
+collaboration with S. Pakvasa.
+","[{""version"":""v1"",""created"":""Sat, 11 May 1996 22:00:59 GMT""}]","2007-05-23"
+"hep-ph/9605284","Alejandra Melfo","Alejandra Melfo and Goran Senjanovic","Broken Symmetries in the Early Universe","Latex, 12 pages, based on talks by G.S. given at Future Perspectives
+  in Elementary Particle Physics (Valencia, June 1995), Four Seas Conference
+  (Trieste, July 1995) and 5th Hellenic School on Elementary Particle Physics
+  (Corfu, September 1995)",,,"IC/96/76","hep-ph",,"  We give a brief review of recent results on symmetry nonrestoration at high
+temperature.
+","[{""version"":""v1"",""created"":""Sun, 12 May 1996 11:13:49 GMT""}]","2007-05-23"
+"hep-ph/9605285",,"G. Ingelman, J. Rathsman, G.A. Schuler","AROMA 2.2 - A Monte Carlo Generator for Heavy Flavour Events in $ep$
+  Collisions","14 pages LaTeX, no figures","Comput.Phys.Commun. 101 (1997) 135-142","10.1016/S0010-4655(96)00145-2","DESY 96-058","hep-ph",,"  A program to simulate the production of heavy quarks through the boson-gluon
+fusion process in $e^{\pm}p$ collisions is presented. The full electro\-weak
+structure of the electron--gluon interaction is taken into account as well as
+the masses of the produced heavy quarks. Higher order QCD radiation is treated
+using initial and final state parton showers, and hadronization is performed
+using the Lund string model. Physics and programming aspects are described in
+this manual.
+","[{""version"":""v1"",""created"":""Sun, 12 May 1996 12:55:00 GMT""}]","2009-10-28"
+"hep-ph/9605286","Anders Edin","G. Ingelman, A. Edin, J. Rathsman","LEPTO 6.5 - A Monte Carlo Generator for Deep Inelastic Lepton-Nucleon
+  Scattering","30 pages LaTeX","Comput.Phys.Commun. 101 (1997) 108-134","10.1016/S0010-4655(96)00157-9","DESY 96-057","hep-ph",,"  Physics and programming aspects are discussed for a Fortran 77 Monte Carlo
+program to simulate complete events in deep inelastic lepton-nucleon
+scattering. The parton level interaction is based on the standard model
+electroweak cross sections, which are fully implemented in leading order for
+any lepton of arbitrary polarization, and different parametrizations of parton
+density functions can be used. First order QCD matrix elements for gluon
+radiation and boson-gluon fusion are implemented and higher order QCD radiation
+is treated using parton showers. Hadronization is performed using the Lund
+string model, implemented in {\sc Jetset}/{\sc Pythia}. Rapidity gap events are
+generated through a model based on soft colour interactions.
+","[{""version"":""v1"",""created"":""Sun, 12 May 1996 12:17:54 GMT""}]","2009-10-28"
+"hep-ph/9605287",,"J. Rathsman, G. Ingelman","MAJOR 1.5 - A Monte Carlo Generator for Heavy Majorana Neutrinos in $ep$
+  Collisions","13 pages LaTeX, 2 PostScript figures","Comput.Phys.Commun. 101 (1997) 143-154","10.1016/S0010-4655(96)00132-4","DESY 96-059","hep-ph",,"  The Monte Carlo generator {\sc Major} 1.5 simulates the production and decay
+of heavy Majorana neutrinos via lepton mixing or exchange of `light'
+right-handed $W$-bosons in deep inelastic scattering, i.e. $e^{\pm} p
+\rightarrow {N} X \rightarrow{e}^{\pm} W^{\mp} X$ or $\nu_e Z X$. Physics and
+programming aspects are described in this manual.
+","[{""version"":""v1"",""created"":""Sun, 12 May 1996 13:20:00 GMT""}]","2009-10-28"
+"hep-ph/9605288","Kari Rummukainen","K. Kajantie (1), M. Laine (2), K. Rummukainen (3), M. Shaposhnikov (1)
+  ((1) CERN, (2) Heidelberg, (3) Indiana Univ.)","Is There a Hot Electroweak Phase Transition at $m_H\gsim m_W$?","9 pages, 5 eps figures","Phys.Rev.Lett.77:2887-2890,1996","10.1103/PhysRevLett.77.2887","CERN-TH/96-126, HD-THEP-96-15, IUHET-333","hep-ph hep-lat hep-th",,"  We provide non-perturbative evidence for the fact that there is no hot
+electroweak phase transition at large Higgs masses, $m_H = 95$, 120 and 180
+GeV. This means that the line of first order phase transitions separating the
+symmetric and broken phases at small $m_H$ has an end point $m_{H,c}$. In the
+minimal standard electroweak theory 70 GeV $<m_{H,c}<$ 95 GeV and most likely
+$m_{H,c} \approx 80$ GeV. If the electroweak theory is weakly coupled and the
+Higgs boson is found to be heavier than the critical value (which depends on
+the theory in question), cosmological remnants from the electroweak epoch are
+improbable.
+","[{""version"":""v1"",""created"":""Sun, 12 May 1996 15:53:42 GMT""}]","2011-05-05"
+"hep-th/9605080","Adel Khoudeir Maurched","A. Khoudeir","Non-Abelian Antisymmetric-Vector Coupling from Self-Interaction","8 pages, latex, some misprints in the references are corrected.
+  Accepted for publication in Modern Physics Letters A","Mod.Phys.Lett. A11 (1996) 2489-2496","10.1142/S0217732396002484","CAT/96-02","hep-th",,"  A non-abelian coupling between antisymmetric fields and Yang-Mills fields
+proposed by Freedman and Townsend several years ago is derived using the
+self-interaction mechanism.
+","[{""version"":""v1"",""created"":""Sun, 12 May 1996 14:10:07 GMT""},{""version"":""v2"",""created"":""Sun, 1 Dec 1996 17:07:18 GMT""}]","2009-10-30"
+"nucl-th/9605016","Bernd Schlei","B.R. Schlei","Space-time extensions from space-time densities and Bose-Einstein
+  correlations","11 pages, 2 figures (distributed on 3 Postscript files)","Phys.Rev.C55:954-957,1997","10.1103/PhysRevC.55.954","LA-UR-96-1614","nucl-th",,"  Using a (3+1)-dimensional solution of the relativistic Euler-equations for
+$Pb+Pb$ at 160 $AGeV$, space-time extensions of kaon emission zones are
+calculated from space-time densities and compared to the inverse widths of
+two-kaon Bose-Einstein correlation functions. The comparison shows a
+satisfactory agreement and it is concluded that because of the Gaussian shape
+of the kaon correlation functions, the space-time parameters of the kaon source
+can be calculated directly from space-time densities. In the case of intensity
+interferometry of identical pions this simplification is not recommended when
+applying Gaussian fits because of the present strong effects of resonance
+decays. The whole discussion is based on the assumption that hadron emission in
+ultra-relativistic heavy-ion collisions is purely chaotic or that coherence is
+at least negligible.
+","[{""version"":""v1"",""created"":""Sat, 11 May 1996 20:56:31 GMT""}]","2008-11-26"
+"q-alg/9605016","Arkadiy Berenshtein","Arkady Berenstein (Northeastern University, Boston)","Group-like elements in quantum groups, and Feigin's conjecture","25 pages, plain TEX",,,"BRE-96-04","q-alg math.QA",,"  Let $A$ be an arbitrary symmetrizable Cartan matrix of rank $r$, and ${\bf
+n}={\bf n_+}$ be the standard maximal nilpotent subalgebra in the Kac-Moody
+algebra associated with $A$ (thus, ${\bf n}$ is generated by $E_1,\ldots,E_r$
+subject to the Serre relations). Let $\hat U_q({\bf n})$ be the completion
+(with respect to the natural grading) of the quantized enveloping algebra of
+${\bf n}$. For a sequence ${\bf i}=(i_1,\ldots,i_m)$ with $1\le i_k\le r$, let
+$P_{\bf i}$ be a skew polynomial algebra generated by $t_1,\ldots,t_m$ subject
+to the relations $t_lt_k=q^{C_{i_k,i_l}}t_kt_l$ ($1\le k<l\le m$) where
+$C=(C_{ij})=(d_ia_{ij})$ is the symmetric matrix corresponding to $A$. We
+construct a group-like element ${\bf e}_{\bf i}\in P_{\bf i}\bigotimes \hat
+U_q({\bf n})$. This element gives rise to the evaluation homomorphism
+$\psi_{\bf i}:{\bf C}_q[N]\to P_{\bf i}$ given by $\psi_{\bf i}(x)=x({\bf
+e}_{\bf i})$, where ${\bf C}_q[N]=U_q({\bf n})^0$ is the restricted dual of
+$U_q({\bf n})$. Under a well-known isomorphism of algebras ${\bf C}_q[N]$ and
+$U_q({\bf n})$, the map $\psi_{\bf i}$ identifies with Feigin's homomorphism
+$\Phi({\bf i}): U_q({\bf n})\to P_{\bf i}$. We prove that the image of
+$\psi_{\bf i}$ generates the skew-field of fractions ${\cal F}(P_{\bf i})$ if
+and only if ${\bf i}$ is a reduced expression of some element $w$ in the Weyl
+group $W$; furthermore, in the latter case, ${\rm Ker}~\psi_{\bf i}$ depends
+only on $w$ (so we denote $I_w:={\rm Ker}~\psi_{\bf i}$). This result
+generalizes the results in [5], [6] to the case of Kac-Moody algebras. We also
+construct an element ${\cal R}_w\in \big({\bf C}_q[N]/I_w\big)\bigotimes \hat
+U_q({\bf n})$ which specializes to ${\bf e}_{\bf i}$ under the embedding ${\bf
+C}_q[N]/I_w\hookrightarrow P_{\bf i}$. The elements ${\cal R}_w$ are closely
+","[{""version"":""v1"",""created"":""Sun, 12 May 1996 09:37:45 GMT""}]","2008-02-03"
+"quant-ph/9605007","Tal Mor","E. Biham and T. Mor","On the Security of Quantum Cryptography Against Collective Attacks","10 pages, RevTeX. New version. To be published in Phys. Rev. Lett",,"10.1103/PhysRevLett.78.2256",,"quant-ph",,"  We present strong attacks against quantum key distribution schemes which use
+quantum memories and quantum gates to attack directly the final key. We analyze
+a specific attack of this type, for which we find the density matrices
+available to the eavesdropper and the optimal information which can be
+extracted from them. We prove security against this attack and discuss security
+against any attack allowed by the rules of quantum mechanics.
+","[{""version"":""v1"",""created"":""Sat, 11 May 1996 20:28:29 GMT""},{""version"":""v2"",""created"":""Mon, 6 Jan 1997 15:24:40 GMT""}]","2016-09-08"

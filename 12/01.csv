@@ -1,0 +1,314 @@
+"astro-ph/9612007","Fabio Governato","F. Governato, B. Moore, R. Cen, J. Stadel, G. Lake and T. Quinn","The Local Group as a test of cosmological models","Latex file (19 pages) + 13 figures. Submitted to New Astronomy. Two
+  MPEG movies were not included. Also available (this time with the movies) at
+  http://www-hpcc.astro.washington.edu/faculty/fabio/index.html",,"10.1016/S1384-1076(97)00011-0",,"astro-ph",,"  The dynamics of the Local Group and its environment provide a unique
+challenge to cosmological models. The velocity field within 5h-1 Mpc of the
+Local Group (LG) is extremely ``cold''. The deviation from a pure Hubble flow,
+characterized by the observed radial peculiar velocity dispersion, is measured
+to be about 60km/s. We compare the local velocity field with similarly defined
+regions extracted from N-body simulations of Universes dominated by cold dark
+matter (CDM). This test is able to strongly discriminate between models that
+have different mean mass densities. We find that neither the Omega=1 (SCDM) nor
+Omega=0.3 (OCDM) cold dark matter models can produce a single candidate Local
+Group that is embedded in a region with such small peculiar velocities. For
+these models, we measure velocity dispersions between 500-700km/s and
+150-300km/s respectively, more than twice the observed value. Although both CDM
+models fail to produce environments similar to those of our Local Group on a
+scale of a few Mpc, they can give rise to many binary systems that have similar
+orbital properties as the Milky Way--Andromeda system. The local,
+gravitationally induced bias of halos in the CDM ``Local Group'' environment,
+if defined within a sphere of 10 Mpc around each Local Group is about 1.5,
+independent of Omega. No biasing scheme could reconcile the measured velocity
+dispersions around Local Groups with the observed one. Identification of binary
+systems using a halo finder (named Skid
+(http://www-hpcc.astro.washington.edu/tools/DENMAX for a public version)) based
+on local density maxima instead of a simple linking algorithm, gives a much
+more complete sample. We show that a standard ``friend of friends'' algorithm
+would miss 40% of the LG candidates present in the simulations.
+","[{""version"":""v1"",""created"":""Sun, 1 Dec 1996 05:51:05 GMT""}]","2016-08-30"
+"cond-mat/9612009","Hans-Karl Janssen","H.K. Janssen","Spontaneous Symmetry Breaking in Directed Percolation with Many Colors:
+  Differentiation of Species in the Gribov Process","4 pages, 2 Postscript figures, uses multicol.sty, submitted",,"10.1103/PhysRevLett.78.2890",,"cond-mat.stat-mech",,"  A general field theoretic model of directed percolation with many colors that
+is equivalent to a population model (Gribov process) with many species near
+their extinction thresholds is presented. It is shown that the multicritical
+behavior is always described by the well known exponents of Reggeon field
+theory. In addition this universal model shows an instability that leads in
+general to a total asymmetry between each pair of species of a cooperative
+society.
+","[{""version"":""v1"",""created"":""Sat, 30 Nov 1996 16:12:05 GMT""}]","2009-10-28"
+"cond-mat/9612010","Enzo Marinari","Enzo Marinari (Cagliari, Italy)","Optimized Monte Carlo Methods","Lectures given at the 1996 Budapest Summer School on Monte Carlo
+  Methods. 35 pages including 17 figures",,,,"cond-mat.dis-nn cond-mat.stat-mech hep-lat",,"  I discuss optimized data analysis and Monte Carlo methods. Reweighting
+methods are discussed through examples, like Lee-Yang zeroes in the Ising model
+and the absence of deconfinement in QCD. I discuss reweighted data analysis and
+multi-hystogramming. I introduce Simulated Tempering, and as an example its
+application to the Random Field Ising Model. I illustrate Parallel Tempering,
+and discuss some technical crucial details like thermalization and volume
+scaling. I give a general perspective by discussing Umbrella Methods and the
+Multicanonical approach.
+","[{""version"":""v1"",""created"":""Sat, 30 Nov 1996 17:37:09 GMT""}]","2008-02-03"
+"cond-mat/9612011","Vladislav Kataev","V. Kataev (1), B. Rameev (1), B. Buechner (2), M. Huecker (2) and R.
+  Borowski (2) ( (1) Kazan Institute for Technical Physics, Russian Academy of
+  Sciences, Kazan, Russia, (2) II. Physikalisches Institut, Universitaet zu
+  Koeln, Koeln, Germany)","Slow antiferromagnetic dynamics in the low temperature tetragonal phase
+  of La_{2-x}Sr_xCuO_4 as revealed by ESR of Gd spin probes","12 pages RevTex, 2 EPS figures, to appear in Phys.Rev.B, Feb.,97",,"10.1103/PhysRevB.55.R3394",,"cond-mat.supr-con",,"  Measuring the ESR of Gd spin probes we have studied the magnetic properties
+of the copper oxide planes in the low temperature tetragonal (LTT) phase of Eu
+doped La_{2-x}Sr_xCuO_4. The data give evidence that at particular levels of Sr
+and Eu doping the frequency of the antiferromagnetic fluctuations in the LTT
+phase dramatically decreases at low temperatures by almost three orders of
+magnitude. However, no static magnetic order has been found for T>8K in
+contrast to the observation by neutron scattering of stripe ordering of spins
+below 50K in a Nd doped La_{2-x}Sr_xCuO_4 single crystal. To our opinion static
+order in the Nd doped compound is induced due to the interaction between the Cu
+spins with the rare earth magnetic moments. Therefore, a really characteristic
+property of the magnetism in the LTT structural phase may be not static
+magnetic order at elevated temperatures but rather extremely slow
+antiferromagnetic dynamics.
+","[{""version"":""v1"",""created"":""Sat, 30 Nov 1996 20:51:19 GMT""}]","2009-10-28"
+"cs/9612101",,"N. L. Zhang, D. Poole","Exploiting Causal Independence in Bayesian Network Inference","See http://www.jair.org/ for any accompanying files","Journal of Artificial Intelligence Research, Vol 5, (1996),
+  301-328",,,"cs.AI",,"  A new method is proposed for exploiting causal independencies in exact
+Bayesian network inference. A Bayesian network can be viewed as representing a
+factorization of a joint probability into the multiplication of a set of
+conditional probabilities. We present a notion of causal independence that
+enables one to further factorize the conditional probabilities into a
+combination of even smaller factors and consequently obtain a finer-grain
+factorization of the joint probability. The new formulation of causal
+independence lets us specify the conditional probability of a variable given
+its parents in terms of an associative and commutative operator, such as
+``or'', ``sum'' or ``max'', on the contribution of each parent. We start with a
+simple algorithm VE for Bayesian network inference that, given evidence and a
+query variable, uses the factorization to find the posterior distribution of
+the query. We show how this algorithm can be extended to exploit causal
+independence. Empirical studies, based on the CPCS networks for medical
+diagnosis, show that this method is more efficient than previous methods and
+allows for inference in larger networks than previous algorithms.
+","[{""version"":""v1"",""created"":""Sun, 1 Dec 1996 00:00:00 GMT""}]","2014-11-17"
+"cs/9612102",,"J. C. Schlimmer, P. C. Wells","Quantitative Results Comparing Three Intelligent Interfaces for
+  Information Capture: A Case Study Adding Name Information into an Electronic
+  Personal Organizer","See http://www.jair.org/ for an online appendix and other files
+  accompanying this article","Journal of Artificial Intelligence Research, Vol 5, (1996),
+  329-349",,,"cs.AI",,"  Efficiently entering information into a computer is key to enjoying the
+benefits of computing. This paper describes three intelligent user interfaces:
+handwriting recognition, adaptive menus, and predictive fillin. In the context
+of adding a personUs name and address to an electronic organizer, tests show
+handwriting recognition is slower than typing on an on-screen, soft keyboard,
+while adaptive menus and predictive fillin can be twice as fast. This paper
+also presents strategies for applying these three interfaces to other
+information collection domains.
+","[{""version"":""v1"",""created"":""Sun, 1 Dec 1996 00:00:00 GMT""}]","2009-09-25"
+"cs/9612103",,"L. M. deCampos","Characterizations of Decomposable Dependency Models","See http://www.jair.org/ for any accompanying files","Journal of Artificial Intelligence Research, Vol 5, (1996),
+  289-300",,,"cs.AI",,"  Decomposable dependency models possess a number of interesting and useful
+properties. This paper presents new characterizations of decomposable models in
+terms of independence relationships, which are obtained by adding a single
+axiom to the well-known set characterizing dependency models that are
+isomorphic to undirected graphs. We also briefly discuss a potential
+application of our results to the problem of learning graphical models from
+data.
+","[{""version"":""v1"",""created"":""Sun, 1 Dec 1996 00:00:00 GMT""}]","2014-11-17"
+"gr-qc/9612003","Barvinski","A.O.Barvinsky","Geometry of the Dirac and reduced phase space quantization of
+  constrained systems","26 pages, LaTeX, geometry of quantum reduction to the physical sector
+  is extended to unitary gauges of a general type",,,,"gr-qc",,"  Geometric properties of operators of quantum Dirac constraints and physical
+observables are studied in semiclassical theory of generic constrained systems.
+The invariance transformations of the classical theory -- contact canonical
+transformations and arbitrary changes of constraint basis -- are promoted to
+the quantum domain as unitary equivalence transformations. Geometry of the
+quantum reduction of the Dirac formalism to the physical sector of the theory
+is presented in the coordinate gauges and extended to unitary
+momentum-dependent gauges of a general type. The operators of physical
+observables are constructed satisfying one-loop quantum gauge invariance and
+Hermiticity with respect to a physical inner product. Abelianization procedure
+on Lagrangian constraint surfaces of phase space is discussed in the framework
+of the semiclassical expansion.
+","[{""version"":""v1"",""created"":""Sun, 1 Dec 1996 11:04:22 GMT""},{""version"":""v2"",""created"":""Tue, 24 Oct 2000 09:35:28 GMT""}]","2008-02-03"
+"hep-ph/9612215","Gestt Trentadue","N.P. Merenkov (PTI Kharkov)","Small angle Bhabha scattering at LEP1. Wide-narrow angular acceptance","33 pages, LaTeX, submitted to ZhETF","J.Exp.Theor.Phys. 85 (1997) 217-233; Zh.Eksp.Teor.Fiz. 112 (1997)
+  400-428","10.1134/1.558268",,"hep-ph",,"  Analytical method is applied for description of the small angle Bhabha
+scattering at LEP1. Inclusive event selection for asymmetrical wide-narrow
+circular detectors is considered. The QED correction to the Born cross-section
+is calculated with leading and next-to-leading accuracy in the second order of
+perturbation theory and with leading one --- in the third order. All
+contributions in the second order due to photonic radiative corrections and
+pair production are calculated starting from essential Feynman diagrams. The
+third order correction is computed by means of electron structure function.
+Numerical results illustrate the analytical calculsations.
+","[{""version"":""v1"",""created"":""Sat, 30 Nov 1996 16:37:22 GMT""}]","2009-10-30"
+"hep-ph/9612216","Tamas Csorgo","J. Schmidt-Sorensen and T. Csorgo","Database on the Net for Particle Correlations and Spectra","9 pages, Latex, uses epsf.sty and sprocl.sty, to appear in the
+  proceedings of International Workshop on Correlations and Fluctuations in
+  Multiparticle Production, Nijmegen, The Netherlands, June 1996 (World
+  Scientific, ed. W. Kittel et al.) Database is available at
+  http://www.quark.lu.se/~janus/hbt_home.html","Proc. CF'96 (WSCI 1997 ed R.C. Hwa et al) p.111",,"CU-TP-797 (1996)","hep-ph hep-ex nucl-ex nucl-th",,"  A fully interactive database is presented, which provides user-friendly
+access to experimental results on single-particle spectra and two-particle
+correlations (particle interferometry or HBT-effect). The database is available
+on the World-Wide-Web at: http://www.quark.lu.se/~janus/hbt_home.html .
+","[{""version"":""v1"",""created"":""Sat, 30 Nov 1996 19:07:03 GMT""}]","2007-05-23"
+"hep-ph/9612217","Carlos Lourenco","D. Kharzeev, C. Lourenco, M. Nardi and H. Satz","A Quantitative Analysis of Charmonium Suppression in Nuclear Collisions","37 pages, 12 figures, uses epsfig style, LaTeX","Z.Phys.C74:307-318,1997","10.1007/s002880050392","CERN-TH/96-328, BI-TP 96/53","hep-ph nucl-th",,"  Data from J/psi and psi' production in p-A collisions are used to determine
+the cross section for absorption of pre-resonance charmonium in nuclear matter.
+The J/psi suppression in O-Cu, O-U and S-U collisions is fully reproduced by
+the corresponding nuclear absorption, while Pb-Pb collisions show an additional
+suppression increasing with centrality. We study the onset of this change in
+terms of hadronic comover interactions and conclude that so far no conventional
+hadronic description can consistently account for all data. Deconfinement,
+starting at a critical point determined by central S-U collisions, is in accord
+with the observed suppression pattern.
+","[{""version"":""v1"",""created"":""Sat, 30 Nov 1996 20:50:37 GMT""}]","2009-07-09"
+"hep-ph/9612218","C. S. Kim","C.S. Kim (KEK, Japan and Yonsei University, Korea)","Associate $J/\psi + \gamma$ Production: A Clean Probe of Unpolarized and
+  Polarized Gluon Densities","25 pages, LaTeX. Lecture given at NuSS96 (August 1996)",,,"KEK-TH-502","hep-ph",,"  Color-octet contributions to the associate $J/\psi+\gamma$ production are
+found to be negligible, compared to the ordinary color-singlet contribution.
+Within the color-singlet model the $J/\psi+\gamma$ production in the leading
+order is possible only through gluon-gluon fusion process. Therefore, the
+associate $J/\psi+\gamma$ production remains to be useful as a clean channel to
+probe the unpolarized and polarized gluon distribution inside proton (and
+photon), and to study heavy quarkonia production mechanism. We discuss in
+detail the associate production of $J/\psi+\gamma$ at $p \overline{p}$ (or
+$pp$) and $ep$ colliders. By requiring the $J/\psi$ to decay into an $e^+e^-$
+or $\mu^+ \mu^-$ pair, we end up with an exceptionally clean final state. This
+process can therefore serve as a very clean probe of the gluon densities inside
+the proton as well as the photon. Numerical results are presented for the
+TEVATRON $p \overline{p}$ and HERA $ep$ colliders. This same mechanism can be
+used to probe the polarized gluon content of the proton in polarized $p + p
+(\bar p)$ collisions. We study in detail $J/\psi + \gamma$ production at both
+polarized fixed target and polarized collider energies for RHIC.
+","[{""version"":""v1"",""created"":""Sun, 1 Dec 1996 14:46:45 GMT""}]","2007-05-23"
+"hep-th/9612009","David Adams","David H. Adams","R-torsion and linking numbers from simplicial abelian gauge theories","48 pages, latex, 9 figures (drawn in xfig)",,,,"hep-th dg-ga hep-lat math.DG math.QA q-alg",,"  Simplicial versions of topological abelian gauge theories are constructed
+which reproduce the continuum expressions for the partition function and Wilson
+expectation value of linked loops, expressible in terms of R-torsion and
+linking numbers respectively. The new feature which makes this possible is the
+introduction of simplicial fields (cochains) associated with the dual
+triangulation of the background manifold, as well as with the triangulation
+itself. This doubling of fields, reminiscent of lattice fermion doubling, is
+required because the natural simplicial analogue of the Hodge star operator
+maps between cochains of a triangulation and cochains of the dual
+triangulation. The simplicial analogue of Hodge-de Rham theory is developed,
+along with a natural simplicial framework for considering linking numbers of
+framed loops. When the loops represent torsion elements of the homology of the
+manifold then Q/Z-valued torsion pairings appear in place of linking numbers
+for certain discrete values of the coupling parameter of the theory.
+","[{""version"":""v1"",""created"":""Sun, 1 Dec 1996 14:25:48 GMT""}]","2008-02-03"
+"hep-th/9612010","Dirk Kreimer","D. Kreimer","Weight Systems from Feynman Diagrams","25 pages, latex, uses epsf, references updated, to appear in J.Knot
+  Th.Ram","J.Knot Theor.Ramifications 7 (1998) 61-85",,"MZ-TH/96-36","hep-th hep-ph math.QA q-alg",,"  We find that the overall UV divergences of a renormalizable field theory with
+trivalent vertices fulfil a four-term relation. They thus come close to
+establish a weight system. This provides a first explanation of the recent
+successful association of renormalization theory with knot theory.
+","[{""version"":""v1"",""created"":""Sun, 1 Dec 1996 14:01:02 GMT""},{""version"":""v2"",""created"":""Wed, 30 Jul 1997 09:32:49 GMT""}]","2008-02-03"
+"hep-th/9612011","Dirk Kreimer","D. J. Broadhurst, D. Kreimer","Feynman diagrams as a weight system: four-loop test of a four-term
+  relation","minor changes, references updated, 10 pages, LaTeX","Phys.Lett. B426 (1998) 339-346","10.1016/S0370-2693(98)00246-9","OUT-4102-66","hep-th hep-ph math.QA q-alg",,"  At four loops there first occurs a test of the four-term relation derived by
+the second author in the course of investigating whether counterterms from
+subdivergence-free diagrams form a weight system. This test relates
+counterterms in a four-dimensional field theory with Yukawa and $\phi^4$
+interactions, where no such relation was previously suspected. Using
+integration by parts, we reduce each counterterm to massless two-loop two-point
+integrals. The four-term relation is verified, with $<G_1-G_2+G_3-G_4> = 0 -
+3\zeta_3 + 6\zeta_3 - 3\zeta_3 = 0$, demonstrating non-trivial cancellation of
+the trefoil knot and thus supporting the emerging connection between knots and
+counterterms, via transcendental numbers assigned by four-dimensional field
+theories to chord diagrams. Restrictions to scalar couplings and renormalizable
+interactions are found to be necessary for the existence of a pure four-term
+relation. Strong indications of richer structure are given at five loops.
+","[{""version"":""v1"",""created"":""Sun, 1 Dec 1996 14:02:56 GMT""},{""version"":""v2"",""created"":""Mon, 15 Dec 1997 10:15:31 GMT""}]","2009-10-30"
+"hep-th/9612012","Dirk Kreimer","D. J. Broadhurst","Conjectured Enumeration of irreducible Multiple Zeta Values, from Knots
+  and Feynman Diagrams","11 pages, LaTeX",,,,"hep-th hep-ph math.QA q-alg",,"  Multiple zeta values (MZVs) are under intense investigation in three arenas
+-- knot theory, number theory, and quantum field theory -- which unite in
+Kreimer's proposal that field theory assigns MZVs to positive knots, via
+Feynman diagrams whose momentum flow is encoded by link diagrams. Two
+challenging problems are posed by this nexus of knot/number/field theory:
+enumeration of positive knots, and enumeration of irreducible MZVs. Both were
+recently tackled by Broadhurst and Kreimer (BK). Here we report large-scale
+analytical and numerical computations that test, with considerable severity,
+the BK conjecture that the number, $D_{n,k}$, of irreducible MZVs of weight $n$
+and depth $k$, is generated by $\prod_{n\ge3}\prod_{k\ge1}(1-x^n y^k)
+^{D_{n,k}}=1-\frac{x^3y}{1-x^2}+\frac{x^{12}y^2(1-y^2)}{(1-x^4)(1-x^6)}$, which
+is here shown to be consistent with all shuffle identities for the
+corresponding iterated integrals, up to weights $n=44, 37, 42, 27$, at depths
+$k=2, 3, 4, 5$, respectively, entailing computation at the petashuffle level.
+We recount the field-theoretic discoveries of MZVs, in counterterms, and of
+Euler sums, from more general Feynman diagrams, that led to this success.
+","[{""version"":""v1"",""created"":""Sun, 1 Dec 1996 14:04:47 GMT""}]","2016-09-06"
+"hep-th/9612013","Dirk Kreimer","D. J. Broadhurst and A. V. Kotikov","Compact analytical form for non-zeta terms in critical exponents at
+  order 1/N^3","9 pages, LaTeX","Phys.Lett. B441 (1998) 345-353","10.1016/S0370-2693(98)01146-0",,"hep-th hep-ph math.QA q-alg",,"  We simplify, to a single integral of dilogarithms, the least tractable
+O(1/N^3) contribution to the large-N critical exponent $\eta$ of the non-linear
+sigma-model, and hence $\phi^4$-theory, for any spacetime dimensionality, D. It
+is the sole generator of irreducible multiple zeta values in epsilon-expansions
+with $D=2-2\epsilon$, for the sigma-model, and $D=4-2\epsilon$, for
+$\phi^4$-theory. In both cases we confirm results of Broadhurst, Gracey and
+Kreimer (BGK) that relate knots to counterterms. The new compact form is much
+simpler than that of BGK. It enables us to develop 8 new terms in the
+epsilon-expansion with $D=3-2\epsilon$. These involve alternating Euler sums,
+for which the basis of irreducibles is larger. We conclude that massless
+Feynman diagrams in odd spacetime dimensions share the greater transcendental
+complexity of massive diagrams in even dimensions, such as those contributing
+to the electron's magnetic moment and the electroweak $\rho$-parameter.
+Consequences for the perturbative sector of Chern-Simons theory are discussed.
+","[{""version"":""v1"",""created"":""Sun, 1 Dec 1996 14:06:30 GMT""}]","2016-09-06"
+"hep-th/9612018",,"M. Khorrami and M. Alimohammadi","Observables of the generalized 2D Yang-Mills theories on arbitrary
+  surfaces: a path integral approach","6 pages, LaTex","Mod.Phys.Lett.A12:2265-2270,1997","10.1142/S0217732397002338","IPM-96-","hep-th",,"  Using the path integral method, we calculate the partition function and the
+generating functional (of the field strengths) of the generalized 2D Yang-Mills
+theories in the Schwinger--Fock gauge. Our calculation is done for arbitrary 2D
+orientable, and also nonorientable surfaces.
+","[{""version"":""v1"",""created"":""Sun, 1 Dec 1996 07:22:08 GMT""}]","2014-11-18"
+"math/9612228","Argimiro A. Arratia Quesada","Argimiro A. Arratia-Quesada, Iain A. Stewart","Generalized Hex and logical characterizations of polynomial space",,,,"Wisconsin Math 97/AQ-1a","math.LO",,"  We answer a question posed by Makowsky and Pnueli and show that the logic
+$(\pm\mbox{HEX})^\ast[\mbox{FO}_s]$, where HEX is the operator (i.e., uniform
+sequence of Lindstr\""om quantifiers) corresponding to the well-known {\bf
+PSPACE}-complete decision problem Generalized Hex, collapses to the fragment
+$\mbox{HEX}^1[\mbox{FO}_s]$ and, moreover, that this logic has a particular
+normal form which results in the problem HEX being complete for {\bf PSPACE}
+via quantifier-free projections with successor (HEX is the first ``natural''
+problem to be shown to have this property). Our proof of this normal form
+result is remarkably similar to Immerman's original proof that transitive
+closure logic, $(\pm\mbox{TC})^\ast[\mbox{FO}_s]$, has such a normal form;
+which is surprising given that $(\pm\mbox{HEX})^\ast[\mbox{FO}_s]$ captures
+{\bf PSPACE} and $(\pm\mbox{TC})^\ast[\mbox{FO}_s]$ captures {\bf NL}. We also
+show that $(\pm\mbox{HEX})^\ast[\mbox{FO}]$ does not capture {\bf PSPACE} and
+that this logic does not have a corresponding normal form.
+","[{""version"":""v1"",""created"":""Sun, 1 Dec 1996 00:00:00 GMT""}]","2008-02-03"
+"nucl-th/9612004","Ruprecht Machleidt","R. Brockmann and R. Machleidt","The Dirac-Brueckner Approach","49 pages, LaTeX, 9 figures, psfig style",,,,"nucl-th",,"  In this review, we give a thorough introduction into the Dirac-Brueckner
+approach including the mathematical details of the formalism involved.
+Furthermore, we present results for nuclear matter, NN scattering in the
+nuclear medium, and finite nuclei.
+","[{""version"":""v1"",""created"":""Sun, 1 Dec 1996 02:01:31 GMT""}]","2007-05-23"
+"q-alg/9612001","S. Odake","H. Awata, H. Kubo, S. Odake and J. Shiraishi","Quantum Deformation of the W_N Algebra","18 pages, LaTeX",,,"DPSU-96-16, UT-762","q-alg hep-th math.QA",,"  We review the W_N algebra and its quantum deformation, based on free field
+realizations. The (quantum deformed) W_N algebra is defined through the
+(quantum deformed) Miura transformation, and its singular vectors realize the
+Jack (Macdonald) polynomials. (Talk at the Nankai-CRM joint meeting on
+``Extended and Quantum Algebras and their Applications to Physics'', Tianjin,
+China, August 19-24, 1996.)
+","[{""version"":""v1"",""created"":""Sun, 1 Dec 1996 05:16:58 GMT""}]","2008-02-03"
+"quant-ph/9612005",,"S. Mancini, V. I. Man'ko and P.Tombesi","Ponderomotive Control of Quantum Macroscopic Coherence","Latex,22 pages,accepted by Phys.Rev.A","Phys.Rev. A55 (1997) 3042","10.1103/PhysRevA.55.3042",,"quant-ph",,"  It is shown that because of the radiation pressure a Schr\""odinger cat state
+can be generated in a resonator with oscillating wall. The optomechanical
+control of quantum macroscopic coherence and its detection is taken into
+account introducing new cat states. The effects due to the environmental
+couplings with this nonlinear system are considered developing an operator
+perturbation procedure to solve the master equation for the field mode density
+operator.
+","[{""version"":""v1"",""created"":""Sat, 30 Nov 1996 17:38:27 GMT""}]","2009-10-30"
+"quant-ph/9612006",,"V. I. Man'ko, G. Marmo, E. C. G. Sudarshan, and F. Zaccaria","f-Oscillators and Nonlinear Coherent States","Latex, 32 pages, accepted by Physica Scripta","Phys.Scripta55:528,1997","10.1088/0031-8949/55/5/004",,"quant-ph",,"  The notion of f-oscillators generalizing q-oscillators is introduced. For
+classical and quantum cases, an interpretation of the f-oscillator is provided
+as corresponding to a special nonlinearity of vibration for which the frequency
+of oscillation depends on the energy. The f-coherent states (nonlinear coherent
+states) generalizing q-coherent states are constructed. Applied to quantum
+optics, photon distribution function, photon number means, and dispersions are
+calculated for the f-coherent states as well as the Wigner function and
+Q-function. As an example, it is shown how this nonlinearity may affect the
+Planck distribution formula.
+","[{""version"":""v1"",""created"":""Sat, 30 Nov 1996 18:55:55 GMT""}]","2016-09-08"
+"quant-ph/9612007",,"V. I. Man'ko, G. Marmo, E. C. G. Sudarshan, and F. Zaccaria","Wigner's Problem and Alternative Commutation Relations for Quantum
+  Mechanics","Latex,14 pages,accepted by Int. Jour.Mod.Phys","Int.J.Mod.Phys. B11 (1997) 1281-1296","10.1142/S0217979297000666",,"quant-ph",,"  It is shown, that for quantum systems the vectorfield associated with the
+equations of motion may admit alternative Hamiltonian descriptions, both in the
+Schr\""odinger and Heisenberg pictures. We illustrate these ambiguities in terms
+of simple examples.
+","[{""version"":""v1"",""created"":""Sat, 30 Nov 1996 19:17:07 GMT""}]","2019-08-17"
+"quant-ph/9612008",,"Vladimir I. Man'ko, Alfred W\""unsche","Properties of Squeezed-State Excitations","Latex,35 pages,submitted to Quant.Semiclassical Opt",,"10.1088/1355-5111/9/3/010",,"quant-ph",,"  The photon distribution function of a discrete series of excitations of
+squeezed coherent states is given explicitly in terms of Hermite polynomials of
+two variables. The Wigner and the coherent-state quasiprobabilities are also
+presented in closed form through the Hermite polynomials and their limiting
+cases. Expectation values of photon numbers and their dispersion are
+calculated. Some three-dimensional plots of photon distributions for different
+squeezing parameters demonstrating oscillatory behaviour are given.
+","[{""version"":""v1"",""created"":""Sat, 30 Nov 1996 19:56:20 GMT""}]","2009-10-30"
+"quant-ph/9612009","Guo Guangcan","Lu-Ming Duan and Guang-Can Guo (University of Science and Technology
+  of China)","Alternative approach to electromagnetic field quantization in nonlinear
+  and inhomogeneous media","Corrections in references and introduction","Phys. Rev. A 56 (1), 925 (1997)","10.1103/PhysRevA.56.925",,"quant-ph",,"  A simple approach is proposed for the quantization of the electromagnetic
+field in nonlinear and inhomogeneous media. Given the dielectric function and
+nonlinear susceptibilities, the Hamiltonian of the electromagnetic field is
+determined completely by this quantization method. From Heisenberg's equations
+we derive Maxwell's equations for the field operators. When the nonlinearity
+goes to zero, this quantization method returns to the generalized canonical
+quantization procedure for linear inhomogeneous media [Phys. Rev. A, 43, 467,
+1991]. The explicit Hamiltonians for the second-order and third-order nonlinear
+quasi-steady-state processes are obtained based on this quantization procedure.
+","[{""version"":""v1"",""created"":""Sun, 1 Dec 1996 04:41:06 GMT""},{""version"":""v2"",""created"":""Mon, 2 Feb 1998 08:03:43 GMT""}]","2009-10-30"

@@ -1,0 +1,402 @@
+"alg-geom/9605004","Ishihara Hironobu","Hironobu Ishihara","Rank-2 ample vector bundles on some smooth rational surfaces","AMS-TeX v2.1, 29 pages",,,,"alg-geom math.AG",,"  Some classification results for ample vector bundles of rank 2 on Hirzebruch
+surfaces, and on Del Pezzo surfaces, are obtained. In particular, we classify
+rank-2 ample vector bundles with $c_2$ less than 7 on Hirzebruch surfaces, and
+with $c_2$ less than 4 on Del Pezzo surfaces.
+","[{""version"":""v1"",""created"":""Mon, 13 May 1996 06:59:54 GMT""}]","2008-02-03"
+"alg-geom/9605005",,"A.Levin, M.Olshanetsky","Double coset construction of moduli space of holomorphic bundles and
+  Hitchin systems","19 pages, Latex","Commun.Math.Phys. 188 (1997) 449-466","10.1007/s002200050173","MPI-96-60; ITEP-TH-13/96","alg-geom hep-th math.AG",,"  We present a description of the moduli space of holomorphic vector bundles
+over Riemann curves as a double coset space which is differ from the standard
+loop group construction. Our approach is based on equivalent definitions of
+holomorphic bundles, based on the transition maps or on the first order
+differential operators. Using this approach we present two independent
+derivations of the Hitchin integrable systems. We define a ""superfree"" upstairs
+systems from which Hitchin systems are obtained by three step hamiltonian
+reductions. A special attention is being given on the Schottky parameterization
+of curves.
+","[{""version"":""v1"",""created"":""Mon, 13 May 1996 11:30:45 GMT""}]","2009-10-28"
+"alg-geom/9605006","Robert Friedman","Robert Friedman","Donaldson and Seiberg-Witten invariants of algebraic surfaces","AMS-TeX, amsppt style",,,,"alg-geom math.AG",,"  This paper, yet another account of Seiberg-Witten theory and its consequences
+for algebraic surfaces, is the written version of the author's talk at the
+Santa Cruz conference.
+","[{""version"":""v1"",""created"":""Mon, 13 May 1996 15:18:44 GMT""}]","2008-02-03"
+"astro-ph/9605061","David Syer","D. Syer (MPA), S. Tremaine (CITA)","Made-to-measure N-body systems","8 pages, tex, figures included, accepted by MNRAS, also available at
+  http://www.mpa-garching.mpg.de/~syer/papers/",,"10.1093/mnras/282.1.223","DS-1996c","astro-ph",,"  We describe an algorithm for constructing N-body realisations of equilibrium
+stellar systems. The algorithm complements existing orbit-based modelling
+techniques using linear programming or other optimization algorithms. The
+equilibria are constructed by integrating an N-body system while slowly
+adjusting the masses of the particles until the time-averaged density field and
+other observables converge to a prescribed value. The procedure can be arranged
+to maximise a linear combination of the entropy of the system and the $\chi^2$
+statistic for the observables. The equilibria so produced may be useful as
+initial conditions for N-body simulations or for modelling observations of
+individual galaxies.
+","[{""version"":""v1"",""created"":""Mon, 13 May 1996 11:56:41 GMT""}]","2015-06-24"
+"cmp-lg/9605018","M. J. Nederhof","Mark-Jan Nederhof (University of Groningen) and Giorgio Satta
+  (University of Padua)","Efficient Tabular LR Parsing","8 pages, uses aclap.sty","Proceedings ACL '96 (Santa Cruz)",,,"cmp-lg cs.CL",,"  We give a new treatment of tabular LR parsing, which is an alternative to
+Tomita's generalized LR algorithm. The advantage is twofold. Firstly, our
+treatment is conceptually more attractive because it uses simpler concepts,
+such as grammar transformations and standard tabulation techniques also know as
+chart parsing. Secondly, the static and dynamic complexity of parsing, both in
+space and time, is significantly reduced.
+","[{""version"":""v1"",""created"":""Mon, 13 May 1996 14:18:13 GMT""}]","2008-02-03"
+"comp-gas/9605001","Ales Raidl","Ales Raidl (Department of Meteorology and Environment Protection,
+  Charles University, Czech Republic)","Estimating the Fractal Dimension, K_2-entropy, and the Predictability of
+  the Atmosphere","27 pages (LaTex version 2.09) and 15 figures as .ps files, e-mail:
+  ar@kamet.troja.mff.cuni.cz","Czechoslovak Journal of Physics 46(1996) 293-328","10.1007/BF01691691",,"comp-gas ao-sci chao-dyn nlin.CD nlin.CG",,"  The series of mean daily temperature of air recorded over a period of 215
+years is used for analysing the dimensionality and the predictability of the
+atmospheric system. The total number of data points of the series is 78527.
+Other 37 versions of the original series are generated, including ``seasonally
+adjusted'' data, a smoothed series, series without annual course, etc. Modified
+methods of Grassberger and Procaccia are applied. A procedure for selection of
+the ``meaningful'' scaling region is proposed. Several scaling regions are
+revealed in the ln C(r) versus ln r diagram. The first one in the range of
+larger ln r has a gradual slope and the second one in the range of intermediate
+ln r has a fast slope. Other two regions are settled in the range of small ln
+r. The results lead us to claim that the series arises from the activity of at
+least two subsystems. The first subsystem is low-dimensional (d_f=1.6) and it
+possesses the potential predictability of several weeks. We suggest that this
+subsystem is connected with seasonal variability of weather. The second
+subsystem is high-dimensional (d_f>17) and its error-doubling time is about 4-7
+days. It is found that the predictability differs in dependence on season. The
+predictability time for summer, winter and the entire year (T_2 approx. 4.7
+days) is longer than for transition-seasons (T_2 approx. 4.0 days for spring,
+T_2 approx. 3.6 days for autumn). The role of random noise and the number of
+data points are discussed. It is shown that a 15-year-long daily temperature
+series is not sufficient for reliable estimations based on Grassberger and
+Procaccia algorithms.
+","[{""version"":""v1"",""created"":""Mon, 13 May 1996 13:47:20 GMT""}]","2009-10-28"
+"cond-mat/9605072","Bill Reid","R.W. Reid, S.K. Bose, B. Mitrovic (Brock University, Canada)","Spin glass behavior of frustrated 2-D Penrose lattice in the classical
+  planar model","RevTex, 4 pages Including 4 figures. To appear in the June 1 1996
+  issue of Phys. Rev. B (Rapid Communications). Revised/replaced edition
+  contains an erratum at the end of the paper, also to appear in Phys. Rev. B",,"10.1103/PhysRevB.54.R740",,"cond-mat",,"  Via extensive Monte Carlo studies we show that the frustrated XY Hamiltonian
+on a 2-D Penrose lattice admits of a spin glass phase at low temperature.
+Studies of the Edwards-Anderson order parameter, spin glass susceptibility, and
+local (linear) susceptibility point unequivocally to a paramagnetic to spin
+glass transition as the temperature is lowered. Specific heat shows a rounded
+peak at a temperature above the spin glass transition temperature, as is
+commonly observed in spin glasses. Our results strongly suggest that the
+critical point exponents are the same as obtained by Bhatt and Young in the
+${\pm}J$ Ising model on a square lattice. However, unlike in the latter case,
+the critical temperature is clearly finite (nonzero). The results imply that a
+quasiperiodic 2-D array of superconducting grains in a suitably chosen
+transverse magnetic field should behave as a superconducting glass at low
+temperature.
+","[{""version"":""v1"",""created"":""Sun, 12 May 1996 19:35:49 GMT""},{""version"":""v2"",""created"":""Tue, 14 May 1996 20:42:50 GMT""}]","2009-10-28"
+"cond-mat/9605073","Chang Ming Ho","C.-M. Ho and J.T. Chalker (Theoretical physics, Oxford)","Models for the integer quantum Hall effect: the network model, the Dirac
+  equation, and a tight-binding Hamiltonian","Revtex, 15 pages, 7 figures; submitted to Phys. Rev. B","Phys. Rev. B 54, 8708 (1996)","10.1103/PhysRevB.54.8708",,"cond-mat",,"  We consider models for the plateau transition in the integer quantum Hall
+effect. Starting from the network model, we construct a mapping to the Dirac
+Hamiltonian in two dimensions. In the general case, the Dirac Hamiltonian has
+randomness in the mass, the scalar potential, and the vector potential.
+Separately, we show that the network model can also be associated with a
+nearest neighbour, tight-binding Hamiltonian.
+","[{""version"":""v1"",""created"":""Sun, 12 May 1996 23:51:13 GMT""}]","2011-08-05"
+"cond-mat/9605074","Rajeev Gupta","Rajeev Gupta, A.K. Sood, R. Mahesh and C.N.R. Rao","Electronic Raman scattering and photoluminescence from
+  La$_{0.7}$Sr$_{0.3}$MnO$_3$ exhibiting giant magnetoresistance","10 pages + 4 eps figures, Revtex 3.0, figures available on request",,"10.1103/PhysRevB.54.14899",,"cond-mat",,"  Raman and Photoluminescence (PL) experiments on correlated metallic
+La$_{0.7}$Sr$_{0.3}$MnO$_{3}$ have been carried out using different excitation
+wavelengths as a function of temperature from 15 K to 300 K. Our data suggest a
+Raman mode centered at 1800 cm$^{-1}$ and a PL band at 2.2 eV. The intensities
+of the two peaks decrease with increasing temperature. The Raman mode can be
+attributed to a plasmon excitation whose frequency and linewidths are
+consistent with the measured resistivities. The PL involves intersite
+electronic transitions of the manganese ions.
+","[{""version"":""v1"",""created"":""Mon, 13 May 1996 03:58:26 GMT""}]","2009-10-28"
+"cond-mat/9605075","Heinz Schulz","H.J. Schulz (Physique des Solides, Orsay, France)","Coupled Luttinger Liquids","14 pages, Revtex with epsf, 3 figures included as Postscript files,
+  Rencontres de Moriond, Les Arcs, France, Jan. 1996","in ``Correlated Fermions and Transport in Mesoscopic Systems'',
+  ed. T. Martin, G. Montambaux, J. Tran Thanh Van (Editions Frontieres,
+  Gif--sur--Yvette, 1996), p. 81.","10.1007/BFb0104636",,"cond-mat",,"  Many one--dimensional quantum systems, in particular interacting electron and
+spin systems, can be described a Luttinger liquids. Here, some basic ideas of
+this picture of one--dimensional systems are briefly reviewed. I then discuss
+the effect of interchain coupling for a finite number of parallel chains. In
+the case of spin chains coupled by exchange interactions, the low--energy
+properties are radically different according to whether the number of coupled
+chains is even or odd: even number of chains have a gap in the spin
+excitations, whereas odd numbers of chains are gapless. The effect of
+interchain tunneling is analyzed for two and three coupled chains of itinerant
+fermions: for repulsive interactions, the two--chain system is ``universally''
+found to be a d--wave superconductor, with a gap in the spin excitation
+spectrum. On the other hand, for three chains the ground state depends both on
+the boundary conditions in the transverse direction and on the strength of the
+interactions. Weak repulsive interactions in all cases lead to dominant
+superconducting pairing of d--type. An example of a three--leg spin ladder with
+a spin gap is proposed. A general scheme to keep track of fermion
+anticommutation in the bosonization technique is developed.
+","[{""version"":""v1"",""created"":""Mon, 13 May 1996 13:07:22 GMT""}]","2009-10-28"
+"cond-mat/9605077","Domenico Maria Carlucci","D.M.Carlucci, C.De Dominicis, T.Temesvari","Stability of the Mezard-Parisi solution for random manifolds","LaTeX, 15 pages",,"10.1051/jp1:1996114",,"cond-mat",,"  The eigenvalues of the Hessian associated with random manifolds are
+constructed for the general case of $R$ steps of replica symmetry breaking. For
+the Parisi limit $R\to\infty$ (continuum replica symmetry breaking) which is
+relevant for the manifold dimension $D<2$, they are shown to be non negative.
+","[{""version"":""v1"",""created"":""Mon, 13 May 1996 11:02:22 GMT""}]","2009-10-28"
+"cond-mat/9605078","Miriam Blaauboer","M. Blaauboer, R.T.W. Koperdraad, A. Lodder and D. Lenstra","Size-effects in the Density of States in NS and SNS junctions","9 pages, RevTex, 5 figures, accepted in Phys. Rev. B","Phys. Rev. B 54, 4283 (1996).","10.1103/PhysRevB.54.4283",,"cond-mat",,"  The quasiparticle local density of states (LDOS) is studied in clean NS and
+SNS junctions with increasing transverse size, from quasi-one-dimensional to
+three-dimensional. It is shown that finite transverse dimensions are related to
+pronounced effects in the LDOS, such as fast oscillations superimposed on the
+quasiparticle interference oscillations (for NS) and additional peaks in the
+bound state spectrum in the subgap region (for SNS). Also, the validity of the
+Andreev approximation is discussed. It turns out to be an acceptable
+approximation in all situations tested.
+","[{""version"":""v1"",""created"":""Mon, 13 May 1996 12:38:09 GMT""}]","2009-10-28"
+"cond-mat/9605079","Arne Brataas","Arne Brataas, Vidar Gudmundsson, A. G. Mal'shukov and K. A. Chao","The evolution of Bernstein modes in quantum wires with increasing
+  deviation from parabolic confinement","9 pages, 4 figures, uses IOP macros, to appear in the Journal of
+  Physics: Condensed Matter",,"10.1088/0953-8984/8/26/011",,"cond-mat",,"  We investigate the evolution of the interaction of the magnetoplasmon
+resonance with the harmonics of the cyclotron resonance as the confinement of
+an electron gas in a quantum wire increasingly deviates from the parabolic
+case. The occurrence of the Bernstein modes is observed in a time-dependent
+Hartree model of a two-dimensional electron gas in a single quantum wire.
+","[{""version"":""v1"",""created"":""Mon, 13 May 1996 12:53:35 GMT""}]","2009-10-28"
+"gr-qc/9605025","Mark J. Gotay","Mark J. Gotay (University of Hawai`i), Jacques Demaret (Universite de
+  Liege)","Some remarks on singularities in quantum cosmology","4 pps., LaTeX2e. Substantial revisions. To appear in: Proc. of the
+  Second Conference on Constrained Dynamics and Quantum Gravity, Santa
+  Margherita Ligure, Italy, 17-21 September 1996. Edited by V. de Alfaro et al","Nucl.Phys.Proc.Suppl. 57 (1997) 227-230","10.1016/S0920-5632(97)00385-X",,"gr-qc",,"  We discuss to what extent classical singularities persist upon quantization
+in two simple cosmological models.
+","[{""version"":""v1"",""created"":""Mon, 13 May 1996 09:47:55 GMT""},{""version"":""v2"",""created"":""Wed, 27 Nov 1996 12:30:10 GMT""}]","2009-10-28"
+"gr-qc/9605026","Alex Kaganovich","E.I. Guendelman and A.B. Kaganovich (Physics Dept., Ben Gurion
+  University, Israel)","The Principle of Non-Gravitating Vacuum Energy and some of its
+  consequences","23 pages",,"10.1103/PhysRevD.53.7020","Phys.BGU-137/96","gr-qc",,"  For Einstein's General Relativity (GR) or the alternatives suggested up to
+date the vacuum energy gravitates. We present a model where a new measure is
+introduced for integration of the total action in the D-dimensional space-time.
+This measure is built from D scalar fields $\varphi_{a}$. As a consequence of
+such a choice of the measure, the matter lagrangian $L_{m}$ can be changed by
+adding a constant while no gravitational effects, like a cosmological term, are
+induced. Such Non-Gravitating Vacuum Energy (NGVE) theory has an infinite
+dimensional symmetry group which contains volume-preserving diffeomorphisms in
+the internal space of scalar fields $\varphi_{a}$. Other symmetries contained
+in this symmetry group, suggest a deep connection of this theory with theories
+of extended objects. In general {\em the theory is different from GR} although
+for certain choices of $L_{m}$, which are related to the existence of an
+additional symmetry, solutions of GR are solutions of the model. This is
+achieved in four dimensions if $L_{m}$ is due to fundamental bosonic and
+fermionic strings. Other types of matter where this feature of the theory is
+realized, are for example: scalars without potential or subjected to nonlinear
+constraints, massless fermions and point particles. The point particle plays a
+special role, since it is a good phenomenological description of matter at
+large distances. de Sitter space is realized in an unconventional way, where
+the de Sitter metric holds, but such de Sitter space is supported by the
+existence of a variable scalar field which in practice destroys the maximal
+symmetry. The only space - time where maximal symmetry is not broken, in a
+dynamical sense, is Minkowski space. The theory has non trivial dynamics in 1+1
+dimensions, unlike GR.
+","[{""version"":""v1"",""created"":""Mon, 13 May 1996 09:52:02 GMT""}]","2020-05-20"
+"hep-lat/9605014","Hideyuki Abe","Hideyuki Abe","Vacuum State of Lattice Gauge Theory with Fermions in 2+1 Dimensions","16 pages, 5 embedded PS figures, LaTeX with special style","Int.J.Mod.Phys. A12 (1997) 3775-3786","10.1142/S0217751X97001948",,"hep-lat",,"  We investigate the vacuum state of the lattice gauge theory with fermions in
+2+1 dimensions. The vacuum in the Hermite form for the fermion part is
+obtained; the vacuum in the unitary form has been proposed by Luo and Chen. It
+is shown that the Hermite vacuum has a lower energy than the unitary one
+through the variational method.
+","[{""version"":""v1"",""created"":""Mon, 13 May 1996 01:17:41 GMT""},{""version"":""v2"",""created"":""Sun, 5 Oct 1997 01:29:33 GMT""}]","2009-10-28"
+"hep-lat/9605016","W. H. Tang","Jan Smit and Wai Hung Tang (University of Amsterdam)","Chern-Simons Diffusion Rate near the Electroweak Phase Transition for
+  $m_H \approx m_W$","23 pages, 8 Postscript figures, uses epsf.sty","Nucl.Phys. B482 (1996) 265-285",,"ITFA-95-11","hep-lat hep-ph",,"  The rate of $B$-violation in the standard model at finite temperature is
+closely related to the diffusion rate $\Gamma$ of Chern-Simons number. We
+compute this rate for $m_H \approx m_W$ in the classical approximation in an
+effective SU(2)-Higgs model, using Krasnitz's algorithm. The parameters in the
+effective hamiltonian are determined by comparison with dimensional reduction.
+In the high temperature phase we find $\Gamma/V (\alpha_W T)^4 \approx 1$,
+neglecting a finite renormalization. In the low temperature phase near the
+transition we find the rate to be much larger than might be expected from
+previous analytic calculations based on the sphaleron.
+","[{""version"":""v1"",""created"":""Mon, 13 May 1996 09:40:23 GMT""}]","2007-05-23"
+"hep-ph/9605283","Mikko Laine","M.Laine","Effective Theories of MSSM at High Temperature","42 pages, 8 figures. Erratum appended, conclusions unchanged","Nucl.Phys. B481 (1996) 43-84; Erratum-ibid. B548 (1999) 637-638","10.1016/S0550-3213(96)90121-2",,"hep-ph",,"  We construct effective 3d field theories for the Minimal Supersymmetric
+Standard Model, relevant for the thermodynamics of the cosmological electroweak
+phase transition. The effective theories include a 3d theory for the bosonic
+sector of the original 4d theory; a 3d two Higgs doublet model; and a 3d
+SU(2)+Higgs model. The integrations are made at 1-loop level. In integrals
+related to vacuum renormalization we take into account only quarks and squarks
+of the third generation. Using existing non-perturbative lattice results for
+the 3d SU(2)+Higgs model, we then derive infrared safe upper bounds for the
+lightest Higgs boson mass required for successful baryogenesis at the
+electroweak scale. The Higgs mass bounds turn out to be close to those
+previously found with the effective potential, allowing baryogenesis if the
+right-handed stop mass parameter $m_U^2$ is small. Finally we discuss the
+effective theory relevant for $m_U^2$ very small, the most favourable case for
+baryogenesis.
+","[{""version"":""v1"",""created"":""Mon, 13 May 1996 04:52:37 GMT""},{""version"":""v2"",""created"":""Mon, 22 Feb 1999 18:56:31 GMT""}]","2015-06-25"
+"hep-ph/9605289","Toshiaki Ito","Toshiaki Ito and Yoshimitsu Matsui (Nagoya University)","The \Xi_Q - \Xi_Q' Mixing and Heavy Baryon Masses","8 pages LaTeX","Prog.Theor.Phys. 96 (1996) 659-664","10.1143/PTP.96.659","DPNU-96-26","hep-ph",,"  We examine the $\Xi_Q - \Xi'_Q$ mixing and heavy baryon masses in the heavy
+quark effective theory with the $\mq$ corrections. In the conventional baryon
+assignment, we obtain the mixing angle $\cos^2 \theta = 0.87\pm 0.03$ in virtue
+of the Gell-Mann-Okubo mass relation. On the other hand, if we adopt the new
+baryon assignment given by Falk, the allowed region of the $\Sigma_c$ mass is
+upper from 2372 MeV.
+","[{""version"":""v1"",""created"":""Mon, 13 May 1996 04:08:28 GMT""},{""version"":""v2"",""created"":""Mon, 20 May 1996 03:16:18 GMT""},{""version"":""v3"",""created"":""Thu, 26 Sep 1996 08:06:27 GMT""}]","2016-09-01"
+"hep-ph/9605290","Paolo Gondolo","Paolo Gondolo (Oxford University)","Phenomenological Introduction to Direct Dark Matter Detection","9 pages. uses epsf, rotate. 4 embedded postscript figures. Invited
+  talk at the XXXI Rencontres de Moriond, ""Dark Matter in Cosmology, Quantum
+  Measurements, Experimental Gravitation,"" Les Arcs, France, January 1996",,,,"hep-ph",,"  The dark matter of our galactic halo may be constituted by elementary
+particles that interact weakly with ordinary matter (WIMPs). In spite of the
+very low counting rates expected for these dark matter particles to scatter off
+nuclei in a laboratory detector, such direct WIMP searches are possible and are
+experimentally carried out at present. An introduction to the theoretical
+ingredients entering the counting rates predictions, together with a short
+discussion of the major theoretical uncertainties, is here presented.
+","[{""version"":""v1"",""created"":""Mon, 13 May 1996 12:49:07 GMT""}]","2007-05-23"
+"hep-th/9605077",,"N. Khviengia, Z. Khviengia, H. Lu and C.N. Pope","Intersecting M-branes and bound states","Latex, 14 pages, no figures. References added","Phys.Lett.B388:21-28,1996","10.1016/0370-2693(96)01166-5","CTP-TAMU-19/96","hep-th",,"  In this paper, we construct multi-scalar, multi-center $p$-brane solutions in
+toroidally compactified M-theory. We use these solutions to show that all
+supersymmetric $p$-branes can be viewed as bound states of certain basic
+building blocks, namely $p$-branes that preserve $1/2$ of the supersymmetry. We
+also explore the M-theory interpretation of $p$-branes in lower dimensions. We
+show that all the supersymmetric $p$-branes can be viewed as intersections of
+M-branes or boosted M-branes in $D=11$.
+","[{""version"":""v1"",""created"":""Mon, 13 May 1996 06:42:06 GMT""},{""version"":""v2"",""created"":""Mon, 16 Sep 1996 15:59:58 GMT""}]","2009-10-07"
+"hep-th/9605082",,"H. Lu, C.N. Pope and K.S. Stelle","Vertical versus Diagonal Dimensional Reduction for p-branes","Latex, 21 pages, no figures. References added","Nucl.Phys.B481:313-331,1996","10.1016/S0550-3213(96)90137-6","CTP-TAMU-18/96, Imperial/TP/95-96/36","hep-th",,"  In addition to the double-dimensional reduction procedure that employs
+world-volume Killing symmetries of $p$-brane supergravity solutions and acts
+diagonally on a plot of $p$ versus spacetime dimension $D$, there exists a
+second procedure of ``vertical'' reduction. This reduces the transverse-space
+dimension via an integral that superposes solutions to the underlying Laplace
+equation. We show that vertical reduction is also closely related to the
+recently-introduced notion of intersecting $p$-branes. We illustrate this with
+examples, and also construct a new $D=11$ solution describing four intersecting
+membranes, which preserves $1/16$ of the supersymmetry. Given the two reduction
+schemes plus duality transformations at special points of the scalar modulus
+space, one may relate most of the $p$-brane solutions of relevance to
+superstring theory. We argue that the maximum classifying duality symmetry for
+this purpose is the Weyl group of the corresponding Cremmer-Julia supergravity
+symmetry $E_{r(+r)}$. We also discuss a separate class of duality-invariant
+$p$-branes with $p=D-3$.
+","[{""version"":""v1"",""created"":""Mon, 13 May 1996 03:08:10 GMT""},{""version"":""v2"",""created"":""Mon, 16 Sep 1996 19:36:14 GMT""}]","2009-10-07"
+"hep-th/9605083","Nobuyoshi Ohta","Nobuyoshi Ohta","All the Exact Solutions of Generalized Calogero-Sutherland Models","Latex, 17 pages. Title and abstract slightly changed, plus minor
+  corrections","Jour. Phys. Soc. Japan. 65 (1996)3769","10.1143/JPSJ.65.3769","OU-HET 245","hep-th cond-mat",,"  A collective field method is extended to obtain all the explicit solutions of
+the generalized Calogero-Sutherland models that are characterized by the roots
+of all the classical groups, including the solutions corresponding to spinor
+representations for $B_N$ and $D_N$ cases.
+","[{""version"":""v1"",""created"":""Mon, 13 May 1996 00:58:27 GMT""},{""version"":""v2"",""created"":""Sat, 5 Apr 1997 06:11:40 GMT""}]","2009-10-30"
+"hep-th/9605084","Shinji Hamamoto","Shinji Hamamoto (Toyama University)","Massless Limits of Massive Tensor Fields","LaTeX, 15 pages, uses ptptex.sty and ptp-prep.sty","Prog.Theor.Phys. 96 (1996) 639-652","10.1143/PTP.96.639","TOYAMA-90","hep-th",,"  In order to construct a massive tensor theory with a smooth massless limit,
+we apply two kinds of gauge-fixing procedures, Nakanishi's one and the BRS one,
+to two models of massive tensor field. The first is of the Fierz-Pauli (FP)
+type, which describes a pure massive tensor field; the other is of the
+additional-scalar-ghost (ASG) type, which includes a scalar ghost in addition
+to an ordinary tensor field. It is shown that Nakanishi's procedure can
+eliminate massless singularities in both two models, while the BRS procedure
+regularizes the ASG model only. The BRS-regularized ASG model is most promising
+in constructing a complete nonlinear theory.
+","[{""version"":""v1"",""created"":""Mon, 13 May 1996 05:41:41 GMT""}]","2009-10-30"
+"hep-th/9605085",,"M.J. Duff and J. Rahmfeld","Bound States of Black Holes and Other $P$-Branes","22 pages, Latex; improved discussions of: zero versus non-zero
+  binding energy, consistent truncations, naked singularities; extra references
+  added and typographical errors corrected","Nucl.Phys. B481 (1996) 332-352","10.1016/S0550-3213(96)90139-X","CTP-TAMU-17/96","hep-th",,"  In the process of identifying heterotic and Type $II$ BPS string states with
+extremal dilaton black holes, it has been suggested that solutions with
+scalar/Maxwell parameters $a=\sqrt{3}$, $1$, $1/\sqrt{3}$ and $0$ correspond to
+$1-$, $2-$, $3-$ and $4$-particle bound states at threshold. (For example, the
+Reissner-Nordstrom black hole is just a superposition of four Kaluza-Klein
+black holes). Here we show that not only the masses, electric charges and
+magnetic charges but also the spins and supermultiplet structures of the string
+states are consistent with this interpretation. Their superspin $L$ corresponds
+to the Kerr-type angular momentum and hence only the $L=0$ elementary BPS
+states are black holes. Moreover, these results generalize to super $p$-branes
+in $D$-dimensions. By constructing multi-centered $p$-brane solitons, the new
+super $p$-branes found recently with various values of
+$a^2=\Delta-2(p+1)(D-p-3)/(D-2)$ are seen to be bound states of the fundamental
+ones with $\Delta=4$.
+","[{""version"":""v1"",""created"":""Mon, 13 May 1996 09:09:09 GMT""},{""version"":""v2"",""created"":""Fri, 24 May 1996 18:22:21 GMT""}]","2015-06-26"
+"hep-th/9605086",,"D.V.Antonov (ITEP, Moscow), D.Ebert (Humboldt University, Berlin),
+  Yu.A.Simonov (ITEP, Moscow)","Curvature expansion for the background-induced gluodynamics string","10 pages","Mod.Phys.Lett. A11 (1996) 1905-1918","10.1142/S0217732396001910",,"hep-th",,"  Using cumulant expansion for an averaged Wilson loop we derive an action of
+the gluodynamics string in the form of a series in powers of the correlation
+length of the vacuum. In the lowest orders it contains the Nambu-Goto term and
+the rigidity term with the coupling constants computed from the bilocal
+correlator of gluonic fields. Some higher derivative corrections are
+calculated.
+","[{""version"":""v1"",""created"":""Mon, 13 May 1996 15:38:08 GMT""}]","2015-06-26"
+"hep-th/9605088",,"Alan Kostelecky and Rob Potting","Expectation Values, Lorentz Invariance, and CPT in the Open Bosonic
+  String","accepted for publication in Physics Letters B","Phys.Lett.B381:89-96,1996","10.1016/0370-2693(96)00589-8","IUHET 319, October 1995","hep-th",,"  The issue of spontaneous breaking of Lorentz and CPT invariance is studied in
+the open bosonic string using a truncation scheme to saturate the string-field
+action at successively higher levels. We find strong evidence for the existence
+of extrema of the action with nonzero expectation values for certain fields.
+The Lorentz- and CPT-preserving solution previously suggested in the literature
+is confirmed through level 12 in the action. A family of Lorentz-breaking,
+CPT-preserving solutions of the equations of motion is found to persist and
+converge through level 18 in the action. Two sequences of solutions
+spontaneously breaking both Lorentz invariance and CPT are discussed. The
+analysis at this level involves the analytical form of over 20,000 terms in the
+static potential.
+","[{""version"":""v1"",""created"":""Mon, 13 May 1996 11:19:23 GMT""}]","2009-09-25"
+"hep-th/9705085","Jaume roca","Jordi Paris and Jaume Roca","A Remark on the Effective Description of Topological Defects","Plain TeX file, 16 pages, no figures; version to appear in Nuclear
+  Physics B","Nucl.Phys. B523 (1998) 377-390","10.1016/S0550-3213(98)00119-9","UB-ECM-PF 97/06","hep-th",,"  We subject the methodology used to derive the effective dynamics of
+topological defects to a critical reappraisal, using the two-dimensional kink
+as an illustrative example. Special care is taken on how the zero modes should
+be handled in order to avoid overcounting of degrees of freedom. This is an
+issue that has been overlooked in many recent contributions on the derivation
+of domain wall effective actions. We show that, unless such redundancy is
+completely removed by means of a sort of gauge-fixing, the expression obtained
+for the effective action will not be consistent. We readdress some earlier
+calculations over the existence of curvature corrections in the light of the
+previous discussion and briefly comment on the application of this method to
+higher dimensional topological defects.
+","[{""version"":""v1"",""created"":""Sun, 12 May 1996 16:11:58 GMT""},{""version"":""v2"",""created"":""Wed, 4 Feb 1998 10:06:41 GMT""}]","2009-10-30"
+"math/9605203",,"Dion Gildenhuys, Olga Kharlampovich and Alexey Myasnikov","CSA groups and separated free constructions","LaTex file, 26 pages. Not avilable",,,"MAGNUS preprint #96-05-13A","math.GR",,"  A group $G$ is said to be a {\it CSA}-group if all maximal abelian subgroups
+of $G$ are malnormal. The class of CSA groups is of interest because it
+contains torsion-free hyperbolic groups, groups acting freely on
+$\Lambda$-trees and groups with the same existential theory as free groups. CSA
+groups are also very closely related to the study of residually free groups and
+tensor completions. In this paper we investigate which free constructions
+(amalgamated products and HNN extensions) over CSA groups are again CSA. The
+results are applied, in particular, to show that a torsion-free one-relator
+group is CSA if and only if it does not contain nonabelian metabelin
+Baumslag-Solitar groups and the direct product of the free group of rank 2 and
+the infinite cyclic group.
+","[{""version"":""v1"",""created"":""Mon, 13 May 1996 00:00:00 GMT""}]","2009-09-25"
+"math/9605204",,"Olga Kharlampovich and Alexey Myasnikov","Equations in a free Q-group","LaTex file, 26 pages. Not avilable",,,"MAGNUS preprint #96-05-13B","math.GR",,"  In this work we investigate tensor completions of groups by associative
+rings, which were introduced by R.Lyndon and G.Baumslag in 1960s. The main
+result states that there exists an algorithm that decides if a given finite
+system of equations over a free ${\bf Q}$-group has a solution, and if it does,
+finds a solution. This statement can be generalized for ${\bf Q}$-completions
+of torsion-free hyperbolic groups. Our proof significantly uses the techniques
+of word hyperbolic groups and the results of E.Rips and Z.Sela on the
+solvability of systems of equations in hyperbolic groups.
+","[{""version"":""v1"",""created"":""Mon, 13 May 1996 00:00:00 GMT""}]","2008-02-03"
+"math/9605205",,"Olga Kharlampovich and Alexey Myasnikov","Hyperbolic groups and free constructions","LaTex file, 44 pages. To appear in Trans. Am. Math. Soc",,,"MAGNUS preprint #96-05-13C","math.GR",,"  We investigate which free constructions (amalgamated products and
+HNN-extensions) over word hyperbolic groups produce groups that are again word
+hyperbolic. A complete answer is obtained for the case when the amalgamated
+subgroups are virtually cyclic. The results are applied, in particular, to show
+that a ${\bf Q}$-completion of a torsion-free hyperbolic group has solvable
+word problem and conjugacy problem.
+","[{""version"":""v1"",""created"":""Mon, 13 May 1996 00:00:00 GMT""}]","2008-02-03"
+"q-alg/9605017","Mathijs S. Dijkhuizen","M.S. Dijkhuizen, M. Noumi","A family of quantum projective spaces and related q-hypergeometric
+  orthogonal polynomials","31 pages, AMS-TeX 2.1, no figures",,,,"q-alg math.QA",,"  We define a one-parameter family of two-sided coideals in U_q(gl(n)) and
+study the corresponding algebras of infinitesimally right invariant functions
+on the quantum unitary group U_q(n). The Plancherel decomposition of these
+algebras with respect to the natural transitive U_q(n)-action is shown to be
+the same as in the case of a complex projective space. By computing the radial
+part of a suitable Casimir operator, we identify the zonal spherical functions
+(i.e. infinitesimally bi-invariant matrix coefficients of finite-dimensional
+irreducible representations) as Askey-Wilson polynomials containing two
+continuous and one discrete parameter. In certain limit cases, the zonal
+spherical functions are expressed as big and little q-Jacobi polynomials
+depending on one discrete parameter.
+","[{""version"":""v1"",""created"":""Mon, 13 May 1996 06:57:16 GMT""}]","2008-02-03"
+"quant-ph/9605008","Hiromichi Nakazato","Hiromichi Nakazato, Mikio Namiki (Dept. of Phys, Waseda Univ., Japan),
+  Saverio Pascazio (Dipt. di Fisica, Univ. di Bari and INFN, Bari, Italy) and
+  Helmut Rauch (Atominstitut, Wien, Austria)","Understanding the quantum Zeno effect","9 pages, LaTeX, including 1 epsfigure, tar+gzip+uuencoded to appear
+  in Phys. Lett. A",,"10.1016/0375-9601(96)00350-7",,"quant-ph",,"  The quantum Zeno effect consists in the hindrance of the evolution of a
+quantum system that is very frequently monitored and found to be in its initial
+state at every single measurement. On the basis of the correct formula for the
+survival probability, i.e. the probability of finding the system in its initial
+state at every single measurement, we critically analyze a recent proposal and
+experimental test, that make use of an oscillating system.
+","[{""version"":""v1"",""created"":""Mon, 13 May 1996 09:13:10 GMT""}]","2009-10-30"
+"quant-ph/9605009","Asher Peres","Asher Peres","Error symmetrization in quantum computers","3 pages LaTeX, extended abstract for PhysComp96","Int.J.Theor.Phys. 38 (1999) 799-805",,,"quant-ph",,"  It is possible to reduce some types of quantum computation errors by
+symmetrizing the quantum state of a redundant array. Various models are
+discussed.
+","[{""version"":""v1"",""created"":""Mon, 13 May 1996 09:32:27 GMT""}]","2007-05-23"
+"quant-ph/9605010","Tal Mor","E. Biahm and T. Mor","Bounds on Information and the Security of Quantum Cryptography","11 pages, LaTex, 1 figure. Submitted to Physical Review Letters. This
+  new version is much different from the previous (conference) version. It
+  contains explicit calculations of the maximal information obtained by various
+  eavesdropping attacks on the final key, and suggests that quantum key
+  distribution is ultimately secure",,,,"quant-ph",,"  Strong attacks against quantum key distribution use quantum memories and
+quantum gates to attack directly the final key. In this paper we extend a novel
+security result recently obtained, to demonstrate proofs of security against a
+wide class of such attacks. To reach this goal we calculate
+information-dependent reduced density matrices, we study the geometry of
+quantum mixed states, and we find bounds on the information leaked to an
+eavesdropper. Our result suggests that quantum cryptography is ultimately
+secure.
+","[{""version"":""v1"",""created"":""Mon, 13 May 1996 14:10:34 GMT""},{""version"":""v2"",""created"":""Wed, 8 Jan 1997 17:14:31 GMT""}]","2008-02-03"
+"quant-ph/9605011","Peter W. Shor","Peter W. Shor (AT&T Research)","Fault-tolerant quantum computation","Latex, 11 pages, no figures, in 37th Symposium on Foundations of
+  Computing, IEEE Computer Society Press, 1996, pp. 56-65",,,,"quant-ph",,"  Recently, it was realized that use of the properties of quantum mechanics
+might speed up certain computations dramatically. Interest in quantum
+computation has since been growing. One of the main difficulties of realizing
+quantum computation is that decoherence tends to destroy the information in a
+superposition of states in a quantum computer, thus making long computations
+impossible. A futher difficulty is that inaccuracies in quantum state
+transformations throughout the computation accumulate, rendering the output of
+long computations unreliable. It was previously known that a quantum circuit
+with t gates could tolerate O(1/t) amounts of inaccuracy and decoherence per
+gate. We show, for any quantum computation with t gates, how to build a
+polynomial size quantum circuit that can tolerate O(1/(log t)^c) amounts of
+inaccuracy and decoherence per gate, for some constant c. We do this by showing
+how to compute using quantum error correcting codes. These codes were
+previously known to provide resistance to errors while storing and transmitting
+quantum data.
+","[{""version"":""v1"",""created"":""Mon, 13 May 1996 14:29:00 GMT""},{""version"":""v2"",""created"":""Wed, 5 Mar 1997 01:42:43 GMT""}]","2008-02-03"

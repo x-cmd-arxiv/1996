@@ -1,0 +1,229 @@
+"alg-geom/9612006","Donu Arapura","Donu Arapura","Geometry of cohomology support loci for local systems I","AMS-TeX, 30 pages",,,,"alg-geom math.AG",,"  Let X be a Zariski open subset of a compact Kaehler manifold. In this paper,
+we study the set $\Sigma^k(X)$ of one dimensional local systems on X with
+nonvanishing kth cohomology. We show that under certain conditions (X compact,
+X has a smooth compactification with trivial first Betti number, or k=1)
+$\Sigma^k(X)$ is a union of translates of sets of the form $f^*H^1(T,C^*)$,
+where $f:X \to T$ is a holomorphic map to a complex Lie group which is an
+extension of a compact complex torus by a product of C^*'s (these correspond to
+semiabelian varieties in the algebraic category). This generalizes earlier work
+of Beauville, Green, Lazarsfeld, Simpson and the author in the compact case.
+The main novelty lies in the proofs which involve consideration of Higgs fields
+with logarithmic poles. While a completely satifactory theory of such objects
+is still lacking, we are able to work out what we need in the rank one case by
+borrowing ideas from mixed Hodge theory. This will appear in the Journal of
+Algebraic Geometry.
+","[{""version"":""v1"",""created"":""Sat, 7 Dec 1996 20:08:50 GMT""}]","2008-02-03"
+"alg-geom/9612007","Donu Arapura","Donu Arapura and Pramathanath Sastry","Intermediate Jacobians of moduli spaces","AMS-LaTeX, 16 pages",,,,"alg-geom math.AG",,"  Let $SU_X(n,L)$ be the moduli space of rank n semistable vector bundles with
+fixed determinant L on a smooth projective genus g curve X. Let $SU_X^s(n,L)$
+denote the open subset parametrizing stable bundles. We show that if g>3 and n
+> 1, then the mixed Hodge structure on $H^3(SU_X^s(n, L))$ is pure of type
+${(1,2),(2,1)}$ and it carries a natural polarization such that the associated
+polarized intermediate Jacobian is isomorphic J(X). This is new when deg L and
+n are not coprime. As a corollary, we obtain a Torelli theorem that says
+roughly that $SU_X^s(n,L)$ (or $SU_X(n,L)$) determines X. This complements or
+refines earlier results of Balaji, Kouvidakis-Pantev, Mumford-Newstead,
+Narasimhan-Ramanan, and Tyurin.
+","[{""version"":""v1"",""created"":""Sat, 7 Dec 1996 20:09:24 GMT""}]","2008-02-03"
+"astro-ph/9612076",,"H. J. Haubold (UN, Austria)","Fourier Spectrum Analysis of the New Solar Neutrino Capture Rate Data
+  for the Homestake Experiment","4 pages, 6 figures combined in one eps file, uses espcrc1.sty
+  (included), to appear in Nuclear Physics A","Nucl.Phys. A621 (1997) 341c-344c","10.1016/S0375-9474(97)00268-6",,"astro-ph",,"  The paper provides results of the Fourier spectrum analysis of the new Ar-37
+production rate data of the Homestake solar neutrino experiment and compares
+them with results for earlier data, revealing the harmonic content in the Ar-37
+production in the Homestake experiment.
+","[{""version"":""v1"",""created"":""Sat, 7 Dec 1996 23:42:26 GMT""}]","2009-10-28"
+"chao-dyn/9612014","Doron Cohen","Doron Cohen","Periodic Orbits, Breaktime and Localization","LaTex (JPA-style), 12 pages, 3 figure. Final expanded version to be
+  published in J. Phys. A","J. Phys. A 31, 277 (1998)","10.1088/0305-4470/31/1/025",,"chao-dyn cond-mat nlin.CD",,"  The main goal of the present paper is to convince that it is feasible to
+construct a `periodic orbit theory' of localization by extending the idea of
+classical action correlations. This possibility had been questioned by many
+researchers in the field of `Quantum Chaos'. Starting from the semiclassical
+trace formula, we formulate a quantal-classical duality relation that connects
+the spectral properties of the quantal spectrum to the statistical properties
+of lengths of periodic orbits. By identifying the classical correlation scale
+it is possible to extend the semiclassical theory of spectral statistics, in
+case of a complex systems, beyond the limitations that are implied by the
+diagonal approximation. We discuss the quantal dynamics of a particle in a
+disordered system. The various regimes are defined in terms of time-disorder
+`phase diagram'. As expected, the breaktime may be `disorder limited' rather
+than `volume limited', leading to localization if it is shorter than the
+ergodic time. Qualitative agreement with scaling theory of localization in one
+to three dimensions is demonstrated.
+","[{""version"":""v1"",""created"":""Sun, 8 Dec 1996 08:37:10 GMT""},{""version"":""v2"",""created"":""Sun, 29 Jun 1997 07:34:59 GMT""},{""version"":""v3"",""created"":""Tue, 18 Nov 1997 12:18:08 GMT""}]","2009-10-28"
+"cond-mat/9612068","Juan Jose Palacios","J. J. Palacios, Lerwen Liu, and D. Yoshioka","Fine structure in the off-resonance conductance of small Coulomb
+  blockade systems","5 pages, 3 figures, postscript file also available at
+  http://www.pa.uky.edu/~palacios/papers/eom.ps One figure added. Discussion of
+  results extended","Phys. Rev. B 55, 15735 (1997)","10.1103/PhysRevB.55.15735",,"cond-mat.mes-hall",,"  We show how a fine, multiple-peak structure can arise in the off-resonance,
+zero-bias conductance of Coulomb blockade systems. In order to understand how
+this effect comes about one must abandon the orthodox, mean-field understanding
+of the Coulomb blockade phenomenon and consider quantum fluctuations in the
+occupation of the single-particle electronic levels. We illustrate such an
+effect with a spinless Anderson-like model for multi-level systems and an
+equation-of-motion method for calculating Green's functions that combines two
+simple decoupling schemes.
+","[{""version"":""v1"",""created"":""Sat, 7 Dec 1996 20:38:51 GMT""},{""version"":""v2"",""created"":""Fri, 21 Feb 1997 19:11:41 GMT""}]","2009-10-28"
+"cond-mat/9612069","Mikhail V. Medvedev","M.V. Medvedev (UCSD)","Properties of Particles Obeying Ambiguous Statistics","4 pages, REVTeX, 22k, final version, last Eq. corrected. This and
+  other papers may be found at http://sdphpd.ucsd.edu/~medvedev/papers.html","Phys.Rev.Lett.78:4147-4150,1997; Erratum-ibid.79:774,1997","10.1103/PhysRevLett.78.4147",,"cond-mat.stat-mech gr-qc hep-th physics.gen-ph",,"  A new class of identical particles which may exhibit both Bose and Fermi
+statistics with respective probabilities $p_b$ and $p_f$ is introduced. Such an
+uncertainity may be either an intrinsic property of a particle or can be viewed
+as an ``experimental uncertainity''. Statistical equivalence of such particles
+and particles obeying parastatistics of infinite order is shown. Generalized
+statistical distributions are derived and statistical and thermodynamical
+properties of an ideal gas of the particles are investigated. The physical
+nature of such particles and the implications of this investigation for the
+statistics of extremal black holes are discussed.
+","[{""version"":""v1"",""created"":""Sun, 8 Dec 1996 03:34:23 GMT""},{""version"":""v2"",""created"":""Wed, 23 Apr 1997 21:27:36 GMT""},{""version"":""v3"",""created"":""Sat, 26 Jul 1997 02:25:36 GMT""}]","2011-08-17"
+"hep-ph/9612284","Fyodor V. Tkachov","Fyodor V. Tkachov","Euclidean asymptotic expansions of Green functions of quantum fields (I)
+  Expansions of products of singular functions","one .sty + one .tex (LaTeX 2.09) + one .ps (GSview) = 72 pp. Many
+  fewer misprints than the journal version","Int.J.Mod.Phys.A8:2047-2117,1993","10.1142/S0217751X93000850","FERMILAB-PUB-91/347-T","hep-ph hep-th",,"  The problem of asymptotic expansions of Green functions in perturbative QFT
+is studied for the class of Euclidean asymptotic regimes. Phenomenological
+applications are analyzed to obtain a meaningful mathematical formulation of
+the problem. It is shown that the problem reduces to studying asymptotic
+expansions of products of a class of singular functions in the sense of the
+distribution theory. Existence, uniqueness and explicit expressions for such
+expansions (""asymptotic operation for products of singular functions"") in
+dimensionally regularized form are obtained using the so-called extension
+principle.
+","[{""version"":""v1"",""created"":""Sun, 8 Dec 1996 12:48:55 GMT""}]","2008-11-26"
+"hep-ph/9612285","Georg Raffelt","Ara N. Ioannisian (Technion, Haifa), Georg G. Raffelt (MPI, Munich)","Cherenkov radiation by massless neutrinos in a magnetic field","6 pages, REVTEX. Factor of 2 correction of final result. Reference
+  updates. To be published in Physical Review D","Phys. Rev. D 55, 7038 (1997)","10.1103/PhysRevD.55.7038","TECHNION-PH-96-23, MPI-PhT/96-126","hep-ph astro-ph",,"  We calculate the Cherenkov process nu -> nu+photon in the presence of a
+homogeneous magnetic field. The neutrinos are taken to be massless with only
+standard-model couplings. The magnetic field fulfills the dual purpose of
+inducing an effective neutrino-photon vertex and of modifying the photon
+dispersion relation such that the Cherenkov condition is fulfilled. Our effect
+is closely related to photon splitting that occurs in magnetic fields and that
+may be astrophysically important in the strong magnetic fields of pulsars. It
+is also closely related to magnetic-field enhanced radiative decays nu ->
+nu'+photon that have been extensively discussed in the recent literature. In
+the appropriate limits we agree with these results, but we disagree with
+earlier explicit calculations of the Cherenkov process. For a field strength
+B_crit = m_e^2/e = 4.41E13 Gauss and for E=2m_e the Cherenkov rate is about
+6E-11/sec and thus too small to be of practical importance for pulsar physics.
+","[{""version"":""v1"",""created"":""Sun, 8 Dec 1996 12:15:07 GMT""},{""version"":""v2"",""created"":""Tue, 18 Mar 1997 10:47:41 GMT""}]","2016-08-24"
+"hep-ph/9612286","Owe Philipsen","W.Buchm\""uller (DESY) and O.Philipsen (U. Heidelberg)","Magnetic Screening in the High Temperature Phase of the Standard Model","11 pages Latex, 3 figures, uses epsf.sty","Phys.Lett.B397:112-118,1997","10.1016/S0370-2693(97)00074-9","DESY 96-241, HD-THEP-96-50","hep-ph",,"  Non-perturbative effects in the high-temperature phase of the electroweak
+theory are characterized by a magnetic screening length. Its size influences
+the range of validity of perturbation theory, and it also determines the
+critical Higgs boson mass where the first-order phase transition changes to a
+crossover. We propose a gauge-invariant definition of the magnetic screening
+length and discuss its role in several gauge-dependent and gauge-invariant
+correlation functions.
+","[{""version"":""v1"",""created"":""Sun, 8 Dec 1996 12:51:51 GMT""}]","2008-11-26"
+"hep-ph/9612287","Fyodor V. Tkachov","G.B. Pivovarov and F.V. Tkachov","Euclidean asymptotic expansions of Green functions of quantum fields
+  (II) Combinatorics of the asymptotic operation","one .sty + one .tex (LaTeX 2.09) + one .ps (GSview) = 46 pp. Many
+  fewer misprints than the journal version","Int.J.Mod.Phys.A8:2241-2286,1993","10.1142/S0217751X93000898","INR P-370-1984 + INR P-459-1986 = FERMILAB-PUB-91/345-T","hep-ph hep-th",,"  The results of part I (hep-ph/9612284) are used to obtain full asymptotic
+expansions of Feynman diagrams renormalized within the MS-scheme in the regimes
+when some of the masses and external momenta are large with respect to the
+others. The large momenta are Euclidean, and the expanded diagrams are regarded
+as distributions with respect to them. The small masses may be equal to zero.
+The asymptotic operation for integrals is defined and a simple combinatorial
+techniques is developed to study its exponentiation. The asymptotic operation
+is used to obtain the corresponding expansions of arbitrary Green functions.
+Such expansions generalize and improve upon the well-known short-distance
+operator-product expansions, the decoupling theorem etc.; e.g. the low-energy
+effective Lagrangians are obtained to all orders of the inverse heavy mass. The
+obtained expansions possess the property of perfect factorization of large and
+small parameters, which is essential for meaningful applications to
+phenomenology. As an auxiliary tool, the inversion of the R-operation is
+constructed. The results are valid for arbitrary QFT models.
+","[{""version"":""v1"",""created"":""Sun, 8 Dec 1996 14:20:32 GMT""}]","2008-11-26"
+"hep-th/9612078","Bojko Bakalov","Victor G. Kac and Ivan T. Todorov","Affine orbifolds and rational conformal field theory extensions of
+  W_{1+infinity}","64 pages, amstex","Commun.Math.Phys.190:57-111,1997","10.1007/s002200050234",,"hep-th",,"  Chiral orbifold models are defined as gauge field theories with a finite
+gauge group $\Gamma$. We start with a conformal current algebra A associated
+with a connected compact Lie group G and a negative definite integral invariant
+bilinear form on its Lie algebra. Any finite group $\Gamma$ of inner
+automorphisms or A (in particular, any finite subgroup of G) gives rise to a
+gauge theory with a chiral subalgebra $A^{\Gamma}\subset A$ of local
+observables invariant under $\Gamma$. A set of positive energy $A^{\Gamma}$
+modules is constructed whose characters span, under some assumptions on
+$\Gamma$, a finite dimensional unitary representation of $SL(2,Z)$. We compute
+their asymptotic dimensions (thus singling out the nontrivial orbifold modules)
+and find explicit formulae for the modular transformations and hence, for the
+fusion rules.
+  As an application we construct a family of rational conformal field theory
+(RCFT) extensions of $W_{1+\infty}$ that appear to provide a bridge between two
+approaches to the quantum Hall effect.
+","[{""version"":""v1"",""created"":""Sat, 7 Dec 1996 16:47:49 GMT""},{""version"":""v2"",""created"":""Sun, 15 Dec 1996 20:27:12 GMT""}]","2014-11-18"
+"hep-th/9612079","Zachary Guralnik","S. Garcia, G. Guralnik and Z. Guralnik","Theta Vacua and Boundary Conditions of the Schwinger Dyson Equations","32 pages, Latex, 3 figures",,,"PUPT-1670, MIT-CTP-2582","hep-th",,"  Quantum field theories and Matrix models have a far richer solution set than
+is normally considered, due to the many boundary conditions which must be set
+to specify a solution of the Schwinger-Dyson equations. The complete set of
+solutions of these equations is obtained by generalizing the path integral to
+include sums over various inequivalent contours of integration in the complex
+plane. We discuss the importance of these exotic solutions. While naively the
+complex contours seem perverse, they are relevant to the study of theta vacua
+and critical phenomena. Furthermore, it can be shown that within certain phases
+of many theories, the physical vacuum does not correspond to an integration
+over a real contour. We discuss the solution set for the special case of one
+component zero dimensional scalar field theories, and make remarks about matrix
+models and higher dimensional field theories that will be developed in more
+detail elsewhere. Even the zero dimensional examples have much structure, and
+show some analogues of phenomena which are usually attributed to the effects of
+taking a thermodynamic limit.
+","[{""version"":""v1"",""created"":""Sat, 7 Dec 1996 21:22:34 GMT""}]","2007-05-23"
+"hep-th/9612080","John Schwarz","Mina Aganagic, Costin Popescu, and John H. Schwarz","Gauge-Invariant and Gauge-Fixed D-Brane Actions","33 pages, latex, no figures; revised as requested by referee","Nucl.Phys. B495 (1997) 99-126","10.1016/S0550-3213(97)00180-6","CALT-68-2088","hep-th",,"  The first part of this paper presents actions for Dirichlet p-branes embedded
+in a flat 10-dimensional space-time. The fields of the (p+1)-dimensional
+world-volume theories are the 10d space-time coordinates $ X^m$, a pair of
+Majorana-Weyl spinors $\theta_1$ and $\theta_2$, and a U(1) gauge field
+$A_{\mu}$. The N = 2A or 2B super-Poincare group in ten dimensions is realized
+as a global symmetry. In addition, the theories have local symmetries
+consisting of general coordinate invariance of the world volume, a local
+fermionic symmetry (called ``kappa''), and U(1) gauge invariance. A detailed
+proof of the kappa symmetry is given that applies to all cases (p = 0,1, . . .,
+9). The second part of the paper presents gauge-fixed versions of these
+theories. The fields of the 10d (p = 9) gauge-fixed theory are a single
+Majorana-Weyl spinor $\lambda$ and the U(1) gauge field $A_{\mu}$. This theory,
+whose action turns out to be surprisingly simple, is a supersymmetric extension
+of 10d Born-Infeld theory. It has two global supersymmetries: one represents an
+unbroken symmetry, and the second corresponds to a broken symmetry for which
+$\lambda$ is the Goldstone fermion. The gauge-fixed supersymmetric D-brane
+theories with $p<9$ can be obtained from the 10d one by dimensional reduction.
+","[{""version"":""v1"",""created"":""Sat, 7 Dec 1996 23:11:03 GMT""},{""version"":""v2"",""created"":""Tue, 10 Dec 1996 19:18:29 GMT""},{""version"":""v3"",""created"":""Wed, 19 Feb 1997 21:58:26 GMT""}]","2016-09-06"
+"hep-th/9612081","Alexander V. Razumov","A. V. Razumov, M. V. Saveliev","Maximally nonabelian Toda systems","28 pages, LaTeX file. A few references and appendix B are added; this
+  version will appear in Nuclear Physics B","Nucl.Phys. B494 (1997) 657-686","10.1016/S0550-3213(97)00183-1","LPTENS 96/69","hep-th nlin.SI solv-int",,"  A detailed consideration of the maximally nonabelian Toda systems based on
+the classical semisimple Lie groups is given. The explicit expressions for the
+general solution of the corresponding equations are obtained.
+","[{""version"":""v1"",""created"":""Sun, 8 Dec 1996 11:21:15 GMT""},{""version"":""v2"",""created"":""Tue, 25 Feb 1997 14:11:44 GMT""}]","2009-10-30"
+"hep-th/9612082","Achim Kempf","Achim Kempf (D.A.M.T.P., Cambridge, UK)","String/Quantum Gravity motivated Uncertainty Relations and
+  Regularisation in Field Theory","6 pages, LaTex, (to appear in Proc. 21st Intl. Coll. on Group Theor.
+  Methods in Physics, Goslar, July '96)",,,"DAMTP/96-101","hep-th gr-qc math-ph math.MP math.QA q-alg quant-ph",,"  The possibility of the existence of small correction terms to the canonical
+commutation relations and the uncertainty relations has recently found renewed
+interest. In particular, such correction terms could induce finite lower bounds
+$\Delta x_0, \Delta p_0$ to the resolution of distances and/or momenta. I
+review a general framework for the path integral formulation of quantum field
+theories on such generalised geometries, and focus then on the mechanisms by
+which $\Delta p_0>0$, and/or $\Delta x_0>0$ lead to IR and/or UV
+regularisation.
+","[{""version"":""v1"",""created"":""Sun, 8 Dec 1996 15:31:59 GMT""}]","2008-02-03"
+"physics/9612005","Mikhail V. Medvedev","M.V. Medvedev, P.H. Diamond","Towards a Simple Model of Compressible Alfvenic Turbulence","6 pages, one figure, REVTeX; this version to be published in PRE. For
+  related papers, see http://sdphpd.ucsd.edu/~medvedev/papers.html","Phys. Rev. E 56, R2371-R2374 (1997)","10.1103/PhysRevE.56.R2371",,"physics.plasm-ph adap-org astro-ph nlin.AO physics.space-ph",,"  A simple model collisionless, dissipative, compressible MHD (Alfvenic)
+turbulence in a magnetized system is investigated. In contrast to more familiar
+paradigms of turbulence, dissipation arises from Landau damping, enters via
+nonlinearity, and is distributed over all scales. The theory predicts that two
+different regimes or phases of turbulence are possible, depending on the ratio
+of steepening to damping coefficient (m_1/m_2). For strong damping
+(|m_1/m_2|<1), a regime of smooth, hydrodynamic turbulence is predicted. For
+|m_1/m_2|>1, steady state turbulence does not exist in the hydrodynamic limit.
+Rather, spikey, small scale structure is predicted.
+","[{""version"":""v1"",""created"":""Sun, 8 Dec 1996 06:17:52 GMT""},{""version"":""v2"",""created"":""Sat, 26 Jul 1997 03:58:05 GMT""}]","2009-10-30"
+"quant-ph/9612030","S. Popescu","Sandu Popescu, Lucien Hardy and Marek Zukowski","Revisiting Bell's theorem for a class of down-conversion experiments","Contains some new material. LaTeX, 11 pages, 1 fig; The figure is not
+  encapsulated, please print it separately",,"10.1103/PhysRevA.56.R4353",,"quant-ph",,"  A certain class of parametric down-conversion Bell type experiments has the
+following features. In the idealized perfect situation it is in only 50% of
+cases that each observer receives a photon; in the other 50% of cases one
+observer receives both photons of a pair while the other observer receives
+none. The standard approach is to discard the events of the second type. Only
+the remaining ones are used as the data input to some Bell inequalities. This
+raises justified doubts whether such experiments could be ever genuine tests of
+local realism. We propose to take into account these ""unfavorable"" cases and to
+analyze the entire pattern of polarization and localization correlations. This
+departure from the standard reasoning enables one to show that indeed the
+experiments are true test of local realism.
+","[{""version"":""v1"",""created"":""Sun, 8 Dec 1996 12:41:48 GMT""},{""version"":""v2"",""created"":""Wed, 25 Jun 1997 14:18:40 GMT""}]","2009-10-30"
+"solv-int/9612004","Alexander V. Razumov","A. V. Razumov, M. V. Saveliev","Riemannian Manifolds with Diagonal Metric. The Lam\'e and Bourlet
+  Systems","LaTeX file, 22 pages, to appear in the proceedings of the
+  international conference ""Selected Topics of Theoretical and Modern
+  Mathematical Physics (SIMI-96)"", September 22-29, 1996, Tbilisi, Georgia",,,,"solv-int dg-ga hep-th math.DG nlin.SI",,"  We discuss a Lie algebraic and differential geometry construction of
+solutions to some multidimensional nonlinear integrable systems describing
+diagonal metrics on Riemannian manifolds, in particular those of zero and
+constant curvature. Here some special solutions to the Lam\'e and Bourlet type
+equations, determining by n arbitrary functions of one variable are obtained in
+an explicit form. For the case when the sum of the diagonal elements of the
+metric is a constant, these solutions are expressed as a product of the Jacobi
+elliptic functions and are determined by 2n arbitrary constants.
+","[{""version"":""v1"",""created"":""Sun, 8 Dec 1996 13:03:23 GMT""}]","2016-09-08"

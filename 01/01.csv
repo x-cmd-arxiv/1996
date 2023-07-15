@@ -1,0 +1,125 @@
+"astro-ph/9601001","Y. Divakara Mayya","Y.D. Mayya (TIFR, Bombay) and T.P. Prabhu (IIA, Bangalore)","Embedded Clusters in Giant Extragalactic HII Regions III. Extinction and
+  Star Formation","18 pages, AASTeX v4.0, 3 tables with aj_pt and 8 postscript figures.
+  Figure 9 is available on request from ydm@tifrc3.tifr.res.in or at the URL
+  http://tifrc3.tifr.res.in:2000/ydm/www/preprint.html To appear in
+  Astronomical Journal","AJ 111 (1996) 1252","10.1086/117870",,"astro-ph",,"  A study of star formation is carried out on 35 giant extragalactic HII
+regions (GEHRs) in seven galaxies using optical photometric data in BVR broad
+bands and in the emission line of H alpha. Interstellar extinction, metallicity
+and nebular contributions to the broad bands are estimated using spectroscopic
+data on these objects. Dimensionless diagrams involving B-V and V-R colors and
+the flux ratio of Balmer line to B band continuum are used to study star
+formation. The cluster colors indicate reduced extinction towards stellar
+continuum compared to the values derived from Balmer lines for the ionized gas.
+The frequency of detection of classical young (t < 3 Myr) regions with only one
+burst of star formation is found to be low as compared to young regions with an
+accompanying population rich in red supergiants from a previous burst (t ~ 10
+Myr). Reduced extinction towards cluster stars, destruction of ionizing photons
+and the existence of older population, often spatially unresolvable from the
+younger population, all conspire to make the observed Balmer line equivalent
+widths low in a majority of the GEHRs. A scenario of star formation is
+suggested which explains many of the observed properties of GEHRs, including
+the core-halo structure, reduced extinction for the radiation from stars as
+compared to that from the nebular gas, non-detection of young single burst
+regions and the co-existence of two populations of different ages.
+","[{""version"":""v1"",""created"":""Mon, 1 Jan 1996 14:14:43 GMT""}]","2009-10-28"
+"astro-ph/9601002","Roelof de Jong","Roelof S. de Jong (Kapteyn Astronomical Institute)","Near-infrared and optical broadband surface photometry of 86 face-on
+  disk dominated galaxies. II. A two-dimensional method to determine bulge and
+  disk parameters","Accepted for publication in Astronomy & Astrophysics 19 pages LaTeX,
+  6 PostScript figures (Fig.1 missing), full version with all figures available
+  at http://star-www.dur.ac.uk/~rdejong/papers.html",,,,"astro-ph",,"  In this paper I present a new two-dimensional decomposition technique, which
+models the surface photometry of a galaxy with an exponential light profile for
+both bulge and disk and, when necessary, with a Freeman bar. The new technique
+was tested for systematic errors on both artificial and real data and compared
+with widely used one-dimensional decomposition techniques, where the luminosity
+profile of the galaxy is used. The comparisons indicate that a decomposition of
+the two-dimensional image of the galaxy with an exponential light profile for
+both bulge and disk yields the most reproducible and representative bulge and
+disk parameters.
+  An extensive error analysis was made to determine the reliability of the
+model parameters. If the model with an exponential bulge profile is a
+reasonable description of a galaxy, the maximum errors in the derived model
+parameters are of order 20%. The uncertainties in the model parameters will
+increase, if the exponential bulge function is replaced by other often used
+bulge functions as the de Vaucouleurs law.
+  All decomposition methods were applied to the optical and near-infrared data
+set presented by de Jong & van der Kruit (1994), which comprises 86 galaxies in
+six passbands.
+","[{""version"":""v1"",""created"":""Mon, 1 Jan 1996 14:41:45 GMT""}]","2007-05-23"
+"cs/9601101",,"P. vanBeek, D. W. Manchak","The Design and Experimental Analysis of Algorithms for Temporal
+  Reasoning","See http://www.jair.org/ for any accompanying files","Journal of Artificial Intelligence Research, Vol 4, (1996), 1-18",,,"cs.AI",,"  Many applications -- from planning and scheduling to problems in molecular
+biology -- rely heavily on a temporal reasoning component. In this paper, we
+discuss the design and empirical analysis of algorithms for a temporal
+reasoning system based on Allen's influential interval-based framework for
+representing temporal information. At the core of the system are algorithms for
+determining whether the temporal information is consistent, and, if so, finding
+one or more scenarios that are consistent with the temporal information. Two
+important algorithms for these tasks are a path consistency algorithm and a
+backtracking algorithm. For the path consistency algorithm, we develop
+techniques that can result in up to a ten-fold speedup over an already highly
+optimized implementation. For the backtracking algorithm, we develop variable
+and value ordering heuristics that are shown empirically to dramatically
+improve the performance of the algorithm. As well, we show that a previously
+suggested reformulation of the backtracking search problem can reduce the time
+and space requirements of the backtracking search. Taken together, the
+techniques we develop allow a temporal reasoning component to solve problems
+that are of practical size.
+","[{""version"":""v1"",""created"":""Mon, 1 Jan 1996 00:00:00 GMT""}]","2016-08-31"
+"gr-qc/9601001","Masaru Siino","Masaru Siino","Quantum Stability of (2+1)-Spacetimes with Non-Trivial Topology","17 pages, revtex, 3 uuencoded figures contained","Class.Quant.Grav. 14 (1997) 687-697","10.1088/0264-9381/14/3/012",,"gr-qc",,"  Quantum fields are investigated in the (2+1)-open-universes with non-trivial
+topologies by the method of images. The universes are locally de Sitter
+spacetime and anti-de Sitter spacetime. In the present article we study
+spacetimes whose spatial topologies are a torus with a cusp and a sphere with
+three cusps as a step toward the more general case. A quantum energy momentum
+tensor is obtained by the point stripping method. Though the cusps are no
+singularities, the latter cusps cause the divergence of the quantum field. This
+suggests that only the latter cusps are quantum mechanically unstable. Of
+course at the singularity of the background spacetime the quantum field
+diverges. Also the possibility of the divergence of topological effect by a
+negative spatial curvature is discussed. Since the volume of the negatively
+curved space is larger than that of the flat space, one see so many images of a
+single source by the non-trivial topology. It is confirmed that this divergence
+does not appear in our models of topologies. The results will be applicable to
+the case of three dimensional multi black hole\cite{BR}.
+","[{""version"":""v1"",""created"":""Mon, 1 Jan 1996 13:31:15 GMT""}]","2009-10-28"
+"hep-ph/9512446","Howard Haber","M. Carena, H.E. Haber, and C.E.M. Wagner","Four-Generation Low Energy Supersymmetry with a Light Top Quark","24 pages, LaTeX with psfig and scipp style files, ps file available
+  at ftp://scipp.ucsc.edu/pub/haber/fourgen.ps","Nucl.Phys.B472:55-78,1996","10.1016/0550-3213(96)00257-X","CERN-TH/95-311 and SCIPP 95/44","hep-ph",,"  A supersymmetric model with four generations is proposed, in which the top
+quark is approximately degenerate in mass with the $W^{\pm}$ gauge boson,
+$m_t\simeq m_W$, leading to values of $R_b$ in better agreement with the
+present experimental data than in the Standard Model. The model shares many of
+the good features of the minimal supersymmetric extension of the Standard Model
+(MSSM), such as the unification of gauge and Yukawa couplings at a common
+high-energy scale. The model differs from the MSSM by re-interpreting the
+Tevatron ``top-quark'' events as the production of the fourth generation quark
+$t\pri$, which decays dominantly to $bW^+$. The top quark decays primarily into
+supersymmetric particles, $t\rta\widetilde t\widetilde\chi^0_1$, with
+$\widetilde t\rta c\widetilde\chi^0_1$, thereby evading previous searches.
+Light supersymmetric particles are predicted to lie in the mass range between
+25 and 70 GeV, which together with the fourth generation leptons provide a rich
+spectrum of new physics which can be probed at LEP-2 and the Tevatron.
+","[{""version"":""v1"",""created"":""Mon, 1 Jan 1996 05:56:15 GMT""}]","2008-11-26"
+"hep-th/9512225","Rajesh Gopakumar","Rajesh Gopakumar (Princeton University)","The Master Field in Generalised $QCD_2$","18 pages (big), 2 postscript figures, harvmac, epsf","Nucl.Phys. B471 (1996) 246-262","10.1016/0550-3213(96)00191-5",,"hep-th",,"  As an illustration of the formalism of the master field we consider
+generalised $QCD_2$. We show how Wilson Loop averages for an arbitrary contour
+can be computed explicitly and with some ease. A generalised Hopf equation is
+shown to govern the behaviour of the eigenvalue density of Wilson loops. The
+collective field description of the theory is therefore deduced. Finally, the
+non-trivial master gauge field and field strengths are obtained. These results
+do not seem easily accessible with conventional means.
+","[{""version"":""v1"",""created"":""Sun, 31 Dec 1995 18:45:31 GMT""}]","2009-10-28"
+"hep-th/9512226","David A. Lowe","S. Chaudhuri and D.A. Lowe","Monstrous String-String Duality","18 pages, harvmac, tables (Final version to appear in Nucl. Phys. B.)","Nucl.Phys.B469:21-36,1996","10.1016/0550-3213(96)00131-9","NSF-ITP-95-152, UCSBTH-95-35","hep-th",,"  We analyze the general class of supersymmetry preserving orbifolds of
+strong/weak Type IIA/heterotic dual pairs in six dimensions and below. A
+unified treatment is given by considering compactification to two spacetime
+dimensions and constructing orbifolds by subgroups of the Fischer-Greiss
+monster, utilizing the moonshine results of Conway and Norton. Duality requires
+nontrivial Ramond-Ramond fluxes on the Type IIA side which are localized at the
+fixed points. Further orbifolding by (-1)^{F_L} gives examples of new four
+dimensional N=2 Type IIA vacua which are not conformal field theory
+backgrounds.
+","[{""version"":""v1"",""created"":""Mon, 1 Jan 1996 01:15:13 GMT""},{""version"":""v2"",""created"":""Thu, 7 Mar 1996 02:19:08 GMT""}]","2011-07-19"
+"math/9601220","Andreas Seeger","Andreas Seeger, Stephen Wainger, James Wright","Spherical maximal operators on radial functions",,,,"Wisconsin Math 96/AS-1a","math.FA",,"  Let $A_tf(x)=\int f(x+ty)d\sigma(y)$ denote the spherical means in $\Bbb R^d$
+($d\sigma$ is surface measure on $S^{d-1}$, normalized to $1$). We prove sharp
+estimates for the maximal function $M_E f(x)=\sup_{t\in E}|A_tf(x)|$ where $E$
+is a fixed set in $\Bbb R^+$ and $f$ is a {\it radial} function $\in L^p(\Bbb
+R^d)$. Let $p_d=d/(d-1)$ (the critical exponent of Stein's maximal function).
+For the cases (i) $p<p_d$, $d\ge 2$ and (ii) $p=p_d$, $d\ge 3$, and for $p\le
+q\le\infty$ we prove necessary and sufficient conditions for $L^p\to L^{p,q}$
+boundedness of the operator $M_E$.
+","[{""version"":""v1"",""created"":""Mon, 1 Jan 1996 00:00:00 GMT""}]","2016-09-06"

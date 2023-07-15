@@ -1,0 +1,267 @@
+"astro-ph/9612006","Edward L. Wright","Edward L. Wright (UCLA Astronomy)","Scanning and Mapping Strategies for CMB Experiments","21 pages of LaTex with 11 included figures. Paper presented at the
+  IAS CMB Data Analysis Workshop in Princeton on 22 Nov 96",,,"UCLA-ASTRO-ELW-96-03","astro-ph",,"  CMB anisotropy experiments seeking to make maps with more pixels than the
+6144 pixels used by the COBE DMR need to address the practical issues of the
+computer time and storage required to make maps. A simple, repetitive scan
+pattern reduces these requirements but leaves the experiment vulnerable to
+systematic errors and striping in the maps. In this paper I give a time-ordered
+method for map-making with one-horned experiments that has reasonable memory
+and CPU needs but can handle complex COBE-like scans paths and 1/f noise.
+","[{""version"":""v1"",""created"":""Fri, 29 Nov 1996 23:56:10 GMT""}]","2007-05-23"
+"astro-ph/9612008","Ben Dorman","Ben Dorman (LASP, NASA-GSFC and U. Virginia)","Ultraviolet Light from Old Stellar Populations","12 pages, plain tex plus ""stromlo"" style, included, requires
+  epsf.tex. Postscript version available at
+  http://www.astro.virginia.edu/~bd4r/ Invited review to appear in ""The Nature
+  of Elliptical Galaxies: Proceedings of the Second Stromlo Symposium, eds M.
+  Arnobaldi, G. S. Da Costa & P. Saha",,,,"astro-ph",,"  We consider the general theoretical problem of ultraviolet light from old
+stellar populations (t > 2 Gyr), and the interpretation of galaxy spectra at
+short wavelengths (lamda < 3200A) The sources believed to be responsible for
+the observed `ultraviolet upturn phenomenon' (UVX) are Post-AGB (P-AGB),
+extreme horizontal branch (EHB) and AGB-Manque (AGBM) stars. The production of
+EHB stars depends on mass loss on the red giant branch, which is poorly
+understood, making the far-UV flux problematical as an indicator of the gross
+properties, such as the age, of a given galaxy. We discuss the current state of
+the comparison between theory and observation for the UVX phenomenon, and
+revisit the interpretation of the well-known UVX-Mg2 correlation. In
+particular, we draw attention to the fact that the UVX appears not to be
+correlated with indices that measure the iron abundance, which has implications
+for models that explain the UV-Mg2 correlation as an abundance-driven effect.
+Finally, we note the potential utility of ultraviolet observations in
+distinguishing age and metallicity from galaxy spectral energy distributions.
+","[{""version"":""v1"",""created"":""Fri, 29 Nov 1996 22:33:54 GMT""}]","2007-05-23"
+"astro-ph/9612009","David Schade","David Schade (NRC/DAO, Univ. Toronto), L. Felipe Barrientos (Univ.
+  Toronto), and Omar Lopez-Cruz (Univ. Toronto)","Evolution of Cluster Ellipticals at 0.2 < z < 1.2 from Hubble Space
+  Telescope Imaging","7 pages, 3 figures, and 1 Table",,"10.1086/310508",,"astro-ph",,"  Two-dimensional surface photometry derived from Hubble Space Telescope
+imaging is presented for a sample of 225 early-type galaxies (assumed to be
+cluster members) in the fields of 9 clusters at redshifts $0.17 < z < 1.21$.
+The 94 luminous ellipticals ($M_{AB}(B)<-20$; selected by morphology alone with
+no reference to color) form tight sequences in the size-luminosity plane. The
+position of these sequences shifts, on average, with redshift so that an object
+of a given size at z=0.55 is brighter by $\Delta M(B)=-0.57 \pm 0.13$ mag than
+its counterpart (measured with the same techniques) in nearby clusters. At
+z=0.9 the shift is $\Delta M(B)=-0.96 \pm 0.22$ mag. If the relation between
+size and luminosity is universal so that the local cluster galaxies represent
+the evolutionary endpoints of those at high redshift, and if the
+size-luminosity relation is not modified by dynamical processes then this
+population of galaxies has undergone significant luminosity evolution since z=1
+consistent with expectations based on models of passively evolving, old stellar
+populations.
+","[{""version"":""v1"",""created"":""Fri, 29 Nov 1996 23:18:25 GMT""}]","2016-08-30"
+"astro-ph/9612010",,"J.J. Blanco-Pillado (1), R.A. V\'azquez (2) and E. Zas (1) ((1)
+  Departamento de Fisica de Particulas, Universidad de Santiago de Compostela,
+  Spain, (2) INFN sez. di Roma and University of Basilicata, Potenza, Italy.)","Limits on Topological Defect Neutrino fluxes from Horizontal Air Shower
+  measurements","15 pages Latex file and 5 PS figures. Uses Revtex and epsfig.sty","Phys.Rev.Lett. 78 (1997) 3614-3617","10.1103/PhysRevLett.78.3614",,"astro-ph hep-ph",,"  We obtain the horizontal air shower rate from the (EeV) high energy neutrino
+flux predicted in some topological defect scenarios as the source for the
+highest energy cosmic rays. Emphasis is made on the different character of the
+events depending on the neutrino flavor an type of interaction. We show that
+the bound for muon poor showers in the $10^5-10^7$ GeV energy range is violated
+by maximal predictions for superconducting cosmic string neutrino fluxes, we
+compare it to other neutrino flux limits and we discuss the future of such
+measurements to further constrain these models.
+","[{""version"":""v1"",""created"":""Sat, 30 Nov 1996 12:18:02 GMT""}]","2009-10-28"
+"chao-dyn/9612001","Massimo Vergassola","M. Vergassola and M. Avellaneda","Scalar transport in compressible flow","27 pages, submitted to Physica D",,"10.1016/S0167-2789(97)00022-5",,"chao-dyn nlin.CD",,"  Transport of scalar fields in compressible flow is investigated. The
+effective equations governing the transport at scales large compared to those
+of the advecting flow are derived by using multi-scale techniques. Ballistic
+transport generally takes place when both the solenoidal and the potential
+components of the velocity do not vanish, despite of the fact that it has zero
+average value. The calculation of the effective ballistic velocity $V_b$ is
+reduced to the solution of one auxiliary equation. An analytic expression for
+$V_b$ is derived in some special instances, i.e. flows depending on a single
+coordinate, random with short correlation times and slightly compressible
+cellular flow. The effective mean velocity $V_b$ vanishes for velocity fields
+which are either incompressible or potential and time-independent. For generic
+compressible flow, the most general conditions ensuring the absence of
+ballistic transport are isotropy and/or parity invariance. When $V_b$ vanishes
+(or in the frame of reference moving with velocity $V_b$), standard diffusive
+transport takes place. It is known that diffusion is always enhanced by
+incompressible flow. On the contrary, we show that diffusion is depleted in the
+presence of time-independent potential flow. Trapping effects due to potential
+wells are responsible for this depletion. For time-dependent potential flow or
+generic compressible flow, transport rates are enhanced or depleted depending
+on the detailed structure of the velocity field.
+","[{""version"":""v1"",""created"":""Fri, 29 Nov 1996 18:47:08 GMT""}]","2009-10-28"
+"chao-dyn/9612002","Giovanni Gallavotti","Giovannni Gallavotti (Dipartimento di Fisica, Universita' di Roma),
+  David Ruelle (IHES, Bures sur Yvette)","SRB states and nonequilibrium statistical mechanics close to equilibrium","e-mail giovanni@ipparco.roma1.infn.it, ruelle@ihes.fr","Communications in Mathematical Physics, 190, 279--285, 1997","10.1007/s002200050241","FM 96-14","chao-dyn nlin.CD",,"  Nonequilibrium statistical mechanics close to equilibrium is studied using
+SRB states and a formula for their derivatives with respect to parameters. We
+write general expressions for the thermodynamic fluxes (or currents) and the
+transport coefficients, generalizing previous results. In this framework we
+give a general proof of the Onsager reciprocity relations.
+","[{""version"":""v1"",""created"":""Fri, 29 Nov 1996 21:03:53 GMT""}]","2016-08-31"
+"cond-mat/9612006","Dima Shepelyansky","Ph. Jacquod and D.L. Shepelyansky","Two interacting quasiparticles above the Fermi sea","revtex, 4 pages, 4 figures",,"10.1103/PhysRevLett.78.4986",,"cond-mat",,"  We study numerically the interaction and disorder effects for two
+quasiparticles in two and three dimensions. The dependence of the
+interaction-induced Breit-Wigner width on the excitation energy above the Fermi
+level, the disorder strength and the system size is determined. A regime is
+found where the width is practically independent of the excitation energy. The
+results allow to estimate the two quasiparticle mobility edge.
+","[{""version"":""v1"",""created"":""Fri, 29 Nov 1996 17:51:32 GMT""}]","2009-10-28"
+"cond-mat/9612007","John M. Tranquada","J. M. Tranquada, P. Wochner, and D. J. Buttrey","Spin Dynamics in an Ordered Stripe Phase","5 pp, 2 col., REVTeX, 4 epsf figures embedded with psfig; Abstract
+  and introduction have been revised","Phys. Rev. Lett. 79, 2133 (1997)","10.1103/PhysRevLett.79.2133",,"cond-mat.supr-con",,"  Inelastic neutron scattering has been used to measure the low-energy spin
+excitations in the ordered charge-stripe phase of La(2)NiO(4+d) with d=0.133.
+Spin-wave-like excitations disperse away from the incommensurate magnetic
+superlattice points with a velocity ~60% of that in the d=0 compound.
+Incommensurate inelastic peaks remain well-resolved up to at least twice the
+magnetic ordering temperature. Paramagnetic scattering from a d=0.105 sample,
+which has a N\'eel-ordered ground state, shows anomalies suggestive of
+incipient stripe correlations. Similarities between these results and
+measurements on superconducting cuprates are discussed.
+","[{""version"":""v1"",""created"":""Sat, 30 Nov 1996 00:26:25 GMT""},{""version"":""v2"",""created"":""Tue, 9 Sep 1997 20:50:02 GMT""}]","2009-10-28"
+"cond-mat/9612008","Uwe Krey","S. Krompiewski and M. Zwierzycki (Poznan), U. Krey (Regensburg)","Exchange coupling and current-perpendicular-to-plane giant
+  magneto-resistance of magnetic trilayers. Rigorous results within a
+  tight-binding single-band model","13 Pages, RevTex, 5 Figures included",,,,"cond-mat.mes-hall cond-mat.mtrl-sci",,"  It is shown that the current-perpendicular-to-plane giant magneto-resistance
+(CPP-GMR) oscillations, in the ballistic regime, are strongly correlated with
+those of the exchange coupling (J). Both the GMR and J are treated on equal
+footing within a rigorously solvable tight-binding single-band model. The
+strong correlation consists in sharing asymptotically the same period,
+determined by the spacer Fermi surface, and oscillating with varying spacer
+thickness predominantly in opposite phases.
+","[{""version"":""v1"",""created"":""Sat, 30 Nov 1996 15:49:40 GMT""}]","2008-02-03"
+"cond-mat/9612012","Swapan K. Pati","Y. Anusooya, Swapan K. Pati and S. Ramasesha(Indian Institute of
+  Science)","Symmetrized DMRG studies of the properties of Low-lying states of
+  Poly-para-phenylene (PPP) system","Latex file; 13 eps figures",,,,"cond-mat",,"  We report the symmetrized density matrix renormalization group (DMRG) study
+of neutral and doped oligomers of PPP system within an extended Hubbard model.
+Model parameters are determined by comparing the existing results for
+interacting small system. We compute a number of properties in the ground state
+as well as in the one-photon, two-photon and triplet states to completely
+characterize these states. Based on the relative positions of the one-photon
+and two-photon states in long oligomers, we suggest that invoking interchain
+interactions is essential for explaining strong fluorescence in this system.
+Bond-order studies show that the lowest two-photon state corresponds to a
+localized excitation while one-photon and triplet excitations are extended in
+nature. The bipolaronic state shows clear evidence for charge separation and
+disproportionation into two polarons. We find that the extended nature of
+one-photon and triplet states of neutral system are very similar to those of
+the bipolaronic ground states.
+","[{""version"":""v1"",""created"":""Sat, 30 Nov 1996 15:21:21 GMT""}]","2007-05-23"
+"gr-qc/9612002","Peter Leifer","Peter Leifer","Superrelativity as a unification of quantum theory and relativity(II)","6 pages,LaTeX,In the Abstract ``proposed on order'' should be read as
+  ``proposed in order''","Found.Phys. 27, (2) 261 (1997)","10.1007/BF02550454","TAUP 2383-1996","gr-qc",,"  A underlying dynamical structure for both relativity and quantum
+theory-``superrelativity'' has been proposed in order to overcome the well
+known incompatibility between these theories. The relationship between
+curvature of spacetime (gravity) and curvature of the projective Hilbert space
+of pure quantum states is established as well.
+","[{""version"":""v1"",""created"":""Sat, 30 Nov 1996 07:45:30 GMT""}]","2015-06-25"
+"hep-ph/9612206","Serguei Levonian","S. V. Levonian (EP, Paris and LPI, Moscow)","Soft Interactions and Diffraction Phenomena","16 pages, Latex 2.09, 18 figures included. Plenary talk given at the
+  28th International Conference on High Energy Physics, 25-31 July, 1996,
+  Warsaw, Poland. (Description of Fig.4c and Ref.2 have been corrected)",,,"X-LPNHE 96-10, H1-11/96-504","hep-ph",,"  Until the mystery of confinement is understood from the first principles, so
+called `soft physics' remains an important area of research, providing valuable
+information on underlying dynamics of strong interactions at long distances. In
+this short review an attempt is made to summarize recent experimental results
+on multiparticle production in e+e- annihilation and on diffraction at HERA.
+","[{""version"":""v1"",""created"":""Fri, 29 Nov 1996 18:38:06 GMT""},{""version"":""v2"",""created"":""Sun, 8 Dec 1996 14:07:25 GMT""},{""version"":""v3"",""created"":""Mon, 23 Dec 1996 14:28:52 GMT""}]","2008-02-03"
+"hep-ph/9612209","Jonathan R. Ellis","John Ellis","Outlook on Neutrino Physics","27 pages, LaTex, uses sprocl.sty, Invited Talk presented at the
+  conclusion of the Neutrino 96 Conference, Helsinki, June 1996",,,"CERN-TH/96-325","hep-ph",,"  Some of the hot topics in neutrino physics are discussed, with particular
+emphasis on neutrino oscillations. After proposing credibility criteria for
+assessing various claimed effects, particular stress is laid on the solar
+neutrino deficit, which seems unlikely to have an astrophysical explanation.
+Comments are also made on the possibility of atmospheric neutrino oscillations
+and on the LSND experiment, as well as cosmological aspects of neutrinos and
+neutralinos. Several of the central issues in neutrino physics may be resolved
+by the new generation of experiments now underway, such as CHORUS, NOMAD and
+Superkamiokande, and in preparation, such as SNO and a new round of
+accelerator- and reactor-based neutrino-oscillation experiments. At the end,
+there is a brief review of ways in which present and future CERN experiments
+may be able to contribute to answering outstanding questions in neutrino
+physics.
+","[{""version"":""v1"",""created"":""Fri, 29 Nov 1996 17:08:59 GMT""}]","2007-05-23"
+"hep-ph/9612210",,"Miguel A. Sanchis-Lozano","A Comment on Heavy Quark Effective Fields","8 pages, LaTex","Nuovo Cim. A110 (1997) 295-302",,"FTUV/96-47, IFIC/96-47","hep-ph",,"  Effective fields defined in the heavy-quark effective theory to describe
+heavy quarks in heavy-light hadrons are examined in some detail in the standard
+formulation of a quantum field theory.
+","[{""version"":""v1"",""created"":""Fri, 29 Nov 1996 17:24:07 GMT""}]","2007-05-23"
+"hep-ph/9612211","Elizabeth Jenkins","Elizabeth Jenkins","The Rare Top Decays $t \to b W^+ Z$ and $t \to c W^+ W^-$","19 pages, latex, t->bWZ corrected, previous literature on t->bWZ
+  cited, t->cWW unchanged","Phys.Rev.D56:458-466,1997","10.1103/PhysRevD.56.458","UCSD/PTH 96-28","hep-ph",,"  The large value of the top quark mass implies that the rare top decays $t
+\rightarrow b W^+ Z, s W^+ Z$ and $d W^+ Z$, and $t \rightarrow c W^+ W^-$ and
+$u W^+ W^-$, are kinematically allowed decays so long as $m_t \ge m_W + m_Z +
+m_{d_i} \approx 171.5 GeV + m_{d_i}$ or $m_t \ge 2m_W + m_{u,c} \approx 160.6
+GeV + m_{u,c}$, respectively. The partial decay widths for these decay modes
+are calculated in the standard model. The partial widths depend sensitively on
+the precise value of the top quark mass. The branching ratio for $t\rightarrow
+b W^+ Z$ is as much as $2 \times 10^{-5}$ for $m_t = 200 GeV$, and could be
+observable at LHC. The rare decay modes $t \rightarrow c W^+ W^-$ and $u W^+
+W^-$ are highly GIM-suppressed, and thus provide a means for testing the GIM
+mechanism for three generations of quarks in the u, c, t sector.
+","[{""version"":""v1"",""created"":""Sat, 30 Nov 1996 00:03:08 GMT""},{""version"":""v2"",""created"":""Fri, 20 Dec 1996 21:53:14 GMT""}]","2008-11-26"
+"hep-ph/9612212",,"J.M. Moreno, D.H. Oaknin and M. Quiros","Squarks and sphalerons","11 pages, LateX + psfig.sty, 1 figure","Phys.Lett.B395:234-240,1997","10.1016/S0370-2693(97)00058-0","IEM-FT-146/96","hep-ph",,"  Electric charge and color breaking minima along third generation squark
+directions do appear in the Minimal Supersymmetric Standard Model for
+particular regions of the corresponding supersymmetric parameters $A_t$, $\mu$,
+$\tan\beta$, $m_Q^2$ and $m_U^2$. We have studied possible instabilities of
+electroweak sphalerons along non-trivial squark configurations. We have found
+that instabilities along the latter lie in the region of parameter space where
+the electroweak minimum is not the global one. Thus charge and color
+conservation imply that the standard electroweak sphaleron is not destabilized
+along squark directions.
+","[{""version"":""v1"",""created"":""Sat, 30 Nov 1996 09:24:16 GMT""}]","2011-07-19"
+"hep-ph/9612213",,"O. G. Tchikilev (IHEP, Protvino, Russia)","Modified Negative Binomial Description of the Multiplicity Distributions
+  in Lepton-nucleon Scattering","12 pages, Latex, 2 Poscript figures, epsfig is used, to be published
+  in Physics Letters B","Phys.Lett. B388 (1996) 848-852","10.1016/S0370-2693(96)01359-7",,"hep-ph",,"  It is shown that charged hadron multiplicity distributions in lepton-nucleon
+scattering are fairly well described by the modified negative binomial
+distribution in the energy range from 3-4 to 220 GeV. The energy behaviour of
+the parameter k is similar to the dependence observed for e+e- annihilation.
+","[{""version"":""v1"",""created"":""Sat, 30 Nov 1996 12:35:04 GMT""}]","2009-10-30"
+"hep-ph/9612214",,"O. G. Tchikilev (IHEP, Protvino, Russia)","Phenomenological Parametrization of the Charged Particle Multiplicity
+  Distributions in Restricted Rapidity Intervals in e+e- Annihilation into
+  Hadrons and e+p Scattering at HERA","12 pages, Latex, to be published in Physics Letters B","Phys.Lett.B393:198-204,1997","10.1016/S0370-2693(96)01619-X",,"hep-ph",,"  It is shown that charged hadron multiplicity distributions in restricted
+(pseudo)rapidity intervals in e+e- annihilation and in e+p scattering at HERA
+are quite well described by the modified negative binomial distribution and its
+simple extension.
+","[{""version"":""v1"",""created"":""Sat, 30 Nov 1996 12:58:44 GMT""}]","2011-04-12"
+"hep-th/9612005","D. V. Antonov","D.V.Antonov (Humboldt University, Berlin and ITEP, Moscow)","A Solution of the Cauchy Problem for the Loop Equation in Turbulence","6 pages, LaTeX, no figures","Mod.Phys.Lett. A11 (1996) 3113-3118","10.1142/S021773239600309X",,"hep-th",,"  Under certain conditions, imposed on the viscosity of the fluid, initial data
+and the class of contours under consideration, the Cauchy problem with finite
+values of time for the loop equation in turbulence with Gaussian random forces
+is solved by making use of the smearing procedure for the loop space functional
+Laplacian. The solution obtained depends on the initial data and its functional
+derivatives and on the potential of the random forces.
+","[{""version"":""v1"",""created"":""Fri, 29 Nov 1996 18:58:09 GMT""},{""version"":""v2"",""created"":""Fri, 21 Mar 1997 20:34:53 GMT""},{""version"":""v3"",""created"":""Tue, 1 Apr 1997 10:47:31 GMT""}]","2009-10-30"
+"hep-th/9612006","Nami Fux Svaiter","V. A. De Lorenci and N. F. Svaiter","A Rotating Quantum Vacuum","31 pages, LaTex (Revised version!)","Found.Phys.29:1233-1264,1999","10.1023/A:1018807714794","Notas de Fisica CBPF-NF 002/97","hep-th",,"  We investigate how a uniformly rotating frame is defined as the rest frame of
+an observer rotating with constant angular velocity $\Omega$ around the $z$
+axis of an inertial frame. Assuming that this frame is a Lorentz one, we second
+quantize a free massless scalar field in this rotating frame and obtain that
+creation-anihilation operators of the field are not the same as those of an
+inertial frame. This leads to a new vacuum state --- a rotating vacuum ---
+which is a superposition of positive and negative frequency Minkowski
+particles. After this, introducing an apparatus device coupled linearly with
+the field we obtain that there is a strong correlation between number of
+rotating particles (in a given state) obtained via canonical quantization and
+via response function of the rotating detector. Finally, we analyse
+polarization effects in circular accelerators in the proper frame of the
+electron making a connection with the inertial frame point of view.
+","[{""version"":""v1"",""created"":""Fri, 29 Nov 1996 20:35:01 GMT""},{""version"":""v2"",""created"":""Thu, 17 Jul 1997 20:04:49 GMT""},{""version"":""v3"",""created"":""Fri, 23 Jan 1998 19:49:32 GMT""}]","2008-11-26"
+"hep-th/9612007","Joao Carlos Alves Barata","J. C. A. Barata, F. Nill","Dyonic Sectors and Intertwiner Connections in 2+1-dimensional Lattice
+  Z_N-Higgs Models","61 pages. LaTeX. AmsTeX fonts used.","Commun.Math.Phys. 191 (1998) 409-466","10.1007/s002200050273",,"hep-th hep-lat math-ph math.MP",,"  We construct dyonic states in 2+1-dimensional lattice Z_N-Higgs models, i.e.,
+states which are both, electrically and magnetically charged. The associated
+Hilbert spaces carry charged representations of the observable algebra, the
+global transfer matrix and a unitary implementation of the group of spatial
+lattice translations. We prove that for coinciding total charges these
+representations are dynamically equivalent and we construct a local intertwiner
+connection depending on a path in the space of charge distributions. The
+holonomy of this connection is given by Z_N-valued phases. This will be the
+starting point for a construction of scattering states with anyon statistics in
+a subsequent paper.
+","[{""version"":""v1"",""created"":""Fri, 29 Nov 1996 21:34:59 GMT""}]","2009-10-30"
+"hep-th/9612008","Stephen Fletcher Hewson","S. F. Hewson and M. J. Perry","The twelve dimensional super (2+2)-brane","32 pages LaTex, no figures, minor comments and address(!) added","Nucl.Phys. B492 (1997) 249-277","10.1016/S0550-3213(97)80035-1","DAMTP-R-96-55","hep-th",,"  We discuss supersymmetry in twelve dimensions and present a covariant
+supersymmetric action for a brane with worldsheet signature (2,2), called a
+super (2+2)-brane, propagating in the osp(64,12) superspace. This superspace is
+explicitly constructed, and is trivial in the sense that the spinorial part is
+a trivial bundle over spacetime, unlike the twisted superspace of usual
+Poincare supersymmetry. For consistency, it is necessary to take a projection
+of the superspace. This is the same as the projection required for worldvolume
+supersymmetry. Upon compactification of this superspace, a torsion is naturally
+introduced and we produce the membrane and type IIB string actions in 11 and 10
+dimensional Minkowski spacetimes. In addition, the compactification of the
+twelve dimensional supersymmetry algebra produces the correct algebras for
+these theories, including central charges. These considerations thus give the
+type IIB string and M-theory a single twelve dimensional origin.
+","[{""version"":""v1"",""created"":""Sat, 30 Nov 1996 11:33:18 GMT""},{""version"":""v2"",""created"":""Wed, 11 Dec 1996 12:52:01 GMT""}]","2015-06-26"
+"physics/9612001","George Bertsch","K. Yabana and G.F. Bertsch","Optical response of small carbon clusters","19 pages, Latex(Revtex), and 7 figures Postscript; to be published in
+  Zeit. Phys. D; contact is bertsch@phys.washington.edu",,"10.1007/s004600050357",,"physics.chem-ph",,"  We apply the time-dependent local density approximation (TDLDA) to calculate
+dipole excitations in small carbon clusters. A strong low-frequency mode is
+found which agrees well with observation for clusters C_n with n in the range
+7-15. The size dependence of the mode may be understood simply as the classical
+resonance of electrons in a conducting needle. For a ring geometry, the lowest
+collective mode occurs at about twice the frequency of the collective mode in
+the linear chain, and this may also be understood in simple terms.
+","[{""version"":""v1"",""created"":""Fri, 29 Nov 1996 19:02:19 GMT""},{""version"":""v2"",""created"":""Mon, 2 Dec 1996 16:07:42 GMT""},{""version"":""v3"",""created"":""Wed, 11 Dec 1996 21:49:44 GMT""},{""version"":""v4"",""created"":""Mon, 1 Sep 1997 18:10:56 GMT""}]","2009-10-30"
+"quant-ph/9612004",,"Stefano Mancini, Paolo Tombesi and Vladimir I.Manko","Density Matrix From Photon Number Tomography","LATEX,6 pages,accepted by Europhysics Letters","Europhys.Lett.37:79,1997","10.1209/epl/i1997-00115-8",,"quant-ph",,"  We provide a simple analytic relation which connects the density operator of
+the radiation field with the number probabilities. The problem of
+experimentally ""sampling"" a general matrix elements is studied, and the
+deleterious effects of nonunit quantum efficiency in the detection process are
+analyzed showing how they can be reduced by using the squeezing technique. The
+obtained result is particulary useful for intracavity field reconstruction
+states.
+","[{""version"":""v1"",""created"":""Sat, 30 Nov 1996 10:33:56 GMT""}]","2010-12-17"

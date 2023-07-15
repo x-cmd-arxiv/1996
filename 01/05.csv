@@ -1,0 +1,331 @@
+"alg-geom/9601003","Moriwaki Atsushi","Atsushi Moriwaki","A sharp slope inequality for general stable fibrations of curves","18 pages (with 1 figure by epic.sty), AmSLaTeX version 1.2 (LaTeX2e)",,,,"alg-geom math.AG",,"  Let M_g be the moduli space of stable curves of genus g >= 2. Let D_i be the
+irreducible component of the boundary of M_g such that general points of D_i
+correspond to stable curves with one node of type i. Let M_g^0 be the set of
+stable curves that have at most one node of type i>0. Let d_i be the class of
+D_i in Pic(M_g)_Q and h the Hodge class on M_g. In this paper, we will prove a
+sharp slope inequality for general stable fibrations. Namely, if $C$ is a
+complete curve on M_g^0, then ( (8g+4)h - g d_0 - \sum_{i=1}^{[g/2]} 4i(g-i)
+d_i . C ) >= 0. As an application, we can prove effective Bogomolov's
+conjecture for general stable fibrations.
+","[{""version"":""v1"",""created"":""Fri, 5 Jan 1996 15:38:29 GMT""}]","2015-06-30"
+"astro-ph/9601012","Eli Waxman","Jordi Miralda-Escude and Eli Waxman (IAS, Princeton)","Signatures of the Origin of High-Energy Cosmic Rays in Cosmological
+  Gamma-Ray Bursts","Submitted to the ApJ Letters; 10 pages (LaTeX file, 3 PostScript
+  figures, aaspp4.sty style file, tar'ed, gzip'ed and uuencoded)","Astrophys.J. 462 (1996) L59-L62","10.1086/310042","IASSNS-AST 96/2","astro-ph",,"  We derive observational consequences of the hypothesis that cosmic rays
+(CR's) of energy $>10^{19}eV$ originate in the same cosmological objects
+producing gamma-ray bursts (GRB's). Inter-galactic magnetic fields $\gtrsim
+10^{-12} G$ are required in this model to allow CR's to be observed
+continuously in time by producing energy dependent delays in the CR arrival
+times. This results in individual CR sources having very narrow observed
+spectra, since at any given time only those CR's having a fixed time delay are
+observed. Thus, the brightest CR sources should be different at different
+energies. The average number of sources contributing to the total CR flux
+decreases with energy much more rapidly than in a model of steady CR sources,
+dropping to one at $E_{crit} \simeq2\times10^{20}$~eV with very weak
+sensitivity to the inter-galactic magnetic field strength. Below $E_{crit}$, a
+very large number of sources is expected, consistent with observations. Above
+$E_{crit}$, a source may be observed with a flux considerably higher than the
+time-averaged CR flux from all sources, if a nearby GRB occurred recently. If
+such a source is present, its narrow spectrum may produce a ``gap'' in the
+total spectrum. These signatures should be detectable by the planned ``Auger''
+CR experiment.
+","[{""version"":""v1"",""created"":""Thu, 4 Jan 1996 16:13:37 GMT""}]","2009-10-28"
+"astro-ph/9601013","Nick Suntzeff","Nicholas B. Suntzeff (Dominion Astrophysical Observatory and Cerro
+  Tololo Inter-American Observatory, NOAO) and Robert P. Kraft (Univ. Calif.
+  Obs., Lick Observatory, UCSC)","The Abundance Spread Among Giants and Subgiants in the Globular Cluster
+  Omega Centauri","Accepted for publication in the AJ. 40 pages, AASTeX V4.0 latex
+  format (including figures), 13 ps figures, 8 separate AASTeX V4.0 latex
+  tables","Astron.J.111:1913-1935,1996","10.1086/117930",,"astro-ph",,"  We present spectroscopic abundances and radial velocities for giant stars in
+the Galactic globular cluster omega Centauri based on the CaII infrared
+triplet. Two samples of stars were observed: 234 stars at M_V = 1.25 on the
+lower giant branch at radial distances between 8 and 23arcmin, and 145 stars at
+M_V = -1.3 at radial distances between 3 and 22arcmin. Previous metallicity
+studies found a non-gaussian metallicity distribution containing a tail of
+metal-rich stars. We confirm these results except our unbiased cluster
+metallicity distributions are significantly narrower. They contain the
+following key features: (1) No very metal-poor stars, (2) a sudden rise in the
+metal-poor distribution to a modal [Fe/H] value of --1.70 consistent with an
+homogeneous metallicity unresolved at the 0.07 dex level, (3) a tail to higher
+metallicities with more stars than predicted by simple chemical evolution
+models, and (4) a weak correlation between metallicity and radius such that the
+most metal-rich stars are concentrated to the cluster core. The unresolved
+metal-weak tail implies that the gas out of which omega Cen formed was
+well-mixed up to the modal metallicity of the cluster. Therefore, omega Cen
+like other Galactic globular clusters, seems to have formed in a pre-enriched
+and homogenized (up to the modal metallicity) environment. The existence of a
+weak metallicity gradient supports the idea that omega Cen self-enriched, with
+the enriched gas sinking to the cluster center due to gas dissipation
+processes. We also note, however, that the metal-rich stars are more massive
+than the bulk of the stars in the cluster, and may have sunk to the center by
+dynamical mass segregation over the lifetime of the cluster.
+","[{""version"":""v1"",""created"":""Thu, 4 Jan 1996 20:06:37 GMT""}]","2009-10-05"
+"astro-ph/9601014","Chuck Shepherd","C. W. Shepherd, R. G. Carlberg, H. K. C. Yee (University of Toronto),
+  E. Ellingson (University of Colorado)","The Two-Point Correlation Function at Redshift 1/3","23 pages including 6 Postscript figures, uses aaspp4.sty, submitted
+  to The Astrophysical Journal, also available at
+  http://manaslu.astro.utoronto.ca:80/~carlberg/cnoc/general.html",,,,"astro-ph",,"  We present the results of a study of the two-point correlation function for a
+sample of field galaxies taken from the CNOCI cluster survey. The sample
+consists of 144 galaxies within a contiguous region of space subtending 225
+square arcminutes. The objects have r-band magnitudes 17.0 < r < 21.7 and
+redshifts 0.21 < z < 0.53. The median redshift of the sample is 0.36. The real
+space correlation function is found to be consistent with a power law \xi(r) =
+(r/r_0)^-1.7 with r_0 = 2.1 +0.6/-0.3 (\Omega_0=1), or r_0 = 2.5 +0.7/-0.4
+(\Omega_0=0.2). Uncertainties are estimated using the bias-corrected bootstrap
+resampling method, with 300 resamplings. This low correlation length implies
+strong evolution since z~0.36 has occurred in either the correlation function
+or the luminosity function; if the observed correlation function is modeled as
+\xi(r,z) = \xi(r,0) * (1+z)^-(3+\epsilon) with \xi(r,0) = (r/5.1 h^-1Mpc)^-1.7,
+then \epsilon = 0.8 +1.0/-1.3. Comparison of the redshift space and real space
+correlation function indicates that the one-dimensional pairwise peculiar
+velocity dispersion \sigma at z~0.36 is weakly inconsistent with 770 km s^-1,
+the value predicted by the Cosmic Virial Theorem if \Omega_0=1. The observed
+correlation function is, however, consistent with \sigma=400 km s^-1, the value
+expected if \Omega_0=0.2.
+","[{""version"":""v1"",""created"":""Thu, 4 Jan 1996 22:46:35 GMT""}]","2007-05-23"
+"astro-ph/9601015","Marcio Catelan","M. Catelan","The distance modulus of the Large Magellanic Cloud: Constraints from RR
+  Lyrae pulsation properties","LaTeX file, five pages, requires l-aa.sty (v.3.0). One postscript
+  figure available upon request. To appear in Astronomy and Astrophysics
+  (Letters section)","Astronomy and Astrophysics, 307, L13-L16 (1996)",,,"astro-ph",,"  It has recently been suggested that the discrepancy between the ""long"" and
+""short"" distance moduli of the Large Magellanic Cloud (LMC), as inferred from
+the properties of the Cepheid and RR Lyrae variables, respectively, might be
+due to the action of ""third parameters"" between the Galaxy and the LMC, which
+would make the RR Lyraes in the old LMC globular clusters brighter than their
+Galactic counterparts by $\simeq 0.3 {mag}$. Through analysis of the RR Lyrae
+pulsation properties, we show that this idea is not supported by the available
+data. A satisfactory explanation of the problem has yet to be found.
+","[{""version"":""v1"",""created"":""Fri, 5 Jan 1996 00:57:38 GMT""}]","2007-05-23"
+"astro-ph/9601016","Simon Ellingsen","S.P. Ellingsen (Uni of Tas), M.L. von Bibra (Uni of Tas), P.M.
+  McCulloch (Uni of Tas), R.P. Norris (ATNF), A.A. Deshpande (RRI), C.J.
+  Phillips (Uni of Tas)","A Survey of the Galactic Plane for 6.7-GHz Methanol Masers I: l = 325.0
+  - 335.0 ; b = -0.53 - 0.53","19 pages including 4 figures, using LaTeX formatted with mn.sty,
+  accepted for publication in MNRAS",,"10.1093/mnras/280.2.378","ATP-275","astro-ph",,"  We report the results of the first complete survey of an area of the Galactic
+Plane for maser emission from the 6.7-GHz transition of methanol. The survey
+covers a 10.6-square-degree region of the Galactic Plane in the longitude range
+325-335 degrees and latitude range -0.53-0.53 degrees. The survey is sensitive
+to masers with a peak flux density greater than approximately 2.6 Jy. The
+weakest maser detected has a peak flux density of 2.3 Jy and the strongest a
+peak flux density of 425 Jy. We detected a total of 50 distinct masers, 26 of
+which are new detections. We show that many 6.7-GHz methanol masers are not
+associated with IRAS sources, and that some are associated with sources that
+have colours differing from those of a typical ultra-compact HII region
+(UCHII). We estimate that the number of UCHII regions in the Galaxy is
+significantly more than suggested by IRAS-based estimates, possibly by more
+than a factor of two.
+","[{""version"":""v1"",""created"":""Fri, 5 Jan 1996 00:04:24 GMT""}]","2015-06-24"
+"astro-ph/9601017","John C. Lattanzio","Cheryl Frost and John Lattanzio","AGB Stars: What Should Be Done ?","latex, 11 postscript figures, total of 19 postscript pages",,,,"astro-ph",,"  We present a review of AGB star evolution, with emphasis on the
+nucleosynthesis occurring in these stars. In particular, we discuss hot and
+cool bottom burning, observational constraints, and analysis of meteoritic
+grains. This paper was presented at the 32nd Liege Colloquium ""Stellar
+Evolution: What Should Be Done ?""
+","[{""version"":""v1"",""created"":""Fri, 5 Jan 1996 05:18:43 GMT""}]","2007-05-23"
+"astro-ph/9601018","Salucci Paolo","Paolo Salucci and Massimo Persic (SISSA and Osservatorio Astronomico,
+  Trieste)","Dark Baryons in the Universe: the Quest Goes On","submitted to MNRAS; 5 pages, Tex file (ask the first Author for the
+  postscript files of two figures)",,,,"astro-ph",,"  We show that the high local baryonic fraction, M(bar) ~ 1/3 M(tot), found in
+groups and clusters of galaxies does not reconcile the observed cosmological
+baryon density with the standard Big-Bang prediction. Taking into account
+recent measurements on the hot-gas content and temperature functions of
+clusters and groups, we get Omega(gas) = 0.0023 h_{50}^{-1.5} ~ 4% Omega(BBN).
+Including the contributions of galaxies and of (local) Ly-alpha clouds we
+estimate Omega(bar) ~ 0.004-0.006 < 10% Omega(BBN) as the amount of detected
+baryons. Most of the synthesised atoms are still to be discovered. We propose
+to relate the impressive presence of the hot gas component in clusters with the
+very low, mass-dependent efficiency of the process of galaxy formation in
+making stars from the primordial gas.
+","[{""version"":""v1"",""created"":""Fri, 5 Jan 1996 12:01:39 GMT""}]","2007-05-23"
+"astro-ph/9601019","Vincenzo Ripepi","V. Ripepi, F. Barone, L. Milano and G. Russo","Cepheid Radii and the Cors Method Revisited","postscript file; figures and tables included. For any problem please
+  write to ripepi@csfisi.fis.unical.it",,,,"astro-ph",,"  We have refined the CORS method, introduced in 1980 for the computation of
+the cepheid radii, in order to extend its applicability to recent and extensive
+sets of observations. The refinement is based on the computation, from
+observational data only, of one of the terms of the solving equation,
+previously based only on precise calibrations of photometric colours. A limited
+number of assumptions, generally accepted in the literature, is used.\par New
+radii are computed for about 70 cepheids, and the resulting P-R relation is
+discussed.
+","[{""version"":""v1"",""created"":""Fri, 5 Jan 1996 15:01:00 GMT""}]","2007-05-23"
+"cond-mat/9601013","Supriya Krishnamurthy","Supriya Krishnamurthy and Mustansir Barma","Active-Site Motion and Pattern Formation in Self-Organised Interface
+  Depinning","Revtex, 4 pages, 5 figures available upon request from author. To
+  appear in Physical Review Letters",,,"TIFR/TH/95-37","cond-mat",,"  We study a dynamically generated pattern in height gradients, centered around
+the active growth site, in the steady state of a self-organised interface
+depinning model. The pattern has a power-law tail and depends on interface
+slope. An approximate integral equation relates the profile to local interface
+readjustments and long-ranged jumps of the active site. The pattern results in
+a two-point correlation function saturating to a finite value which depends on
+system size. Pattern formation is generic to systems in which the dynamics
+leads to correlated motion of the active site.
+","[{""version"":""v1"",""created"":""Fri, 5 Jan 1996 10:56:21 GMT""}]","2007-05-23"
+"cond-mat/9601014","Cecile Monthus","Alain Comtet (DPT, IPN Orsay France) C\'ecile Monthus (SPhT, CE Saclay
+  France) and Marc Yor (Labo. Proba., Paris France)","Exponential functionals of Brownian motion and disordered systems","18 pages","J. Appl. Proba. 35 (1998) 255",,,"cond-mat",,"  The paper deals with exponential functionals of the linear Brownian motion
+which arise in different contexts such as continuous time finance models and
+one-dimensional disordered models. We study some properties of these
+exponential functionals in relation with the problem of a particle coupled to a
+heat bath in a Wiener potential. Explicit expressions for the distribution of
+the free energy are presented.
+","[{""version"":""v1"",""created"":""Fri, 5 Jan 1996 08:21:33 GMT""}]","2007-05-23"
+"cond-mat/9601015","Thomas Luce","T. A. Luce, W. Huebner, and K. H. Bennemann","Theory for the Dependence of Optical Second Harmonic Generation
+  Intensity on Non-equilibrium Electron Temperatures at Metal Surfaces","17 pages, Revtex, 10 postscript figures, tar'ed together, compressed
+  with 'gzip', encoded with 'uuendcode'",,,,"cond-mat",,"  We present a theory for the electron-temperature dependence $T_{el}$ of
+optical second harmonic generation (SHG). Such an analysis is required to study
+the dynamics of metallic systems with many hot electrons not at equilibrium
+with the lattice. Using a tight-binding theory for the nonlinear susceptibility
+\cwtel and the Fresnel coefficients we present results for the SHG intensity
+\iwtel for a Cu monolayer. In the case of linear optical response we find that
+the intensity will decrease monotonously for increasing $T_{el}$. In agreement
+with experiment we find a frequency range where \iwtel may be enhanced or
+reduced depending on electron temperature. Note, \cwtel rather than the Fresnel
+coefficients determines essentially the temperature dependence. Our theory
+yields also that SHG probes effects due to hot electrons more sensitively than
+linear optics. We also discuss the $T_{el}$-dependence of SHG for Au and Ag.
+","[{""version"":""v1"",""created"":""Fri, 5 Jan 1996 09:45:52 GMT""}]","2007-05-23"
+"cond-mat/9601019",,"A.Cabo, A.Perez Martinez","On the Collective Mode Spectrum in FQHE","15 pages, 4 figures. Typeset using REVTEX",,,"CEMAFIT-95-04","cond-mat",,"  We consider the Bethe Salpeter Equation (BSE) for a fractionally filled
+Landau level. A phenomenological discussion of the $1/3$ Laughlin's state is
+performed by assuming an ansatz for the one-particle propagator. The BSE is
+solved in this approach and it predicts an instability under the formation of
+charge density oscillations for a wide range of the one-particle gap parameter
+values in contrast with previous single mode approximation results. However,
+the conclusion is compatible with the one obtained within a composite fermion
+description done by us before and with the saturation of the zero momentum
+oscillator strength sum rule by the cyclotronic resonance. Further studies
+should be done in order to understand the discrepancy.
+","[{""version"":""v1"",""created"":""Fri, 5 Jan 1996 07:26:34 GMT""}]","2007-05-23"
+"dg-ga/9601002",,"D.A.Kalinin (Kazan State University)","Hamilton dynamics and $H$-planar curves","11 pages, LaTeX",,,"KSU/GRG-96-1","dg-ga math.DG",,"  Hamilton flows on K\""ahler manifold for which all trajectories are $H$-planar
+curves (complex analog of geodesics) are considered. These flows are called
+$H$-planar. The equation which has to obey the Hamiltonian of $H$-planar
+Hamilton flow is received and the method of finding general solution of this
+equation is proposed.
+  Trajectories of charged particles in magnetic fields of special form on
+K\""ahler manifolds of constant holomorphic sectional curvature are studied.
+Using the fact that K\""ahler manifolds of constant holomorphic sectional
+curvature admit $H$-projective mapping on flat space the equation of particle
+motion is reduced to an ordinary differential equation of second order.
+","[{""version"":""v1"",""created"":""Fri, 5 Jan 1996 15:00:46 GMT""}]","2008-02-03"
+"gr-qc/9601006","Carlos Lousto","C.O.Lousto (Univ. Utah)","Some Thermodynamic Aspects of Black Holes and Singularities","16 pages, RevTeX, 5 compressed figures","Int.J.Mod.Phys. D6 (1997) 575-590","10.1142/S0218271897000352",,"gr-qc astro-ph hep-th",,"  We review and correct the classical critical exponents characterizing the
+transition from negative to positive black hole's heat capacity at high
+charge--angular momentum. We discuss the stability properties of black holes as
+a thermodynamic system in equilibrium with a radiation bath (canonical
+ensamble) by using the Helmholtz free energy potential. We finally analytically
+extend the analysis to negative mass holes and study its thermodynamical
+stability behavior.
+","[{""version"":""v1"",""created"":""Fri, 5 Jan 1996 01:22:25 GMT""},{""version"":""v2"",""created"":""Fri, 5 Jan 1996 22:27:50 GMT""}]","2009-10-28"
+"hep-ph/9601213","Abdul N. Kamal","A.N.Kamal, A.B.Santra and F. Ghoddoussi","What are effective $a_1$ and $a_2$ in two-body hadronic decays of D and
+  B mesons?","14 pages,Latex,no figures","Nuovo Cim. A111 (1998) 165-178",,"Alberta Thy 01-96","hep-ph",,"  Through a specific example of two-body color-favored charm decay, $D_s ^+
+\rightarrow \phi \pi^+$, we illustrate how an effective and complex
+(unitarized) $a_1$, denoted by $a_1^{U,eff}$, may be defined such that it
+includes nonfactorized, annihilation and inelastic final state interaction
+(fsi) effects. The procedure can be generalized to color-suppressed processes
+to define an effective, and complex $a_2^{U,eff}$. We determine $|a_1^{U,eff}|$
+and, where relevant, $|a_2^{U,eff}|$ for $D\rightarrow \bar{K}\pi, \bar{K}
+\rho, \bar{K}^{*} \pi, D_s^+ \rightarrow \eta \pi^+$, $\eta' \pi^+$, $\eta
+\rho^+ ,\eta' \rho^+$, and for $B^0 \rightarrow D^- \pi^+$ and $D^- \rho^+$
+from the hadronic and semileptonic decay data.
+","[{""version"":""v1"",""created"":""Thu, 4 Jan 1996 17:07:26 GMT""}]","2007-05-23"
+"hep-ph/9601214",,"W. Cassing, W. Ehehalt and I. Kralik","Analysis of the HELIOS-3 $\mu^+\mu^-$ Data within a Relativistic
+  Transport Approach","11 pages, 5 postscript figures","Phys.Lett. B377 (1996) 5-10","10.1016/0370-2693(96)00291-2","UGI-96-01","hep-ph",,"  We present a nonperturbative dynamical study of $\mu^+\mu^-$ production in
+proton-nucleus and nucleus-nucleus collisions at SPS energies on the basis of
+the covariant transport approach HSD. For p + W reactions at 200 GeV bombarding
+energy the dimuon yield for invariant masses m $\leq $ 1.6 GeV is found to be
+dominated by the decays of the $\eta, \rho, \omega$ and $\Phi$ mesons. For 200
+GeV/A S + W collisions, however, the dimuon yield shows an additional large
+contribution from $\pi^+\pi^-$, $K^+K^-$ and $\pi \rho$ channels. We find that
+for `free' meson masses and form factors the experimental cross section is
+clearly underestimated for S + W in the invariant mass range 0.35 GeV $\leq$ m
+$\leq$ 0.65 GeV and that the HELIOS-3 data can only be reproduced within a
+hadronic scenario, if the $\rho/\omega$-meson mass drops with baryon density.
+This finding suggests a partial restoration of chiral symmetry in S + W
+collisions at SPS energies.
+","[{""version"":""v1"",""created"":""Thu, 4 Jan 1996 18:47:11 GMT""}]","2009-10-28"
+"hep-ph/9601215",,"Wing Kai Wong (SLAC)","Renormalization Scale Setting for Evolution Equation of Non-Singlet
+  Structure Functions and Their Moments","15 pages, RevTeX","Phys.Rev. D54 (1996) 1094-1098","10.1103/PhysRevD.54.1094","SLAC-PUB-95-7063","hep-ph",,"  We use the BLM procedure to eliminate the renormalization scale ambiguity in
+the evolution equation for the non-singlet deep-inelastic structure function
+$F_2^{\text NS}(x,Q).$ The scale of the QCD coupling in the
+$\overline{\text{MS}}$ scheme has the form $Q^*(x) = Q (1-x)^{1/2} / x~f(x) $,
+where $x$ is the Bjorken variable and $f(x)$ is a smoothly varying function
+bounded between 0.30 to 0.45. Equivalently, the evolution of the $n$th moment
+of the structure function should contain an effective $\Lambda_{\text{QCD}}$
+pattern, with $\Lambda_n \sim n^{1/2}$. This variation of $\Lambda_n$ agrees
+with experimental data.
+","[{""version"":""v1"",""created"":""Fri, 5 Jan 1996 03:11:34 GMT""}]","2009-10-28"
+"hep-th/9601009","Pijush Kanti Ghosh","Pijush K. Ghosh","Exact Self-dual Soliton Solutions in a Gauged O(3) Sigma Model with
+  Anomalous Magnetic Moment Interaction","A discussion on $CP^N$ case has been made. New references have been
+  added. To appear in Physics Letters B. RevTeX, 13 pages, no figure","Phys.Lett. B381 (1996) 237-242","10.1016/0370-2693(96)00615-6","MRI-PHY/01/96","hep-th",,"  It is shown that a gauged nonlinear $O(3)$ sigma model with anomalous
+magnetic moment interaction in $2+1$ dimensions is exactly integrable for
+static, self-dual field configurations. The matter fields are exactly
+equivalent to those of the usual ungauged nonlinear $O(3)$ sigma model. These
+static soliton solutions can be mapped into an Abelian purely magnetic vortex
+solutions through a suitable reduction of the non-Abelian gauge group. A
+relativistic Abelian model in $2+1$ dimensions is also presented where these
+purely magnetic vortices can be realized.
+","[{""version"":""v1"",""created"":""Fri, 5 Jan 1996 01:11:46 GMT""},{""version"":""v2"",""created"":""Wed, 24 Apr 1996 02:09:51 GMT""}]","2009-10-30"
+"hep-th/9601011","Ofer Aharony","Ofer Aharony and Shimon Yankielowicz","Exact Electric-Magnetic Duality in N=2 Supersymmetric QCD Theories","33 pages, uses harvmac.tex, several modifications concerning the
+  quantum corrections to the N_c > 3 cases are introduced and discussed","Nucl.Phys.B473:93-120,1996","10.1016/0550-3213(96)00271-4","TAUP-2313-96","hep-th",,"  We analyze the Coulomb phase of theories of $N=2$ SQCD with $SU(N_c)$ gauge
+groups which are conjectured to have exact electric-magnetic duality. We
+discuss the duality transformation of the particle spectrum, emphasizing the
+differences between the general case and the $SU(2)$ case. Some difficulties
+associated with the definition of the duality transformation for a general
+gauge group are discussed. We compute the classical monopole spectrum of these
+theories, and when it is possible we use it to check the consistency of the
+duality. Generally these theories may have phase transitions between strong and
+weak coupling, which prevent the semi-classical computation from being useful
+for checking the duality.
+","[{""version"":""v1"",""created"":""Thu, 4 Jan 1996 16:22:04 GMT""},{""version"":""v2"",""created"":""Tue, 16 Jan 1996 13:45:30 GMT""}]","2009-09-29"
+"hep-th/9601012","Hector DE Vega","E. J. Copeland, H. J. de Vega and A. V\'azquez","Quantum Bosonic String Energy-Momentum Tensor in Minkowski Space-Time","Latex, 15 pages",,,"LPTHE/95-26, SUSX-TH/95-31","hep-th",,"  The quantum energy-momentum tensor ${\hat T}^{\mu\nu}(x)$ is computed for
+strings in Minkowski space-time. We compute its expectation value for different
+physical string states both for open and closed bosonic strings. The states
+considered are described by normalizable wave-packets in the center of mass
+coordinates. We find in particular that ${\hat T}^{\mu\nu}(x)$ is {\bf finite}
+which could imply that the classical divergence that occurs in string theory as
+we approach the string position is removed at the quantum level as the string
+position is smeared out by quantum fluctuations. For massive string states the
+expectation value of ${\hat T}^{\mu\nu}(x)$ vanishes at leading order (genus
+zero). For massless string states it has a non-vanishing value which we
+explicitly compute and analyze for both spherically and cylindrically symmetric
+wave packets. The energy-momentum tensor components propagate outwards as a
+massless lump peaked at $ r = t $.
+","[{""version"":""v1"",""created"":""Thu, 4 Jan 1996 16:11:31 GMT""}]","2016-08-15"
+"hep-th/9601013",,"S. Vandoren","Covariant Quantisation in the Antifield Formalism","Latex, 151 pages, PhD thesis, KUleuven, December 1995 12 files
+  compressed into thes.tar.gz",,,,"hep-th",,"  In this thesis we give an overview of the antifield formalism and show how it
+must be used to quantise arbitrary gauge theories. The formalism is further
+developed and illustrated in several examples, including Yang-Mills theory,
+chiral $W_3$ and $W_{2,5/2}$ gravity, strings in curved backgrounds and
+topological field theories. All these models are characterised by their gauge
+algebra, which can be open, reducible, or even infinitly reducible. We show in
+detail how to perform the gauge fixing and how to compute the anomalies using
+Pauli-Villars regularisation and the heat kernel method. Finally, we discuss
+the geometrical structure of the antifield formalism.
+","[{""version"":""v1"",""created"":""Thu, 4 Jan 1996 18:42:42 GMT""},{""version"":""v2"",""created"":""Fri, 5 Jan 1996 17:16:17 GMT""}]","2008-02-03"
+"hep-th/9601014","Peter Mayr","A. Klemm and P. Mayr","Strong Coupling Singularities and Non-abelian Gauge Symmetries in $N=2$
+  String Theory","18 pages, harvmac, misprints, minor correction","Nucl.Phys. B469 (1996) 37-50","10.1016/0550-3213(96)00108-3","CERN-TH-96-02","hep-th",,"  We study a class of extremal transitions between topological distinct
+Calabi--Yau manifolds which have an interpretation in terms of the special
+massless states of a type II string compactification. In those cases where a
+dual heterotic description exists the exceptional massless states are due to
+genuine strong (string-) coupling effects. A new feature is the appearance of
+enhanced non-abelian gauge symmetries in the exact nonperturbative theory.
+","[{""version"":""v1"",""created"":""Fri, 5 Jan 1996 06:45:18 GMT""},{""version"":""v2"",""created"":""Mon, 8 Jan 1996 00:50:35 GMT""},{""version"":""v3"",""created"":""Sun, 21 Jan 1996 23:51:26 GMT""}]","2009-10-30"
+"hep-th/9601015","Dirk Schlingemann","Dirk Schlingemann","On the Algebraic Theory of Soliton and Antisoliton Sectors","33pp, latex2e. to appear in Rev. Math. Phys","Rev.Math.Phys. 8 (1996) 301-326","10.1142/S0129055X96000111","DESY 95-012","hep-th",,"  We consider the properties of massive one particle states on a translation
+covariant Haag-Kastler net in Minkowski space. In two dimensional theories,
+these states can be interpreted as soliton states and we are interested in the
+existence of antisolitons. It is shown that for each soliton state there are
+three different possibilities for the construction of an antisoliton sector
+which are equivalent if the (statistical) dimension of the corresponding
+soliton sector is finite.
+","[{""version"":""v1"",""created"":""Fri, 5 Jan 1996 09:51:34 GMT""}]","2015-06-26"
+"nucl-th/9601002","Lothar Tiator","M. Kirchbach, L. Tiator","On the Coupling of the $\eta $ Meson to the Nucleon","11 pages LATEX and 2 postscript figures included in a self-extracting
+  uufile type archive","Nucl.Phys. A604 (1996) 385-394","10.1016/0375-9474(96)00140-6","MKPH-T-95-33","nucl-th",,"  The pseudoscalar and pseudovector $\eta N$ coupling constants are calculated
+from an effective vertex associated with the $a_0(980)\pi N$ triangle diagram.
+The predicted values are in agreement with the ones concluded from fitting
+$\eta $ photoproduction amplitudes. In this context we stress the importance of
+the properties of the scalar meson octet for $\eta $ meson physics.
+","[{""version"":""v1"",""created"":""Thu, 4 Jan 1996 16:23:48 GMT""}]","2009-10-30"
+"nucl-th/9610046","Gennady A. Chekomazov","G. A. Chekomazov, S. E. Muraviev, M. H. Urin","On description of the direct nucleon decay of giant resonances","LaTeX, 6 pages","Nucl.Phys. A599 (1996) 259c-264c","10.1016/0375-9474(96)00067-X","MEPI-32Ur-952","nucl-th",,"  A semimicroscopical approach is formulated to describe the direct nucleon
+decay of various giant resonances in intermediate and heavy mass spherical
+nuclei. The approach consists in: (i) the exact continuum-RPA calculations for
+amplitudes of the reactions accompanied by excitation and the nucleon decay of
+the collective particle-hole states (doorway states); (ii) the Breit-Wigner
+parametrization of the RPA reaction-amplitudes in the vicinity of the giant
+giant-resonance energy and evaluation of the doorway-state parameter (the
+energy, entrance and partial nucleon, escape widths); (iii) the
+phenomenological consideration for the doorway-state coupling to many-particle
+configurations with the use of reasonable statistical assumptions and
+derivation on this base the expressions for the energy-averaged reaction
+amplitudes. The nuclear mean field and quasiparticle interaction are the input
+quantities for calculations. Examples of description for the direct nucleon
+decay of a number of giant resonances in the $^{208}Pb$ parent nucleus are
+given together with the comparison with corresponding experimental data.
+","[{""version"":""v1"",""created"":""Fri, 5 Jan 1996 01:44:30 GMT""}]","2009-10-30"

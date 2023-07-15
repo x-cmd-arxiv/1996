@@ -1,0 +1,157 @@
+"alg-geom/9601001","Fernando Cukierman","Fernando Cukierman","Determinant of complexes and higher Hessians","AMSTeX preprint style",,,,"alg-geom math.AG",,"  Let $X \subset \Bbb P^r$ be a smooth algebraic curve in projective space,
+over an algebraically closed field of characteristic zero. For each $m \in \Bbb
+N$, the $m$-flexes of $X$ are defined as the points where the osculating
+hypersurface of degree $m$ has higher contact than expected, and a hypersurface
+$H \subset \Bbb P^r$ is called a $m$-Hessian if it cuts $X$ along its
+$m$-flexes. When $X$ is a complete intersection, we give an expression for a
+(rational) $m$-Hessian as the Div (in the sense of
+Grothendieck-Knudsen-Mumford) of a complex of graded free modules naturally
+associated to $X$. The construction of this complex involves relating sheaves
+of differential operators on a scheme and a subscheme, and higher Euler
+sequences on projective space.
+","[{""version"":""v1"",""created"":""Tue, 2 Jan 1996 04:52:58 GMT""}]","2008-02-03"
+"astro-ph/9601003","Craig Wheeler","J. Craig Wheeler, S.-W. Kim, M. D. Moscoso, M. Kusunose (Department of
+  Astronomy, University of Texas) and S. Mineshige (Department of Astronomy,
+  Kyoto University)","The Physics of Black Hole X-ray Transients","LaTex 6 pages. To appear in the Kyoto Workshop on the Basic Physics
+  of Accretion Disks eds S. Kato, S. Inagaki, J. Fukue, and S. Mineshige (New
+  York: Gordon and Breach). Also available on
+  http://tycho.as.utexas.edu/~wheel/index.html",,,,"astro-ph",,"  The most plausible mechanism for triggering the outburst of black hole
+candidate X-ray transients is the ionization thermal instability. The disk
+instability models can give the observed mass flow in quiescence, but not the
+X-ray spectrum. Self-irradiation of the disk in outburst may not lead to X-ray
+reprocessing as the dominant source of optical light, but may play a role in
+the ""reflare."" The hard power-law spectrum and radio bursts may be non-thermal
+processes driven by the flow of pair-rich plasma from the disk at early times
+and due to the formation of a pair-rich plasma corona at late times. The
+repeated outbursts suggest some sort of clock, but it is unlikely that it has
+anything to do with a simple X-ray heating of the companion star.
+","[{""version"":""v1"",""created"":""Mon, 1 Jan 1996 18:49:07 GMT""}]","2007-05-23"
+"astro-ph/9601004","Andrei Linde","Andrei Linde","Recent Progress in Inflationary Cosmology","21 pages, An invited talk at the 1st RESCEU International Symposium
+  on ""The Cosmological Constant and the Evolution of the Universe,"" Tokyo,
+  November 1995",,,"SU-ITP-96-01","astro-ph gr-qc hep-ph hep-th",,"  We discuss two important modifications of inflationary paradigm. Until very
+recently we believed that inflation automatically leads to flatness of the
+universe, Omega = 1. We also thought that post-inflationary phase transitions
+in GUTs may occur only after thermalization, which made it very difficult to
+have baryogenesis in GUTs and to obtain superheavy topological defects after
+inflation. We will describe a very simple version of chaotic inflation which
+leads to a division of the universe into infinitely many open universes with
+all possible values of Omega from 1 to 0. We will show also that in many
+inflationary models quantum fluctuations of scalar and vector fields produced
+during reheating are much greater than they would be in a state of thermal
+equilibrium. This leads to cosmological phase transitions of a new type, which
+may result in an efficient GUT baryogenesis, in a copious production of
+topological defects and in a secondary stage of inflation after reheating.
+","[{""version"":""v1"",""created"":""Tue, 2 Jan 1996 05:44:57 GMT""}]","2007-05-23"
+"astro-ph/9601005","Roelof de Jong","Roelof S. de Jong (Kapteyn Astronomical Institute)","Near-infrared and optical broadband surface photometry of 86 face-on
+  disk dominated galaxies. III. The statistics of disk and bulge parameters","Accepted for publication in Astronomy & Astrophysics 21 pages LaTeX,
+  45 PostScript figures, also available at
+  http://star-www.dur.ac.uk/~rdejong/papers.html","Astron.Astrophys.313:45-64,1996",,,"astro-ph",,"  The statistics of the fundamental bulge and disk parameters of galaxies and
+their relation to the Hubble sequence were investigated by an analysis of
+optical and near-infrared observations of 86 face-on spiral galaxies. The
+availability of near-infrared K-passband data made it possible for the first
+time to trace fundamental parameters related to the luminous mass while hardly
+being hampered by the effects of dust and stellar populations. The observed
+number frequency of galaxies was corrected for selection effects to calculate
+volume number densities of galaxies with respect to their fundamental
+parameters. The main conclusions of this investigation are:
+  1) Freeman's law has to be redefined. There is no single preferred value for
+the central surface brightnesses of disks in galaxies. There is only an upper
+limit to the central surface brightnesses of disks, while for lower central
+surface brightnesses the number of galaxies per volume element decreases only
+slowly as function of the central surface brightness.
+  2) The Hubble sequence type index correlates strongly with the effective
+surface brightness of the bulge, much better than with the bulge-to-disk ratio.
+  3) The disk and bulge scalelengths are correlated.
+  4) These scalelengths are not correlated with Hubble type. Hubble type is a
+lengthscale-free parameter and each type therefore comes in a range of
+magnitudes (and presumably a range of total masses).
+  5) Low surface brightness spiral galaxies are not a separate class of
+galaxies. In a number of aspects they are a continuation of a trend defined by
+the high surface brightness galaxies. Low surface brightness galaxies are in
+general of late Hubble type.
+","[{""version"":""v1"",""created"":""Tue, 2 Jan 1996 13:02:48 GMT""}]","2009-05-29"
+"cond-mat/9601001","Anton Andreev","A. V. Andreev, O. Agam, B. D. Simons and B. L. Altshuler","Quantum Chaos, Irreversible Classical Dynamics and Random Matrix Theory","4 pages, revtex, no figures",,"10.1103/PhysRevLett.76.3947",,"cond-mat",,"  The Bohigas--Giannoni--Schmit conjecture stating that the statistical
+spectral properties of systems which are chaotic in their classical limit
+coincide with random matrix theory is proved. For this purpose a new
+semiclassical field theory for individual chaotic systems is constructed in the
+framework of the non--linear $\sigma$-model. The low lying modes are shown to
+be associated with the Perron--Frobenius spectrum of the underlying
+irreversible classical dynamics. It is shown that the existence of a gap in the
+Perron-Frobenius spectrum results in a RMT behavior. Moreover, our formalism
+offers a way of calculating system specific corrections beyond RMT.
+","[{""version"":""v1"",""created"":""Mon, 1 Jan 1996 18:29:04 GMT""}]","2009-10-28"
+"cond-mat/9601002","Emilio Artacho","Pablo Ordejon (Urbana (USA) and Oviedo (Spain)), Emilio Artacho, and
+  Jose M. Soler (U. Autonoma de Madrid (Spain))","Selfconsistent order-N density-functional calculations for very large
+  systems","RevTeX, 4 pages (2 figures included in the RevTeX file)","Phys. Rev. B 53, R10441 (1996)","10.1103/PhysRevB.53.R10441",,"cond-mat mtrl-th",,"  We present a method to perform fully selfconsistent density-functional
+calculations, which scales linearly with the system size and which is well
+suited for very large systems. It uses strictly localized pseudoatomic orbitals
+as basis functions. The sparse Hamiltonian and overlap matrices are calculated
+with an $O(N)$ effort. The long range selfconsistent potential and its matrix
+elements are computed in a real-space grid. The other matrix elements are
+directly calculated and tabulated as a function of the interatomic distances.
+The computation of the total energy and atomic forces is also done in $O(N)$
+operations using truncated, Wannier-like localized functions to describe the
+occupied states, and a band-energy functional which is iteratively minimized
+with no orthogonality constraints. We illustrate the method with several
+examples, including carbon and silicon supercells with up to 1000 Si atoms and
+supercells of $\beta$-C$_3$N$_4$. We apply the method to solve the existing
+controversy about the faceting of large icosahedral fullerenes by performing
+dynamical simulations on C$_{60}$, C$_{240}$, and C$_{540}$.
+","[{""version"":""v1"",""created"":""Tue, 2 Jan 1996 09:18:51 GMT""}]","2009-10-28"
+"hep-ph/9601201",,"J.Bartels, J.R.Forshaw, H.Lotter, M.Wusthoff","Diffractive Production of Vector Mesons at Large t","13 pages plus 3 figures (uuencoded)","Phys.Lett.B375:301-309,1996","10.1016/0370-2693(96)00203-1","DESY-95-253, MC-TH-95/23, ANL-HEP-PR-95-89","hep-ph",,"  The cross section for elastic vector meson production in photon-proton
+interactions at large $t$ is considered using the exact analytic solution of
+the BFKL equation in the azimuthally symmetric $n=0$ limit. We use a
+non-relativistic model for the vector meson production and find a small
+shrinkage in the $t$-distribution with increasing energy.
+","[{""version"":""v1"",""created"":""Tue, 2 Jan 1996 14:03:54 GMT""}]","2008-11-26"
+"hep-ph/9601202","Antonio Pich","A.Pich","Flavourdynamics","54 pages, latex, 14 figures (included in a separate .uu file)
+  Lectures given at the XXIII International Meeting on Fundamental Physics
+  (Comillas, 22--26 May 1995). 1 reference corrected",,,,"hep-ph",,"  These lectures provide an introductory overview of the dynamics of
+flavour-changing transitions. The main emphasis is put on present tests of the
+quark-mixing matrix structure and the phenomenological determination of its
+parameters. The interplay of strong interactions in weak decays and the
+important role of flavour symmetries for controlling the size of QCD
+corrections to some semileptonic transitions are discussed.
+","[{""version"":""v1"",""created"":""Tue, 2 Jan 1996 15:12:52 GMT""},{""version"":""v2"",""created"":""Fri, 19 Jan 1996 14:26:15 GMT""}]","2008-02-03"
+"hep-th/9601001","G. v. Gehlen","G. von Gehlen","Integrable Z_n-Chiral Potts Model: The Missing Rapidity-Momentum
+  Relation","8 pages, LaTeX with sprocl.sty (included), 3 postscript figures
+  included using psfig.sty",,,"BONN-TH-95-21","hep-th",,"  The McCoy-Roan integral representation for gaps of the integrable Z_n-
+symmetric Chiral Potts quantum chain is used to calculate the boundary of the
+incommensurable phase for various n. In the limit n -> \infty an analytic
+formula for this phase boundary is obtained. The McCoy-Roan formula gives the
+gaps in terms of a rapidity. For the lowest gap we conjecture the relation of
+this rapidity to the physical momentum in the high-temperature limit using
+symmetry properties and comparing the McCoy-Roan formula to high-temperature
+expansions and finite-size data.
+","[{""version"":""v1"",""created"":""Tue, 2 Jan 1996 12:18:59 GMT""}]","2007-05-23"
+"q-alg/9601001","Boucif Abdesselam","B. Abdesselam, J. Beckers, A. Chakrabarti and N.Debergh","On Nonlinear Angular Momentum Theories, Their Representations and
+  Associated Hopf Structures","20 pages, Latex, Minor change, to be published in Jour. Phys. A:
+  Math. Gen","J.Phys.A29:3075-3088,1996; Addendum-ibid.A30:5239-5242,1997","10.1088/0305-4470/29/12/015","CPTH-S 424-1295, PTM-95/14 U.LIEGE","q-alg hep-th math.QA",,"  Nonlinear $sl(2)$ algebras subtending generalized angular momentum theories
+are studied in terms of undeformed generators and bases. We construct their
+unitary irreducible representations in such a general context. The linear
+$sl(2)$-case as well as its $q$-deformation are easily recovered as specific
+examples. Two other physically interesting applications corresponding to the
+so-called Higgs and quadratic algebras are also considered. We show that these
+two nonlinear algebras can be equipped with a Hopf structure.
+","[{""version"":""v1"",""created"":""Tue, 2 Jan 1996 14:37:56 GMT""},{""version"":""v2"",""created"":""Fri, 28 Jun 1996 12:45:35 GMT""}]","2008-11-26"
+"q-alg/9601002","Thang T. A. Le","Thang T. Q. Le","An Invariant of Integral Homology 3-Spheres Which Is Universal For All
+  Finite Type Invariants","23 pages, Amslatex; Typos and minor mistakes corrected; More
+  explanations and details added; A stronger version of operations which do not
+  change values of invariants up to some order is presented",,,,"q-alg math.QA",,"  In [LMO] a 3-manifold invariant $\Omega(M)$ is constructed using a
+modification of the Kontsevich integral and the Kirby calculus. The invariant
+$\Omega$ takes values in a graded Hopf algebra of Feynman 3-valent graphs. Here
+we show that for homology 3-spheres the invariant $\Omega$ is {\em universal}
+for all finite type invariants, i.e. $\Omega_n$ is an invariant of order $3n$
+which dominates all other invariants of the same order. This shows that the set
+of finite type invariants of homology 3-spheres is equivalent to the Hopf
+algebra of Feynman 3-valent graphs. Some corollaries are discussed. A theory of
+groups of homology 3-spheres, similar to Gusarov's theory for knots, is
+presented.
+","[{""version"":""v1"",""created"":""Tue, 2 Jan 1996 15:47:52 GMT""},{""version"":""v2"",""created"":""Tue, 16 Jan 1996 19:40:55 GMT""}]","2008-02-03"
+"quant-ph/9601001","Judy Mack","C. R. Hagen","Comment on ``Quantum Phase of Induced Dipoles Moving in a Magnetic
+  Field''","2 pages, latex file, no figures",,"10.1103/PhysRevLett.77.1656","UR-1453","quant-ph",,"  It has recently been suggested that an Aharonov-Bohm phase should be capable
+of detection using beams of neutral polarizable particles. A more careful
+analysis of the proposed experiment suffices to show, however, that it cannot
+be performed regardless of the strength of the external electric and magnetic
+fields.
+","[{""version"":""v1"",""created"":""Tue, 2 Jan 1996 15:35:59 GMT""}]","2009-10-30"

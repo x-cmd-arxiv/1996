@@ -1,0 +1,123 @@
+"cond-mat/9608072","Mohammad Abolfath","M. Abolfath, L. Belkhir, N. Nafari","Quantum Hall effect in single wide quantum wells","30 pages, 7 figures (figures are not included)","Phys. Rev. B, 55 (1997) 10643","10.1103/PhysRevB.55.10643",,"cond-mat",,"  We study the quantum Hall states in the lowest Landau level for a single wide
+quantum well. Due to a separation of charges to opposite sides of the well, a
+single wide well can be modelled as an effective two level system. We provide
+numerical evidence of the existence of a phase transition from an
+incompressible to a compressible state as the electron density is increased for
+specific well width. Our numerical results show a critical electron density
+which depends on well width, beyond which a transition incompressible double
+layer quantum Hall state to a mono-layer compressible state occurs. We also
+calculate the related phase boundary corresponding to destruction of the
+collective mode energy gap. We show that the effective tunneling term and the
+interlayer separation are both renormalised by the strong magnetic field. We
+also exploite the local density functional techniques in the presence of strong
+magnetic field at $\nu=1$ to calculate renormalized $\Delta_{SAS}$. The
+numerical results shows good agreement between many-body calculations and local
+density functional techniques in the presence of a strong magnetic field at
+$\nu=1$. we also discuss implications of this work on the $\nu=1/2$
+incompressible state observed in SWQW.
+","[{""version"":""v1"",""created"":""Sat, 17 Aug 1996 22:36:03 GMT""}]","2009-10-28"
+"cond-mat/9608073","Nigel Cooper","N.R. Cooper, B.I. Halperin, Chin-Kun Hu, and I.M. Ruzin","Statistical properties of the low-temperature conductance peak-heights
+  for Corbino discs in the quantum Hall regime","7 pages, 4 postscript figures included. Revtex with epsf.tex and
+  multicol.sty. The revised version contains some additional discussion of the
+  theory and slightly improved numerical results","Phys. Rev. B 55, 4551 (1997)","10.1103/PhysRevB.55.4551",,"cond-mat.mes-hall",,"  A recent theory has provided a possible explanation for the ``non-universal
+scaling'' of the low-temperature conductance (and conductivity) peak-heights of
+two-dimensional electron systems in the integer and fractional quantum Hall
+regimes. This explanation is based on the hypothesis that samples which show
+this behavior contain density inhomogeneities. Theory then relates the
+non-universal conductance peak-heights to the ``number of alternating
+percolation clusters'' of a continuum percolation model defined on the
+spatially-varying local carrier density. We discuss the statistical properties
+of the number of alternating percolation clusters for Corbino disc samples
+characterized by random density fluctuations which have a correlation length
+small compared to the sample size. This allows a determination of the
+statistical properties of the low-temperature conductance peak-heights of such
+samples. We focus on a range of filling fraction at the center of the plateau
+transition for which the percolation model may be considered to be critical. We
+appeal to conformal invariance of critical percolation and argue that the
+properties of interest are directly related to the corresponding quantities
+calculated numerically for bond-percolation on a cylinder. Our results allow a
+lower bound to be placed on the non-universal conductance peak-heights, and we
+compare these results with recent experimental measurements.
+","[{""version"":""v1"",""created"":""Sat, 17 Aug 1996 18:59:53 GMT""},{""version"":""v2"",""created"":""Tue, 5 Nov 1996 11:17:58 GMT""}]","2009-10-28"
+"hep-lat/9608095","Walter Wilcox","Walter Wilcox","Precise Neutron Electric Form Factor from Lattice QCD","Uuencoded gunzipped postscript file. Talk presented at DPF96",,,"BU/HEPP/96-04","hep-lat",,"  A new calculation of the neutron electric form factor is described.
+Preliminary results for the connected part on a $20^{3}\times 32$ lattice are
+presented. The methods for calculating the disconnected part are briefly
+described.
+","[{""version"":""v1"",""created"":""Sat, 17 Aug 1996 22:11:49 GMT""}]","2007-05-23"
+"hep-ph/9608355","Sabine Lang","J. Kwiecinski, S.C.Lang, A.D.Martin","Forward $\pi^0$ trigger of the deep inelastic + jet probe of BFKL
+  dynamics","12 pages, Latex, 6 ps figures. Version to be published in Phys. Rev.
+  D with footnote added to point out that experimental cuts can be chosen to
+  give an enhanced DIS + $\pi^0$ signal","Phys.Rev. D55 (1997) 1273-1279","10.1103/PhysRevD.55.1273","DTP/96/62","hep-ph",,"  We predict the rate of deep inelastic scattering (DIS) events containing an
+identified forward $\pi^0$ that is expected in the experiments at the HERA
+electron-proton collider, in order to see if this process can be used as an
+indicator of the underlying small $x$ dynamics. We determine the background due
+to deep inelastic events containing forward photons which are fragments of the
+forward jet. We compare the DIS + $\pi^0$ cross section with that of the DIS +
+parent jet process.
+","[{""version"":""v1"",""created"":""Sat, 17 Aug 1996 21:07:30 GMT""},{""version"":""v2"",""created"":""Wed, 11 Dec 1996 15:20:08 GMT""}]","2009-10-28"
+"hep-ph/9608356","Kurt Riesselmann","Kurt Riesselmann (Techn. Univ. Munich)","Higher-order corrections in the SM Higgs sector: the right scale","6 pages, two-column style (espcrc2.sty), using LaTeX2e. The complete
+  paper including figures is also available via WWW at
+  http://www.physik.tu-muenchen.de/tumphy/d/T30d/PAPERS/TUM-HEP-249-96.ps.gz To
+  appear in the Proceedings of the Workshop ``QCD and QED in Higher Order'',
+  Rheinsberg, Germany (April 1996), edited by J. Bl\""umlein, F. Jegerlehner,
+  and T. Riemann","Nucl.Phys.Proc.Suppl. 51C (1996) 88-96","10.1016/S0920-5632(96)90011-0","TUM-HEP-249/96","hep-ph",,"  The evaluation of high-energy cross sections involving the SM Higgs boson
+requires the use of the Higgs running coupling $\lambda(\mu)$. Taking $\mu$ to
+be equal to the center-of-mass energy $\sqrt{s}$ of the scattering process, the
+perturbative approach fails for relatively small values of the Higgs mass and
+coupling, $\lambda(\sqrt{s})\approx 2.2$. Performing an approximate resummation
+of ``bubble'' Feynman diagrams, we find the scale $\mu=\sqrt{s}/ e \approx
+\sqrt{s}/2.7$ to yield reliable perturbative results, even for large Higgs mass
+and coupling. The new perturbative upper limit on the Higgs running coupling is
+$\lambda(\sqrt{s}/ e)\approx 4$.
+","[{""version"":""v1"",""created"":""Sat, 17 Aug 1996 22:06:06 GMT""}]","2015-06-25"
+"hep-ph/9608357","Naoyuki Haba","Naoyuki Haba (Nagoya Univ.)","Explicit CP Violation in the Higgs Sector of the Next-to-Minimal
+  Supersymmetric Standard Model","16 pages, Latex, 3 figures","Prog.Theor.Phys. 97 (1997) 301-310","10.1143/PTP.97.301",,"hep-ph",,"  We analyze explicit CP violation in the Higgs sector of the next-to-minimal
+supersymmetric standard model which contains an additional gauge singlet field
+N. It is shown that there is no mixing among scalar and pseudoscalar Higgs
+fields in the two Higgs doublets, and scalar-pseudoscalar mixings could exist
+between two Higgs doublets and the singlet N, and between N itself. CP symmetry
+is conserved in the extreme limits of < N > >> v, < N > << v, and tan beta >>
+1. In the region of < N > = O(v) and tan beta = O(1), large scalar-pseudoscalar
+mixings are realized, and this effect can reduce the lightest Higgs mass. The
+mass difference between no mixing and mixing case is about 10 - 30 GeV. The
+neutron electric dipole moment in this model is consistent with the present
+experimental upper limit provided that squark and gaugino masses are heavy
+enough of O(1) TeV.
+","[{""version"":""v1"",""created"":""Sun, 18 Aug 1996 07:03:44 GMT""}]","2009-10-28"
+"hep-th/9608115","Edward P. Osipov","Edward P. Osipov (Department of Theoretical Physics, Sobolev Institute
+  for Mathematics, Novosibirsk, Russia)","The $:\phi^4_4:$ quantum field theory, II. Integrability of Wick kernels","56 pages, LaTeX",,,"TPh-215 (1996)","hep-th funct-an math.FA",,"  We continue the construction of the $:\phi^4_4:$ quantum field theory. In
+this paper we consider the Wick kernel of the interacting quantum field. Using
+the complex structure and the Fock-Bargmann-Berezin-Segal integral
+representation we prove that this kernel defines a unique operator--valued
+generalized function on the space $\Sc^\alpha(\R^4)$ for any $\alpha<6/5,$ i.e.
+the constructed quantum field is the generalized operator-valued function of
+localizable Jaffe class. The same assertion is valid for the outgoing quantum
+field. These assertions about the quantum field allow to construct the Wightman
+functions, the matrix elements of the quantum scattering operator and to
+consider their properties (positivity, spectrality, Poincare invariance,
+locality, asymptotic completeness, and unitarity of the quantum scattering).
+","[{""version"":""v1"",""created"":""Sat, 17 Aug 1996 16:31:32 GMT""}]","2008-02-03"
+"patt-sol/9608004","Pismen Len","L.M. Pismen (Technion -- Israel Institute of Technology)","Interaction of Reaction-Diffusion Fronts and Marangoni Flow on the
+  Interface of Deep Fluid","11 pages, RevTeX, 2 PS-figures",,"10.1103/PhysRevLett.78.382",,"patt-sol nlin.PS",,"  I consider a bistable reaction-diffusion system on the interface of deep
+fluid interacting with Marangoni flow. The method of matched asymptotic
+expansions is used to resolve the singularity at a sharp interface between the
+alternative states, and to compute the self-induced flow velocity advecting the
+domain boundary. It is shown that Marangoni flow serves as an efficient
+mechanism preventing the spread of the state with a higher surface tension when
+it is dynamically favorable.
+","[{""version"":""v1"",""created"":""Sun, 18 Aug 1996 12:57:11 GMT""}]","2009-10-30"
+"q-alg/9608014","Beliakova Anna ( postdoc Turaev","Anna Beliakova (I.R.M.A.-Stasbourg)","Spin Topological Quantum Field Theories","31 pages, LaTeX, 14 figures included with psfig",,,,"q-alg math.QA",,"  Starting from the quantum group SL_q(2,C), we construct operator invariants
+of 3-cobordisms with spin structure, satisfying the requirements of a
+topological quantum field theory and refining the Reshetikhin--Turaev and
+Turaev--Viro models. We establish the relationship between these two refined
+models.
+","[{""version"":""v1"",""created"":""Sat, 17 Aug 1996 17:53:02 GMT""}]","2008-02-03"
+"quant-ph/9608029","Vladimir Privman","Dima Mozyrsky, Vladimir Privman, Steven P. Hotaling","Design of gates for quantum computation: the NOT gate","9 pages in LaTeX","Int.J.Mod.Phys.B11:2207-2215,1997","10.1142/S0217979297001143",,"quant-ph",,"  We offer an alternative to the conventional network formulation of quantum
+computing. We advance the analog approach to quantum logic gate/circuit
+construction. As an illustration, we consider the spatially extended NOT gate
+as the first step in the development of this approach. We derive an explicit
+form of the interaction Hamiltonian corresponding to this gate and analyze its
+properties. We also discuss general extensions to the case of certain
+time-dependent interactions which may be useful for practical realization of
+quantum logic gates.
+","[{""version"":""v1"",""created"":""Sat, 17 Aug 1996 17:57:33 GMT""},{""version"":""v2"",""created"":""Tue, 16 Sep 1997 22:44:07 GMT""}]","2014-11-18"

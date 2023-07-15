@@ -1,0 +1,347 @@
+"adap-org/9601001","Vijay Balasubramanian","Vijay Balasubramanian (Princeton University)","A Geometric Formulation of Occam's Razor for Inference of Parametric
+  Distributions","35 pages, LaTeX, 2 PostScript figures",,,"PUPT-1588","adap-org bayes-an nlin.AO",,"  I define a natural measure of the complexity of a parametric distribution
+relative to a given true distribution called the {\it razor} of a model family.
+The Minimum Description Length principle (MDL) and Bayesian inference are shown
+to give empirical approximations of the razor via an analysis that
+significantly extends existing results on the asymptotics of Bayesian model
+selection. I treat parametric families as manifolds embedded in the space of
+distributions and derive a canonical metric and a measure on the parameter
+manifold by appealing to the classical theory of hypothesis testing. I find
+that the Fisher information is the natural measure of distance, and give a
+novel justification for a choice of Jeffreys prior for Bayesian inference. The
+results of this paper suggest corrections to MDL that can be important for
+model selection with a small amount of data. These corrections are interpreted
+as natural measures of the simplicity of a model family. I show that in a
+certain sense the logarithm of the Bayesian posterior converges to the
+logarithm of the {\it razor} of a model family as defined here. Close
+connections with known results on density estimation and ``information
+geometry'' are discussed as they arise.
+","[{""version"":""v1"",""created"":""Mon, 8 Jan 1996 23:27:24 GMT""}]","2008-02-03"
+"astro-ph/9601028","Ivan O'Brien","Ivan O'Brien and L O'C Drury","Non--LTE Excitation of H$_2$ in Magnetised Molecular Shocks","Accepted for publication in MNRAS, 5 pages, latex, 6 figures,
+  Compressed postscript also available at
+  http://www.cp.dias.ie/astro/preprints/1996/1.html",,,"DIAS-96-1","astro-ph",,"  The observed H$_2$ line ratios in OMC--1 and IC443 are not satisfactorily
+explained by conventional shock excitation models. We consider the microscopic
+collisional processes implicit in ambipolar diffusion models of magnetised
+C-shocks and show that non-LTE level populations and emission line ratios are
+an inevitable consequence of such models. This has important implications for
+the use of molecular hydrogen lines as diagnostics of shock models in molecular
+clouds.
+","[{""version"":""v1"",""created"":""Mon, 8 Jan 1996 17:57:44 GMT""}]","2007-05-23"
+"astro-ph/9601029","Andrew Heckler","Andrew F. Heckler","On the formation of a Hawking-radiation photosphere around microscopic
+  black holes","Latex, 16 pages, 3 postscript figures, submitted to PRD. Also
+  available at http://fnas08.fnal.gov/","Phys.Rev. D55 (1997) 480-488","10.1103/PhysRevD.55.480","FERMILAB-Pub-95/059-A","astro-ph hep-ph",,"  We show that once a black hole surpasses some critical temperature
+$T_{crit}$, the emitted Hawking radiation interacts with itself and forms a
+nearly thermal photosphere. Using QED, we show that the dominant interactions
+are bremsstrahlung and electron-photon pair production, and we estimate
+$T_{crit} \sim m_{e}/\alpha^{5/2}$, which when calculated more precisely is
+found to be $T_{crit} \approx $45 GeV. The formation of the photosphere is
+purely a particle physics effect, and not a general relativistic effect, since
+the the photosphere forms roughly $\alpha^{-4}$ Schwarzschild radii away from
+the black hole. The temperature $T$ of the photosphere decreases with distance
+from the black hole, and the outer surface is determined by the constraint
+$T\sim m_{e}$ (for the QED case), since this is the point at which electrons
+and positrons annihilate, and the remaining photons free stream to infinity.
+Observational consequences are discussed, and it is found that, although the
+QED photosphere will not affect the Page-Hawking limits on primordial black
+holes, which is most important for 100MeV black holes, the inclusion of QCD
+interactions may significantly effect this limit, since for QCD we estimate
+$T_{crit}\sim \Lambda_{QCD}$. The photosphere greatly reduces possibility of
+observing individual black holes with temperatures greater than $T_{crit}$,
+since the high energy particles emitted from the black hole are processed
+through the photosphere to a lower energy, where the gamma ray background is
+much higher. The temperature of the plasma in the photosphere can be extremely
+high, and this offers interesting possibilities for processes such as symmetry
+restoration.
+","[{""version"":""v1"",""created"":""Mon, 8 Jan 1996 17:47:16 GMT""}]","2009-10-28"
+"astro-ph/9601030","B. Scott Gaudi","B. Scott Gaudi, Andrew Gould","Satellite Parallaxes of Lensing Events Towards the Galactic Bulge","36 pages, includes 8 figures, TeX, uses phyzzx. Condensed, with
+  several figures removed. Includes a more general introduction, along with
+  several clarifying changes suggested by the referee",,"10.1086/303670","OSU-TA-1/96","astro-ph",,"  In order to understand the nature of the lenses that generate microlensing
+events, one would like to measure their mass, distance, and velocity.
+Unfortunately, current microlensing experiments measure only one parameter of
+the events, the characteristic timescale, which is a combination of the
+underlying physical parameters. Other methods are required to extract
+additional information. Parallax measurements using a satellite in an
+Earth-like orbit yield the projected velocity of the lens: ${\bf{\tilde v}}
+={\bf{v}}/(1-z)$, where ${\bf{v}}$ is the transverse velocity (speed and
+direction) of the lens relative to the Earth-source line of sight, and $z$ is
+the ratio of the distances to the lens and the source. A measurement of
+${\bf{\tilde v}}$ could distinguish between lenses belonging to the bulge and
+disk populations. We show that for photometric precisions of 1% to 2%, it is
+possible to measure the projected speed, $\tilde v$, to an accuracy of $\leq
+10%$ for over 70% of disk lenses and over 60% of bulge lenses. For measuring
+the projected velocity ${\bf{\tilde v}}$, the percentages are 40% and {30%},
+respectively. We find lines of sight $> 2^{\circ}$ away from the ecliptic are
+preferable, and an Earth-satellite separation in the range $0.7 {\rm{AU}} -
+1.9{\rm{AU}}$ is optimal. The requirements of the satellite for measuring the
+projected velocities of events towards the bulge are similar to those for
+measurements toward the LMC.
+","[{""version"":""v1"",""created"":""Tue, 9 Jan 1996 00:08:28 GMT""},{""version"":""v2"",""created"":""Tue, 20 Aug 1996 14:09:25 GMT""}]","2009-10-28"
+"astro-ph/9601031","Peter Schneider","G. Burbidge, F. Hoyle and P. Schneider","Very close pairs of Quasi-Stellar Objects","8 pages, including 1 figure, submitted to Astronomy and Astrophysics
+  Letters",,,"MPA 916","astro-ph",,"  It is pointed out that there are now known four very close pairs of QSOs with
+separations < 5 arcsec and very different redshifts. Several estimates of the
+probability that they are accidental configurations range between 10^{-7} and
+3.5 x 10^{-3}. We conclude either that this is further evidence that QSOs have
+significant non-cosmological redshift components, or that thave significant
+non-cosmological redshift components, or that the pairs must be explained by
+gravitational lensing.
+","[{""version"":""v1"",""created"":""Tue, 9 Jan 1996 10:26:06 GMT""}]","2007-05-23"
+"atom-ph/9601001","Juan F. Poyatos","J.F. Poyatos (1), R. Walser (2), J. I. Cirac (1), P. Zoller (2), R.
+  Blatt (3) ((1) Dep. Fisica Aplicada, Universidad de Castilla-La Mancha,
+  Spain, (2) Institut fuer Theoretische Physik, Universitaet Innsbruck,
+  Austria, (3) Institut fuer Experimental Physik, Universitaet Innsbruck,
+  Austria)","Motion Tomography of a single trapped ion","4 pages, Revtex format, 4 postscript figures, changed typographical
+  errors",,"10.1103/PhysRevA.53.R1966","FOFO-95-11","atom-ph physics.atom-ph",,"  A method for the experimental reconstruction of the quantum state of motion
+for a single trapped ion is proposed. It is based on the measurement of the
+ground state population of the trap after a sudden change of the trapping
+potential. In particular, we show how the Q function and the quadrature
+distribution can be measured directly. In an example we demonstrate the
+principle and analyze the sensibility of the reconstruction process to
+experimental uncertainties as well as to finite grid limitations. Our method is
+not restricted to the Lamb-Dicke Limit and works in one or more dimensions.
+","[{""version"":""v1"",""created"":""Mon, 8 Jan 1996 20:41:44 GMT""},{""version"":""v2"",""created"":""Tue, 16 Jan 1996 12:08:54 GMT""}]","2009-10-28"
+"chem-ph/9601001","Stella Constas","Styliani Consta, Raymond Kapral","Dynamics of Proton Transfer in Mesoscopic Clusters","To appear in JCP (March). Postscript figures available on request
+  (sconstas@chem.utoronto.ca)",,"10.1063/1.471153",,"chem-ph physics.chem-ph",,"  Proton transfer rates and mechanisms are studied in mesoscopic, liquid-state,
+molecular clusters. The proton transfer occurs in a proton-ion complex solvated
+by polar molecules comprising the cluster environment. The rates and mechanisms
+of the reaction are studied using both adiabatic and non-adiabatic molecular
+dynamics. For large molecular clusters, the proton-ion complex resides
+primarily on the surface of the cluster or one layer of solvent molecules
+inside the surface. The proton transfer occurs as the complex undergoes
+orientational fluctuations on the cluster surface or penetrates one solvent
+layer into the cluster leading to solvent configurations that favor the
+transfer. For smaller clusters the complex resides mostly on the surface of the
+cluster and proton transfer is observed only when the complex penetrates the
+cluster and solvent configurations that favor the proton transfer are achieved.
+Quantitative information on the cluster reaction rate constants is also
+presented.
+","[{""version"":""v1"",""created"":""Tue, 9 Jan 1996 04:05:52 GMT""}]","2019-08-15"
+"cmp-lg/9601002","Julio Gonzalo Arroyo","Julio Gonzalo and Teresa Solias","Generic rules and non-constituent coordination","latex2e, 12 pages, uses tree-dvips.sty. Appeared in IWPT'95","IV International Workshop on Parsing Technologies (IWPT 95)",,,"cmp-lg cs.CL",,"  We present a metagrammatical formalism, {\em generic rules}, to give a
+default interpretation to grammar rules. Our formalism introduces a process of
+{\em dynamic binding} interfacing the level of pure grammatical knowledge
+representation and the parsing level. We present an approach to non-constituent
+coordination within categorial grammars, and reformulate it as a generic rule.
+This reformulation is context-free parsable and reduces drastically the search
+space associated to the parsing task for such phenomena.
+","[{""version"":""v1"",""created"":""Tue, 9 Jan 1996 15:46:19 GMT""}]","2008-02-03"
+"cond-mat/9601026","Umesh A. Salian","Umesh A. Salian, S. N. Behera and V. S. Ramamurthy","Relaxation of Collective Excitations in LJ-13 Cluster","Revised and enlarged. 6 pages RevTeX style. 7 eps figures available
+  on request. To appear in J Chem Phys",,"10.1063/1.472238",,"cond-mat",,"  We have performed classical molecular dynamics simulation of $Ar_{13}$
+cluster to study the behavior of collective excitations. In the solid ``phase''
+of the cluster, the collective oscillation of the monopole mode can be well
+fitted to a damped harmonic oscillator. The parameters of the equivalent damped
+harmonic oscillator-- the damping coefficient, spring constant, time period of
+oscillation and the mass of the oscillator -- all show a sharp change in
+behavior at a kinetic temperature of about $7.0^oK$. This marks yet another
+characteristic temperature of the system, a temperature $T_s$ below which
+collective excitations are very stable, and at higher temperatures the single
+particle excitations cause the damping of the collective oscillations. We argue
+that so long as the cluster remains confined within the global potential energy
+minimum the collective excitations do not decay; and once the cluster comes out
+of this well, the local potential energy minima pockets act as single particle
+excitation channels in destroying the collective motion. The effect is manifest
+in almost all the physical observables of the cluster.
+","[{""version"":""v1"",""created"":""Tue, 9 Jan 1996 03:41:46 GMT""},{""version"":""v2"",""created"":""Fri, 24 May 1996 18:21:08 GMT""}]","2009-10-28"
+"cond-mat/9601027","Sano Kazuhiro","Kazuhiro Sano","A possible phase diagram of a t-J ladder model","Latex, 10 pages, figures available upon request",,"10.1143/JPSJ.65.1146",,"cond-mat",,"  We investigate a t-J ladder model by numerical diagonalization method. By
+calculating correlation functions and assuming the Luttinger liquid relation,
+we obtained a possible phase diagram of the ground state as a function of J/t
+and electron density $n$. We also found that behavior of correlation functions
+seems to consist with the prediction of Luttinger liquid relation. The result
+suggests that the superconducting phase appear in the region of $J/t
+\displaystyle{ \mathop{>}_{\sim}} 0.5$ for high electron density and $J/t
+\displaystyle{ \mathop{>}_{\sim}} 2.0$ for low electron density.
+","[{""version"":""v1"",""created"":""Tue, 9 Jan 1996 08:05:34 GMT""}]","2009-10-28"
+"gr-qc/9601008","Roberto De Pietri","Roberto De Pietri, L. Lusanna and Massimo Pauri","Gauging kinematical and internal symmetry groups for extended systems:
+  the Galilean one-time and two-times harmonic oscillators","32 pages, LaTex using the IOP preprint macro package (ioplppt.sty
+  available at: http://www.iop.org/). The file is available at:
+  http://www.fis.unipr.it/papers/1995.html The file is a uuencoded tar gzip
+  file with the IOP preprint style included","Class.Quant.Grav. 13 (1996) 1417-1450","10.1088/0264-9381/13/6/013","University of Parma UPRF-95-438","gr-qc",,"  The possible external couplings of an extended non-relativistic classical
+system are characterized by gauging its maximal dynamical symmetry group at the
+center-of-mass. The Galilean one-time and two-times harmonic oscillators are
+exploited as models. The following remarkable results are then obtained: 1) a
+peculiar form of interaction of the system as a whole with the external gauge
+fields; 2) a modification of the dynamical part of the symmetry
+transformations, which is needed to take into account the alteration of the
+dynamics itself, induced by the {\it gauge} fields. In particular, the
+Yang-Mills fields associated to the internal rotations have the effect of
+modifying the time derivative of the internal variables in a scheme of minimal
+coupling (introduction of an internal covariant derivative); 3) given their
+dynamical effect, the Yang-Mills fields associated to the internal rotations
+apparently define a sort of Galilean spin connection, while the Yang-Mills
+fields associated to the quadrupole momentum and to the internal energy have
+the effect of introducing a sort of dynamically induced internal metric in the
+relative space.
+","[{""version"":""v1"",""created"":""Tue, 9 Jan 1996 11:28:50 GMT""}]","2009-10-28"
+"hep-lat/9601002","Weber Andreas","W. Kerler, C. Rebbi, A. Weber","Order parameters and boundary effects in U(1) lattice gauge theory","11 pages, Latex, 5 PostScript figures, uuencoded","Phys.Lett. B380 (1996) 346-352","10.1016/0370-2693(96)00498-4","BUHEP-96-1","hep-lat",,"  We show that, independently of the boundary conditions, the two phases of the
+4-dimensional compact U(1) lattice gauge theory can be characterized by the
+presence or absence of an ``infinite'' current network, with an appropriate
+definition of ``infinite'' for the various types of boundary conditions imposed
+on the finite lattice. The probability for the occurrence of an ``infinite''
+network takes values 0 or 1 in the cold and hot phase, respectively. It thus
+constitutes a very efficient order parameter, which allows one to determine the
+transition region at low computational cost. In addition, for open and fixed
+boundary conditions we address the question of the impact of inhomogeneities
+and give examples of the reappearance of an energy gap already at moderate
+lattice sizes.
+","[{""version"":""v1"",""created"":""Tue, 9 Jan 1996 10:51:09 GMT""}]","2009-10-28"
+"hep-lat/9601003","Savvidy","N.Z.Akopov, G.G.Athanasiu, E.G.Floratos and G.K.Savvidy","Period of K System Generator of Pseudorandom Numbers","14 pages,Latex,references added",,,"CRETE-TH-December-95","hep-lat",,"  We analyze the structure of the periodic trajectories of the matrix generator
+of pseudorandom numbers which has been proposed earlier. The structure of the
+periodic trajectories becomes more transparent when the rational sublattice
+coincides with the Galois field $GF[p]$. We are able to compute the period of
+the trajectories as a function of $p$ and the dimension of the matrix $d$.
+","[{""version"":""v1"",""created"":""Tue, 9 Jan 1996 11:31:15 GMT""},{""version"":""v2"",""created"":""Fri, 9 Feb 1996 15:18:52 GMT""}]","2019-08-17"
+"hep-ph/9601226","Xuan-Yem Pham","X. Y. Pham and M. Gourdin","A new CP violation mechanism generated by the standard neutral Higgs
+  boson : the $\eta \to \pi + \pi $ case","9 pages (Latex), 3 figures","Phys.Lett. B385 (1996) 231-236; Erratum-ibid. B390 (1997) 451","10.1016/0370-2693(96)00891-X","LPTHE/PAR/96-01","hep-ph",,"  Strictly within the standard electro-weak interaction, CP violation in the
+flavour conserving process $\eta \rightarrow \pi + \pi $ could originate from
+the mixing of the $\eta$ meson with the virtual scalar Higgs boson $ H^{0}$ via
+$W$ and top quark exchange. The parity-violation carried by weak gauge bosons
+makes the mixing possible by quantum effect at two-loop level. Nowhere the
+Kobayashi-Maskawa (KM) phase mechanism is needed. The phenomenon reveals an
+unexpected new role of the Higgs boson in the CP symmetry breaking. For the
+Higgs mass between 100-600 GeV, the $\eta \rightarrow \pi +\pi $ branching
+ratio is found to be $3.6 \cdot 10^{-26} - 2.4 \cdot 10^{-29}$ , hence CP
+violation mechanisms beyond the Standard Model are the only ones that could
+give rise to its observation at existing or near future $\eta$ factories,
+unless the Higgs mass is improbably as light as 550 $MeV$.
+","[{""version"":""v1"",""created"":""Mon, 8 Jan 1996 16:30:16 GMT""},{""version"":""v2"",""created"":""Wed, 10 Jan 1996 17:24:51 GMT""},{""version"":""v3"",""created"":""Tue, 11 Jun 1996 16:59:07 GMT""}]","2009-10-28"
+"hep-ph/9601227","Christoph Adam","Christoph Adam","The boson-boson bound state in the massive Schwinger model","8 pages, LATEX file, 7 figures, needed macro: psbox.tex","Z.Phys.C74:727-730,1997","10.1007/s002880050438","MP 96/01","hep-ph hep-th",,"  We use (fermion) mass perturbation theory for the massive Schwinger model to
+compute the boson-boson bound state mass in lowest order. For small fermion
+mass the lowest possible Fock state turns out to give the main contribution and
+leads to a second order result for the bound state mass.
+","[{""version"":""v1"",""created"":""Mon, 8 Jan 1996 16:17:36 GMT""}]","2009-07-24"
+"hep-ph/9601228","Christoph Adam","Christoph Adam","Perturbative solution of the Schwinger model","14 pages, LATEX, 22 figures, needed macro: psbox.tex","Czech.J.Phys. 48 (1998) 9-19","10.1023/A:1021232112002","BUTP-95/25","hep-ph hep-th",,"  For the exactly solvable Schwinger model one interesting question is how to
+infer the exact solution from perturbation theory. We give a systematic
+procedure of deriving the exact solution from Feynman diagrams of arbitrary
+order for arbitrary $n$-point functions. As a byproduct, from perturbation
+theory we derive exact integral equations that the $n$-point functions have to
+obey.
+","[{""version"":""v1"",""created"":""Mon, 8 Jan 1996 19:34:23 GMT""}]","2015-06-25"
+"hep-ph/9601229",,"M. Kachelriess","Unstable states in QED of strong magnetic fields","Revtex, 7 pages. To appear in Phys. Rev. D53(2)","Phys.Rev. D53 (1996) 974-979","10.1103/PhysRevD.53.974",,"hep-ph astro-ph",,"  We question the use of stable asymptotic scattering states in QED of strong
+magnetic fields. To correctly describe excited Landau states and photons above
+the pair creation threshold the asymptotic fields are chosen as generalized
+Licht fields. In this way the off-shell behavior of unstable particles is
+automatically taken into account, and the resonant divergences that occur in
+scattering cross sections in the presence of a strong external magnetic field
+are avoided. While in a limiting case the conventional electron propagator with
+Breit-Wigner form is obtained, in this formalism it is also possible to
+calculate $S$-matrix elements with external unstable particles.
+","[{""version"":""v1"",""created"":""Tue, 9 Jan 1996 10:55:49 GMT""}]","2009-10-28"
+"hep-ph/9601230","Mad","Marco A. Diaz and Steve F. King (Southampton)","Chargino Production at LEP2 in a Supergravity Model","11 pages, latex, 4 figures uufiled","Phys.Lett. B373 (1996) 100-106","10.1016/0370-2693(96)00097-4","SHEP-95/30","hep-ph",,"  In the framework of a particular supergravity model which provides a natural
+solution to the $\mu$--problem we show how the discovery of a chargino at LEP2
+and the measurement of its mass and production cross--section, together with
+the measurement of the mass of the lightest neutralino, would determine the
+entire Higgs and SUSY spectrum. We give detailed predictions for the Higgs and
+SUSY spectrum as a function of the chargino production cross--section, for
+constant values of the lightest chargino and gluino masses.
+","[{""version"":""v1"",""created"":""Tue, 9 Jan 1996 10:47:01 GMT""}]","2009-10-28"
+"hep-ph/9601231",,"S. D. Bass and A. W. Thomas","A New Hypothesis on the Origin of the Three Generations","12 pages, LaTeX, To appear in Mod.Phys.Lett.A (1996)","Mod.Phys.Lett.A11:339-347,1996","10.1142/S0217732396000382","ADP-95-60/T205","hep-ph hep-th",,"  We suggest that the Standard Model may undergo a supercritical transition
+near the Landau scale, where the U(1) gauge boson couples to the left and right
+handed states of any given fermion with different charges. This scenario
+naturally gives rise to three generations of fermion, corresponding to the
+three critical scales for the right-right, right-left and left-left fermion
+interactions going supercritical, as well as CP violation in the quark sector.
+","[{""version"":""v1"",""created"":""Tue, 9 Jan 1996 15:17:29 GMT""}]","2008-11-26"
+"hep-th/9601025","Zbigniew Walczak","A. Krajewska, A. Ushveridze, Z. Walczak","On the Duality of Quasi-Exactly Solvable Problems","9 pages, LaTeX, 3 Postscript figures, uses epsfig.sty",,,,"hep-th",,"  It is demonstrated that quasi-exactly solvable models of quantum mechanics
+admit an interesting duality transformation which changes the form of their
+potentials and inverts the sign of all the exactly calculable energy levels.
+This transformation helps one to reveal some new features of quasi-exactly
+solvable models and associated orthogonal polynomials.
+","[{""version"":""v1"",""created"":""Mon, 8 Jan 1996 18:25:31 GMT""}]","2007-05-23"
+"hep-th/9601027","Isbelia Martin","R. Gianvittorio, I.Martin and A. Restuccia","BRST Formulation of 4-Monopoles","18 pages, Amstex","Class.Quant.Grav. 13 (1996) 2887-2898","10.1088/0264-9381/13/11/005","SB/F/95-234","hep-th",,"  A supersymmetric gauge invariant action is constructed over any 4-dimensional
+Riemannian manifold describing Witten's theory of 4-monopoles. The topological
+supersymmetric algebra closes off-shell. The multiplets include the auxiliary
+fields and the Wess-Zumino fields in an unusual way, arising naturally from
+BRST gauge fixing. A new canonical approach over Riemann manifolds is followed,
+using a Morse function as an euclidean time and taking into account the BRST
+boundary conditions that come from the BFV formulation. This allows a
+construction of the effective action starting from gauge principles.
+","[{""version"":""v1"",""created"":""Mon, 8 Jan 1996 23:51:56 GMT""}]","2009-10-30"
+"hep-th/9601028","Y. M. Cho","Y. M. Cho and D. Maison","Monopoles in Weinberg-Salam Model","13 pp, RevTex","Phys.Lett. B391 (1997) 360-365","10.1016/S0370-2693(96)01492-X","SUNTP-95-99","hep-th",,"  We present a new type of spherically symmetric monopole and dyon solutions
+with the magnetic charge $ 4\pi/e$ in the standard Weinberg-Salam model. The
+monopole (and dyon) could be interpreted as a non-trivial hybrid between the
+abelian Dirac monopole and non-abelian 't Hooft-Polyakov monopole (with an
+electric charge). We discuss the possible physical implications of the
+electroweak dyon.
+","[{""version"":""v1"",""created"":""Tue, 9 Jan 1996 05:31:59 GMT""}]","2009-10-30"
+"hep-th/9601030","Hagen Kleinert","H. Kleinert
+  (http://www.physik.fu-berlin.de/~kleinert/institution.html) and A.M.
+  Chervyakov","Evidence for Negative Stiffness of QCD Strings","LaTeX and figure files tarred and gzipped. New Version contains a
+  number of improvements",,,,"hep-th",,"  QCD strings are color-electric flux tubes between quarks with a finite
+thickness and thus a finite curvature stiffness. Contrary to an earlier
+rigid-string by Polyakov and Kleinert, and motivated by the properties of a
+magnetic flux tubes in type-II superconductors we put forward the hypothesis
+that QCD strings have a {\em negative\/ stiffness. We set up a new string model
+with this property and show that it is free of the three principal problems of
+rigid-strings --- particle states with negative norm, nonexistence of a
+lowest-energy state, and wrong high-temperature behavior of string tension ---
+thus making it a better candidate for a string description of quark forces than
+previous models.
+","[{""version"":""v1"",""created"":""Tue, 9 Jan 1996 10:02:40 GMT""},{""version"":""v2"",""created"":""Tue, 16 Apr 1996 07:10:17 GMT""},{""version"":""v3"",""created"":""Thu, 18 Apr 1996 05:34:54 GMT""}]","2008-02-03"
+"hep-th/9601031","Ofer Megged","Ofer Megged","On the Composition of Gauge Structures","Few elaborations are added to section 4 and section 5. To be
+  published in Journal of Physics A: Mathematical and General. 21 pages","J.Phys.A29:3233-3246,1996","10.1088/0305-4470/29/12/027","TAUP 2314-96","hep-th dg-ga math.DG",,"  A formulation for a non-trivial composition of two classical gauge structures
+is given: Two parent gauge structures of a common base space are synthesized so
+as to obtain a daughter structure which is fundamental by itself. The model is
+based on a pair of related connections that take their values in the product
+space of the corresponding Lie algebras. The curvature, the covariant exterior
+derivatives and the associated structural identities, all get contributions
+from both gauge groups. The various induced structures are classified into
+those whose composition is given just by trivial means, and those which possess
+an irreducible nature. The pure irreducible piece, in particular, generates a
+complete super-space of ghosts with an attendant set of super-BRST variation
+laws, both of which are purely of a geometrical origin.
+","[{""version"":""v1"",""created"":""Tue, 9 Jan 1996 11:35:48 GMT""},{""version"":""v2"",""created"":""Thu, 2 May 1996 10:09:02 GMT""}]","2008-11-26"
+"hep-th/9601032","Fis. Teorica. Valladolid.","F.J. Herranz and M. Santander","The general solution of the real $Z_2^{\otimes N}$ graded contractions
+  of $so(N+1)$","12 pages, LaTeX; explicit proofs and applications to kinematical
+  algebras are added","J.Phys.A29:6643-6652,1996","10.1088/0305-4470/29/20/018","UVA/9601","hep-th math-ph math.GR math.MP math.RA",,"  The general solution of the graded contraction equations for a
+$\zz_2^{\otimes N}$ grading of the real compact simple Lie algebra $so(N+1)$ is
+presented in an explicit way. It turns out to depend on $2^N-1$ independent
+real parameters. The structure of the general graded contractions is displayed
+for the low dimensional cases, and kinematical algebras are shown to appear
+straightforwardly. The geometrical (or physical) meaning of the contraction
+parameters as curvatures is also analysed; in particular, for kinematical
+algebras these curvatures are directly linked to geometrical properties of
+possible homogeneous space-times.
+","[{""version"":""v1"",""created"":""Tue, 9 Jan 1996 12:37:18 GMT""},{""version"":""v2"",""created"":""Thu, 20 Jun 1996 15:55:46 GMT""}]","2008-11-26"
+"hep-th/9601033","Tony Sudbery","Anthony Sudbery","SU_q(n) Gauge Theory","10 pages, Latex. The abstract and introduction have been hyped up to
+  indicate more clearly what parts are refreshed by this quantum-group gauge
+  theory that other quantum-group gauge theories cannot reach. To be published
+  in Physics Letters B","Phys.Lett. B375 (1996) 75-80","10.1016/0370-2693(96)00211-0",,"hep-th math.QA q-alg",,"  A field theory with local transformations belonging to the quantum group
+SU_q(n) is defined on a classical spacetime, with gauge potentials belonging to
+a quantum Lie algebra. Gauge transformations are defined for the potentials
+which lead to the appropriate quantum-group transformations for field strengths
+and covariant derivatives, defined for all elements of SU_q(n) by means of the
+adjoint action. This guarantees a non-trivial deformation. Gauge-invariant
+commutation relations are identified.
+","[{""version"":""v1"",""created"":""Tue, 9 Jan 1996 12:36:32 GMT""},{""version"":""v2"",""created"":""Thu, 29 Feb 1996 19:03:23 GMT""}]","2009-10-30"
+"nucl-th/9601007","Tomoyuki Maruyama","Tomoyuki Maruyama","Dirac-Fock Current and Magnetic-Moment in the Relativistic Approach","6pages, Latex is used",,,,"nucl-th",,"  We define the Dirac-Fock current to hold the current conservation in the
+momentum-dependent Dirac fields, and discuss its effect on the magnetic-moment
+in the nuclear matter. It is shown that the Dirac-Fock current can largely
+reduce the magnetic-moment even in the isovector case, whose value has been too
+big due to the small effective mass in the usual relativistic Hartree
+approximation.
+","[{""version"":""v1"",""created"":""Tue, 9 Jan 1996 09:25:09 GMT""}]","2007-05-23"
+"nucl-th/9601008","Akira Ono","Akira Ono and Hisashi Horiuchi","Antisymmetrized molecular dynamics of wave packets with stochastic
+  incorporation of Vlasov equation","26 pages, LaTeX with revtex and epsf, embedded postscript figures","Phys.Rev.C53:2958-2972,1996","10.1103/PhysRevC.53.2958","RIKEN-AF-NP-218","nucl-th",,"  On the basis of the antisymmetrized molecular dynamics (AMD) of wave packets
+for the quantum system, a novel model (called AMD-V) is constructed by the
+stochastic incorporation of the diffusion and the deformation of wave packets
+which is calculated by Vlasov equation without any restriction on the one-body
+distribution. In other words, the stochastic branching process in molecular
+dynamics is formulated so that the instantaneous time evolution of the averaged
+one-body distribution is essentially equivalent to the solution of Vlasov
+equation. Furthermore, as usual molecular dynamics, AMD-V keeps the many-body
+correlation and can naturally describe the fluctuation among many channels of
+the reaction. It is demonstrated that the newly introduced process of AMD-V has
+drastic effects in heavy ion collisions of 40Ca + 40Ca at 35 MeV/nucleon,
+especially on the fragmentation mechanism, and AMD-V reproduces the
+fragmentation data very well. Discussions are given on the interrelation among
+the frameworks of AMD, AMD-V and other microscopic models developed for the
+nuclear dynamics.
+","[{""version"":""v1"",""created"":""Tue, 9 Jan 1996 09:54:41 GMT""}]","2008-11-26"
+"q-alg/9601005","Costas Daskaloyannis","Dennis Bonatsos, C. Daskaloyannis, P. Kolokotronis and D. Lenis","Representations of the deformed U(su(2)) and U(osp(1,2)) algebras","LaTeX file, LaTeX twice, 10 pages","Turkish J. Phys. 21 (1997) 311",,"THES-TP 95/12","q-alg math.QA",,"  The polynomial deformations of the Witten extensions of the U(su(2)) and
+U(osp(1,2)) algebras are three generator algebras with normal ordering,
+admitting a two generator subalgebra. The modules and the representations of
+these algebras are based on the construction of Verma modules, which are
+quotient modules, generated by ideals of the original algebra. This
+construction unifies a large number of the known algebras under the same
+scheme. The finite dimensional representations show new features such as the
+multiplicity of representations of the same dimensionality, or the existence of
+finite dimensional representations only for some dimensions.
+","[{""version"":""v1"",""created"":""Tue, 9 Jan 1996 09:44:52 GMT""}]","2008-02-03"

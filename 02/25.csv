@@ -1,0 +1,87 @@
+"alg-geom/9602017","Nitin Nitsure","Nitin Nitsure","Topology of Conic Bundles - II","5 pages. LaTeX",,,,"alg-geom math.AC math.AG",,"  For conic bundles on a smooth variety (over a field of characteristic $\ne
+2$) which degenerate into pairs of distinct lines over geometric points of a
+smooth divisor, we prove a theorem which relates the Brauer class of the
+non-degenerate conic on the complement of the divisor to the covering class
+(Kummer class) of the 2-sheeted cover of the divisor defined by the degenerate
+conic, via the Gysin homomorphism in etale cohomology. This theorem is the
+algebro-geometric analogue of a topological result proved earlier.
+","[{""version"":""v1"",""created"":""Sun, 25 Feb 1996 10:43:14 GMT""}]","2008-02-03"
+"cond-mat/9602129","Grigori Volovik","G.E. Volovik","AB interface in superfluid 3He and Casimir effect","10 pages, LaTeX file, no figures, submitted to JETP Letters","JETP Lett. 63 (1996) 483; Pisma Zh.Eksp.Teor.Fiz. 63 (1996)
+  457-462","10.1134/1.567052",,"cond-mat hep-th",,"  The friction force on the moving interface between two different vacuum
+states of superfluid 3He is considered at low temperature. Since the dominating
+mechanism of the friction is the Andreev reflection of the massless
+""relativistic"" fermions, which live on the A-phase side of the interface, the
+results are similar to that for the perfectly reflecting mirror moving in the
+quantum vacuum.
+","[{""version"":""v1"",""created"":""Sat, 24 Feb 1996 16:11:15 GMT""}]","2009-10-28"
+"cond-mat/9602130","Michael Ortalano","M. W. Ortalano (1), Song He (2), S. Das Sarma (1) ((1) Department of
+  Physics, University of Maryland, (2) AT&T Bell Laboratories, Murray Hill, NJ)","Realistic Calculations of Correlated Incompressible Electronic States in
+  GaAs--Al_{x}Ga_{1-x}As Heterostructures and Quantum Wells","24 pages, RevTex, 20 figures",,"10.1103/PhysRevB.55.7702",,"cond-mat",,"  We perform an exact spherical geometry finite-size diagonalization
+calculation for the fractional quantum Hall ground state in three different
+experimentally relevant GaAs-Al_{x}Ga_{1-x}As systems: a wide parabolic quantum
+well, a narrow square quantum well, and a heterostructure. For each system we
+obtain the Coulomb pseudopotential parameters entering the exact
+diagonalization calculation by using the realistic subband wave function from a
+self-consistent electronic structure calculation within the local density
+approximation (LDA) for a range of electron densities. We compare our realistic
+LDA pseudopotential parameters with those from widely used simpler model
+approximations in order to estimate the accuracies of the latter. We also
+calculate the overlap between the exact numerical ground state and the
+analytical Laughlin state as well as the excitation gap as a function of
+density. For the three physical systems we consider the calculated overlap is
+found to be large in the experimental electron density range. We compare our
+calculated excitation gap energy to the experimentally obtained activated
+transport energy gaps after subtracting out the effect of level broadening due
+to collisions. The agreement between our calculated excitation gaps and the
+experimental measurements is excellent.
+","[{""version"":""v1"",""created"":""Sat, 24 Feb 1996 21:33:16 GMT""}]","2009-10-28"
+"cond-mat/9602148","S. M. Bhattacharjee","Somendra M. Bhattacharjee","Theory of tricriticality for miscut surfaces","Revtex, 1 ps figure",,"10.1103/PhysRevLett.76.4568",,"cond-mat",,"  We propose a theory for the observed tricriticality in the orientational
+phase diagram of Si(113) misoriented towards [001]. The systems seems to be at
+or close to a very special point for long range interactions.
+","[{""version"":""v1"",""created"":""Sat, 24 Feb 1996 20:05:12 GMT""}]","2009-10-28"
+"hep-lat/9602022","Don Weingarten","J. Sexton, A. Vaccarino and D. Weingarten","Coupling Constants for Scalar Glueball Decay","8 pages of Latex, 12 PostScript figures, 2 macros included, plenary
+  talk given by D. Weingarten at Lattice 95, to appear in conference
+  proceedings","Nucl.Phys.Proc.Suppl.47:128-135,1996","10.1016/0920-5632(96)00038-2","IBM-HET-95-3","hep-lat",,"  We evaluate the partial decay widths of the lightest scalar glueball to pairs
+of pseudoscalar quark-antiquark states. The calculation is done in the valence
+(quenched) approximation on a $16^3 \time 24$ lattice at $\beta = 5.7$. These
+predictions and values obtained earlier for the infinite volume continuum limit
+of the scalar glueball's mass are in good agreement with the observed
+properties of $f_J(1710)$ and inconsistent with all other observed meson
+resonances.
+","[{""version"":""v1"",""created"":""Sun, 25 Feb 1996 04:17:14 GMT""}]","2009-07-09"
+"hep-lat/9602023","Jurkiewicz","J. Jurkiewicz","Universality in the Critical Behavior of the Correlation Functions in 2d
+  Simplicial Gravity","9 pages, LaTeX","Acta Phys.Polon. 27 (1996) 1827-1834",,"LPTHE Orsay 96-13","hep-lat",,"  The analogue of the loop-loop correlation function in 2d gravity for the
+planar connected $\phi^3$ diagrams is calculated. It is shown that although the
+discretized formulas are different the scaling limit is the same as for the
+loop-loop correlation function. The derivation may serve as an alternative
+definition of the volume-volume correlator of Euclidean quantum gravity in
+$2d$.
+","[{""version"":""v1"",""created"":""Sat, 24 Feb 1996 21:59:51 GMT""}]","2007-05-23"
+"hep-lat/9602024","Zadorozhny A. M.","S.Yu. Shmakov and A.M. Zadorozhny","$SU(2)$ gauge theory in the maximally abelian gauge without monopoles","6 pages, LaTeX. Two references are added",,,"JINR E2-95-531","hep-lat hep-th",,"  We present an algorithm for simulation of $SU(2)$ lattice gauge theory under
+the MA gauge and first numerical results for the theory without abelian
+monopoles. The results support the idea that nonperturbative interaction arises
+between monopoles and residual abelian field and the other interactions are
+perturbative. It is shown that the Gribov region for the theory with the MA
+gauge fixed is non-connected.
+","[{""version"":""v1"",""created"":""Sun, 25 Feb 1996 08:37:18 GMT""},{""version"":""v2"",""created"":""Wed, 24 Apr 1996 05:22:08 GMT""}]","2008-02-03"
+"hep-ph/9602388","Abada","As. Abada, M.B. Gavela and O. P\`ene","Baryogenesis and Polyakov line condensate during inflation","20 pages, Latex2e",,,"LPTHE-Orsay 96/11","hep-ph astro-ph",,"  The thermal average of the Polyakov line is non-zero at high temperature. It
+has been suggested that its phase could be relevant for baryogenesis within the
+standard model, providing a source of spontaneously broken CP violation. This
+scenario suffers from a causal domain problem which cannot be cured by
+inflation: quantum fluctuations in de Sitter space overwhelm the periodicity of
+the potential.
+","[{""version"":""v1"",""created"":""Sat, 24 Feb 1996 16:15:59 GMT""}]","2007-05-23"
+"hep-ph/9602389","Kyriakos Tamvakis","K. Tamvakis (CERN)","R-Parity Violation and Peccei-Quinn Symmetry in GUTS","8 pages, no figures","Phys.Lett. B383 (1996) 307-312","10.1016/0370-2693(96)00758-7","CERN-TH/96-54","hep-ph",,"  We address the question whether it is possible in GUTs to obtain R-parity
+violation with a large ${\Delta L{/}\Delta B}$ hierarchy of strengths so that
+the proton is stable while phenomenologically interesting $L$-violation is
+present. We consider versions of SU(5) with a built-in Peccei-Quinn symmetry
+spontaneously broken at an intermediate scale. The P-Q symmetry and the field
+content guarantee a large suppression of the effective $B$-violating terms by a
+factor $\Lambda^3_{PQ}/M_PM^2_X $ while the effective $L$-violating terms stay
+large.
+","[{""version"":""v1"",""created"":""Sun, 25 Feb 1996 11:07:42 GMT""}]","2009-10-28"
+"hep-th/9602134","Joseph C. Varilly","Jose M. Gracia-Bondia","Noncommutative Geometry and the Standard Model: An overview","6 pages, standard LaTeX with amsfonts.sty, contribution to XVI
+  Encontro Nacional de Fisica de Particulas e Campos, Caxambu Brasil, October
+  1995; a few references corrected",,,"UCR-FM-8-95","hep-th",,"  We briefly sketch the noncommutative geometry approach to the Standard Model,
+with attention to what can be inferred about particle masses.
+","[{""version"":""v1"",""created"":""Sun, 25 Feb 1996 00:07:03 GMT""},{""version"":""v2"",""created"":""Tue, 27 Feb 1996 17:03:03 GMT""}]","2008-02-03"

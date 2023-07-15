@@ -1,0 +1,331 @@
+"astro-ph/9609149","Albert Stebbins","Albert Stebbins","Weak Lensing On the Celestial Sphere","27 pages, plain TeX, 7 figures, submitted to The Astrophysical
+  Journal, PostScript version with embedded figures available from
+  http://www-astro-theory.fnal.gov/Publications/Pub-96-328-A/",,,"FERMILAB-Pub-96/328-A","astro-ph",,"  This paper details a description of the pattern of galaxy image distortion
+over the entire sky caused by the gravitational lensing which is the result of
+large scale inhomogeneities in our universe. We present a tensor spherical
+harmonic formalism to describe this pattern, giving many useful formulae. This
+is applied to density inhomogeneities, where we compute the angular power
+spectrum of the shear pattern, as well as the noise properties due to finite
+galaxy sampling and cosmic variance. We show that a detectable level of shear
+is present for very nearby galaxies, $z\simlt0.2$. For such a shallow sample
+much of the largest signal-to-noise comes from very large angular scales,
+$\theta\simgt10^\circ$, although it is in the form of very small shear at a
+level $\simlt10^{-3}$.
+","[{""version"":""v1"",""created"":""Sun, 22 Sep 1996 22:14:56 GMT""}]","2007-05-23"
+"astro-ph/9609156","Edouard Audit","Edouard Audit and Jean-Michel Alimi","Gravitational Dynamics of Cold Matter using the Deformation Tensor","12 pages,l-aa.sty macro. latex with postscript figures. Accepted in
+  A&A. Send Preprint request to edouard@gin.obspm.fr","Astron.Astrophys.315:11-20,1996",,,"astro-ph",,"  In this paper we present a new local Lagrangian approximation to the
+gravitational dynamics of cold matter. We describe the dynamics of a Lagrangian
+fluid element through only one quantity, the deformation tensor. We show that
+this tensor is clearly suited to the study of gravitational dynamics and,
+moreover, that knowing its evolution is enough to completely describe a fluid
+element. Our approximate dynamics treat exactly the conservation of mass, of
+the velocity divergence and of the shear and is exact in the case of planar,
+cylindrical and spherical collapses. It also reproduces very accurately the
+evolution of all dynamical quantities for a very wide class of initial
+conditions as illustrated by a detailed comparison with the homogeneous
+ellipsoid model. Beside, we highlight, for the first time, the important
+dynamical role played by the Newtonian counterpart of the magnetic part of the
+Weyl tensor.
+","[{""version"":""v1"",""created"":""Mon, 23 Sep 1996 12:25:57 GMT""}]","2011-05-23"
+"cmp-lg/9609004","Ion Androutsopoulos","Ion Androutsopoulos (University of Edinburgh)","A Principled Framework for Constructing Natural Language Interfaces To
+  Temporal Databases","PhD thesis; 405 pages; LaTeX2e, uses the packages/macros: amstex,
+  xspace, avm, examples, dvips, varioref, makeidx, epic, eepic, ecltree;
+  postscript figures included",,,,"cmp-lg cs.CL",,"  Most existing natural language interfaces to databases (NLIDBs) were designed
+to be used with ``snapshot'' database systems, that provide very limited
+facilities for manipulating time-dependent data. Consequently, most NLIDBs also
+provide very limited support for the notion of time. The database community is
+becoming increasingly interested in _temporal_ database systems. These are
+intended to store and manipulate in a principled manner information not only
+about the present, but also about the past and future.
+  This thesis develops a principled framework for constructing English NLIDBs
+for _temporal_ databases (NLITDBs), drawing on research in tense and aspect
+theories, temporal logics, and temporal databases. I first explore temporal
+linguistic phenomena that are likely to appear in English questions to NLITDBs.
+Drawing on existing linguistic theories of time, I formulate an account for a
+large number of these phenomena that is simple enough to be embodied in
+practical NLITDBs. Exploiting ideas from temporal logics, I then define a
+temporal meaning representation language, TOP, and I show how the HPSG grammar
+theory can be modified to incorporate the tense and aspect account of this
+thesis, and to map a wide range of English questions involving time to
+appropriate TOP expressions. Finally, I present and prove the correctness of a
+method to translate from TOP to TSQL2, TSQL2 being a temporal extension of the
+SQL-92 database language. This way, I establish a sound route from English
+questions involving time to a general-purpose temporal database language, that
+can act as a principled framework for building NLITDBs. To demonstrate that
+this framework is workable, I employ it to develop a prototype NLITDB,
+implemented using ALE and Prolog.
+","[{""version"":""v1"",""created"":""Mon, 23 Sep 1996 14:32:43 GMT""}]","2016-08-31"
+"cond-mat/9609219","Hans Gerd Evertz","H. Endres, W. Hanke, H.G. Evertz, and F.F. Assaad","Comment on ""Quantum Monte Carlo Evidence for Superconductivity in the
+  Three-Band Hubbard Model in Two Dimensions""","1 page latex and 2 eps-figures, uses epsfig, submitted to PRL","Phys. Rev. Lett. 78, 160 (1997)","10.1103/PhysRevLett.78.160",,"cond-mat",,"  In a recent Letter, Kuroki and Aoki [Phys. Rev. Lett. 76, 440 (1996)]
+presented quantum Monte-Carlo (QMC) results for pairing correlations in the
+three-band Hubbard model, which describes the Cu-d_{x^2-y^2} and O-p_{x,y}
+orbitals present in the CuO_2 planes of high-T_c materials. In this comment we
+argue that (i) the used parameter set is not appropriate for the description of
+high-T_c materials since it does not satisfy the minimal requirement of a
+charge-transfer gap at half-filling, and (ii) the observed increase in the
+d_{x^2-y^2} channel is dominantly produced by the pair-field correlations
+without the vertex part. Hence, the claim of evidence of ODLRO is not
+justified.
+","[{""version"":""v1"",""created"":""Mon, 23 Sep 1996 08:02:15 GMT""}]","2007-05-23"
+"cond-mat/9609220","Julio Abad","J. Abad and M. Rios","Integrable Models Associated to Classical Representations of
+  U_q(\widehat{sl(n)})","16 pages, Report DFTUZ 94-11",,,,"cond-mat",,"  We describe a representation for $U_q(\widehat{sl(n)})$, when $q$ is not a
+root of unity, based on the fundamental representation of $sl(n)$. As
+$U_q(sl(n))$ has a Hopf algebra structure with a non-commutative co-product, we
+look for a intertwine matrix $R$ that relates two possible definitions of that
+co-product. We solve cases for $n=2$ and $n=3$, and then we generalize for any
+$n$. We obtain the hamiltonian associated to such matrix $R$, corresponding to
+a multi-state chain. As the case for $n=2$ corresponds to the XXZ model with
+spin $1/2$, for $n>2$ we have the generalization of the XXZ model to $sl(n)$.
+We show the case for $n=3$ and its solution by Bethe ansatz.
+","[{""version"":""v1"",""created"":""Mon, 23 Sep 1996 15:23:48 GMT""}]","2016-08-31"
+"cond-mat/9609223","Xuedong","X. Hu, Franco Nori (Department of Physics, The University of Michigan)","Quantum Phonon Optics: Coherent and Squeezed Atomic Displacements","6 pages, RevTeX","Phys. Rev. B 53 (1996) 2419","10.1103/PhysRevB.53.2419",,"cond-mat",,"  In this paper we investigate coherent and squeezed quantum states of phonons.
+The latter allow the possibility of modulating the quantum fluctuations of
+atomic displacements below the zero-point quantum noise level of coherent
+states. The expectation values and quantum fluctuations of both the atomic
+displacement and the lattice amplitude operators are calculated in these
+states---in some cases analytically. We also study the possibility of squeezing
+quantum noise in the atomic displacement using a polariton-based approach.
+","[{""version"":""v1"",""created"":""Mon, 23 Sep 1996 08:53:44 GMT""}]","2009-10-28"
+"gr-qc/9609051","Sanjay Jhingan","F. I. Cooperstock, S. Jhingan, P. S. Joshi and T. P. Singh","Negative Pressure and Naked Singularities in Spherical Gravitational
+  Collapse","7 pages, LaTeX File","Class.Quant.Grav. 14 (1997) 2195-2201","10.1088/0264-9381/14/8/018","TIFR-TAP Preprint","gr-qc",,"  Assuming the weak energy condition, we study the nature of the non-central
+shell-focussing singularity which can form in the gravitational collapse of a
+spherical compact object in classical general relativity. We show that if the
+radial pressure is positive, the singularity is covered by a horizon. For
+negative radial pressures, the singularity will be covered if the ratio of
+pressure to the density is greater than -1/3 and naked if this ratio is $\leq
+-1/3$.
+","[{""version"":""v1"",""created"":""Mon, 23 Sep 1996 07:47:17 GMT""}]","2009-10-28"
+"hep-lat/9609038","Giancarlo Rossi","G.C. Rossi","Non-perturbative renormalization in lattice QCD","Plenary talk presented at LATTICE96, LaTeX 13 pages, uses espcrc2, 7
+  postscript figures","Nucl.Phys.Proc.Suppl. 53 (1997) 3-15","10.1016/S0920-5632(96)00594-4","ROM2F/96/46","hep-lat",,"  In this talk I will discuss a number of approaches designed to deal with the
+problem of setting up a fully non-perturbative renormalization procedure in
+lattice QCD. Methods based on Ward-Takahashi identities on hadronic states, on
+imposing chiral selection rules on amplitudes with external quark/gluon legs,
+on the use of the Schr\""{o}dinger functional and on ``heating and cooling''
+Monte Carlo steps are reviewed. I conclude with some remarks on the possibility
+of defining next order terms (higher twists, ``condensates"", ...) in short
+distance expansions.
+","[{""version"":""v1"",""created"":""Mon, 23 Sep 1996 13:06:37 GMT""}]","2009-10-28"
+"hep-lat/9609039","Paul Rakow","M. Goeckeler, R. Horsley, E.-M. Ilgenfritz, H. Oelrich, H. Perlt,
+  P.E.L. Rakow, G. Schierholz, A. Schiller and P. Stephenson","The Drell-Yan process and Deep Inelastic Scattering from the lattice","3 pages, Latex, 3 figures, espcrc2.sty included, Talk presented at
+  LATTICE96(phenomenology)","Nucl.Phys.Proc.Suppl.53:315-317,1997","10.1016/S0920-5632(96)00647-0","DESY 96-152, HUB-EP-96/37","hep-lat",,"  We report on measurements of the h_1 structure function, relevant to
+calculating cross-sections for the Drell-Yan process. This is a quantity which
+can not be measured in Deep Inelastic Scattering, it gives additional
+information on the spin carried by the valence quarks, as well as insights on
+how relativistic the quarks are.
+","[{""version"":""v1"",""created"":""Mon, 23 Sep 1996 14:48:15 GMT""}]","2008-11-26"
+"hep-ph/9609431","David H. Lyth","David H. Lyth (Lancaster)","Models of inflation and the spectral index of the adiabatic density
+  perturbation","50 pages, no Figures",,,"LANCS-TH/9614","hep-ph astro-ph gr-qc hep-th",,"  If an adiabatic density perturbation is responsible for large scale structure
+and the cmb anisotropy, its spectral index $n$ will be measured in the
+forseeable future with an accuracy $\Delta n\sim .01$. This is precisely the
+kind of accuracy required to distinguish between many models of inflation. Most
+of them have an inflationary potential $V\simeq V_0(1\pm\mu\phi^p)$ with the
+constant term dominating. Except for $0\lsim p\lsim 2$, the prediction is
+$n=1\pm (2/N)(p-1)/(p-2)$, where $N$ is the number of $e$-folds of inflation
+after cosmological scales leave the horizon. It typically lies in the range
+$0.9\lsim n\lsim 1.1$. For $p=2$ one has $n=1\pm 2\Mpl^2 \mu$ where $\Mpl=(8\pi
+G)^{-1/2}$. A generic supergravity theory gives contributions of order $\pm
+H^2$ to the inflaton mass-squared $m^2$ whereas inflation requires $|m^2| <<
+H^2$. Proposals for keeping $m^2$ small are surveyed with emphasis on their
+implications for $n$. Finally, the case of a multi-component inflaton (as in
+`double' inflation) is discussed. In all cases, the best method of calculating
+the spectrum of the adiabatic density perturbation starts with the assumption
+that, after smoothing on a super-horizon scale, the evolution of the universe
+along each comoving worldline will be practically the same as in an unperturbed
+universe with the same initial inflaton field. The possible isocurvature
+density perturbation is briefly discussed, with a simple derivation of the fact
+that the low multipoles of the cmb anisotropy are six times as big as for an
+adiabatic density perturbation.
+","[{""version"":""v1"",""created"":""Sun, 22 Sep 1996 18:55:48 GMT""}]","2016-09-06"
+"hep-ph/9609432","Paolo Gambino","Paolo Gambino (MPI, Munich)","Two-loop heavy top effects on precision observables","6 pages, 2 figures, plain LaTeX","Acta Phys.Polon.B28:823-828,1997",,"MPI-PhT-96-85","hep-ph",,"  The corrections induced by a heavy top on the main precision observables are
+now available up to O(alpha^2 mt^2/mw^2). The new results imply a significant
+reduction of the theoretical uncertainty and can have a sizable impact on the
+determination of the effective sine.
+","[{""version"":""v1"",""created"":""Sun, 22 Sep 1996 16:36:04 GMT""}]","2011-03-02"
+"hep-ph/9609433","Mike Boyce","M. M. Boyce","String Inspired QCD and $E_6$ Models","173 pages, LaTeX, 49 figures (eps)",,,,"hep-ph nucl-th",,"  The work in this thesis consists of two distinct parts:
+  A class of models called, ``String-flip potential models,'' (SFP's) are
+studied as a possible candidate for modeling nuclear matter in terms of
+constituent quarks. These models are inspired from lattice
+quantum-chromodynamics (QCD) and are nonperturbative in nature. It is shown
+that they are viable candidates for modeling nuclear matter since they
+reproduce most of the bulk properties except for nuclear binding. Their
+properties are studied in nuclear and mesonic matter. A new class of models is
+developed, called ``flux-bubble potential models,'' which allows for the SFP's
+to be extended to include perturbative QCD interactions. Attempts to obtain
+nuclear binding is not successful, but valuable insight was gained towards
+possible future directions to pursue.
+  The possibility of studying Superstring inspired $E_6$ phenomenology at high
+energy hadron colliders is investigated. The production of heavy lepton pairs
+{\it via} a gluon-gluon fusion mechanism is discussed. An enhancement in the
+parton level cross-section is expected due to the heavy (s)fermion loops which
+couple to the gluons.
+","[{""version"":""v1"",""created"":""Mon, 23 Sep 1996 02:50:55 GMT""}]","2007-05-23"
+"hep-ph/9609434","Thomas","Savas Dimopoulos, Scott Thomas, James D. Wells","Sparticle Spectroscopy and Electroweak Symmetry Breaking with
+  Gauge-Mediated Supersymmetry Breaking","59 pages, Latex, published version","Nucl.Phys. B488 (1997) 39-91","10.1016/S0550-3213(97)00030-8","SLAC-PUB-7237","hep-ph hep-ex",,"  The phenomenology associated with gauge-mediated supersymmetry breaking is
+presented. A renormalization group analysis of the minimal model is performed
+in which the constraints of radiative electroweak symmetry breaking are
+imposed. The resulting superpartner and Higgs boson spectra are highly
+correlated and depend on only a few parameters. Superpartner mass ratios and
+sum rules are identified which can be tested at future colliders. Some of these
+relations are logarithmically sensitive to the messenger scale, while others
+allow gauge-mediation to be distinguished from other schemes for tansmitting
+supersymmetry breaking. Deviations from the minimal model, such as larger
+messenger representations and additional contributions to Higgs sector masses,
+can in some circumstances dramatically modify the low energy spectrum. These
+modifications include a slepton or Higgsino as the lightest standard model
+superpartner, or exotic mass relations among the scalars and gauginos. The
+contribution to $b \to s \gamma$ and resulting bound on superpartner masses are
+also presented for the minimal model. Finally, the unique collider signatures
+of heavy charged particle production, or decay to the Goldstino within a
+detector are discussed.
+","[{""version"":""v1"",""created"":""Mon, 23 Sep 1996 04:02:18 GMT""},{""version"":""v2"",""created"":""Mon, 16 Dec 1996 23:03:48 GMT""}]","2009-10-28"
+"hep-ph/9609435","Xiang Qian Luo","Lian Hu, Xiang-Qian Luo, Qi-Zhou Chen, Xi-Yan Fang, Shuo-Hong Guo","Glueball Masses from Hamiltonian Lattice QCD","12 pages, Latex, figures to be sent upon request","Commun.Theor.Phys. 28 (1997) 327-332","10.1088/0253-6102/28/3/327",,"hep-ph hep-lat",,"  We calculate the masses of the $0^{++}$, $0^{--}$ and $1^{+-}$ glueballs from
+QCD in 3+1 dimensions using an eigenvalue equation method for Hamiltonian
+lattice QCD developed and described elsewhere by the authors. The mass ratios
+become approximately constants in the coupling region $6/g^2 \in [6.0,6.4]$,
+from which we estimate $M(0^{--})/M(0^{++})=2.44 \pm 0.05 \pm 0.20$ and
+$M(1^{+-})/M(0^{++})=1.91 \pm 0.05 \pm 0.12$.
+","[{""version"":""v1"",""created"":""Mon, 23 Sep 1996 08:16:31 GMT""}]","2018-01-17"
+"hep-ph/9609436","Huang Ming-qiu","Yuan-ben Dai, Chao-shang Huang, Ming-qiu Huang, and Chun Liu","QCD Sum Rules for Masses of Excited Heavy Mesons","LateX, 12 pages including 2 figs","Phys.Lett. B390 (1997) 350-358","10.1016/S0370-2693(96)01412-8","AS-ITP-96-20","hep-ph",,"  The masses of excited heavy mesons are studied with sum rules in the heavy
+quark effective theory. A set of interpolating currents creating (annihilating)
+excited heavy mesons with arbitrary spin and parity are proposed and their
+properties are discussed. Numerical results at the leading order of the {\cal
+O}(1/m_Q) expansion are obtained for the lowest doublets (0^+, 1^+) and (1^+,
+2^+).
+","[{""version"":""v1"",""created"":""Mon, 23 Sep 1996 08:59:36 GMT""}]","2015-06-25"
+"hep-ph/9609437","Renard Fernand Michel","G.J. Gounaris, D.T. Papadamou, F.M. Renard","General description of New Physics in t, b and boson Interactions and
+  its Unitarity Constraints","19 pages, revised version including dynamical scenarios. e-mail:
+  renard@lpmsun2.lpm.univ-montp2.fr","Z.Phys. C76 (1997) 333-341",,"PM/96-28, THES-TP 96/09","hep-ph",,"  We list all possible dim=6 CP conserving and SU(3)* SU(2)*U(1) gauge
+invariant interactions, which could be generated in case no new particles would
+be reachable in the future Colliders, and the only observable New Physics would
+be in the form of new interactions affecting the scalar sector and the quarks
+of the third family. These interactions are described by operators involving
+the standard model scalar field, the quarks of the third family and the gauge
+bosons. Subsequently, we identify those operators which do not contribute to
+LEP1 (and lower energy) observables at tree level and are not purely gluonic.
+Since present measurements do not strongly constrain the couplings of these
+operators, we derive here the unitarity bounds on them. Finally, in order to
+get a feeling on the possible physical meaning of the appearance of any of
+these operators, we identify the operators generated in a class of
+renormalizable dynamical models which at the TeV scale, are fully described by
+the SU(3)*SU(2)*U(1) gauge group.
+","[{""version"":""v1"",""created"":""Mon, 23 Sep 1996 12:51:32 GMT""},{""version"":""v2"",""created"":""Tue, 22 Oct 1996 06:31:15 GMT""},{""version"":""v3"",""created"":""Wed, 8 Jan 1997 10:04:26 GMT""}]","2008-02-03"
+"hep-ph/9609438","Graham Shore","G.M. Shore","A Test of Target Independence of the `Proton Spin' Effect in
+  Semi-Inclusive Deep Inelastic Scattering",,"Nucl.Phys.Proc.Suppl. 54A (1997) 122-126","10.1016/S0920-5632(97)00026-1","SWAT-96/130","hep-ph",,"  The target-independent suppression mechanism proposed as an explanation of
+the EMC-SMC `proton spin' effect is reviewed and compared to current
+experimental data. According to this proposal, the anomalous suppression
+observed in the first moment of the polarised proton structure function g_1^p
+is not a special property of the proton structure, but reflects an anomalously
+small value of the first moment of the QCD topological susceptibility. It is
+shown how this mechanism can be tested in semi-inclusive DIS processes in which
+a pion or D meson carrying a large target energy fraction z is detected in the
+target fragmentation region.
+","[{""version"":""v1"",""created"":""Mon, 23 Sep 1996 14:07:44 GMT""}]","2009-10-28"
+"hep-ph/9609439","Gonzalo Parente Bermudez","G. Parente and A.V. Kotikov","The DIS cross-sections ratio $R= \sigma_L/\sigma_T$ at small x from HERA
+  data","Latex file (6 pages), 1 Postscript figure",,,"US-FT/41-96","hep-ph",,"  We extract the deep inelastic scattering cross-sections ratio $R= \sigma
+_L/\sigma _T$ in the range $10^{-4} \leq x \leq 10^{-1}$ from $F_2$ HERA data
+using very simple relations based on perturbative QCD. The result depends on
+only one parameter $\delta$, being $x^{-\delta}$ the behavior of the parton
+densities at low $x$, which has been determined recently with a good accuracy
+by the H1 group.
+","[{""version"":""v1"",""created"":""Mon, 23 Sep 1996 08:40:38 GMT""}]","2007-05-23"
+"hep-ph/9609441","David H. Lyth","David H. Lyth and David Roberts (Lancaster)","Cosmological consequences of particle creation during inflation","17 pages, no Figures","Phys. Rev. D 57, 7120 (1998)","10.1103/PhysRevD.57.7120","LANCS-TH/9615","hep-ph gr-qc",,"  Particle creation during inflation is considered. It could be important for
+species whose interaction is of gravitational strength or weaker. A complete
+but economical formalism is given for spin-zero and spin-half particles, and
+the particle abundance is estimated on the assumption that the particle mass in
+the early universe is of order the Hubble parameter $H$. It is roughly the same
+for both spins, and it is argued that the same estimate should hold for higher
+spin particles in particular the gravitino. The abundance is bigger than that
+from the usual particle collision mechanism if the inflationary energy scale is
+of order $10^{16} GeV$, but not if it is much lower.
+","[{""version"":""v1"",""created"":""Mon, 23 Sep 1996 15:57:15 GMT""}]","2016-08-25"
+"hep-th/9609174","Shinsuke Nishigaki","G. Akemann, P. H. Damgaard, U. Magnea, S. Nishigaki","Universality of random matrices in the microscopic limit and the Dirac
+  operator spectrum","18 pages, LaTeX. One reference added","Nucl.Phys.B487:721-738,1997","10.1016/S0550-3213(96)00713-4","ITP-UH-16/96, NBI-HE-96-43, NORDITA-96/59","hep-th cond-mat",,"  We prove the universality of correlation functions of chiral unitary and
+unitary ensembles of random matrices in the microscopic limit. The essence of
+the proof consists in reducing the three-term recursion relation for the
+relevant orthogonal polynomials into a Bessel equation governing the local
+asymptotics around the origin. The possible physical interpretation as the
+universality of soft spectrum of the Dirac operator is briefly discussed.
+","[{""version"":""v1"",""created"":""Sun, 22 Sep 1996 22:30:48 GMT""},{""version"":""v2"",""created"":""Mon, 23 Sep 1996 15:22:55 GMT""}]","2011-03-31"
+"hep-th/9609175","Tomasz Rog","Leszek Hadasz and Tomasz Rog","Nambu-Goto string with the Gauss-Bonnet term and point-like masses at
+  the ends","6 pages, plain LaTeX, To be published in Phys.Rev.Lett","Phys.Lett. B388 (1996) 77-81","10.1016/0370-2693(96)01160-4","TPUJ-15/96","hep-th hep-ph",,"  In the present paper we investigate classical dynamics of the Nambu-Goto
+string with the Gauss-Bonnet term in the action and point-like masses at the
+ends in the context of effective QCD string. The configurations of rigidly
+rotating string is studied and its application to phenomenological description
+of meson is discussed.
+","[{""version"":""v1"",""created"":""Mon, 23 Sep 1996 08:47:17 GMT""}]","2009-10-30"
+"hep-th/9609176","Ashoke Sen","Ashoke Sen","Unification of String Dualities","LaTeX file, 27 pages","Nucl.Phys.Proc.Suppl.58:5-19,1997","10.1016/S0920-5632(97)00409-X","MRI-PHY/96-28","hep-th",,"  We argue that all conjectured dualities involving various string, M- and F-
+theory compactifications can be `derived' from the conjectured duality between
+type I and SO(32) heterotic string theory, T-dualities, and the definition of
+M- and F- theories. (Based on a talk given at the conference on `Advanced
+Quantum Field Theory', Le Londe-les-Maures, France, Aug.31-Sept.5, 1996, in
+memory of Claude Itzykson)
+","[{""version"":""v1"",""created"":""Mon, 23 Sep 1996 09:39:05 GMT""}]","2009-09-15"
+"hep-th/9609177","Ismail Hakki Duru","H. Ahmedov and I.H. Duru","Scattering from the Potential Barrier V=cosh^{-2} \omega x from the Path
+  Integration over SO(1,2)",,"J.Phys.A30:173-184,1997","10.1088/0305-4470/30/1/012",,"hep-th",,"  Unitary irreducible representation of the group SO(1,2) is obtained in the
+mixed basis, i.e. between the compact and noncompact basis and the new addition
+theorems are derived which are required in path integral applications involving
+the positively signed potential. The Green function for the potential barrier
+$V=cosh^{-2}\omega x$ is evaluated from the path integration over the coset
+space SO(1,2)/K where K is the compact subgroup. The transition and the
+reflection coefficients are given. Results for the moving barrier
+$V=\cosh^{-2}\omega (x-g_0t)$ are also presented.
+","[{""version"":""v1"",""created"":""Mon, 23 Sep 1996 09:44:13 GMT""},{""version"":""v2"",""created"":""Tue, 22 Oct 1996 09:47:50 GMT""}]","2008-11-26"
+"hep-th/9609178",,"Giampiero Esposito, Alexander Yu. Kamenshchik and Gennaro Miele","Unified Gauge Models and One-Loop Quantum Cosmology","10 pages, Latex","Phys.Rev. D56 (1997) 1328-1331","10.1103/PhysRevD.56.1328","DSF preprint 96/41","hep-th",,"  This paper studies the normalizability criterion for the one-loop wave
+function of the universe in a de Sitter background, when various unified gauge
+models are considered. It turns out that, in the absence of interaction between
+inflaton field and other matter fields, the supersymmetric version of such
+unified models is preferred. By contrast, the interaction of inflaton and
+matter fields, jointly with the request of normalizability at one-loop order,
+picks out non-supersymmetric versions of unified gauge models.
+","[{""version"":""v1"",""created"":""Mon, 23 Sep 1996 12:53:02 GMT""}]","2009-10-30"
+"hep-th/9609179","Farhad Ghaboussi","F. Ghaboussi","Quantum Cohomology And All That","Latex, 27 pages",,,,"hep-th",,"  We found a quantum cohomology/homology of quantum Hall effect which arises as
+the invariant property of the Chern-Simons theory of quantum Hall effect and
+showed that it should be equivalent to the quantum cohomology which arose as
+the invariant property of topological sigma models. This isomorphism should be
+related with an equivalence between the supersymmetric- and quantization
+structures in two dimensional models and/or with an equivalence between
+topological sigma models and the Chern-Simons theory by the methode of master
+equation.
+","[{""version"":""v1"",""created"":""Mon, 23 Sep 1996 15:10:28 GMT""}]","2007-05-23"
+"math/9609209",,"Mahan Mitra","Cannon-Thurston Maps for Trees of Hyperbolic Metric Spaces",,"J. Differential Geom. 48 (1998), no. 1, 135-164",,"MSRI 1996-065","math.GT",,"  Let (X,d) be a tree (T) of hyperbolic metric spaces satisfying the
+quasi-isometrically embedded condition. Let $v$ be a vertex of $T$. Let
+$({X_v},d_v)$ denote the hyperbolic metric space corresponding to $v$. Then $i
+: X_v \rightarrow X$ extends continuously to a map $\hat{i} : \widehat{X_v}
+\rightarrow \widehat{X}$. This generalizes a Theorem of Cannon and Thurston.
+The techniques are used to give a new proof of a result of Minsky: Thurston's
+ending lamination conjecture for certain Kleinian groups. Applications to
+graphs of hyperbolic groups and local connectivity of limit sets of Kleinian
+groups are also given.
+","[{""version"":""v1"",""created"":""Mon, 23 Sep 1996 00:00:00 GMT""}]","2011-03-24"
+"nucl-th/9609050",,"W. Cassing, E. L. Bratkovskaya, U. Mosel, S. Teis and A. Sibirtsev
+  (Giessen Univ.)","Kaon versus Antikaon Production at SIS Energies","16 pages, LaTeX, plus 12 postscript figures, submitted to Nucl. Phys.
+  A","Nucl.Phys.A614:415-432,1997","10.1016/S0375-9474(96)00461-7","UGI-96-19","nucl-th",,"  We analyse the production and propagation of kaons and antikaons in Ni + Ni
+reactions from 0.8--1.85 GeV/u within a coupled channel transport approach
+including the channels $BB \to K^+YN, \pi B\to K^+Y, BB \to NN K \bar{K}, \pi
+B\to N K\bar{K}, K^+B\to K^+B, \bar{K} B\to \bar{K}B, Y N\to \bar{K} NN, \pi
+\pi\to K \bar{K}$ as well as $\pi Y\to \bar{K}N$ and $\bar{K} N\to \pi Y$ for
+the antikaon absorption. Whereas the experimental $K^+$ spectra can be
+reproduced without introducing any selfenergies for the mesons in Ni + Ni
+collisions from 0.8 to 1.8 GeV/u, the $K^-$ yield is underestimated by a factor
+of 5--7 at 1.66 and 1.85 GeV/u. However, introducing density dependent antikaon
+masses as proposed by Kaplan and Nelson, the antikaon spectra can be reasonably
+well described.
+","[{""version"":""v1"",""created"":""Mon, 23 Sep 1996 14:42:21 GMT""}]","2011-07-19"
+"q-alg/9609027",,"Stavros Garoufalidis (Harvard U.), Jerome Levine (Brandeis U.)","Finite type 3-manifold invariants and the structure of the Torelli","52 pages, AMSLatex, 20 figures",,,,"q-alg math.QA",,"  We apply the theory of finite-type invariants of homology 3-spheres to
+investigate the structure of the Torelli group. We construct natural cocycles
+in the Torelli group and show that the lower central series quotients of the
+Torelli group map onto a vector space of trivalent graphs. We also have
+analogous results for two other natural subgroups of the mapping class group.
+","[{""version"":""v1"",""created"":""Sun, 22 Sep 1996 16:11:18 GMT""}]","2008-02-03"
+"q-alg/9609028","Ismail Hakki Duru","H. Ahmedov and I.H. Duru","A q-oscillator Green Function","10 pages, latex",,"10.1063/1.532076","MRC-PH-TH-11/96","q-alg hep-th math.QA",,"  By using the generating function formula for the product of two q-Hermite
+polynomials q-deformation of the Feynman Green function for the harmonic
+oscillator is obtained.
+","[{""version"":""v1"",""created"":""Mon, 23 Sep 1996 11:29:10 GMT""}]","2009-10-30"
+"q-alg/9609029","Timothy J. Hodges","Timothy J. Hodges","Nonstandard quantum groups associated to Belavin-Drinfeld triples","AMSLatex, 8 pages",,,,"q-alg math.QA",,"  A construction is given of a family of non-standard quantizations of the
+algebra of functions on a connected complex semi-simple algebraic group. For
+each ``disjoint'' triple in the sense of Belavin and Drinfeld, a 2-cocycle is
+constructed on certain multi-parameter quantum groups. The new non-standard
+quantum groups are the Hopf algebras obtained by twisting the known quantum
+groups by these 2-cocycles. In particular, the Cremmer-Gervais quantization of
+$SL(3)$ can be constructed in this way.
+","[{""version"":""v1"",""created"":""Mon, 23 Sep 1996 15:48:25 GMT""}]","2008-02-03"

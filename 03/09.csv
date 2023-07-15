@@ -1,0 +1,407 @@
+"astro-ph/9603032","Bruce Draine","B.T. Draine (Princeton University Observatory) and Frank Bertoldi
+  (Max-Planck-Institut f\""ur Extraterrestrische Physik)","Structure of Stationary Photodissociation Fronts","50 pages, 24 eps figures, uses aaspp4.sty . To appear in Ap.J","Astrophys.J.468:269,1996","10.1086/177689","POP-651","astro-ph",,"  The structure of stationary photodissociation fronts is revisited. H_2 self-
+shielding is discussed, including the effects of line overlap. We find that
+line overlap is important for N(H_2) > 10^{20} cm^{-2}. We compute multiline UV
+pumping models, and compare these with simple analytic approximations for the
+effects of self-shielding.
+  The overall fluorescent efficiency of the photodissociation front is obtained
+for different ratios of chi/n_H (where chi characterizes the intensity of the
+incident UV) and different dust extinction laws. The dust optical depth
+tau_{pdr} to the point where 50% of the H is molecular is found to be a simple
+function of a dimensionless quantity phi_0 depending on chi/n_H, the rate
+coefficient for H_2 formation on grains, and the UV dust opacity. The
+fluorescent efficiency of the PDR also depends primarily on phi_0 for chi<3000
+and n_H<10^4 cm^{-3}; for stronger radiation fields and higher densities
+radiative and collisional depopulation of vibrationally-excited levels
+interferes with the radiative cascade. The emission spectrum from the PDR is
+essentially independent of the color temperature $T_{color}$ of the incident UV
+for T_{color}>10^4K, but shows some sensitivity to the v-J distribution of
+newly-formed H_2. The 1-0S(1)/2-1S(1) and 2-1S(1)/6-4Q(1) intensity ratios, the
+ortho/para ratio, and the rotational temperature in the $v$=1 and $v$=2 levels
+are computed as functions of the temperature and density, for different values
+of chi and n_H.
+  We apply our models to the reflection nebula NGC 2023. We are best able to
+reproduce the observations with models having chi=5000, n_H=10^5 cm^{-3}.
+","[{""version"":""v1"",""created"":""Fri, 8 Mar 1996 19:43:55 GMT""}]","2008-11-26"
+"astro-ph/9603033","Matias Zaldarriaga","Uros Seljak (Harvard Smithsonian Center for Astrophysics) and Matias
+  Zaldarriaga (MIT Physics Department)","A Line of Sight Approach to Cosmic Microwave Background Anisotropies","20 pages, 5 figures. Fortran code available from the authors","Astrophys.J.469:437-444,1996","10.1086/177793",,"astro-ph",,"  We present a new method for calculating linear cosmic microwave background
+(CMB) anisotropy spectra based on integration over sources along the photon
+past light cone. In this approach the temperature anisotropy is written as a
+time integral over the product of a geometrical term and a source term. The
+geometrical term is given by radial eigenfunctions which do not depend on the
+particular cosmological model. The source term can be expressed in terms of
+photon, baryon and metric perturbations, all of which can be calculated using a
+small number of differential equations. This split clearly separates between
+the dynamical and geometrical effects on the CMB anisotropies. More
+importantly, it allows to significantly reduce the computational time compared
+to standard methods. This is achieved because the source term, which depends on
+the model and is generally the most time consuming part of calculation, is a
+slowly varying function of wavelength and needs to be evaluated only in a small
+number of points. The geometrical term, which oscillates much more rapidly than
+the source term, does not depend on the particular model and can be precomputed
+in advance. Standard methods that do not separate the two terms and require a
+much higher number of evaluations. The new method leads to about two orders of
+magnitude reduction in CPU time when compared to standard methods and typically
+requires a few minutes on a workstation for a single model. The method should
+be especially useful for accurate determinations of cosmological parameters
+from CMB anisotropy and polarization measurements that will become possible
+with the next generation of experiments. A programm implementing this method
+can be obtained from the authors.
+","[{""version"":""v1"",""created"":""Fri, 8 Mar 1996 22:05:41 GMT""}]","2008-11-26"
+"cmp-lg/9603002","Fernando Pereira","Fernando C. N. Pereira and Rebecca N. Wright (AT&T Research)","Finite-State Approximation of Phrase-Structure Grammars","24 pages, uses psfig.sty; revised and extended version of the 1991
+  ACL meeting paper with the same title",,,,"cmp-lg cs.CL",,"  Phrase-structure grammars are effective models for important syntactic and
+semantic aspects of natural languages, but can be computationally too demanding
+for use as language models in real-time speech recognition. Therefore,
+finite-state models are used instead, even though they lack expressive power.
+To reconcile those two alternatives, we designed an algorithm to compute
+finite-state approximations of context-free grammars and
+context-free-equivalent augmented phrase-structure grammars. The approximation
+is exact for certain context-free grammars generating regular languages,
+including all left-linear and right-linear context-free grammars. The algorithm
+has been used to build finite-state language models for limited-domain speech
+recognition tasks.
+","[{""version"":""v1"",""created"":""Fri, 8 Mar 1996 23:17:00 GMT""}]","2008-02-03"
+"comp-gas/9603001","James Theiler","James Theiler and Dean Prichard","Constrained-Realization Monte-Carlo Method for Hypothesis Testing","19 pages, single spaced, all in one postscript file, figs included.
+  Uncompressed .ps file is 425kB (sorry, it's over the 300kB recommendation).
+  Also available on the WWW at http://nis-www.lanl.gov/~jt/Papers/ To appear in
+  Physica D",,"10.1016/0167-2789(96)00050-4","LA-UR-95-990","comp-gas nlin.CG",,"  We compare two theoretically distinct approaches to generating artificial (or
+``surrogate'') data for testing hypotheses about a given data set. The first
+and more straightforward approach is to fit a single ``best'' model to the
+original data, and then to generate surrogate data sets that are ``typical
+realizations'' of that model. The second approach concentrates not on the model
+but directly on the original data; it attempts to constrain the surrogate data
+sets so that they exactly agree with the original data for a specified set of
+sample statistics. Examples of these two approaches are provided for two simple
+cases: a test for deviations from a gaussian distribution, and a test for
+serial dependence in a time series. Additionally, we consider tests for
+nonlinearity in time series based on a Fourier transform (FT) method and on
+more conventional autoregressive moving-average (ARMA) fits to the data. The
+comparative performance of hypothesis testing schemes based on these two
+approaches is found to depend on whether or not the discriminating statistic is
+pivotal. A statistic is ``pivotal'' if its distribution is the same for all
+processes consistent with the null hypothesis. The typical-realization method
+requires that the discriminating statistic satisfy this property. The
+constrained-realization approach, on the other hand, does not share this
+requirement, and can provide an accurate and powerful test without having to
+sacrifice flexibility in the choice of discriminating statistic.
+","[{""version"":""v1"",""created"":""Fri, 8 Mar 1996 17:29:28 GMT""}]","2015-06-24"
+"cond-mat/9603064","Robert Holyst","K.Burdzy, Robert Holyst, D.Ingerman and P.March (University of
+  Washington, Institute of Phys.Chem. Poland and Ohio State University)","Configurational transition in a Fleming-Viot-type model and
+  probabilistic interpretation of Laplacian eigenfunctions","17 pages (Plain TeX) 4 figures on request
+  (burdzy@math.washington.edu). to be published in J.Phys.A",,"10.1088/0305-4470/29/11/004",,"cond-mat",,"  We analyze and simulate a two dimensional Brownian multi-type particle system
+with death and branching (birth) depending on the position of particles of
+different types. The system is confined in the two dimensional box, whose
+boundaries act as the sink of Brownian particles. The branching rate matches
+the death rate so that the total number of particles is kept constant. In the
+case of m types of particles in the rectangular box of size a,b and elongated
+shape $a\gg b$ we observe that the stationary distribution of particles
+corresponds to the m-th Laplacian eigenfunction. For smaller elongations $a>b$
+we find a configurational transition to a new limiting distribution. The ratio
+a/b for which the transition occurs is related to the value of the m-th
+eigenvalue of the Laplacian with rectangular boundaries.
+","[{""version"":""v1"",""created"":""Fri, 8 Mar 1996 16:03:01 GMT""}]","2009-10-28"
+"cond-mat/9603065","Regis Melin","R. M\'elin","Magnetization Distribution on Fractals and Percolation Lattices","Jour. Phys. I (France)",,"10.1051/jp1:1996237",,"cond-mat",,"  We study the magnetization distribution of the Ising model on two regular
+fractals (a hierarchical lattice, the regular simplex) and percolation clusters
+at the percolation threshold in a two dimensional imbedding space. In all these
+cases, the only fixed point is $T=0$. In the case of the two regular fractals,
+we show that the magnetization distribution is non trivial below $T^{*} \simeq
+A^{*}/n$, with $n$ the number of iterations, and $A^{*}$ related to the order
+of ramification. The cross-over temperature $T^{*}$ is to be compared with the
+glass cross-over temperature $T_g \simeq A_g/n$. An estimation of the ratio
+$T^{*}/T_g$ yields an estimation of the order of ramification of bidimensional
+percolation clusters at the threshold ($C = 2.3 \pm 0.2$).
+","[{""version"":""v1"",""created"":""Fri, 8 Mar 1996 16:05:46 GMT""}]","2009-10-28"
+"cond-mat/9603066","Gabriel Gomila Lluch","Gabriel Gomila and Miguel Rubi","Non-equilibrium thermodynamic description of junctions in semiconductor
+  devices","12 pages, RevTex. Submitted to Phys. Rev. B minor LaTex errors
+  corrected",,"10.1016/S0378-4371(96)00320-2",,"cond-mat",,"  The methods of non-equilibrium thermodynamics of systems with an interface
+have been applied to the study of transport processes in semiconductor
+junctions. A complete phenomenological model for drift-diffusion processes in a
+junction has been derived, which includes, from first principles, both surface
+equations and boundary conditions, together with the usual drift-diffusion
+equations for the bulks. In this way a self-consistent characterisation of the
+whole system, bulks and interface, has been obtained in a common framework. The
+completeness of the model has been shown and a simple application to
+metal-semiconductor junctions developed.
+","[{""version"":""v1"",""created"":""Fri, 8 Mar 1996 18:57:40 GMT""},{""version"":""v2"",""created"":""Mon, 11 Mar 1996 10:41:06 GMT""}]","2015-06-25"
+"cond-mat/9603067","Bikash Gupta","B. C. Gupta, P. Singha Deo and A. M. Jayannavar","Aharonov-Bohm effect in the presence of evanescent modes","9 figures available on request",,"10.1142/S021797929600194X","IP/BBSR/96-16","cond-mat",,"  It is known that differential magnetoconductance of a normal metal loop
+connected to reservoirs by ideal wires is always negative when an electron
+travels as an evanescent modes in the loop. This is in contrast to the fact
+that the magnetoconductance for propagating modes is very sensitive to small
+changes in geometric details and the Fermi energy and moreover it can be
+positive as well as negative. Here we explore the role of impurities in the
+leads in determining the magnetoconductance of the loop. We find that the
+change in magnetoconductance is negative and can be made large provided the
+impurities do not create resonant states in the systems. This theoretical
+finding may play an useful role in quantum switch operations.
+","[{""version"":""v1"",""created"":""Fri, 8 Mar 1996 21:10:26 GMT""}]","2015-06-25"
+"cond-mat/9603068","Jesus Salas","Jes\'us Salas and Alan D. Sokal (NYU)","Absence of Phase Transition for Antiferromagnetic Potts Models via the
+  Dobrushin Uniqueness Theorem","32 pages including 3 figures. Self-unpacking file containing the tex
+  file, the needed macros (epsf.sty, indent.sty, subeqnarray.sty, and
+  eqsection.sty) and the 3 ps files","J.Statist.Phys. 86 (1997) 551-579","10.1007/BF02199113","NYU-TH-96/03/01","cond-mat hep-lat",,"  We prove that the $q$-state Potts antiferromagnet on a lattice of maximum
+coordination number $r$ exhibits exponential decay of correlations uniformly at
+all temperatures (including zero temperature) whenever $q > 2r$. We also prove
+slightly better bounds for several two-dimensional lattices: square lattice
+(exponential decay for $q \ge 7$), triangular lattice ($q \ge 11$), hexagonal
+lattice ($q \ge 4$), and Kagom\'e lattice ($q \ge 6$). The proofs are based on
+the Dobrushin uniqueness theorem.
+","[{""version"":""v1"",""created"":""Fri, 8 Mar 1996 21:46:54 GMT""}]","2009-10-28"
+"cond-mat/9603069",,"Ramin Golestanian","Reduced Persistence Length and Fluctuation-Induced Interactions of
+  Directed Semiflexible Polymers on Fluctuating surfaces","REVTEX, one postscript figure",,"10.1209/epl/i1996-00269-3",,"cond-mat",,"  We consider directed semiflexible polymers embedded in a fluctuating surface
+which is governed by either surface tension or bending rigidity. The attractive
+interactions induced by the fluctuations of the surface reduce the rigidity of
+the polymers. In particular, it is shown that for arbitrarily stiff parallel
+polymers, there is a characteristic separation below which they prefer to bend
+rather than stay linear. The out-of plane fluctuations of the polymer, screen
+out the long-range fluctuation-induced forces, resulting in only a short-ranged
+effective attraction.
+","[{""version"":""v1"",""created"":""Sat, 9 Mar 1996 04:41:11 GMT""}]","2009-10-28"
+"gr-qc/9603010","Michele Maggiore","A. Buonanno, S. Foffa, M. Maggiore, and C. Ungarelli","Symmetry breaking aspects of the effective Lagrangian for quantum black
+  holes","11 pages, Latex,1 figure","Phys.Lett. B382 (1996) 227-232","10.1016/0370-2693(96)00667-3","IFUP-TH 8/96","gr-qc",,"  The physical excitations entering the effective Lagrangian for quantum black
+holes are related to a Goldstone boson which is present in the Rindler limit
+and is due to the spontaneous breaking of the translation symmetry of the
+underlying Minkowski space. This physical interpretation, which closely
+parallels similar well-known results for the effective stringlike description
+of flux tubes in QCD, gives a physical insight into the problem of describing
+the quantum degrees of freedom of black holes. It also suggests that the
+recently suggested concept of 'black hole complementarity' emerges at the
+effective Lagrangian level rather than at the fundamental level.
+","[{""version"":""v1"",""created"":""Sat, 9 Mar 1996 14:50:14 GMT""}]","2009-10-28"
+"hep-ex/9603003","Thomas J. Phillips","F. Abe, et al. (The CDF Collaboration)","Properties of Jets in Z Boson Events from 1.8 TeV $\bar{p}p$ Collisions","13 pages, including 4 figures and 1 table. Submitted to Phys. Rev.
+  Letters. Uses REVTeX and macro epsfig. Postscript also at
+  http://www-cdf.fnal.gov/physics/pub96/cdf3433_z_jets_prl.ps","Phys.Rev.Lett.77:448-453,1996","10.1103/PhysRevLett.77.448","FERMILAB-PUB-96/056-E","hep-ex",,"  We present a study of events with Z bosons and hadronic jets produced in
+$\bar{p}p$ collisions at a center-of-mass energy of 1.8 TeV. The data consist
+of 6708 $Z \to e^+e^-$ decays from 106 pb$^{-1}$ of integrated luminosity
+collected using the CDF detector at the Tevatron Collider. The Z $+ \ge n$ jet
+cross sections and jet production properties have been measured for n = 1 to 4.
+The data compare well to predictions of leading order QCD matrix element
+calculations with added gluon radiation and simulated parton fragmentation.
+","[{""version"":""v1"",""created"":""Fri, 8 Mar 1996 21:50:41 GMT""}]","2010-05-12"
+"hep-ph/9603250","Chung-Yi Wu","Chung-Yi Wu, Tsung-Wen Yeh and Hsiang-nan Li","Internal W-emmission and W-exchange Contributions to {\bf B}\to {{\bf
+  D}^{(*)} Decays","13 pages, Latex, 1 Postscript file","Phys.Rev. D55 (1997) 237-243","10.1103/PhysRevD.55.237","CCUTH-96-01","hep-ph",,"  We evaluate external $W$-emission, internal $W$-emission and $W$-exchange
+contributions to nonleptonic $B\to D^{(*)}$ decays based on the perturbative
+QCD formalism including Sudakov effects, whose ratio is found to be
+$1:+0.2:0.03i$ at the amplitude level. We observe that the internal
+$W$-emission contribution is additive to the external $W$-emission
+contribution, and that the $W$-exchange contribution is negligible and mainly
+imaginary, its real part being at least one order of magnitude smaller than the
+imaginary part. Our predictions are consistent with the CLEO data and with
+those obtained by the Bauer-Stech-Wirbel method.
+","[{""version"":""v1"",""created"":""Fri, 8 Mar 1996 18:27:13 GMT""}]","2009-10-28"
+"hep-ph/9603251",,"Michael C. Birse (University of Manchester)","Effective chiral Lagrangians for spin-1 mesons","46 pages (RevTeX)","Z.Phys.A355:231-246,1996","10.1007/s002180050105","MC/TH 96/11","hep-ph",,"  The commonly used types of effective theory for vector mesons are reviewed
+and their relationships clarified. They are shown to correspond to different
+choices of field for spin-1 particles and the rules for transforming between
+them are described. The importance of respecting chiral symmetry is stressed.
+The choice of fields that transform homogeneously under the nonlinear
+realisation of chiral symmetry imposes no preconceptions about the types of
+coupling for the mesons. This representation thus provides a convenient
+framework for relating different theories. It is also used to elucidate the
+nature of the assumptions in specific hidden-gauge and massive Yang-Mills
+models that have been widely used.
+","[{""version"":""v1"",""created"":""Fri, 8 Mar 1996 17:42:43 GMT""}]","2011-07-19"
+"hep-ph/9603252","Gabriel Sanchez Colon","V. Gupta, R. Huerta, and G. Sanchez-Colon (CINVESTAV-IPN. Unidad
+  Merida)","Sea Contributions to Spin 1/2 Baryon Structure, Magnetic Moments, and
+  Spin Distribution","24 pages, REVTEX. References modified","Int.J.Mod.Phys.A12:1861-1874,1997","10.1142/S0217751X97001171","DG5653-1","hep-ph",,"  We treat the baryon as a composite system made out of a \lq\lq core"" of three
+quarks (as in the standard quark model) surrounded by a \lq\lq sea"" (of gluons
+and $q\bar{q}$-pairs) which is specified by its total quantum numbers like
+flavor, spin and color. Specifically, we assume the sea to be a flavor octet
+with spin 0 or 1 but no color. The general wavefunction for spin 1/2 baryons
+with such a sea component is given. Application to the magnetic moments is
+considered. Numerical analysis shows that a scalar (spin 0) sea with an
+admixture of a vector (spin 1) sea can provide very good fits to the magnetic
+moment data {\em using experimental errors}. Our best fit automatically gives
+$g_A/g_V$ for neutron beta decay in agreement with data. This fit also gives
+reasonable values for the spin distributions of the proton and neutron.
+","[{""version"":""v1"",""created"":""Fri, 8 Mar 1996 23:25:22 GMT""},{""version"":""v2"",""created"":""Sat, 4 May 1996 01:38:26 GMT""}]","2014-11-17"
+"hep-ph/9603253","Mihir P. Worah","Mihir P. Worah","A New Supersymmetric CP Violating Contribution to Neutral Meson Mixing","1 reference added, 1 reference clarified, 2 typos corrected (QCD
+  corrections to K meson mixing in Tables 1 and 3). To be published in Phys.
+  Rev. D. 15 pages (Latex), 2 figures and epsfig.sty submitted","Phys. Rev. D 54, 2198 (1996)","10.1103/PhysRevD.54.2198","SLAC-PUB-7127","hep-ph",,"  We study the contribution to flavor changing neutral current processes from
+box diagrams with light higgsinos and squarks. Starting with just the Cabbibo
+Kobayashi Maskawa (CKM) phase, we find contributions to the $K^0$ and $B^0$
+meson mass matrices that are out of phase with the Standard Model contributions
+in the case of substantial mixing between the up-type squarks. This difference
+in phase could be large enough to be detected at the proposed $B$ factories,
+with interesting implications for the unitarity triangle of CKM matrix
+elements.
+","[{""version"":""v1"",""created"":""Sat, 9 Mar 1996 00:16:07 GMT""},{""version"":""v2"",""created"":""Mon, 22 Apr 1996 21:06:10 GMT""}]","2016-08-24"
+"hep-ph/9603254","Gabriel Sanchez Colon","V. Gupta, R. Huerta, and G. Sanchez-Colon (CINVESTAV-IPN Unidad
+  Merida)","Scalar Sea Contributions to Spin 1/2 Baryon Structure and Magnetic
+  Moments","Final version",,"10.1063/1.49755",,"hep-ph",,"  We treat the baryon as a composite system made out of a ""core"" of three
+quarks (as in the standard quark model) surrounded by a ""sea"" (of gluons and
+$q\bar{q}$-pairs) which is specified by its total quantum numbers like flavor,
+spin and color. Specifically, we assume the sea to be a flavor octet with spin
+0 but no color. The general wavefunction for spin 1/2 baryons with such a sea
+component is given and an application to the magnetic moments is considered.
+Numerical analysis shows that the scalar sea can provide a good fit to the
+magnetic moment data using experimental errors.
+","[{""version"":""v1"",""created"":""Sat, 9 Mar 1996 04:20:02 GMT""},{""version"":""v2"",""created"":""Wed, 11 Mar 1998 01:17:00 GMT""}]","2016-02-08"
+"hep-ph/9603255","Gabriel Sanchez Colon","A. Garcia (1), R. Huerta (2), G. Sanchez-Colon (2) ((1) CINVESTAV-IPN
+  Mexico, (2) CINVESTAV-IPN Unidad Merida)","A Priori Mixed Baryons and Weak Radiative Decays","Final version","Rev.Mex.Fis. 43 (1996) 232-239",,"SMF1522","hep-ph",,"  A priori mixings of eigenstates in physical states are quantum mechanical
+effects well known in several realms of physics. The possibility that such
+effects are also present in particle physics, in the form of flavor and parity
+mixings, is studied. An application to weak radiative decays of hyperons is
+discussed. It is suggested that this scheme may also be present in non-leptonic
+and rare mode decays as the enhancement phenomenon.
+","[{""version"":""v1"",""created"":""Sat, 9 Mar 1996 04:37:05 GMT""},{""version"":""v2"",""created"":""Thu, 12 Feb 1998 21:57:53 GMT""}]","2008-02-03"
+"hep-ph/9603256","Gabriel Sanchez Colon","R. Flores-Mendieta (1), A. Garcia (1), and G. Sanchez-Colon (2) ((1)
+  CINVESTAV-DF, (2) CINVESTAV-Merida)","Determination of the Kobayashi-Maskawa-Cabibbo matrix element V_{us}
+  under various flavor-symmetry-breaking models in hyperon semileptonic decays","Final version","Phys.Rev.D54:6855-6860,1996","10.1103/PhysRevD.54.6855","DP5687","hep-ph",,"  We study the success to describe hyperon semileptonic decays of four models
+that incorporate second-order SU(3) symmetry breaking corrections. The criteria
+to assess their success is by determining V_{us} in each of the three relevant
+hyperon semileptonic decays and comparing the values obtained with one another
+and also with the one that comes from K_{l3} decays. A strong dependence on the
+particular symmetry breaking model is observed. Values of V_{us} which do not
+agree with the one of K_{l3} are generally obtained. However, in the context of
+chiral perturbation theory, only the model whose corrections are O(m_s) and
+O(m_s^{3/2}) is successful. Using its predictions for the f_1 form factors one
+can quote a value of V_{us} from this model, namely, V_{us}=0.2176\pm 0.0026,
+which is in excellent agreement with the K_{l3} one.
+","[{""version"":""v1"",""created"":""Sat, 9 Mar 1996 04:50:01 GMT""},{""version"":""v2"",""created"":""Sat, 14 Mar 1998 00:32:57 GMT""}]","2008-11-26"
+"hep-ph/9603257",,"M. Kacir and I. Zahed (Stony Brook, US)","Nucleons at Finite Temperature","17 pages in LaTex format, 11 Postscript figures","Phys.Rev. D54 (1996) 5536-5544","10.1103/PhysRevD.54.5536","SUNY-NTG-95-55","hep-ph",,"  The nucleon mass shift is calculated using chiral counting arguments and a
+virial expansion, without and with the $\Delta$. At all temperatures, the mass
+shift and damping rate are dominated by the $\Delta$. Our results are compared
+with the empirical analysis of Leutwyler and Smilga, as well as results from
+heavy baryon chiral perturbation theory in the large $N_{c}$ (number of color)
+limit. We show that unitarity implies that the concepts of thermal shifts are
+process dependent.
+","[{""version"":""v1"",""created"":""Sat, 9 Mar 1996 13:17:48 GMT""}]","2009-10-28"
+"hep-ph/9603258","Tran Tuan Anh","Hoang Ngoc Long","Right Handed Neutrino Currents in the SU(3)_LxU(1)_N Electroweak Theory","13 pages, latex, no figures, Presented at the 2nd Recontres du
+  Vietnam - Physics at the Frontiers of the Standard Model, Ho Chi Minh City,
+  Vietnam, 21-28 October 1995",,,"VITP 95-04","hep-ph",,"  A version of the $\mbox{SU(3)}_L\otimes \mbox{U(1)}_N$ electroweak theory in
+which there are right-handed neutrino currents is reconsidered in detail. We
+argue that in order to have a result consistent with low-energy one, the
+right-handed neutrino component must be treated as correction instead of an
+equivalent spin state. The data from the $Z$-decay allow us to fix the limit
+for $\phi$ as $-0.00285 \leq \phi \leq 0.00018$. From the neutrino neutral
+current scattering, we estimate a bound for the new neutral gauge boson $Z^2$
+mass in the range of 400 GeV. A bound for the new charged and neutral
+(non-Hermitian) gauge bosons $Y^{\pm}, X^o$ is also obtained from
+symmetry-breaking hierarchy.
+","[{""version"":""v1"",""created"":""Sat, 9 Mar 1996 14:52:18 GMT""}]","2023-01-30"
+"hep-th/9603048","Luigi Martina","L. Martina, O. K. Pashaev, G. Soliani","Chern-Simons Field Theory and Completely Integrable Systems","11 pages, Latex","Phys.Lett. B378 (1996) 175-180","10.1016/0370-2693(96)00418-2","DFUL-1/02/96","hep-th",,"  We show that the classical non-abelian pure Chern-Simons action is related in
+a natural way to completely integrable systems of the Davey-Stewartson
+hyerarchy, via reductions of the gauge connection in Hermitian spaces and by
+performing certain gauge choices. The B\""acklund Transformations are
+interpreted in terms of Chern-Simons equations of motion or, on the other hand,
+as a consistency condition on the gauge. A mapping with a nonlinear
+$\sigma$-model is discussed.
+","[{""version"":""v1"",""created"":""Fri, 8 Mar 1996 16:57:12 GMT""}]","2009-10-30"
+"hep-th/9603049","Arne Lykke Larsen","A.L. Larsen and N. Sanchez","Sinh-Gordon, Cosh-Gordon and Liouville Equations for Strings and
+  Multi-Strings in Constant Curvature Spacetimes","Latex, 19 pages + 1 figure (not included)","Phys.Rev. D54 (1996) 2801-2807","10.1103/PhysRevD.54.2801","Alberta Thy 08-96","hep-th gr-qc hep-ph",,"  We find that the fundamental quadratic form of classical string propagation
+in $2+1$ dimensional constant curvature spacetimes solves the Sinh-Gordon
+equation, the Cosh-Gordon equation or the Liouville equation. We show that in
+both de Sitter and anti de Sitter spacetimes (as well as in the $2+1$ black
+hole anti de Sitter spacetime), {\it all} three equations must be included to
+cover the generic string dynamics. The generic properties of the string
+dynamics are directly extracted from the properties of these three equations
+and their associated potentials (irrespective of any solution). These results
+complete and generalize earlier discussions on this topic (until now, only the
+Sinh-Gordon sector in de Sitter spacetime was known). We also construct new
+classes of multi-string solutions, in terms of elliptic functions, to all three
+equations in both de Sitter and anti de Sitter spacetimes. Our results can be
+straightforwardly generalized to constant curvature spacetimes of arbitrary
+dimension, by replacing the Sinh-Gordon equation, the Cosh-Gordon equation and
+the Liouville equation by higher dimensional generalizations.
+","[{""version"":""v1"",""created"":""Fri, 8 Mar 1996 16:51:09 GMT""}]","2009-10-30"
+"hep-th/9603050",,"A. Dasnieres de Veigy","On the solution of the Calogero model and its generalization to the case
+  of distinguishable particles","8 pages",,,"IPNO/TH 96-11","hep-th",,"  The 3-body Calogero problem is solved by separation of variables for
+arbitrary exchange statistics. A numerical computation of the 4-body spectrum
+is also presented. The results display new features in comparison with the
+standard case of bosons and fermions, for instance the energies are not linear
+with the interaction parameter $\nu$ and Bethe ansatz as well as Haldane's
+statistics are not verified.
+","[{""version"":""v1"",""created"":""Fri, 8 Mar 1996 18:09:25 GMT""}]","2007-05-23"
+"hep-th/9603051",,"S. Elitzur, A. Forge, A. Giveon, K. Intriligator, E. Rabinovici","Massless Monopoles Via Confining Phase Superpotentials","8 pages, harvmac","Phys.Lett. B379 (1996) 121-125","10.1016/0370-2693(96)00407-8","CERN-TH/96-48, IASSNS-HEP-96/18, RI-1-96","hep-th",,"  We discuss how the structure of massless monopoles in supersymmetric theories
+with a Coulomb phase can be obtained from effective superpotentials for a phase
+with a confined photon. To illustrate the technique, we derive effective
+superpotentials which can be used to derive the curves which describe the
+Coulomb phase of $N=2$, $SU(N_c)$ gauge theory with $N_f<N_c$ flavors.
+","[{""version"":""v1"",""created"":""Fri, 8 Mar 1996 18:12:54 GMT""}]","2009-10-30"
+"hep-th/9603053","Ctirad Klimcik","A. Connes","Gravity coupled with matter and foundation of non-commutative geometry","30 pages, Plain TeX","Commun.Math.Phys. 182 (1996) 155-176","10.1007/BF02506388",,"hep-th math.QA q-alg",,"  We first exhibit in the commutative case the simple algebraic relations
+between the algebra of functions on a manifold and its infinitesimal length
+element $ds$. Its unitary representations correspond to Riemannian metrics and
+Spin structure while $ds$ is the Dirac propagator $ds = \ts \!\!$---$\!\! \ts =
+D^{-1}$ where $D$ is the Dirac operator. We extend these simple relations to
+the non commutative case using Tomita's involution $J$. We then write a
+spectral action, the trace of a function of the length element in Planck units,
+which when applied to the non commutative geometry of the Standard Model will
+be shown (in a joint work with Ali Chamseddine) to give the SM Lagrangian
+coupled to gravity. The internal fluctuations of the non commutative geometry
+are trivial in the commutative case but yield the full bosonic sector of SM
+with all correct quantum numbers in the slightly non commutative case. The
+group of local gauge transformations appears spontaneously as a normal subgroup
+of the diffeomorphism group.
+","[{""version"":""v1"",""created"":""Fri, 8 Mar 1996 20:50:40 GMT""}]","2009-10-30"
+"hep-th/9603054","Oswaldo Monteiro del Cima","M.A. De Andrade (1), O.M. Del Cima (1 and 2) and J.A. Helay\""el-Neto
+  (2) ((1) PUC-RIO-Brazil, (2) CBPF-Brazil)","Electron-pair condensation in parity-preserving QED3","16 pages, Latex, revised version, appendix and references added","Nuovo Cim. A111 (1998) 1145-1162",,,"hep-th",,"  In this paper, we present a parity-preserving QED3 with spontaneous breaking
+of a local U(1)-symmetry. The breaking is accomplished by a potential of the
+\vf^6-type. It is shown that a net attractive interaction appears in the
+M{\o}ller scattering (s and p-wave scattering between two electrons) as
+mediated by the gauge field and a Higgs scalar. This might favour a
+pair-condensation mechanism.
+","[{""version"":""v1"",""created"":""Fri, 8 Mar 1996 23:57:11 GMT""},{""version"":""v2"",""created"":""Fri, 27 Jun 1997 22:28:23 GMT""}]","2008-02-03"
+"hep-th/9603055","Lee Min-ho","Min-Ho Lee and Jae Kwan Kim","On the Entropy of a Quantum Field in the Rotating Black Holes","Latex, 23 pages, 7 eps figures","Phys.Rev. D54 (1996) 3904-3914","10.1103/PhysRevD.54.3904","KAIST-CHEP-96/2","hep-th",,"  By using the brick wall method we calculate the free energy and the entropy
+of the scalar field in the rotating black holes. As one approaches the
+stationary limit surface rather than the event horizon in comoving frame, those
+become divergent. Only when the field is comoving with the black hole (i.e.
+$\Omega_0 = \Omega_H$) those become divergent at the event horizon. In the
+Hartle-Hawking state the leading terms of the entropy are $ A \frac{1}{h} + B
+\ln(h) + finite$, where $h$ is the cut-off in the radial coordnate near the
+horizon. In term of the proper distance cut-off $\epsilon$ it is written as $ S
+= N A_H/\epsilon^2$. The origin of the divergence is that the density of state
+on the stationary surface and beyond it diverges.
+","[{""version"":""v1"",""created"":""Sat, 9 Mar 1996 11:17:01 GMT""}]","2009-10-30"
+"hep-th/9603056","Jens Gladikowski","J.Gladikowski","Topological Chern-Simons vortices in the $O(3) \sigma$-model","15 pages, LaTeX, 8ps-figures included, minor changes, references are
+  added and updated","Z.Phys. C73 (1996) 181-188",,"DTP 95-75","hep-th",,"  We present a (2+1)-dimensional gauged $O(3) \sigma$-model with an Abelian
+Chern--Simons term. It shows topologically stable, anyonic vortices as
+classical solutions. The fields are studied in the case of rotational symmetry
+and analytic approximations are found for their asymptotic behaviour. The
+static Euler--Lagrange equations are solved numerically, where particular
+attention is paid to the dependence of the vortex' properties on the coupling
+to the gauge field. We compute the vortex mass and charge as a function of this
+coupling and obtain bound states for two--vortices as well as two--vortices
+with masses above the stability threshold.
+","[{""version"":""v1"",""created"":""Sat, 9 Mar 1996 13:46:04 GMT""},{""version"":""v2"",""created"":""Thu, 18 Apr 1996 10:52:25 GMT""}]","2008-02-03"
+"nucl-th/9603009","Ray Nix","Scott Chapman and J. Rayford Nix","Realistic Expanding Source Model for Relativistic Heavy-Ion Collisions","6 pages. LaTeX2e with book class file. 3 PostScript figures.
+  Presented at 12th Winter Workshop on Nuclear Dynamics, Snowbird, Utah,
+  February 3-9, 1996. To be published in workshop proceedings by Plenum Press,
+  New York. Camera-ready PostScript version with figures inserted available at
+  http://t2.lanl.gov/pub/publications/publications.html or at
+  ftp://t2.lanl.gov/pub/publications/wws96",,,"LA-UR-96-0844","nucl-th hep-ph",,"  We introduce a new realistic expanding source model for invariant
+one-particle multiplicity distributions and two-particle correlations in nearly
+central relativistic heavy-ion collisions that contains nine adjustable
+parameters, which are necessary and sufficient to properly characterize the
+gross properties of the source during its freezeout from a hydrodynamical fluid
+into a collection of noninteracting, free-streaming hadrons. These nine
+physically relevant parameters fall into three categories of three parameters
+each, with the first category corresponding to the source's longitudinal
+motion, the second category corresponding to its transverse motion, and the
+third category corresponding to its intrinsic properties. As an initial
+application, we apply our model to the analysis of invariant pi^+, pi^-, K^+,
+and K^- one-particle multiplicity distributions and pi^+ and K^+ two-particle
+correlations for nearly central Si + Au collisions at p_lab/A = 14.6 GeV/c. In
+a minimization with 1416 data points, the resulting chi-square is 1484.6, which
+corresponds to an acceptable chi-square per degree of freedom of 1.055. We list
+the values of the nine parameters determined this way plus several additional
+calculated freezeout quantities of physical interest, along with their
+uncertainties at 99% confidence limits.
+","[{""version"":""v1"",""created"":""Fri, 8 Mar 1996 18:45:22 GMT""}]","2007-05-23"
+"quant-ph/9603014","Howard Barnum","Howard Barnum, Christopher A. Fuchs, Richard Jozsa, Benjamin
+  Schumacher","A General Fidelity Limit for Quantum Channels","14 pages, RevTeX. Submittted to Physical Review A",,"10.1103/PhysRevA.54.4707",,"quant-ph",,"  We derive a general limit on the fidelity of a quantum channel conveying an
+ensemble of pure states. Unlike previous results, this limit applies to
+arbitrary coding and decoding schemes, including nonunitary decoding. This
+establishes the converse of the quantum noiseless coding theorem for all such
+schemes.
+","[{""version"":""v1"",""created"":""Fri, 8 Mar 1996 20:32:57 GMT""}]","2016-09-08"
+"solv-int/9603002","Basile Grammaticos","Y. Ohta, A. Ramani, B. Grammaticos and K.M. Tamizhmani","From Discrete to Continuous Painlev\'e Equations: A Bilinear Approach","9 pages, plainTeX",,"10.1016/0375-9601(96)00292-7",,"solv-int nlin.SI",,"  We present the bilinear forms of the (continuous) Painlev\'e equations
+obtained from the continuous limit of the analogous expresssions for the
+discrete ones. The advantage of this method is that it leads to very
+symmetrical results. A new and interesting result is the bilinearization of the
+P$_{\rm VI}$ equation, something that was missing till now.
+","[{""version"":""v1"",""created"":""Fri, 8 Mar 1996 20:01:25 GMT""}]","2009-10-30"
+"solv-int/9603003","Basile Grammaticos","B. Grammaticos, Y. Ohta, A. Ramani, D. Takahashi and K.M. Tamizhmani","Cellular Automata and Ultra-Discrete Painlev\'e Equations","8 pages, plainTeX, 2 figures",,"10.1016/S0375-9601(96)00934-6",,"solv-int nlin.SI",,"  Starting from integrable cellular automata we present a novel form of
+Painlev\'e equations. These equations are discrete in both the independent
+variable and the dependent one. We show that they capture the essence of the
+behavior of the Painlev\'e equations organizing themselves into a coalescence
+cascade and possessing special solutions. A necessary condition for the
+integrability of cellular automata is also presented.
+","[{""version"":""v1"",""created"":""Fri, 8 Mar 1996 20:13:30 GMT""}]","2009-10-30"

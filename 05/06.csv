@@ -1,0 +1,316 @@
+"astro-ph/9605020","Hendrik C. Spruit","H.C. Spruit (MPI for Astrophysics)","Convection in stellar envelopes: a changing paradigm","17 pages, uses memsait.sty, 2 postscript figures. Review, to appear
+  in Mem. Soc. Astron. It. Much of the numerical work quoted is available at:
+  http://www.astro.ku.dk/~aake/ http://www.pa.msu.edu/~steinr/research.html
+  http://www.mmm.ucar.edu/blt/kerr_misc.html",,,"MPA 951","astro-ph",,"  Progress in the theory of stellar convection over the past decade is
+reviewed. The similarities and differences between convection in stellar
+envelopes and laboratory convection at high Rayleigh numbers are discussed.
+Direct numerical simulation of the solar surface layers, with no other input
+than atomic physics, the equations of hydrodynamics and radiative transfer is
+now capable of reproducing the observed heat flux, convection velocities,
+granulation patterns and line profiles with remarkably accuracy. These results
+show that convection in stellar envelopes is an essentially non-local process,
+being driven by cooling at the surface. This differs distinctly from the
+traditional view of stellar convection in terms of local concepts such as
+cascades of eddies in a mean superadiabatic gradient. The consequences this has
+for our physical picture of processes in the convective envelope are
+illustrated with the problems of sunspot heat flux blocking, the eruption of
+magnetic flux from the base of the convection zone, and the Lithium depletion
+problem.
+","[{""version"":""v1"",""created"":""Mon, 6 May 1996 13:14:24 GMT""}]","2007-05-23"
+"astro-ph/9605021","Jason X. Prochaska","Jason X. Prochaska and Arthur M. Wolfe (University of California at
+  San Diego)","A Keck HIRES Investigation of the Metal Abundances and Kinematics of
+  Three Damped Lya Systems Toward Q2206-199","55 pages, 16 encapsulated figures, uses aaspp4.sty. Submitted to the
+  Astrophysical Journal. Change: Fixed Title. Also available at
+  http://nately.ucsd.edu/~xavier/DLA/obs.html",,"10.1086/303457",,"astro-ph",,"  We present high resolution, high SNR spectra of the QSO Q2206-199 obtained
+with HIRES on the 10m W.M. Keck Telescope. Our analysis focuses on the two
+previously identified damped \lya systems found at $z=1.920$ and $z=2.076$. For
+each system, we measure accurate abundances. The $z=1.920$ system exhibits the
+highest metallicity we have measured for a damped \lya system. We report the
+first confident ($>5 \sigma$) detection of Ti in a QSO absorption line system.
+By contrast the $z=2.076$ system is the most metal poor we have analyzed,
+showing absorption features for only the strongest transitions. We find no
+positive evidence for the presence of dust in either system. The two damped
+systems exhibit significantly different kinematic characteristics, yet we
+contend the two systems are consistent with one physical description: that of a
+thick, rotating disk.
+  We investigate a very strong Mg II system at $z=0.752$ which is very likely
+yet a third damped \lya system. The very weak Mn II and Ti II transitions have
+been positively measured and imply $\log \N{HI} > 19.0$. We analyze the
+abundance ratios [Mn/Fe] and [Ti/Fe] and their values are inconsistent with
+dust depletion, yet consistent with the abundance pattern detected for halo
+stars in the Galaxy (see Lu et al. 1996a).
+  Finally, we identify a C IV system at $z=2.014$ that shows a very narrow
+feature in Si IV and C IV absorption. The corresponding $b$ values (5.5 \kms
+and 8.9 \kms for Si IV and C IV) for this component suggest a temperature of
+$4.7 \sci{4} \rm K$. Because collisional ionization can explain the observed
+abundances only for $T > 8 \sci{4} \rm K$, we contend these ions must have
+formed through a different physical process (e.g. photoionization).
+","[{""version"":""v1"",""created"":""Mon, 6 May 1996 15:59:46 GMT""},{""version"":""v2"",""created"":""Wed, 8 May 1996 20:18:17 GMT""}]","2009-10-28"
+"cmp-lg/9605010","Stephan Busemann","Stephan Busemann (DFKI GmbH)","Best-First Surface Realization","10 pages, LaTeX source, one EPS figure",,,,"cmp-lg cs.CL",,"  Current work in surface realization concentrates on the use of general,
+abstract algorithms that interpret large, reversible grammars. Only little
+attention has been paid so far to the many small and simple applications that
+require coverage of a small sublanguage at different degrees of sophistication.
+The system TG/2 described in this paper can be smoothly integrated with deep
+generation processes, it integrates canned text, templates, and context-free
+rules into a single formalism, it allows for both textual and tabular output,
+and it can be parameterized according to linguistic preferences. These features
+are based on suitably restricted production system techniques and on a generic
+backtracking regime.
+","[{""version"":""v1"",""created"":""Mon, 6 May 1996 15:08:07 GMT""}]","2008-02-03"
+"cmp-lg/9605011","Maarten Hijzelendoorn","Crit Cremers and Maarten Hijzelendoorn","Counting Coordination Categorially","7 pages, PostScript",,,,"cmp-lg cs.CL",,"  This paper presents a way of reducing the complexity of parsing free
+coordination. It lives on the Coordinative Count Invariant, a property of
+derivable sequences in occurrence-sensitive categorial grammar. This invariant
+can be exploited to cut down deterministically the search space for coordinated
+sentences to minimal fractions. The invariant is based on inequalities, which
+is shown to be the best one can get in the presence of coordination without
+proper parsing. It is implemented in a categorial parser for Dutch. Some
+results of applying the invariant to the parsing of coordination in this parser
+are presented.
+","[{""version"":""v1"",""created"":""Mon, 6 May 1996 15:05:00 GMT""},{""version"":""v2"",""created"":""Tue, 7 May 1996 09:26:45 GMT""}]","2008-02-03"
+"cond-mat/9605029","Igor L. Aleiner","I.L. Aleiner and L.I. Glazman","Mesoscopic Fluctuations of Elastic Cotunneling","4 pages, 1.eps figure",,"10.1103/PhysRevLett.77.2057",,"cond-mat",,"  We study mesoscopic fluctuations of the conductance through a quantum dot at
+the wings of the Coulomb blokade peaks. At low temperatures, the main mechanism
+of conduction is the elastic cotunneling. The conductance strongly fluctuates
+with an applied magnetic field. The magnetic correlation field is shown to be
+controlled by the charging energy, and the correlation function has a universal
+form. The distribution function for the conductance obtained analytically shows
+a non-trivial crossover between the orthogonal and unitary ensembles.
+","[{""version"":""v1"",""created"":""Mon, 6 May 1996 05:31:41 GMT""}]","2009-10-28"
+"cond-mat/9605030",,"Y. Georgelin and J.C. Wallet","The group $\Gamma (2)$ and the fractional quantum hall effect","11 pages Tex, 2 figures from request",,"10.1016/S0375-9601(96)00830-4","IPNO-TH9618","cond-mat",,"  We analyze the action of the inhomogeneous modular group $\Gamma (2)$ on the
+three cusps of its principal fundamental domain in the Poincare half plane.
+From this, we obtain an exhaustive classification of the fractional quantum
+Hall numbers. This classification is somehow similar to the one given by Jain.
+We also present some resulting remarks concerning direct phase transitions
+between the different quantum Hall states.
+","[{""version"":""v1"",""created"":""Mon, 6 May 1996 09:03:55 GMT""}]","2009-10-28"
+"cond-mat/9605031","Arne Brataas","Arne Brataas, A. G. Mal'shukov, Vidar Gudmundsson and K. A. Chao","Collective Excitations in Realistic Quantum Wires","7 pages, 1 encapsulated postscript figure, uses IOP style files, to
+  appear in the Journal of Physics: Condensed Matter as a Letter to the Editor",,"10.1088/0953-8984/8/23/002",,"cond-mat",,"  We have used the Hartree-Fock Random Phase Approximation (HF-RPA) to study
+the interacting electron gas in a quantum wire. The spectra of intersubband
+spin-flip excitations reveal a considerable red shift with respect to
+single-particle HF energies. That signals on appearance of collective
+intersubband spind-density excitations due to the exchange interaction. The
+long wavelength dispersions of the intrasubband collective spin-density
+excitations are linear, but the sound velocities are renormalised due to the
+exchange interaction and screening. The in-phase intrasubband charge-density
+excitation has the long wavelength form $q[-\ln(q)]^{1/2}$. We found good
+qualitative agreement of our results with experimental observations.
+","[{""version"":""v1"",""created"":""Mon, 6 May 1996 12:28:52 GMT""}]","2009-10-28"
+"cond-mat/9605032","Anton Bovier","Anton Bovier, Milos Zahradnik","The low-temperature phase of Kac-Ising models","19pp, Plain TeX",,"10.1007/BF02181490",,"cond-mat",,"  We analyse the low temperature phase of ferromagnetic Kac-Ising models in
+dimensions $d\geq 2$. We show that if the range of interactions is $\g^{-1}$,
+then two disjoint translation invariant Gibbs states exist, if the inverse
+temperature $\b$ satisfies $\b -1\geq \g^\k$ where $\k=\frac
+{d(1-\e)}{(2d+1)(d+1)}$, for any $\e>0$. The prove involves the blocking
+procedure usual for Kac models and also a contour representation for the
+resulting long-range (almost) continuous spin system which is suitable for the
+use of a variant of the Peierls argument.
+","[{""version"":""v1"",""created"":""Mon, 6 May 1996 14:34:08 GMT""}]","2009-10-28"
+"cond-mat/9605033",,"Steven H. Simon (MIT)","Coupling of Surface Acoustic Waves to a Two Dimensional Electron Gas","7 pages, RevTeX, 2 figures",,"10.1103/PhysRevB.54.13878",,"cond-mat",,"  When a surface acoustic wave (SAW) is coupled piezoelectrically to a two
+dimensional electron gas (2DEG), a velocity shift and attenuation of the SAW
+are induced that reflect the conductivity of the 2DEG. This paper considers the
+case of a AlGaAs heterostructure with a 2DEG a distance $d$ from a (100)
+surface of the crystal where the SAWs are propagated in the [011] direction at
+wavevector $q$. It is found that the velocity shift $\Delta v_s$ and the
+attenuation coefficient $\kappa$ satisfy the well known equation $(\Delta
+v_s/v_s) - (i \kappa/q) = (\alpha^2/2)/\left(1 + \frac{i \sigma_{xx}(q,\omega)}
+{\sigma_m}\right)$ where $\sigma_{xx}(q,\omega)$ is the complex conductivity at
+wavevector $q$ and frequency $\omega = v_s q$ with $v_s$ the velocity of the
+SAW. The coefficients $\alpha$ and $\sigma_m$ are calculated and it is found
+that $\alpha$ has a nontrivial dependence on the product $qd$.
+","[{""version"":""v1"",""created"":""Mon, 6 May 1996 15:16:21 GMT""}]","2009-10-28"
+"cond-mat/9605043","Despa Florin","F. Despa (Department of Theoretical Physics, Institute of Atomic
+  Physics, Magurele-Bucharest, Romania) and V. Topa (Institute of Physics and
+  Technology of Materials, Institute of Atomic Physics, Magurele-Bucharest,
+  Romania)","On the Particles Transport Between Embedded Clusters","17 pages, latex, the figures available upon the request from the
+  first author, Z. Phys. D - to appear in vol. 37 (1996)",,"10.1007/s004600050065",,"cond-mat",,"  Diffusional interactions within the Ostwald Ripening process are analyzed in
+the present paper. An {\it off-centre diffusion approach \/} is performed to
+point out the direct correlation between the size of clusters. Herein the
+diffusion solution is derived as a function of both the growing and shrinking
+cluster sizes. Also, it is shown that the frequency transfer of particles
+between the shrinking cluster and the growing one may acquire high values due
+to the medium polarization. As a result, the temporal power law of the cluster
+growth derived in this theoretical model differs from that predicted by the
+{\it LSW \/} theory. Experimental data for $Ag$ clusters embedded in a $KCl$
+matrix are analyzed both by the present theory and by the $LSW$ theory.
+","[{""version"":""v1"",""created"":""Mon, 6 May 1996 05:09:19 GMT""}]","2009-10-28"
+"dg-ga/9605003","Ping Xu","Ping Xu","Flux homomorphism on symplectic groupoids","LaTex, 24 pages, to appear in Math. Z",,,,"dg-ga math.DG",,"  An anologue of the Calabi invariant for Poisson manifolds is considered. For
+any Poisson manifold $P$, the Poisson bracket on $C^{\infty}(P)$ extends to a
+Lie bracket on the space $\Omega^{1}(P)$ of all differential one-forms, under
+which the space $Z^{1}(P)$ of closed one-forms and the space $B^{1}(P)$ of
+exact one-forms are Lie subalgebras. These Lie algebras are related by the
+exact sequence: $$0\lon \reals \lon C^{\infty}(P)\stackrel{d}{\lon}
+Z^{1}(P)\stackrel{f}{\lon} H^{1}(P, \reals)\lon 0, $$ where $H^{1}(P,\reals)$
+is considered as a trivial Lie algebra, and $f$ is the map sending each closed
+one-form to its cohomology class. The goal of the present paper is to lift this
+exact sequence to the group level for compact Poisson manifolds under certain
+integrability condition. In particular, we will give a geometric description of
+a Lie group integrating the underlying Poisson algebra $C^{\infty}(P) $.
+","[{""version"":""v1"",""created"":""Sun, 5 May 1996 20:47:30 GMT""}]","2008-02-03"
+"gr-qc/9605009","George Emanuel Avraam Matsas","George E.A. Matsas","Rindler and Minkowski particles relationship revisited","To appear in Physics Letters B, 9 pages, LATEX, no-figures","Phys.Lett. B380 (1996) 24-28","10.1016/0370-2693(96)00493-5",,"gr-qc",,"  We show that the emission of a Minkowski particle by a general class of
+scalar sources as described by inertial observers corresponds to either the
+emission or the absorption of a Rindler particle as described by uniformly
+accelerated observers. Our results are discussed in connection with the current
+controversy whether uniformly accelerated detectors radiate.
+","[{""version"":""v1"",""created"":""Sun, 5 May 1996 22:20:03 GMT""}]","2009-10-28"
+"gr-qc/9605010",,"M. Lachieze-Rey (1), J.P.Luminet (2) ((1) CE-Saclay/Service
+  d'Astrophysique, (2) Observatoire de Meudon/DARC)","Cosmic Topology","159 pages, LaTeX format, 32 figures available on request; v2 : all
+  postscript figures added","Phys.Rept. 254 (1995) 135-214","10.1016/0370-1573(94)00085-H",,"gr-qc astro-ph",,"  General relativity does not allow one to specify the topology of space,
+leaving the possibility that space is multi-- rather than simply--connected. We
+review the main mathematical properties of multi--connected spaces, and the
+different tools to classify them and to analyse their properties. Following the
+mathematical classification, we describe the different possible muticonnected
+spaces which may be used to construct universe models. We briefly discuss some
+implications of multi--connectedness for quantum cosmology, and its
+consequences concerning quantum field theory in the early universe. We consider
+in details the properties of the cosmological models where space is
+multi--connected, with emphasis towards observable effects. We then review the
+analyses of observational results obtained in this context, to search for a
+possible signature of multi--connectedness, or to constrain the models. They
+may concern the distribution of images of cosmic objects like galaxies,
+clusters, quasars,..., or more global effects, mainly those concerning the
+Cosmic Microwave Background, and the present limits resulting from them.
+","[{""version"":""v1"",""created"":""Mon, 6 May 1996 09:55:41 GMT""},{""version"":""v2"",""created"":""Thu, 9 Jan 2003 16:32:59 GMT""}]","2009-10-28"
+"gr-qc/9605011","Domenico Giulini","Domenico Giulini","Consistently Implementing the Fields Self-Energy in Newtonian Gravity","Plain-TeX, 12 pages, no figures","Phys.Lett. A232 (1997) 165-170","10.1016/S0375-9601(97)00369-1","THEP-96/7","gr-qc",,"  We consider in a pedagogical fashion alterations to Newtonian gravity due to
+the postulate that all energy corresponds to active gravitational mass when
+applied to the self-energy of the gravitational field. We show why a simple
+addition of ${1\over c^2}$ times the gravitational field energy to the matter
+density in Newton's field equation is inconsistent. A consistent prescription
+is shown and discussed. The connection to general relativity is pointed out.
+","[{""version"":""v1"",""created"":""Mon, 6 May 1996 14:49:03 GMT""}]","2009-10-28"
+"hep-lat/9605005",,"She-Sheng Xue","A possible scaling region of chiral fermions on a lattice","32 pages, Latex and 5 figures, to appear in Nucl. Phys. B","Nucl.Phys. B486 (1997) 282-314","10.1016/S0550-3213(96)00641-4","MITH 96/2","hep-lat hep-ph hep-th",,"  We present the details of analyzing an $SU_L(2)\otimes U_R(1)$ chiral theory
+with multifermion couplings on a lattice. An existence of a possible scaling
+region in the phase space of multifermion couplings for defining the continuum
+limit of chiral fermions is advocated. In this scaling region, no spontaneous
+symmetry breaking occurs; the ``spectator'' fermion $\psi_R(x)$ is a free mode
+and decoupled; doublers are decoupled as massive Dirac fermions consistently
+with the $SU_L(2)\otimes U_R(1)$ chiral symmetry, whereas the normal mode of
+$\psi_L^i(x)$ is plausibly speculated to be chiral in the continuum limit. This
+is not in agreement with the general belief of the definite failure of theories
+so constructed.
+","[{""version"":""v1"",""created"":""Mon, 6 May 1996 08:38:33 GMT""},{""version"":""v2"",""created"":""Fri, 15 Nov 1996 12:37:00 GMT""},{""version"":""v3"",""created"":""Mon, 18 Nov 1996 08:18:24 GMT""}]","2009-10-28"
+"hep-ph/9605225",,"Stefano Moretti (Cavendish Laboratory, Cambridge, UK)","The process $e^+e^-\to b\bar bW^+W^-$ at the Next Linear Collider in the
+  Minimal Supersymmetric Standard Model","43 pages, latex, 20 PostScript figures included, complete file and
+  full resolution figures available at ftp://axpa.hep.phy.cam.ac.uk/moretti or
+  at http://www.hep.phy.cam.ac.uk/theory/papers/","Z.Phys. C73 (1997) 653-668",,"Cavendish-HEP-96/03, DFTT 19/96","hep-ph",,"  The complete matrix element for $e^+e^-\rightarrow b\bar b W^+W^-$ is
+computed at tree-level within the Minimal Supersymmetric Standard Model. Rates
+of interest to phenomenological analyses at the Next Linear Collider are given.
+In particular, we study: - $t\bar t$ production and decay $t\bar t\ar
+(bW^+)(\bar bW^-)$; - $ZH$ production followed by $Z\ar b\bar b$ and $H\ar
+W^+W^-$; - $AH$ production followed by $A\ar b\bar b$ and $H\ar W^+W^-$; -
+$hW^+W^-$ production followed by $h\ar b\bar b$. Top and Higgs finite width
+effects are included, as well as all those of the irreducible backgrounds.
+","[{""version"":""v1"",""created"":""Sun, 5 May 1996 16:38:38 GMT""}]","2007-05-23"
+"hep-ph/9605226","Ariel Zhitnitsky","Ariel Zhitnitsky","Constituent Quark Model versus Nonperturbative QCD","13 pages, latex, no figures. Talk given at the Workshop ``Continuous
+  Advances in QCD,96''. Theoretical Physics Institute, University of Minnesota,
+  Minneapolis, MN, March 28-31, 1996",,,,"hep-ph",,"  We discuss a few, apparently different (but actually, tightly related)
+problems: 1. The relation between QCD and valence quark model, 2. The
+asymptotic behavior of the nonperturbative pion wave function $\psi(\k, x)$ at
+$x\rightarrow 0,~1, \k \rightarrow \infty$ and 3. The dimensional counting
+rules in the intermediate region of energy. The analysis is based on such
+general methods as dispersion relations, duality and PCAC. We calculate the
+asymptotic behavior of the wave function ($wf$) at the end-point region
+($x\rightarrow 1$ and $\k\rightarrow\infty$) by analysing the corresponding
+large $n-$th moments in transverse $\la\vec{k}_{\perp}^{2n}\ra \sim n!$ and
+longitudinal $\la (2x-1)^n\ra \sim 1/n^2$ directions. This information fixes
+the asymptotic behavior of $wf$ at large $\k$ ( which is turned out to be
+Gaussian commonly used in the phenomenological analyses). We discuss some
+applications of the obtained results. In particular, we calculate the
+nonleading ``soft"" contribution to the pion form factor at intermediate
+momentum transfer. We argue, that due to the specific properties of $\psi(\k,
+x)$, the corresponding contribution can temporarily {\bf simulate} the leading
+twist behavior in the extent region of $ Q^2 $. The same effect also takes
+place for the nucleon formfactor. Such a mechanism, if it is correct, would be
+an explanation of the phenomenological success of the dimensional counting
+rules at available, very modest energies for many different processes. We
+discuss some inclusive amplitudes also.
+","[{""version"":""v1"",""created"":""Sun, 5 May 1996 21:39:46 GMT""}]","2007-05-23"
+"hep-ph/9605227","Ralph Engel","R.Engel (Univ. Leipzig and Univ. Siegen) M.A.Braun, C.Pajares and
+  J.Ranft (Univ. Santiago de Compostela)","Diffraction dissociation, an important background to photon-photon
+  collisions via heavy ion beams at LHC","LaTeX, 34 pages, 13 figures, discussion of photon-pomeron
+  interactions added","Z.Phys. C74 (1997) 687-697",,"US-FT / 18-96, SI 96-04","hep-ph nucl-th",,"  The cross sections for the production of hadrons in quasi-real photon-photon
+collisions in proton-proton and heavy ion interactions are compared with the
+corresponding cross sections for central diffraction and for photon-pomeron
+collisions. The signatures, heavy ions or protons with only slightly changed
+momenta together with two large rapidity gaps and a cluster of produced hadrons
+in the central region, are nearly identical in all three processes. Therefore,
+it will be rather difficult to distinguish the reactions experimentally. It is
+found, that central diffraction is the dominant process in collisions of
+protons, light and medium-heavy ions. The photon-pomeron and photon-photon
+processes have quite similar cross sections in collisions of heavy ions like
+lead.
+","[{""version"":""v1"",""created"":""Sun, 5 May 1996 22:17:18 GMT""},{""version"":""v2"",""created"":""Wed, 19 Jun 1996 15:45:32 GMT""}]","2008-02-03"
+"hep-ph/9605228","Grandou Thierry","Thierry Grandou","On the Light Cone Singularity of the Thermal Effective Expansion","18 pages","Phys.Lett. B367 (1996) 229-236","10.1016/0370-2693(95)01470-5","INLN 95/25","hep-ph",,"  We consider a scalar massless quantum field model, at finite temperature $T$,
+both renormalizable and asymptotically free. Focussing on the singular
+structure of the effective perturbation theory about the light cone, several
+new insights are put forth, regarding the interplay between hard thermal loop
+resummation and the overall compensation of collinear singularities.
+","[{""version"":""v1"",""created"":""Mon, 6 May 1996 13:57:43 GMT""}]","2009-10-28"
+"hep-ph/9605229","Michael Meyer-Hermann","M. Meyer-Hermann, M. Maul, L. Mankiewicz, E. Stein and A. Sch\""afer","IR-Renormalon Contribution to the Polarized Structure Function $g_1$","11 pages, latex, 2 figures, additional references included","Phys.Lett. B383 (1996) 463-469; Erratum-ibid. B393 (1997) 487-488","10.1016/S0370-2693(96)01653-X","UFTP 414/1996","hep-ph",,"  An estimation of the higher twist contribution to the polarized nonsinglet
+structure function $g_1$ is given. Its first moment is generally assumed to be
+small but this could be due to a cancellation of its contribution in different
+Bjorken-$x$ ranges. We estimate the magnitude of $g_1^{tw4}$ as a function of
+$x$ in the framework of the renormalon method. The calculated
+higher-twist-correction to $g_1$ turn out to be in fact small for all $x$
+values. The correction to the determination of the nonsinglet matrix element
+$d_{NS}^{(2)}$ from data for transversely nucleon polarization due to the
+calculated higher twist effects is of order $10\%$.
+","[{""version"":""v1"",""created"":""Mon, 6 May 1996 14:57:23 GMT""},{""version"":""v2"",""created"":""Wed, 8 May 1996 09:25:50 GMT""}]","2009-10-28"
+"hep-th/9605027","Igor Shovkovy","V.Elias, D.G.C.McKeon, V.A.Miransky, and I.A.Shovkovy","The Gross-Neveu Model and the Supersymmetric and Non-Supersymmetric
+  Nambu-Jona-Lasinio Model in a Magnetic Field","ReVTeX file, 14 pages including 1 figure. The final version that was
+  published in Phys.Rev","Phys.Rev. D54 (1996) 7884-7893","10.1103/PhysRevD.54.7884",,"hep-th hep-ph",,"  The infrared dynamics in the (3+1)-dimensional supersymmetric and
+non-supersymmetric Nambu-Jona-Lasinio model in a constant magnetic field is
+studied. While at strong coupling the dynamics in these two models is
+essentially different, it is shown that the models become equivalent at weak
+coupling. In particular, at weak coupling, as the strength of the magnetic
+field goes to infinity, both the supersymmetric and non-supersymmetric
+Nambu-Jona-Lasinio models are reduced to a continuum set of independent
+(1+1)-dimensional Gross-Neveu models, labeled by the coordinates in the plane
+perpendicular to the magnetic field. The relevance of these results for
+cosmological models based on supersymmetric dynamics is pointed out.
+","[{""version"":""v1"",""created"":""Sun, 5 May 1996 16:10:19 GMT""},{""version"":""v2"",""created"":""Wed, 8 May 1996 18:40:56 GMT""},{""version"":""v3"",""created"":""Tue, 20 Aug 1996 22:28:20 GMT""},{""version"":""v4"",""created"":""Mon, 13 Jan 1997 18:32:42 GMT""}]","2009-10-30"
+"hep-th/9605028","Constantin Bachas","C. Bachas and C. Fabre ( CPTH, Ecole Polytechnique )","Threshold effects in open-string theory","25 pages, latex. Extra references and minor comments","Nucl.Phys. B476 (1996) 418-436","10.1016/0550-3213(96)00332-X","CPTH-S450.0496","hep-th",,"  We analyze the one-loop effective gauge-field action in $Z_2$-orbifold
+compactifications of type-I theory. We show how, for non-abelian group factors,
+the threshold effects are ultraviolet finite though given entirely by a
+six-dimensional field theory expression.
+","[{""version"":""v1"",""created"":""Sun, 5 May 1996 18:11:02 GMT""},{""version"":""v2"",""created"":""Tue, 14 May 1996 16:04:20 GMT""}]","2009-10-30"
+"hep-th/9605029","Jose N. Pecina-Cruz","Carlos Castro ( University of Texas at Austin )","On the Exact Quantum Integrability of the Membrane","35 pages; Revised Tex file; some minor details have been added",,,,"hep-th",,"  The exact quantum integrability problem of the membrane is investigated. It
+is found that the spherical membrane moving in flat target spacetime
+backgrounds is an exact quantum integrable system for a particular class of
+solutions of the light-cone gauge equations of motion : a dimensionally-reduced
+$SU(\infty)$ Yang-Mills theory to one temporal dimension. Crucial ingredients
+are the exact integrability property of the $3D~SU(\infty)$ continuous Toda
+theory and its associated dimensionally-reduced $SU(\infty)$ Toda $molecule$
+equation whose symmetry algebra is the $U_\infty$ algebra obtained from a
+dimensional-reducion of the $W_\infty \oplus {\bar W}_\infty$ algebras that act
+naturally on the original $3D$ continuous Toda theory. The $U_\infty$ algebra
+is explicitly constructed in terms of exact quantum solutions of the quantized
+continuous Toda equation. Highest weight irreducible representations of the
+$W_\infty$ algebras are also studied in detail. Continuous and discrete energy
+levels are both found in the spectrum . Other relevant topics are discussed in
+the conclusion.
+","[{""version"":""v1"",""created"":""Mon, 6 May 1996 02:03:31 GMT""},{""version"":""v2"",""created"":""Fri, 17 May 1996 02:16:13 GMT""}]","2008-02-03"
+"hep-th/9605030","Martin Reuter","M.Reuter","Nonperturbative Evolution Equation for Quantum Gravity","35 pages, latex","Phys.Rev. D57 (1998) 971-985","10.1103/PhysRevD.57.971","DESY 96-080","hep-th gr-qc",,"  A scale--dependent effective action for gravity is introduced and an exact
+nonperturbative evolution equation is derived which governs its renormalization
+group flow. It is invariant under general coordinate transformations and
+satisfies modified BRS Ward--Identities. The evolution equation is solved for a
+simple truncation of the space of actions. In 2+epsilon dimensions,
+nonperturbative corrections to the beta--function of Newton's constant are
+derived and its dependence on the cosmological constant is investigated. In 4
+dimensions, Einstein gravity is found to be ``antiscreening'', i.e., Newton's
+constant increases at large distances.
+","[{""version"":""v1"",""created"":""Mon, 6 May 1996 10:31:53 GMT""}]","2009-10-30"
+"hep-th/9605031",,"D.V.Antonov (ITEP, Moscow)","A new method of quantization of classical solutions","8 pages","JETP Lett. 63 (1996) 398-404","10.1134/1.567037",,"hep-th",,"  Using stochastic quantization method we derive equations for correlators of
+quantum fluctuations around the classical solution in the massless phi^4
+theory. The obtained equations are then solved in the lowest orders of
+perturbation theory, and the first correction to the free propagator of a
+quantum fluctuation is calculated.
+","[{""version"":""v1"",""created"":""Mon, 6 May 1996 15:48:25 GMT""}]","2009-10-30"
+"math/9605209","Lajos Soukup","I. Juh\'asz, Zs. Nagy, Lajos Soukup, Z. Szentmikl\'ossy","Intersection properties of open sets, II.",,,"10.1111/j.1749-6632.1996.tb36806.x","Logic E-prints May 06, 1996","math.LO",,"  A topological space is called P_2 ( P_3, P_{<omega} ) if and only if it does
+not contain two (three, finitely many) uncountable open sets with empty
+intersection.
+  We show that
+  (i) there are 0-dimensional P_{<omega} spaces of size 2^omega,
+  (ii) there are compact P_{<omega} spaces of size omega_1,
+  (iii) the existence of a Psi-like examples for a compact P_{<omega} space of
+size omega_1 is independent of ZFC,
+  (iv) it is consistent that 2^omega is as large as you wish but every first
+countable (and so every compact) P_2 space has cardinality<=omega_1.
+","[{""version"":""v1"",""created"":""Mon, 6 May 1996 00:00:00 GMT""}]","2016-09-06"

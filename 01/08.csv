@@ -1,0 +1,287 @@
+"alg-geom/9601006","Frank Sottile","Frank Sottile","Pieri's Formula Via Explicit Rational Equivalence","Revised version; 18 pages with one figure LaTeX 2e","Canad. J. Math., Vol. 49 (6), 1997 pp. 1281-1298",,,"alg-geom math.AG",,"  We present a new geometric proof of Pieri's formula, exhibiting an explicit
+chain of rational equivalences from a suitable sum of distinct Schubert
+varieties to the intersection of a Schubert variety with a special Schubert
+variety. The geometry of these rational equivalences indicate a link to a
+combinatorial proof of Pieri's formula using Schensted insertion. This version
+includes an example to illustrate the proof.
+","[{""version"":""v1"",""created"":""Mon, 8 Jan 1996 00:11:09 GMT""},{""version"":""v2"",""created"":""Wed, 15 May 1996 23:16:30 GMT""}]","2008-02-03"
+"alg-geom/9601007",,"Nicole Mestrano","Sur les espaces de modules des fibres vectoriels de rang deux sur des
+  hypersurfaces de P^3","LaTeX, Dans cette version on tient compte du fait (qui m'a ete
+  communique' par C. Walter) que la proposition 2.4 de la premiere version a
+  deja ete demontree par Rao. D'autre part l'exposition est amelioree",,,,"alg-geom math.AG",,"  Soit $X$ une hypersurface lisse de degr\'e $\delta \geq 4$ dans $\pp ^3$
+telle que $Pic(X)=Z$. On d\'esigne par $M_X(c_2)$ l'espace de modules des
+fibr\'es vectoriels sur $X$ de classes de Chern $c_1 = 0$ et $c_2$,
+semi-stables par rapport au diviseur hyperplan. Nous contribuons ici \`a la
+recherche de diff\'erentes composantes irr\'eductibles pour $c_2$ petit.
+  On prouve que pour tout entier $c_2 \geq \delta ^3/4 - \delta ^2/2$ l'espace
+des modules $M_X(c_2)$ contient une composante irr\'eductible r\'eduite de
+dimension attendue. En utilisant un r\'esultat de O'Grady, on en d\'eduit que
+pour tout entier $c_2$ tel que
+  $$ {1/4}(\delta ^3-2\delta ^2) \leq c_2 \leq
+  {1/3}(\delta ^3 - 9 \delta ^2 + 26 \delta - 3) $$ l'espace $M_X(c_2)$
+poss\`ede au moins deux composantes irr\'eductibles de dimensions distinctes.
+Pour $\delta \geq 27$, de tels entiers existent! D'autre part, on prouve que
+pour $c_2 > {1/12}(13 \delta ^3 - 24 \delta ^2 + 8 \delta)$, le fibr\'e
+g\'en\'eral de la bonne composante de $M_X(c_2)$ que nous construisons a
+cohomologie naturelle. Plus g\'en\'eralement, on d\'emontre que pour toute
+surface projective lisse $X$ telle que le fibr\'e canonique soit de la forme
+$K_X = \Oo_X(k)$ o\`u $\Oo_X(1)$ est un fibr\'e ample, alors si $c_2$ est
+suffisamment grand, le fibr\'e g\'en\'eral de l'unique composante de $M_X(c_2)$
+a la cohomologie naturelle.
+","[{""version"":""v1"",""created"":""Mon, 8 Jan 1996 10:08:07 GMT""},{""version"":""v2"",""created"":""Wed, 13 Mar 1996 15:32:17 GMT""},{""version"":""v3"",""created"":""Fri, 15 Mar 1996 08:57:07 GMT""}]","2008-02-03"
+"alg-geom/9601008",,"Robert Treger","On a theorem of Harer","3 pages, AMSTeX 2.1",,,,"alg-geom math.AG",,"  We use Harer's stability theorem to give another proof of his fundamental
+theorem: The rank of the Picard group of the moduli space of smooth projective
+curves of genus g > 2 equals one.
+","[{""version"":""v1"",""created"":""Mon, 8 Jan 1996 13:47:16 GMT""}]","2015-06-30"
+"astro-ph/9601023","Craig Wheeler","A. Clocchiatti (Cerro Tololo Interamerican Observatory) and J. C.
+  Wheeler (Department of Astronomy, University of Texas)","New Perspectives on Type Ic Supernovae","21 pages LaTex, 7 figures embedded with psfig, to appear in
+  Thermonucear Supernovae (NATO ASI), eds R. Canal and P. Ruiz-Lapuente
+  (Dordrecht: Kluwer), also available in postscript on
+  http://tycho.as.utexas.edu/~wheel/index.html",,,,"astro-ph",,"  The Type Ic supernovae are probably ""nearly-nude"" core collapse events. They
+are thus of special interest in terms of their evolutionary origin, but also as
+the source of potential clues to the explosion process that may not be obtained
+from other supernovae. Study of Type Ic shows that they are distinct from Type
+Ia, even those of the dimmer, redder variety. Type Ic also suggest that the
+historical classification scheme based on spectra cannot encompass the physical
+features of these and closely related events. The Type Ic probably all have a
+very small outer layer of helium, but not enough to make them merely a version
+of Type Ib. They probably require another evolutionary channel. Similar spectra
+near maximum light belie a variety of late-time light curve behavior. Some
+events classified as Type Ic, eg SN 1962L, 1983V, 1990B, and 1990U, follow a
+relatively slow evolution after maximum light, decaying about 3.0 magnitudes in
+V during the first 150 days after maximum. These events seem to belong to a
+general category that includes SN 1993J and the Type Ib SN 19983N. Their light
+curves decline more rapidly than the expected late-time Co-56 decay with full
+trapping, but less rapidly than Type Ia. The late time light curve of these
+events seems to be independent of the velocity of the ejecta and hence implies
+the trapping of gamma-rays in a manner that is independent of the mass that
+participates in the homologous expansion. Other Type Ic, SNe 1983I, 1987M, and
+1994I, show steeper decline than even Type Ia.
+","[{""version"":""v1"",""created"":""Sun, 7 Jan 1996 19:45:06 GMT""}]","2007-05-23"
+"astro-ph/9601024","Craig Wheeler","A. M. Khokhlov (Department of Astronomy, UT Austin), E. S. Oran (Naval
+  Research Laboratory), and J. C. Wheeler (Department of Astronomy, UT Austin)","Three-dimensional Combustion in Type Ia Supernovae","10 pages LateX, three figures available from author, to appear in
+  Thermonuclear Supernovae (NATO ASI), eds R. Canal and P. Ruiz-Lapuente,
+  (Dordrecht: Kluwer), also available in postscript on
+  http://tycho.as.utexas.edu/~wheel/index.html",,,,"astro-ph",,"  Turbulent combustion is three-dimensional. Turbulence in a Type Ia supernova
+is driven on large scales by the buoyancy of burning products. The turbulent
+cascade penetrates down to very small scales, and makes the rate of
+deflagration independent of the microphysics. The competition between the
+turbulent cascade and the freeze-out of turbulent motions due to stellar
+expansion determines the largest scale participating in the cascade. This sets
+the bulk rate of a deflagration in a supernova. The freeze-out limits the bulk
+rate of deflagration to a value that makes a powerful explosion impossible.
+Two-dimensional simulations cannot capture these essential elements of
+turbulent combustion, even in principle. A powerful delayed detonation
+explosion can take place if the burning makes a transition to a detonation. A
+deflagration to detonation transition (DDT) can occur in a layer of mixed cold
+fuel and hot burning products created either inside an active turbulent burning
+region by a high intensity of turbulence, or by mixing cold fuel with ashes of
+a dead deflagration front during the global pulsation of a star, or by both.
+","[{""version"":""v1"",""created"":""Sun, 7 Jan 1996 20:03:19 GMT""}]","2007-05-23"
+"astro-ph/9601025","Kohji Maki","K. Maki, T. Mitsui, and S. Orito (University of Tokyo)","Local Flux of Low-Energy Antiprotons from Evaporating Primordial Black
+  Holes","10 pages, 2 PostScript figures","Phys.Rev.Lett. 76 (1996) 3474-3477","10.1103/PhysRevLett.76.3474","UT-ICEPP 94-03 (revised December 1995)","astro-ph",,"  We investigate low-energy cosmic-ray antiprotons ($\bar{p}$'s) arising from
+the fragmentation of quarks and gluons emitted from evaporating primordial
+black holes (PBHs). To calculate the local interstellar flux of these
+$\bar{p}$'s, their propagation in the Galaxy is described by a 3-D Monte Carlo
+simulation based on the diffusion model. This flux is used with recent
+observations to derive new upper limits on (i) the local PBH explosion rate
+${\cal R}<1.7\times10^{-2}$ pc$^{-3}$yr$^{-1}$, (ii) the fraction of the
+Universe's mass going into PBHs with particular mass, and (iii) the average
+density of PBHs in the Universe.
+","[{""version"":""v1"",""created"":""Mon, 8 Jan 1996 02:16:14 GMT""}]","2009-10-28"
+"astro-ph/9601026","Rien v. d. Weygaert","Rien van de Weygaert (Kapteyn Astronomical Institute, University of
+  Groningen, the Netherlands)","Tidal Fields and Structure Formation","7 pages including 3 figures, gzip'ed and uuencoded postscript file.
+  To appear in proceedings ``Mapping, Measuring and Modelling the Universe'',
+  Valencia 1995, eds. P. Coles & V. Martinez",,,,"astro-ph",,"  The role of tidal shear in the formation of structure in the Universe is
+explored. To illustrate the possible and sometimes dramatic impact of tidal
+fields we focus on the evolution of voids. We firstly analyze the role of tidal
+fields both in the highly symmetric situation of an initially homogeneous
+ellipsoidal underdensity embedded in an artificially imposed tidal field. In
+addition, we present selfconsistent case studies consisting of N-body
+simulations that start from constrained Gaussian initial conditions in which
+the matter distribution is appropriately sculpted to yield an a priori
+specified tidal field. We conclude that voids may indeed be induced to
+collapse. Also, we present evidence for the strong relation between tidal
+fields and filaments in the mass distribution.
+","[{""version"":""v1"",""created"":""Mon, 8 Jan 1996 15:18:58 GMT""}]","2007-05-23"
+"astro-ph/9601027","Marc Kamionkowski","Marc Kamionkowski (Columbia), Gerard Jungman (Syracuse), Arthur
+  Kosowsky (Harvard), and David N. Spergel (Princeton and Maryland)","Future Cosmic Microwave Background Constraints to the Baryon Density","4 pages. To appear in the proceedings of the Cosmic Abundances
+  Conference, College Park, MD, October 9--11, 1995, edited by S. S. Holt and
+  G. Sonneborn (AIP, New York, 1996)",,,"CU-TP-720","astro-ph",,"  We discuss what can be learned about the baryon density from an all-sky map
+of the cosmic microwave background (CMB) with sub-degree angular resolution.
+With only minimal assumptions about the primordial spectrum of density
+perturbations and the values of other cosmological parameters, such a CMB map
+should be able to distinguish between a Universe with a baryon density near 0.1
+and a baryon-dominated Universe. With additional reasonable assumptions, it is
+conceivable that such measurements will constrain the baryon density to an
+accuracy similar to that obtained from BBN calculations.
+","[{""version"":""v1"",""created"":""Mon, 8 Jan 1996 12:50:46 GMT""}]","2007-05-23"
+"cond-mat/9601023","Apostol Gramada","A. Gramada and M. E. Raikh","Short--range impurity in the vicinity of a saddle point and the
+  levitation of the 2D delocalized states in a magnetic field","LaTeX, 20 pages",,"10.1103/PhysRevB.54.1928",,"cond-mat",,"  The effect of a short--range impurity on the transmission through a
+saddle--point potential for an electron, moving in a strong magnetic field, is
+studied. It is demonstrated that for a random position of an impurity and
+random sign of its potential the impurity--induced mixing of the Landau levels
+diminishes {\em on average} the transmission coefficient. This results in an
+upward shift (levitation) of the energy position of the delocalized state in a
+smooth potential. The magnitude of the shift is estimated. It increases with
+decreasing magnetic field $B$ as $B^{-4}$.
+","[{""version"":""v1"",""created"":""Mon, 8 Jan 1996 04:22:28 GMT""}]","2009-10-28"
+"cond-mat/9601024","Carlo Beenakker","C.W.J. Beenakker, J.C.J. Paasschens, and P.W. Brouwer","Probability of Reflection by a Random Laser","8 pages (revtex), 3 figures, to appear in Phys.Rev.Lett","Phys.Rev.Lett. 76, 1368 (1996)","10.1103/PhysRevLett.76.1368",,"cond-mat",,"  A theory is presented (and supported by numerical simulations) for
+phase-coherent reflection of light by a disordered medium which either absorbs
+or amplifies radiation. The distribution of reflection eigenvalues is shown to
+be the Laguerre ensemble of random-matrix theory. The statistical fluctuations
+of the albedo (the ratio of reflected and incident power) are computed for
+arbitrary ratio of sample thickness, mean free path, and absorption or
+amplification length. On approaching the laser threshold all moments of the
+distribution of the albedo diverge. Its modal value remains finite, however,
+and acquires an anomalous dependence on the illuminated surface area.
+","[{""version"":""v1"",""created"":""Mon, 8 Jan 1996 11:42:00 GMT""}]","2007-05-23"
+"cond-mat/9601025","Beat Frischmuth","Beat Frischmuth, Beat Ammon, Matthias Troyer","Susceptibility and Low Temperature Thermodynamics of Spin-1/2 Heisenberg
+  Ladders","4 pages and 3 figures","Phys. Rev. B 54, 0R3714 (1996)","10.1103/PhysRevB.54.R3714",,"cond-mat",,"  The temperature dependence of the uniform susceptibility and the ground state
+energy of antiferromagnetic Heisenberg ladders with up to 6 legs has been
+calculated, using the Monte Carlo loop algorithm. The susceptibilities of
+even-leg-ladders show spin gaps while these of odd-leg-ladders remain finite in
+the zero temperature limit. For small ratios of intra- to inter-leg couplings,
+odd-leg-ladders can be mapped at low temperatures to single chains. For equal
+couplings, the logarithmic corrections at low temperatures increase markedly
+with the number of legs.
+","[{""version"":""v1"",""created"":""Mon, 8 Jan 1996 15:28:39 GMT""}]","2007-05-23"
+"hep-ph/9601222","Kaoru Hagiwara","Kaoru Hagiwara","Looking Beyond the Standard Model through Precision Electroweak Physics","Talk presented at Yukawa International Seminar (YKIS)~'95, 23 pages,
+  uuencoded compressed tar file of LaTeX file and 13 EPS files (uses
+  ptptex.sty,wrapfig.sty,psfig.sty,axodraw.sty) PostScript version of complete
+  paper available at ftp://ftp.kek.jp/kek/preprints/TH/TH-463/kekth463.ps.gz","Prog.Theor.Phys.Suppl.123:173-194,1996","10.1143/PTPS.123.173","KEK-TH-463, KEK preprint 95-186","hep-ph",,"  The most important hint of physics beyond the Standard Model (SM) from the
+1995 precision electroweak data is that the most precisely measured quantities,
+the total, leptonic and hadronic decay widths of the $Z$ and the effective weak
+mixing angle, $\sin^2\theta_W$, measured at LEP and SLC, and the quark-lepton
+universality of the weak charged currents measured at low energies, all agree
+with the predictions of the SM at a few $\times 10^{-3}$ level. By taking into
+account the above constraints I examine implications of three possible
+disagreements between experiments and the SM predictions. It is difficult to
+interpret the 11\% (2.5-$\sigma$) deficit of the $Z$-partial-width ratio
+$R_c=\Gamma_c/\Gamma_h$, since it either implies an unacceptably large
+$\alpha_s$ or a subtle cancellation among hadronic $Z$ decay widths in order to
+keep all the other successful predictions of the SM. The 2\% (3-$\sigma$)
+excess of the ratio $R_b=\Gamma_b/\Gamma_h$ may indicate the presence of a new
+rather strong interaction, such as the top-quark Yukawa coupling in the
+supersymmetric (SUSY) SM or a new interaction responsible for the large
+top-quark mass in the Technicolor scenario of dynamical electroweak symmetry
+breaking. Another interpretation may be additional tree-level gauge
+interactions that couple only to the third generation of fermions. A common
+consequence of these attempts is a rather small $\alpha_s$, $\alpha_s(\mz
+)_{\msbar}=0.104\pm 0.08$. The 0.17\% (1-$\sigma$) deficit ...
+","[{""version"":""v1"",""created"":""Mon, 8 Jan 1996 05:49:07 GMT""}]","2010-11-23"
+"hep-ph/9601223","Kurt Langfeld","Kurt Langfeld, Hugo Reinhardt","Restoration of chiral symmetry in quark models with effective one gluon
+  exchange","12 pages LaTeX, no figures","Phys.Lett. B373 (1996) 319-327","10.1016/0370-2693(96)00156-6","UNITU-THEP-1/1996","hep-ph hep-th",,"  The restoration of chiral symmetry at finite density and/or temperature is
+investigated in a wide class of one-gluon exchange models in the instantaneous
+approximation. If the effective quark interaction is less divergent than
+$1/k^2$ for small momentum transfer $k$, we obtain Gaussian critical exponents
+for the chiral phase transitions at finite temperature and density,
+respectively. In the opposite case, for an interaction diverging faster than
+$1/k^2$ in the infrared region, a qualitative different behavior of the quark
+self-energy near the critical Fermi momentum $k_c$ and the critical temperature
+$T_c$, respectively, is observed. In the first scenario, we find $k_c \approx 2
+\ln 2 \; T_c$, which compares well with recent data from QCD lattice
+simulations.
+","[{""version"":""v1"",""created"":""Mon, 8 Jan 1996 10:39:22 GMT""}]","2009-10-28"
+"hep-ph/9601224",,"F.Boudjema, B. Mele et al","Standard Model Processes at LEP2","42 pages, uuencoded gzipped postscript file. The gzipped postscript
+  file is also available through anonymous ftp at
+  ftp://hpteo.roma1.infn.it/pub/preprints/main2.ps.gz To appear in ""Physics at
+  LEP2"", G. Altarelli, T. Sjostrand and F. Zwirner eds., CERN Report 1996",,,"ROME1-1127/95","hep-ph",,"  We present the results obtained by the Standard Model Process group in the
+CERN Workshop ""Physics at LEP2"" (1994/95).
+","[{""version"":""v1"",""created"":""Mon, 8 Jan 1996 09:45:44 GMT""}]","2007-05-23"
+"hep-ph/9601225","Carlos Savoy","C.A. Savoy (Saclay)","FCNC in SUSY Theories","4 pages, uses wstwocl.sty (included in gzipped tarred package)
+  Invited Talk at the HEP95 Euroconference, Brussels, July 95",,,"Saclay T03/096","hep-ph",,"  Recent work on flavour changing neutral current effects in supersymmetric
+models is reviewed. The emphasis is put on new issues related to solutions to
+the flavour problem through new symmetries: GUTs, horizontal symmetries,
+modular invariances.
+","[{""version"":""v1"",""created"":""Mon, 8 Jan 1996 12:36:15 GMT""}]","2007-05-23"
+"hep-th/9601022","Arefeva Irina","I.Ya.Aref'eva","Large $N$ Matrix Models and $q$-Deformed Quantum Field Theories","17 pages, latex. To appear in ""From Field Theory to Quantum Groups"",
+  World Scientific. Proceedings to honor J.Lukierski in his 60th birthday",,"10.1142/9789812830425_0005","SMI-01-96","hep-th",,"  Recently it was shown that an asymptotic behaviour of $SU(N)$ gauge theory
+for large $N$ is described by q-deformed quantum field. The master fields for
+large N theories satisfy to standard equations of relativistic field theory but
+fields satisfy $q$-deformed commutation relations with $q=0$. These commutation
+relations are realized in the Boltzmannian Fock space. The master field for
+gauge theory does not take values in a finite-dimensional Lie algebra however
+there is a non-Abelian gauge symmetry. The gauge master field for a subclass of
+planar diagrams, so called half-planar diagrams, is also considered. A
+recursive set of master fields summing up a matreoshka of 2-particles reducible
+planar diagrams is briefly described.
+","[{""version"":""v1"",""created"":""Sun, 7 Jan 1996 16:04:44 GMT""}]","2016-11-03"
+"hep-th/9601023","Andrei Johansen","D. Anselmi, M. Grisaru, A. Johansen","A Critical Behaviour of Anomalous Currents, Electric-Magnetic
+  Universality and CFT_4","harvmac tex, 28 pages, 3 figures. Version to be published in Nucl.
+  Phys. B","Nucl.Phys. B491 (1997) 221-248","10.1016/S0550-3213(97)00108-9","HUTP--95/A048, BRX-TH-388","hep-th",,"  We discuss several aspects of superconformal field theories in four
+dimensions (CFT_4), in the context of electric-magnetic duality. We analyse the
+behaviour of anomalous currents under RG flow to a conformal fixed point in
+N=1, D=4 supersymmetric gauge theories. We prove that the anomalous dimension
+of the Konishi current is related to the slope of the beta function at the
+critical point. We extend the duality map to the (nonchiral) Konishi current.
+As a byproduct we compute the slope of the beta function in the strong coupling
+regime. We note that the OPE of $T_{\mu\nu}$ with itself does not close, but
+mixes with a special additional operator $\Sigma$ which in general is the
+Konishi current. We discuss the implications of this fact in generic
+interacting conformal theories. In particular, a SCFT_4 seems to be naturally
+equipped with a privileged off-critical deformation $\Sigma$ and this allows us
+to argue that electric-magnetic duality can be extended to a neighborhood of
+the critical point. We also stress that in SCFT_4 there are two central
+charges, c and c', associated with the stress tensor and $\Sigma$,
+respectively; c and c' allow us to count both the vector multiplet and the
+matter multiplet effective degrees of freedom of the theory.
+","[{""version"":""v1"",""created"":""Sun, 7 Jan 1996 19:13:03 GMT""},{""version"":""v2"",""created"":""Sun, 9 Jun 1996 16:51:08 GMT""},{""version"":""v3"",""created"":""Tue, 28 Jan 1997 16:37:35 GMT""}]","2009-10-30"
+"hep-th/9601024","Folkert Mueller-Hoissen","A. Dimakis (Goettingen) and F. Mueller-Hoissen (Goettingen)","Noncommutative Geometry and Integrable Models","10 pages, Latex","Lett.Math.Phys. 39 (1997) 69-79",,"GOET-TP 1/96","hep-th",,"  A construction of conservation laws for $\sigma$-models in two dimensions is
+generalized in the framework of noncommutative geometry of commutative
+algebras. This is done by replacing the ordinary calculus of differential forms
+with other differential calculi and introducing an analogue of the Hodge
+operator on the latter. The general method is illustrated with several
+examples.
+","[{""version"":""v1"",""created"":""Sun, 7 Jan 1996 20:30:22 GMT""}]","2007-05-23"
+"hep-th/9601026","Oleg D. Andreev","Oleg Andreev","On 2D gravity coupled to $c\leq 1$ matter in Polyakov light-cone gauge","8 pages, LaTeX2e, no figures","Phys.Lett. B375 (1996) 60-64","10.1016/0370-2693(96)00200-6","LANDAU-96-TMP-1","hep-th",,"  A new formulation of $c\leq 1$ matter coupled to 2D gravity is proposed. This
+model, being closely analogous to one in the Polyakov light-cone gauge,
+possesses well defined global properties which allow to calculate correlation
+functions. As an example, the three point correlation functions of discrete
+states are found.
+","[{""version"":""v1"",""created"":""Mon, 8 Jan 1996 14:03:56 GMT""}]","2009-10-30"
+"mtrl-th/9601001","Philippe Ghosez","Ph. Ghosez, X. Gonze and J.-P. Michenaud","Coulomb interaction and ferroelectric instability of BaTiO3","9 pages, 4 tables, 1 figure",,"10.1209/epl/i1996-00404-8","PhG-960104","mtrl-th cond-mat.mtrl-sci",,"  Using first-principles calculations, the phonon frequencies at the $\Gamma$
+point and the dielectric tensor are determined and analysed for the cubic and
+rhombohedral phases of BaTiO$_{3}$. The dipole-dipole interaction is then
+separated \`a la Cochran from the remaining short-range forces, in order to
+investigate their respective influence on lattice dynamics. This analysis
+highlights the delicate balance of forces leading to an unstable phonon in the
+cubic phase and demonstrates the extreme sensitivity of this close compensation
+to minute effective charge changes. Within our decomposition, the stabilization
+of the unstable mode in the rhombohedral phase or under isotropic pressure has
+a different origin.
+","[{""version"":""v1"",""created"":""Mon, 8 Jan 1996 15:28:45 GMT""}]","2009-10-30"
+"nucl-th/9601006",,"Abhee K. Dutt-Mazumder, Triptesh De, Binayak Dutta-Roy and Anirban
+  Kundu","Rho Mesons in Asymmetric Nuclear Matter: A Renormalization Group
+  Approach","Plain LaTeX file of the paper and postscript file of the figures",,,"SINP-TNP/96-01, TIFR/TH/96-01","nucl-th",,"  The running of the $\rho\bar N N$ couplings in presence of nuclear matter is
+studied, and the relevant $\beta$-functions are shown to be different for
+$\rho^0$ and $\rho^+$, when the nuclear medium is asymmetric.
+","[{""version"":""v1"",""created"":""Mon, 8 Jan 1996 10:30:27 GMT""}]","2007-05-23"
+"quant-ph/9601004","Todd A. Brun","T. A. Brun (QMW College, University of London), J. J. Halliwell
+  (Imperial College, University of London)","Decoherence of Hydrodynamic Histories: A Simple Spin Model","Standard TeX, 36 pages + 3 figures (postscript) Revised abstract and
+  introduction. To appear in Physical Review D","Phys.Rev.D54:2899-2912,1996","10.1103/PhysRevD.54.2899","QMW-PH-95-48","quant-ph gr-qc hep-th",,"  In the context of the decoherent histories approach to the quantum mechanics
+of closed systems, Gell-Mann and Hartle have argued that the variables
+typically characterizing the quasiclassical domain of a large complex system
+are the integrals over small volumes of locally conserved densities --
+hydrodynamic variables. The aim of this paper is to exhibit some simple models
+in which approximate decoherence arises as a result of local conservation. We
+derive a formula which shows the explicit connection between local conservation
+and approximate decoherence. We then consider a class of models consisting of a
+large number of weakly interacting components, in which the projections onto
+local densities may be decomposed into projections onto one of two alternatives
+of the individual components. The main example we consider is a one-dimensional
+chain of locally coupled spins, and the projections are onto the total spin in
+a subsection of the chain. We compute the decoherence functional for histories
+of local densities, in the limit when the number of components is very large.
+We find that decoherence requires two things: the smearing volumes must be
+sufficiently large to ensure approximate conservation, and the local densities
+must be partitioned into sufficiently large ranges to ensure protection against
+quantum fluctuations.
+","[{""version"":""v1"",""created"":""Mon, 8 Jan 1996 15:06:00 GMT""},{""version"":""v2"",""created"":""Tue, 23 Apr 1996 19:02:09 GMT""}]","2014-11-18"
+"quant-ph/9601005","Lev Vaidman","L. Vaidman","Weak-Measurement Elements of Reality","LaTeX, 11 pages",,"10.1007/BF02148832","TAUP 2317-96","quant-ph",,"  A brief review of the attempts to define ``elements of reality'' in the
+framework of quantum theory is presented. It is noted that most definitions of
+elements of reality have in common the feature to be a definite outcome of some
+measurement. Elements of reality are extended to pre- and post-selected systems
+and to measurements which fulfill certain criteria of weakness of the coupling.
+Some features of the newly introduced concepts are discussed.
+","[{""version"":""v1"",""created"":""Mon, 8 Jan 1996 15:41:23 GMT""}]","2009-10-30"

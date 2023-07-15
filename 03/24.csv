@@ -1,0 +1,149 @@
+"alg-geom/9603018","Dan Abramovich","Dan Abramovich and Johan de Jong","Smoothness, Semistability, and Toroidal Geometry","12 pages (in large font)., LATEX 2e (in latex 2.09 compatibility
+  mode)",,,,"alg-geom math.AG",,"  We provide a new proof of the following result:
+  Let $X$ be a variety of finite type over an algebraically closed field $k$ of
+characteristic 0, let $Z\subset X$ be a proper closed subset. There exists a
+modification $f:X_1 \rar X$, such that $X_1$ is a quasi-projective nonsingular
+variety and $Z_1 = f^{-1}(Z)_\red$ is a strict divisor of normal crossings.
+  Needless to say, this theorem is a weak version of Hironaka's well known
+theorem on resolution of singularities. Our proof has the feature that it
+builds on two standard techniques of algebraic geometry: semistable reduction
+for curves, and toric geometry.
+  Another proof of the same result was discovered independently by F. Bogomolov
+and T. Pantev. The two proofs are similar in spirit but quite different in
+detail.
+","[{""version"":""v1"",""created"":""Sun, 24 Mar 1996 01:02:33 GMT""}]","2015-06-30"
+"alg-geom/9603019","Tony Pantev","Fedor Bogomolov and Tony Pantev","Weak Hironaka theorem","11 pages, minor corrections, version revised for publication LATEX 2e",,,,"alg-geom math.AG",,"  The purpose of this note is to give a simple proof of the following theorem:
+Let $X$ be a normal projective variety over an algebraically closed field $k$,
+$\op{char} k = 0$ and let $D \subset X$ be a proper closed subvariety of $X$.
+Then there exist a smooth projective variety $M$, a strict normal crossings
+divisor $R \subset M$ and a birational morphism $f : M \to X$ with $f^{-1} D =
+R$. The method of proof is inspired by A.J. de Jong alteration ideas. We also
+use a multidimensional version of G.Belyi argument which allows us to simplify
+the shape of a ramification divisor. By induction on the dimension of $X$ the
+problem is reduced to resolving toroidal singularities. This process however is
+too crude and does not permit any control over the structure of the birational
+map $f$. A different proof of the same theorem was found independently by D.
+Abramovich and A.J. de Jong. The approach is similar in both proofs but they
+seem to be rather different in details.
+","[{""version"":""v1"",""created"":""Sun, 24 Mar 1996 03:12:24 GMT""},{""version"":""v2"",""created"":""Fri, 26 Jul 1996 14:04:58 GMT""}]","2008-02-03"
+"astro-ph/9603127","Elhanan Almoznino","Elchanan Almoznino, Noah Brosch (Wise Observatory & School of Physics
+  and Astronomy, Raymond and Beverly Sackler Faculty of Exact Sciences,
+  Tel-Aviv University)","Late-Type Dwarf Galaxies in the Virgo Cluster: I. The Samples","Modified version, accepted for publication in MNRAS, 26 pages",,,,"astro-ph",,"  We selected samples of late-type dwarf galaxies in the Virgo cluster with HI
+information. The galaxies were observed at the Wise-Observatory using several
+broad-band and H$\alpha$ bandpasses. UV measurements were carried out with the
+IUE Observatory from VILSPA, and with the FAUST shuttle-borne UV telescope.
+  We describe our observations in detail, paying particular attention to the
+determination of measurement errors, and present the observational results
+together with published data and far-infrared information from IRAS. The sample
+will be analyzed in subsequent papers, in order to study star formation
+mechanisms.
+","[{""version"":""v1"",""created"":""Sun, 24 Mar 1996 09:22:59 GMT""},{""version"":""v2"",""created"":""Wed, 22 Apr 1998 09:24:00 GMT""}]","2008-02-03"
+"cond-mat/9603148","Kuwabara Makoto","Makoto Kuwabara, Akira Terai, Yoshiyuki Ono","Semi-Phenomenological Analysis of Dynamics of Nonlinear Excitations in
+  One-Dimensional Electron-Phonon System","19 pages, LaTeX, 7 Postscript figures, to be published in J. Phys.
+  Soc. Jpn. vol.65 (1996) No. 4",,"10.1143/JPSJ.65.992",,"cond-mat",,"  The structure of moving nonlinear excitations in one-dimensional
+electron-phonon systems is studied semi-phenomenologically by using an
+effective action in which the width of the nonlinear excitation is treated as a
+dynamical variable. The effective action can be derived from Su, Schrieffer and
+Heeger's model or its continuum version proposed by Takayama, Lin-Liu and Maki
+with an assumption that the nonlinear excitation moves uniformly without any
+deformation except the change of its width. The form of the action is
+essentially the same as that discussed by Bishop and coworkers in studying the
+dynamics of the soliton in polyacetylene, though some details are different.
+For the moving excitation with a velocity $v$, the width is determined by
+minimizing the effective action. A requirement that there must be a minimum in
+the action as a function of its width provides a maximum velocity. The velocity
+dependence of the width and energy can be determined. The motions of a soliton
+in p olyacetylene and an acoustic polaron in polydiacetylene are studied within
+this formulation. The obtained results are in good agreement with those of
+numerical simulations.
+","[{""version"":""v1"",""created"":""Sun, 24 Mar 1996 14:35:56 GMT""}]","2009-10-28"
+"dg-ga/9603013","Mr. K. Ramachandran","K. Ramachandran and Akhil Ranjan (Dept of Mathematics, Indian
+  Institute of Technology, Mumbai, India)","Harmonic manifolds with some specific volume densities","10 pages, latex (e-mail: kram@..., aranjan@ganit.math.iitb.ernet.in)",,,,"dg-ga math.DG",,"  We show that noncompact simply connected harmonic manifolds with volume
+density $\Theta_{p}(r) =\sinh ^{n-1} r$ is isometric to the real hyperbolic
+space and noncompact simply connected K\""{a}hler harmonic manifold with volume
+density $\Theta_{p}(r) =\sinh ^{2n-1} r \cosh r$ is isometric to the complex
+hyperbolic space. A similar result is also proved for Quaternionic K\""{a}hler
+manifolds. Using our methods we get an alternative proof, without appealing to
+the powerful Cheeger-Gromoll splitting theorem, of the fact that every Ricci
+flat harmonic manifold is isometric to the euclidean space. Finally a rigidity
+result for real hyperbolic space is presented.
+","[{""version"":""v1"",""created"":""Sun, 24 Mar 1996 04:33:47 GMT""}]","2008-02-03"
+"hep-ph/9603381",,"Qing-Jun Liu ( IHEP, Beijing)","Detection of minijet production in $\sqrt{s}$=1.8 TeV proton-antiproton
+  collisions with multi-particle transverse energy correlation functions","4 pages, 2 eps figures, uses psfig.sty",,,,"hep-ph",,"  Multi-particle transverse energy correlation(MTEC) functions are proposed to
+study minijet production in high energy proton-antiproton collisions.
+Obtainable with both the D0 and the CDF detector, the high-order MTEC functions
+are shown to be sensitive probes of jet internal structure as well as promising
+observables of detecting minijet production in $\sqrt{s}$=1.8 TeV $p\bar{p}$
+collisions.
+","[{""version"":""v1"",""created"":""Sun, 24 Mar 1996 01:51:56 GMT""}]","2007-05-23"
+"hep-ph/9603395","Gogberashvili Merab","Andro Barnaveli, Merab Gogberashvili","Fermion Scattering by Phase Boundaries","5 page, no macros, no figures, LaTEX",,,"IPGAS-HE-2-96","hep-ph hep-th",,"  We consider interactions of fermions with the domain wall bubbles produced
+during the first order phase transitions. New exact solution of Dirac equations
+and reflection coefficient are obtained.
+","[{""version"":""v1"",""created"":""Sun, 24 Mar 1996 15:32:54 GMT""}]","2007-05-23"
+"hep-th/9603153","Patrick McGraw","Patrick McGraw","Dynamical Simulation of Non-Abelian Cosmic Strings","53 pages, 28 figures, uses epsf, phyzzx macros included",,,"CALT-68-2044","hep-th",,"  We describe a method for simulating the dynamics of an $S_3$ cosmic string
+network. We use a lattice Monte Carlo to generate initial conditions for the
+network, which subsequently is allowed to relax continuously according to a
+simplified model of string dynamics. The dynamics incorporates some novel
+features which, to our knowledge, have not been studied in previous numerical
+simulations: The existence of two types of string which may have different
+tensions, and the possibility that two non-commuting strings may intersect.
+Simulation of the non-commuting fluxes presents a computational challenge as it
+requires a rather complex gauge-fixing procedure. The flux definitions change
+as strings change their positions and orientations relative to each other and
+must be carefully updated as the network evolves. The method is described here
+in some detail, with results to be presented elsewhere.
+","[{""version"":""v1"",""created"":""Sat, 23 Mar 1996 22:54:31 GMT""}]","2007-05-23"
+"hep-th/9603156","Vipul Periwal","Vipul Periwal and {\O}yvind Tafjord","D-brane recoil","Plain TeX, 5 pages","Phys.Rev.D54:3690-3692,1996","10.1103/PhysRevD.54.R3690","PUPT-1607","hep-th",,"  It is shown that there are logarithmic operators in D-brane backgrounds that
+lead to infrared divergences in open string loop amplitudes. These divergences
+can be cancelled by changing the closed string background by operators that
+correspond to the D-brane moving with constant velocity after some instant in
+time, since it is precisely such operators that give rise to the appropriate
+ultraviolet divergences in the closed string channel.
+","[{""version"":""v1"",""created"":""Sat, 23 Mar 1996 18:02:25 GMT""}]","2009-12-30"
+"hep-th/9603157",,"D.K. Hong(Pusan), Y. Kim(Hanyang) and S.-J. Sin(Hanyang)","RG analysis of magnetic catalysis in Dynamical symmetry breaking","11pages, latex","Phys.Rev.D54:7879-7883,1996","10.1103/PhysRevD.54.7879","SNUTP 96-9, UFIFT-HEP-96-3","hep-th cond-mat",,"  We perform the renormalization group analysis on the dynamical symmetry
+breaking under strong external magnetic field, studied recently by Gusynin,
+Miransky and Shovkovy. We find that any attractive four-Fermi interaction
+becomes strong in the low energy, thus leading to dynamical symmetry breaking.
+When the four-Fermi interaction is absent, the $\beta$-function for the
+electromagnetic coupling vanishes in the leading order in $1/N$. By solving the
+Schwinger-Dyson equation for the fermion propagator, we show that in $1/N$
+expansion, for any electromagnetic coupling, dynamical symmetry breaking occurs
+due to the presence of Landau energy gap by the external magnetic field.
+","[{""version"":""v1"",""created"":""Sat, 23 Mar 1996 18:35:12 GMT""}]","2008-11-26"
+"hep-th/9603158","Thomas","Kenneth Intriligator and Scott Thomas","Dynamical Supersymmetry Breaking on Quantum Moduli Spaces","23 pages, harvmac","Nucl.Phys. B473 (1996) 121-142","10.1016/0550-3213(96)00261-1","SLAC-PUB-7041, IASSNS-HEP-95/114","hep-th",,"  Supersymmetry breaking by the quantum deformation of a classical moduli space
+is considered. A simple, non-chiral, renormalizable model is presented to
+illustrate this mechanism. The well known, chiral, $SU(3) \times SU(2)$ model
+and its generalizations are shown to break supersymmetry by this mechanism in
+the limit $\Lambda_2 \gg \Lambda_3$. Other supersymmetry breaking models, with
+classical flat directions that are only lifted quantum mechanically, are
+presented. Finally, by integrating in vector matter, the strongly coupled
+region of chiral models with a dynamically generated superpotential is shown to
+be continuously connected to a weakly coupled description in terms of confined
+degrees of freedom, with supersymmetry broken at tree level.
+","[{""version"":""v1"",""created"":""Sun, 24 Mar 1996 00:00:30 GMT""}]","2009-10-30"
+"math/9603213",,"Michael Christ","Intermediate Optimal Gevrey Exponents Occur",,,,"MSRI 1996-018","math.FA",,"  Hypoellipticity in Gevrey classes $G^s$ is characterized for a simple family
+of sums of squares of vector fields satisfying the bracket hypothesis, with
+analytic coefficients. It is shown that hypoellipticity holds if and only if
+$s$ is greater than or equal to an optimal exponent that may take on any
+rational value.
+","[{""version"":""v1"",""created"":""Sun, 24 Mar 1996 00:00:00 GMT""}]","2008-02-03"
+"mtrl-th/9603009","Apostol Marian","M. Apostol","On metallic clusters squeezed in atomic cages","10 pages, no figures, latex, J. Theor. Phys., to appear",,,,"mtrl-th cond-mat.mtrl-sci",,"  The stability of metallic clusters of sodium (Na) in the octahedral cages of
+Na-doped fullerites Na6C60 and Na11C60 is discussed within a Thomas-Fermi
+model. It is shown that the tetrahedral Na4-cluster in Na6C60 has an electric
+charge of cca. +2.7 (in electron charge units), while the body-centered cubic
+Na9-cluster in Na11C60 is almost electrically neutral.
+","[{""version"":""v1"",""created"":""Sun, 24 Mar 1996 13:05:29 GMT""}]","2008-02-03"
+"q-alg/9603020","Yi-Zhi Huang","Yi-Zhi Huang and James Lepowsky","On the D-module and formal-variable approaches to vertex algebras","31 pages, LaTeX file","Topics in Geometry: In Memory of Joseph D'Atri, ed. S. Gindikin,
+  Progress in Nonlinear Differential Equations, Vol. 20, Birkhauser, Boston,
+  1996. 175--202",,,"q-alg alg-geom hep-th math.AG math.QA",,"  In a program to formulate and develop two-dimensional conformal field theory
+in the framework of algebraic geometry, Beilinson and Drinfeld have recently
+given a notion of ``chiral algebra'' in terms of D-modules on algebraic curves.
+This definition consists of a ``skew-symmetry'' relation and a ``Jacobi
+identity'' relation in a categorical setting. In this paper, we show directly
+that these chiral algebras are essentially the same as vertex algebras without
+vacuum vector (and without grading), by establishing an equivalence between the
+skew-symmetry and Jacobi identity relations of Beilinson-Drinfeld and the
+(similarly-named, but different) skew-symmetry and Jacobi identity relations in
+the formal-variable approach to vertex operator algebra theory as formulated by
+Borcherds, Frenkel-Lepowsky-Meurman and Frenkel-Huang-Lepowsky.
+","[{""version"":""v1"",""created"":""Sat, 23 Mar 1996 23:01:26 GMT""}]","2008-02-03"

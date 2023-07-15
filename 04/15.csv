@@ -1,0 +1,415 @@
+"astro-ph/9604074","Robert Soberman","Maurice Dubin (Silver Spring, MD), Robert K. Soberman (Philadelphia,
+  PA USA)","Resolution of the Solar Neutrino Anomaly","8 pages, 2 Postscript figures, uses revtex.sty",,,,"astro-ph hep-ph",,"  The solar neutrino anomaly, measurements discrepant from predictions of the
+Standard Solar Model, has existed for over 30 years. Multiple experiments
+measuring fluxes from several reactions in the hydrogen fusion chain have added
+to the puzzle. Each of the several elements of the enigma are resolved by
+recognition of measurements establishing that most of the sun's fusion must
+occur near the surface rather than the core.
+","[{""version"":""v1"",""created"":""Sun, 14 Apr 1996 18:46:03 GMT""}]","2007-05-23"
+"astro-ph/9604075","Ethan Bradford","Ethan Bradford and Craig Hogan","An Instability in the Radiative Ionization of Atomic Hydrogen/Helium Gas","23 pages, AASTeX. Five postscript figures included. To appear in the
+  Astrophysical Journal. Uses the Astrobib style for BibTeX; all necessaries
+  are included, but see http://planxty.stsci.edu:1024:/astrobib/astrobib.html
+  for how to simplify referencing in your papers. Uses TeX conditionals to
+  produce preprints and submitable papers from the same source. The main file
+  to LaTeX is he2.tex",,"10.1086/177856",,"astro-ph",,"  We show that the process of photoionizing a gas of atomic hydrogen and helium
+by line radiation whose energy is slightly above the helium single-ionization
+threshold is unstable if the helium fraction by number is less than
+approximately one half. However, in the two scenarios we consider here, based
+on the Decaying Dark Matter (DDM) model of cosmological reionization, there is
+no significant growth. In the first scenario we consider ionization and
+recombination to be approximately in equilibrium. This is relevant to high
+photon flux rates and early reionization, but in that case the heating is
+balanced by Compton cooling, which is very stabilizing. In the second scenario
+we ignore recombination. This is relevant to low photon flux rates or to the
+last stage of the reionization. In that case there is too little growth on a
+cosmological time scale to be significant.
+","[{""version"":""v1"",""created"":""Sun, 14 Apr 1996 23:15:24 GMT""}]","2009-10-28"
+"chao-dyn/9604007","Andrea Crisanti","E. Aurell, G. Boffetta, A. Crisanti, G. Paladin and A. Vulpiani","Growth of non-infinitesimal perturbations in turbulence","4 pages, 2 Postscript figures (included), RevTeX 3.0, files packed
+  with uufiles",,"10.1103/PhysRevLett.77.1262","TNT 96-ShPre2Let-V.5","chao-dyn cond-mat nlin.CD",,"  We discuss the effects of finite perturbations in fully developed turbulence
+by introducing a measure of the chaoticity degree associated to a given scale
+of the velocity field. This allows one to determine the predictability time for
+non-infinitesimal perturbations, generalizing the usual concept of maximum
+Lyapunov exponent. We also determine the scaling law for our indicator in the
+framework of the multifractal approach. We find that the scaling exponent is
+not sensitive to intermittency corrections, but is an invariant of the
+multifractal models. A numerical test of the results is performed in the shell
+model for the turbulent energy cascade.
+","[{""version"":""v1"",""created"":""Mon, 15 Apr 1996 08:07:37 GMT""}]","2009-10-28"
+"cond-mat/9604079","Iwan Jensen","I Jensen and A J Guttmann","Extrapolation procedure for low-temperature series for the square
+  lattice spin-1 Ising model","12 pages, LaTeX with IOP style files (ioplppt.sty) and epsf.sty. 3 ps
+  files included. To appear in J. Phys. A",,"10.1088/0305-4470/29/14/010",,"cond-mat",,"  The finite-lattice method of series expansions has been combined with a new
+extrapolation procedure to extend the low-temperature series for the specific
+heat, spontaneous magnetisation and susceptibility of the spin-1 Ising model on
+the square lattice. The extended series were derived by directly calculating
+the series to order 99 (in the variable $u=\exp[-J/k_B T])$ and using the new
+extrapolation procedure to calculate an additional 13--14 terms.
+","[{""version"":""v1"",""created"":""Mon, 15 Apr 1996 00:47:20 GMT""}]","2009-10-28"
+"cond-mat/9604080","Iwan Jensen","I Jensen, A J Guttmann and I G Enting","Low temperature series expansions for the square lattice Ising model
+  with spin S > 1","14 pages, LaTeX with IOP style files (ioplppt.sty), epic.sty and
+  eepic.sty. To appear in J. Phys. A",,"10.1088/0305-4470/29/14/009",,"cond-mat",,"  We derive low-temperature series (in the variable $u = \exp[-\beta J/S^2]$)
+for the spontaneous magnetisation, susceptibility and specific heat of the
+spin-$S$ Ising model on the square lattice for $S=\frac32$, 2, $\frac52$, and
+3. We determine the location of the physical critical point and non-physical
+singularities. The number of non-physical singularities closer to the origin
+than the physical critical point grows quite rapidly with $S$. The critical
+exponents at the singularities which are closest to the origin and for which we
+have reasonably accurate estimates are independent of $S$. Due to the many
+non-physical singularities, the estimates for the physical critical point and
+exponents are poor for higher values of $S$, though consistent with
+universality.
+","[{""version"":""v1"",""created"":""Mon, 15 Apr 1996 00:51:56 GMT""}]","2009-10-28"
+"cond-mat/9604081","Xun Xue","Xun Xue, Alvaro Ferraz(ICCMP, UNB)","Supersymmetry And Electron-hole Excitation in Semiconductor At Finite
+  Temperature","23 pages with 3 independent EPS figures; to appear in Nulear Physics
+  B","Nucl.Phys. B468 (1996) 541-556","10.1016/0550-3213(96)00135-6",,"cond-mat hep-th",,"  The fermionic and bosonic electron-hole low lying excitations in a
+semiconductor are analyzed at finite temperature in a unified way following
+Nambu's quasi-supersymmetric approach for the BCS model of superconductivity.
+The effective lagrangian for the fermionic modes and for the bosonic low lying
+collective excitations in the semiconductor is no longer supersymmetric in a
+conventional finite temperature treatment. However the bosonic excitations
+don't couple directly to the heat bath and as a result, quasisupersymmetry is
+restored to the effective lagrangian when a redefinition of the coupling
+constant associated with the collective excitations is performed. Our result
+shows that although the mass and coupling parameters are now temperature
+dependent, the fermion and boson excited states pair together and can still be
+transmuted into one another.
+","[{""version"":""v1"",""created"":""Mon, 15 Apr 1996 04:33:46 GMT""}]","2009-10-28"
+"cond-mat/9604082",,"Markus P. Pfannm\""uller and Holger Frahm","Algebraic Bethe Ansatz for gl(2,1) Invariant 36-Vertex Models","13 pages, LaTeX, no figures","Nucl.Phys. B479 (1996) 575-593","10.1016/0550-3213(96)00425-7","ITP-UH-04/96","cond-mat hep-th",,"  Four dimensional irreducible representations of the superalgebra gl(2,1)
+carry a free parameter. We compute the spectra of the corresponding transfer
+matrices by means of the nested algebraic Bethe ansatz together with a
+generalized fusion procedure.
+","[{""version"":""v1"",""created"":""Mon, 15 Apr 1996 09:01:46 GMT""}]","2009-10-28"
+"cond-mat/9604083","Christian v. Ferber","Christian von Ferber (Universitaet Essen)","Operator Product Expansion on a Fractal: The Short Chain Expansion for
+  Polymer Networks","28 pages, revtex, 4 Postscript figures, 3 latex emlines pictures.
+  Replacement eliminates conflict with a blob result","Nuclear Physics B 490 (1997) 511-542","10.1016/S0550-3213(97)00096-5",,"cond-mat",,"  We prove to all orders of renormalized perturbative polymer field theory the
+existence of a short chain expansion applying to polymer solutions of long and
+short chains. For a general polymer network with long and short chains we show
+factorization of its partition sum by a short chain factor and a long chain
+factor in the short chain limit. This corresponds to an expansion for short
+distance along the fractal perimeter of the polymer chains connecting the
+vertices and is related to a large mass expansion of field theory.
+  The scaling of the second virial coefficient for bimodal solutions is
+explained. Our method also applies to the correlations of the multifractal
+measure of harmonic diffusion onto an absorbing polymer. We give a result for
+expanding these correlations for short distance along the fractal carrier of
+the measure.
+","[{""version"":""v1"",""created"":""Mon, 15 Apr 1996 10:18:12 GMT""},{""version"":""v2"",""created"":""Tue, 27 May 1997 14:00:26 GMT""}]","2016-08-31"
+"cond-mat/9604084",,"Patrizia Castiglione, Giovanni Jona-Lasinio, and Carlo Presilla","Spectral properties of quantum $N$-body systems versus chaotic
+  properties of their mean field approximations","15 pages RevTeX, 11 postscript figures included with psfig, uuencoded
+  gz-compressed .tar file","J.Phys.A29:6169-6182,1996","10.1088/0305-4470/29/19/005",,"cond-mat chao-dyn nlin.CD quant-ph",,"  We present numerical evidence that in a system of interacting bosons there
+exists a correspondence between the spectral properties of the exact quantum
+Hamiltonian and the dynamical chaos of the associated mean field evolution.
+This correspondence, analogous to the usual quantum-classical correspondence,
+is related to the formal parallel between the second quantization of the mean
+field, which generates the exact dynamics of the quantum $N$-body system, and
+the first quantization of classical canonical coordinates. The limit of
+infinite density and the thermodynamic limit are then briefly discussed.
+","[{""version"":""v1"",""created"":""Mon, 15 Apr 1996 11:30:30 GMT""}]","2008-11-26"
+"cond-mat/9604085","Andreas Fledderjohann","A Fledderjohann, C Gerhardt, K H Mutter, A Schmitt, M Karbach","Critical properties of the one-dimensional spin-1/2 antiferromagnetic
+  Heisenberg model in the presence of a uniform field","12 pages, REVTEX, 7 figures, submitted to Physical Review B",,"10.1103/PhysRevB.54.7168",,"cond-mat",,"  In the presence of a uniform field the one-dimensional spin-$\frac{1}{2}$
+antiferromagnetic Heisenberg model develops zero frequency excitations at
+field-dependent 'soft mode' momenta. We determine three types of critical
+quantities, which we extract from the finite-size dependence of the lowest
+excitation energies, the singularities in the static structure factors and the
+infrared singularities in the dynamical structure factors at the soft mode
+momenta. We also compare our results with the predictions of conformal field
+theory.
+","[{""version"":""v1"",""created"":""Mon, 15 Apr 1996 11:57:03 GMT""}]","2009-10-28"
+"cond-mat/9604086","M. D. Kamrul Hassan","G J Rodgers and M K Hassan","Stable distribution in fragmentation processes","12 pages, 2 Postscript figures. To get Figures e-mail to G.J.
+  Rodgers@Brunel.ac.uk",,"10.1016/S0378-4371(96)00234-8","BRU/PH/210","cond-mat mtrl-th",,"  We introduce three models of fragmentation in which the largest fragment in
+the system can be broken at each time step with a fixed probability, p. We
+solve these models exactly in the long time limit to reveal stable time
+invariant (scaling) solutions which depend on p and the precise details of the
+fragmentation process. Various features of these models are compared with those
+of conventional fragmentation models.
+","[{""version"":""v1"",""created"":""Mon, 15 Apr 1996 11:32:37 GMT""}]","2015-06-25"
+"cond-mat/9604087","Peter Lenz","Peter Lenz and Franz Wegner","Flow Equations for Electron-Phonon Interactions","25 pages LATEX (use a4.sty v1.2) including 5 PostScript figures
+  (tarred,gzipped,uuencoded)",,"10.1016/S0550-3213(96)00521-4",,"cond-mat",,"  A recently proposed method of continuous unitary transformations is used to
+eliminate the interaction between electrons and phonons. The differential
+equations for the couplings represent an infinitesimal formulation of a
+sequence of Fr\""ohlich-transformations. The two approaches are compared. Our
+result will turn out to be less singular than Fr\""ohlich's. Furthermore the
+interaction between electrons belonging to a Cooper-pair will always be
+attractive in our approach. Even in the case where Fr\""ohlich's transformation
+is not defined (Fr\""ohlich actually excluded these regions from the
+transformation), we obtain an elimination of the electron-phonon interaction.
+This is due to a sufficiently slow change of the phonon energies as a function
+of the flow parameter.
+","[{""version"":""v1"",""created"":""Mon, 15 Apr 1996 12:52:03 GMT""}]","2009-10-28"
+"cond-mat/9604088","Adriaan Schakel","Adriaan M. J. Schakel","Quantum Critical Behavior of Disordered Superfluids","REVTEX, 5 pages","Phys. Lett. A 224, 287 (1997)","10.1016/S0375-9601(96)00843-2",,"cond-mat",,"  The quantum critical behavior of an interacting, non-relativistic Bose theory
+with quenched disorder randomly distributed in space is investigated. The
+renormalization group is carried out in a double $\epsilon$ expansion, where
+one $\epsilon$ is the deviation of the effective space-time dimensionality from
+4, while the other denotes the number of time dimensions. The disordered
+theory, which displays localization in the superfluid state, is shown to
+possess an infrared stable fixed point.
+","[{""version"":""v1"",""created"":""Mon, 15 Apr 1996 12:59:00 GMT""}]","2009-10-28"
+"gr-qc/9604030","Nobuyuki Sakai","Yoonbai Kim, Kei-ichi Maeda and Nobuyuki Sakai","Monopole-Bubble in Early Universe","25 pages, latex","Nucl.Phys. B481 (1996) 453-478","10.1016/S0550-3213(96)90151-0","DPNU-94-55, SNUTP-96-031, WU-AP/57/96","gr-qc astro-ph hep-th",,"  The nucleation and evolution of bubbles are investigated in the model of an
+$O(3)$-symmetric scalar field coupled to gravity in the high temperature limit.
+It is shown that, in addition to the well-known bubble of which the inside
+region is true vacuum, there exists another decay channel at high temperature
+which is described by a new solution such that a false vacuum region like a
+global monopole remains at the center of a bubble. The value of the Euclidean
+action of this bubble is higher than that of the ordinary bubble; however, the
+production rate of it can be considerable for a certain range of scalar
+potentials.
+","[{""version"":""v1"",""created"":""Sun, 14 Apr 1996 17:50:14 GMT""}]","2009-10-28"
+"gr-qc/9604031","Yuri Kubyshin","Yuri Kubyshin and Jerome Martin","On compatibility of the Kaluza-Klein approach with the COBE experiment","LaTeX, 9 pages, 1 Postscript figure, Extended version of the
+  contribution to the Proceedings of the Xth Workshop on High Energy Physics
+  and Quantum Field Theory, (Zvenigorod, Russia, 20-26 September, 1995)",,,"FTUAM 96/16","gr-qc",,"  Contributions of primordial gravitational waves to the large-angular-scale
+anisotropies of the cosmic microwave background radiation in multidimensional
+cosmological models (Kaluza-Klein models) are studied. We derive limits on free
+parameters of the models using results of the COBE experiment and other
+astrophysical data. It is shown that in principle there is a room for
+Kaluza-Klein models as possible candidates for the description of the Early
+Universe. However, the obtained limits are very restrictive. Assuming that the
+anisotropies are mostly due to gravitational waves, none of the concrete
+models, analyzed in the article, satisfy them. On the other hand, if the
+contribution of gravitational waves is very small then a string inspired model
+is not ruled out.
+","[{""version"":""v1"",""created"":""Mon, 15 Apr 1996 11:17:25 GMT""}]","2007-05-23"
+"hep-lat/9604012","Fedele Lizzi","A.P. Balachandran, G. Bimonte, G. Landi, F. Lizzi and P.
+  Teotonio-Sobrinho","Lattice Gauge Fields and Noncommutative Geometry","34 pages, Latex, Minor corrections, Section 6 corrected","J.Geom.Phys. 24 (1998) 353-385","10.1016/S0393-0440(97)00017-X","ESI (1995) 299, SU-4240-621, DFTUZ/96/06 , DSF-T-15/96 ,
+  UICHEP-TH/95-12","hep-lat gr-qc hep-th",,"  Conventional approaches to lattice gauge theories do not properly consider
+the topology of spacetime or of its fields. In this paper, we develop a
+formulation which tries to remedy this defect. It starts from a cubical
+decomposition of the supporting manifold (compactified spacetime or spatial
+slice) interpreting it as a finite topological approximation in the sense of
+Sorkin. This finite space is entirely described by the algebra of cochains with
+the cup product. The methods of Connes and Lott are then used to develop gauge
+theories on this algebra and to derive Wilson's actions for the gauge and Dirac
+fields therefrom which can now be given geometrical meaning. We also describe
+very natural candidates for the QCD theta term and Chern-Simons action
+suggested by this algebraic formulation. Some of these formulations are simpler
+than currently available alternatives. The paper treats both the functional
+integral and Hamiltonian approaches.
+","[{""version"":""v1"",""created"":""Mon, 15 Apr 1996 14:09:59 GMT""},{""version"":""v2"",""created"":""Fri, 27 Dec 1996 17:06:12 GMT""}]","2009-10-28"
+"hep-ph/9604309",,"H.-J. He (DESY), Y.-P. Kuang (Tsinghua), C.-P. Yuan (MSU)","Global Power Counting Analysis On Probing Electroweak Symmetry Breaking
+  Mechanism At High Energy Colliders","Version Published in Physics Letters B. Latex, 12 pages, minor typos
+  corrected","Phys.Lett. B382 (1996) 149-156","10.1016/0370-2693(96)00662-4","DESY-95-252, TUIMP-TH-96/75, MSUHEP-60405","hep-ph",,"  We develop a precise power counting rule (a generalization of Weinberg's
+counting method for the nonlinear sigma model) for the electroweak theories
+formulated by chiral Lagrangians. Then we estimate the contributions of ``all''
+next-to-leading order (NLO) bosonic operators to the amplitudes of the relevant
+scattering processes which can be measured at high energy colliders, such as
+the LHC and future Linear Colliders. Based upon these results, we globally
+classify the sensitivities of testing all NLO bosonic operators for probing the
+electroweak symmetry breaking mechanism at high energy colliders.
+","[{""version"":""v1"",""created"":""Sun, 14 Apr 1996 21:47:32 GMT""},{""version"":""v2"",""created"":""Thu, 23 May 1996 21:39:59 GMT""},{""version"":""v3"",""created"":""Wed, 6 Nov 1996 23:38:07 GMT""}]","2016-09-01"
+"hep-ph/9604315","Oleg Kalashnikov","O.K. Kalashnikov","Hot quark-gluon matter with deconfined heavy quarks","10 pages, Latex",,,"BI-TH 96/13","hep-ph hep-th",,"  The phase diagram of the quark-gluon matter evolution is presented for the
+SU(3)-model with a new phase of heavy deconfined quarks which exists in a
+rather wide range of temperatures and densities. Fitting the chiral phase
+transition data to fix the model parameters we establish another
+(deconfinement) phase transition which separates a new phase from hadronic
+matter. The parameters and properties of the phase diagram are discussed in
+comparison with lattice and other results.
+","[{""version"":""v1"",""created"":""Sun, 14 Apr 1996 16:45:46 GMT""}]","2007-05-23"
+"hep-ph/9604316","Dr F. Caravaglios","F. Caravaglios and M. Moretti","$e^+ \ e^-$ into 4 fermions + $\gamma$ with ALPHA","14 pages, LaTeX , 3 PostScript figures available upon request","Z.Phys. C74 (1997) 291-296",,"OUTP 9613P","hep-ph",,"  We apply the iterative numerical algorithm ALPHA, which automatically
+generates the N-point Green functions (as recently suggested \cite{alpha}) to
+the computation of the production rate of four fermions and four fermions plus
+photon in electron-positron annihilation. The discussion of the physical
+results is preceded by an introduction on the algorithm.
+","[{""version"":""v1"",""created"":""Sun, 14 Apr 1996 17:07:17 GMT""}]","2007-05-23"
+"hep-ph/9604317",,"A.V. Radyushkin","Scaling Limit of Deeply Virtual Compton Scattering","gziped, tar file of LaTeX paper plus 2 postscript figures,10 pages;
+  some changes in new terminology","Phys.Lett.B380:417-425,1996","10.1016/0370-2693(96)00528-X","CEBAF TH-96-05","hep-ph",,"  I outline a perturbative QCD approach to the analysis of the deeply virtual
+Compton scattering process $\gamma^* p \to \gamma p'$ in the limit of vanishing
+momentum transfer $t= (p' - p)^2$. The DVCS amplitude in this limit exhibits a
+scaling behaviour described by a two-argument distributions $F(x,y)$ which
+specify the fractions of the initial momentum $p$ and the momentum transfer $r
+\equiv p'-p$ carried by the constituents of the nucleon.The kernel
+$R(x,y;\xi,\eta)$ governing the evolution of the non-forward distributions
+$F(x,y)$ has a remarkable property: it produces the GLAPD evolution kernel
+$P(x/\xi)$ when integrated over $y$ and reduces to the Brodsky-Lepage evolution
+kernel $V(y,\eta)$ after the $x$-integration. This property is used to
+construct the solution of the one-loop evolution equation for the flavour
+non-singlet part of the non-forward quark distribution.
+","[{""version"":""v1"",""created"":""Mon, 15 Apr 1996 03:04:12 GMT""},{""version"":""v2"",""created"":""Tue, 16 Apr 1996 03:17:11 GMT""},{""version"":""v3"",""created"":""Thu, 2 May 1996 23:41:30 GMT""},{""version"":""v4"",""created"":""Wed, 22 May 1996 15:41:09 GMT""}]","2014-11-17"
+"hep-ph/9604319","Jonathan L. Rosner","Jonathan L. Rosner","Two Topics in $b$ Physics","11 pages, latex, no figures. Presented at 10th La Thuile Rencontre.
+  DESY preprint no. corrected in heading",,,"DESY-96-062, CERN-TH/96-100, EFI-96-11","hep-ph",,"  (1) A simple transversity analysis permits one to separate the P-even and
+P-odd partial waves in such decays as $B_s \to J/\psi \phi$ and $B \to J/\psi
+K^*$. This method is relevant to the separation of contributions of CP-even and
+CP-odd final states in $B_s$ decays, and hence to the measurement of a possible
+lifetime difference between mass eigenstates. (2) The enhancement $\Delta
+\Gamma (\Lambda_b)$ of the $\Lambda_b$ decay rate due to four-fermion processes
+is calculated in terms of the $\Sigma_b^* - \Sigma_b$ hyperfine splitting, the
+$B^* - B$ hyperfine splitting, and the $B$ meson decay constant $f_B$. Despite
+a relatively large hyperfine splitting observed by the DELPHI Collaboration,
+the mechanism falls far short of being able to explain the observed
+enhancement.
+","[{""version"":""v1"",""created"":""Mon, 15 Apr 1996 09:33:04 GMT""},{""version"":""v2"",""created"":""Tue, 16 Apr 1996 08:27:33 GMT""}]","2008-02-03"
+"hep-ph/9604320","Jose Ramon Espinosa","J.R. Espinosa (DESY)","Dominant Two-Loop Corrections to the MSSM Finite Temperature Effective
+  Potential","20 pages, LaTeX. 4 postscript figures","Nucl.Phys. B475 (1996) 273-292","10.1016/0550-3213(96)00297-0","DESY 96-064, IEM-FT-122/96","hep-ph",,"  We show that two-loop corrections to the finite temperature effective
+potential in the MSSM can have a dramatic effect on the strength of the
+electroweak phase transition, making it more strongly first order. The change
+in the order parameter $v/T_c$ can be as large as 75\% of the one-loop daisy
+improved result. This effect can be decisive to widen the region in parameter
+space where erasure of the created baryons by sphaleron processes after the
+transition is suppressed and hence, where electroweak baryogenesis might be
+successful. We find an allowed region with $\tan\beta\simlt 4.5$ and a Higgs
+boson with standard couplings and mass below $80\ GeV$ within the reach of LEP
+II.
+","[{""version"":""v1"",""created"":""Mon, 15 Apr 1996 13:47:40 GMT""}]","2009-10-28"
+"hep-ph/9604321","Sabine Riemann","A. Leike and S. Riemann","Z' Constraints from e+e- to f fbar at NLC","7 pages, LaTex, 3 figures, 1 table, available from
+  http://www.ifh.de/~riemanns/ or on request from e-mail: riemanns@ifh.de; to
+  appear in: Proceedings of Physics with e+e- Linear Colliders Workshop, Annecy
+  - Gran Sasso - Hamburg 1995",,,"DESY-Zeuthen 96-06","hep-ph",,"  Constraints on extra neutral gauge bosons are obtained from
+$e^+e^-\rightarrow f\bar f$ at NLC energies. Model independent limits on the
+$Z'f\bar f$ couplings and lower limits on the $Z'$ mass are discussed. Typical
+GUTs with $M_{Z'}$ up to (3 -- 6) $\sqrt{s}$ can be excluded. A distinction
+between different GUT scenarios is possible if $M_{Z'}\le 3\sqrt{s}$. Radiative
+corrections give only small changes to the $Z'$ exclusion limits provided that
+appropriate cuts are applied. %The inclusion of systematic errors leads to
+slightly worse results for %$M_{Z'}^{lim}$.
+","[{""version"":""v1"",""created"":""Mon, 15 Apr 1996 13:55:34 GMT""}]","2007-05-23"
+"hep-th/9604073","Toshiya Suzuki","Ryuichi Nakayama and Toshiya Suzuki (Hokkaido University)","Loop Equations for + and - Loops in c = 1/2 Non-Critical String Theory","21 pages, LaTex file, no figures","Phys.Rev. D54 (1996) 3985-3994","10.1103/PhysRevD.54.3985","EPHOU-95-006","hep-th",,"  New loop equations for all genera in $c = \frac{1}{2}$ non-critical string
+theory are constructed. Our loop equations include two types of loops, loops
+with all Ising spins up (+ loops) and those with all spins down ( $-$ loops).
+The loop equations generate an algebra which is a certain extension of $W_3$
+algebra and are equivalent to the $W_3$ constraints derived before in the
+matrix-model formulation of 2d gravity. Application of these loop equations to
+construction of Hamiltonian for $c = \frac{1}{2}$ string field theory is
+considered.
+","[{""version"":""v1"",""created"":""Mon, 15 Apr 1996 05:35:44 GMT""}]","2009-10-30"
+"hep-th/9604074","Alexey A. Deriglazov","A. A. Deriglazov and A. V. Galajinsky","Covariant Supplementation Scheme for Infinitely Reducible First Class
+  Constraints",,"Phys.Lett. B381 (1996) 105-112","10.1016/0370-2693(96)00624-7",,"hep-th",,"  For a rather broad class of dynamical systems subject to mixed fermionic
+first and second class constraints or infinitely reducible first class
+constraints (IR1C), a manifestly covariant scheme of supplementation of IR1C to
+irreducible ones is proposed. For a model with IR1C only, an application of the
+scheme leads to a system with covariantly splitted and irreducible first and
+second class constraints. Modified Lagrangian formulations for the
+Green--Schwarz superstring, Casalbuoni--Brink--Schwarz superparticle and Siegel
+superparticle, which reproduce the supplementation scheme, are suggested.
+","[{""version"":""v1"",""created"":""Mon, 15 Apr 1996 06:36:01 GMT""}]","2009-10-30"
+"hep-th/9604075","Dirk Schlingemann","Dirk Schlingemann","Kink States in $P(\phi)_2$-Models (An Algebraic Approach)","37pp, latex2e",,,"DESY 96-051","hep-th",,"  Several two-dimensional quantum field theory models have more than one vacuum
+state. Familiar examples are the Sine-Gordon and the $\phi^4_2$-model. It is
+known that these models possess states, called kink states, which interpolate
+different vacua. A general construction scheme for kink states in the framework
+of algebraic quantum field theory is developed in a previous paper. However,
+for the application of this method, the crucial condition is the split property
+for wedge algebras in the vacuum representations of the considered models. It
+is believed that the vacuum representations of $P(\phi)_2$-models fulfill this
+condition, but a rigorous proof is only known for the massive free scalar
+field. Therefore, we investigate in a construction of kink states which can
+directly be applied to $P(\phi)_2$-model, by making use of the properties of
+the dynamic of a $P(\phi)_2$-model.
+","[{""version"":""v1"",""created"":""Mon, 15 Apr 1996 08:44:50 GMT""}]","2007-05-23"
+"hep-th/9604076","Jose Luis Cortes","Mario Atance and Jose Luis Cortes","Effective Field Theory of pure Gravity and the Renormalization Group","latex, 9 pages, minor correction, version published","Phys.Lett. B387 (1996) 697-700","10.1016/0370-2693(96)01102-1","DFTUZ/96-10","hep-th hep-ph",,"  The general structure of the renormalization group equations for the low
+energy effective field theory formulation of pure gravity is presented. The
+solution of these equations takes a particular simple form if the mass scale of
+the effective theory is much smaller than the Planck mass (a possibility
+compatible with the renormalization of the effective theory). A theory with
+just one free renormalized parameter is obtained when contributions suppressed
+by inverse powers of the Planck mass are neglected.
+","[{""version"":""v1"",""created"":""Mon, 15 Apr 1996 09:10:16 GMT""},{""version"":""v2"",""created"":""Wed, 11 Dec 1996 15:42:35 GMT""}]","2009-10-30"
+"math/9604215",,"Edward Odell, Thomas Schlumprecht","A Banach space block finitely universal for monotone bases",,,,"Banach Archive 4/15/96","math.FA",,"  A reflexive Banach space $X$ with a basis $(e_i)$ is constructed having the
+property that every monotone basis is block finitely representable in each
+block basis of $X$.
+","[{""version"":""v1"",""created"":""Mon, 15 Apr 1996 00:00:00 GMT""}]","2009-09-25"
+"math/9604216","Beata Randrianantoanina","Chi-Kwong Li and Beata Randrianantoanina","Isometries of cross products of sequence spaces",,,,"Banach Archive 4/15/96","math.FA",,"  Let $X_0, X_1, ..., X_k$ with $k \in \IN\cup\{\infty\}$ be sequence spaces
+$($finite or infinite dimensional$)$ over $\IC$ or $\IR$ with absolute norms
+$N_i$ for $i = 0, ..., k$, $($i.e., with 1-unconditional bases$)$ such that
+$\dim X_0 = k$. Define an absolute norm on the cross product space $($also
+known as the $X_0$ 1-unconditional sum$)$ $X_1 \times ... \times X_k$ by $$
+N(x_1, ..., x_k) = N_0(N_1(x_1), ..., N_k(x_k)) \quad \hbox{for all} \quad
+(x_1, ..., x_k) \in X_1 \times ... \times X_k. $$
+  We show that every sequence space with an absolute norm has an intrinsic
+cross product structure of this form. The result is used to prove a
+characterization of isometries of complex cross product spaces that covers all
+the existing results. We demonstrate by examples and the theory of finite
+reflection groups that it is impossible to extend the complex result to the
+real case. Nevertheless, some new isometry theorems are obtained for real cross
+product spaces.
+","[{""version"":""v1"",""created"":""Mon, 15 Apr 1996 00:00:00 GMT""}]","2009-09-25"
+"math/9604235","Marco Martens","Marco Martens","The periodic points of renormalization",,"Annals of Math. 147 (1998), 543--584",,"Stony Brook IMS 1996/3. Dynamical Systems 4/15/96","math.DS",,"  It will be shown that the renormalization operator, acting on the space of
+smooth unimodal maps with critical exponent greater than 1, has periodic points
+of any combinatorial type.
+","[{""version"":""v1"",""created"":""Mon, 15 Apr 1996 00:00:00 GMT""}]","2016-09-06"
+"math/9604241","Shelah Office","Saharon Shelah","Categoricity of theories in L_{kappa^* omega}, when kappa^* is a
+  measurable cardinal. Part II",,,,"Shelah [Sh:472]","math.LO",,"  We continue the work of [KlSh:362] and prove that for lambda successor, a
+lambda-categorical theory T in L_{kappa^*, omega} is mu-categorical for every
+mu, mu <= lambda which is above the (2^{LS(T)})^+-beth cardinal.
+","[{""version"":""v1"",""created"":""Mon, 15 Apr 1996 00:00:00 GMT""}]","2009-09-25"
+"math/9604242","Shelah Office","Kecheng Liu, Saharon Shelah","Cofinalities of elementary substructures of structures on aleph_omega",,"Israel J. Math. 99 (1997), 189-205",,"Shelah [LiSh:484]","math.LO",,"  Let 0<n^*< omega and f:X-> n^*+1 be a function where X subseteq omega
+backslash (n^*+1) is infinite. Consider the following set S_f= {x subset
+aleph_omega : |x| <= aleph_{n^*} & (for all n in X)cf(x cap alpha_n)=
+aleph_{f(n)}}. The question, first posed by Baumgartner, is whether S_f is
+stationary in [alpha_omega]^{< aleph_{n^*+1}}. By a standard result, the above
+question can also be rephrased as certain transfer property. Namely, S_f is
+stationary iff for any structure A=< aleph_omega, ... > there's a B prec A such
+that |B|= aleph_{n^*} and for all n in X we have cf(B cap aleph_n)=
+aleph_{f(n)}. In this paper, we are going to prove a few results concerning the
+above question.
+","[{""version"":""v1"",""created"":""Mon, 15 Apr 1996 00:00:00 GMT""}]","2016-09-06"
+"math/9604243","Shelah Office","Saharon Shelah","Strong covering without squares",,,,"Shelah [Sh:580]","math.LO",,"  We continue [Sh:b, Ch XIII] and [Sh:410]. Let W be an inner model of ZFC. Let
+kappa be a cardinal in V. We say that kappa-covering holds between V and W iff
+for all X in V with X subseteq ON and V models |X|< kappa, there exists Y in W
+such that X subseteq Y subseteq ON and V models |Y|< kappa. Strong
+kappa-covering holds between V and W iff for every structure M in V for some
+countable first-order language whose underlying set is some ordinal lambda, and
+every X in V with X subseteq lambda and V models |X|< kappa, there is Y in W
+such that X subseteq Y prec M and V models |Y|< kappa.
+  We prove that if kappa is V-regular, kappa^+_V= kappa^+_W, and we have both
+kappa-covering and kappa^+-covering between W and V, then strong kappa-covering
+holds. Next we show that we can drop the assumption of kappa^+-covering at the
+expense of assuming some more absoluteness of cardinals and cofinalities
+between W and V, and that we can drop the assumption that kappa^+_W = kappa^+_V
+and weaken the kappa^+-covering assumption at the expense of assuming some
+structural facts about W (the existence of certain square sequences).
+","[{""version"":""v1"",""created"":""Mon, 15 Apr 1996 00:00:00 GMT""}]","2016-09-06"
+"math/9604244","Shelah Office","Eric Rosen, Saharon Shelah, Scott Weinstein","k --Universal Finite Graphs",,"DIMACS Ser. Discrete Math. Theoret. Comput. Sci., 33 (1997), 65-77",,"Shelah [RShW:611]","math.LO",,"  This paper investigates the class of k-universal finite graphs, a local
+analog of the class of universal graphs, which arises naturally in the study of
+finite variable logics. The main results of the paper, which are due to Shelah,
+establish that the class of k-universal graphs is not definable by an infinite
+disjunction of first-order existential sentences with a finite number of
+variables and that there exist k-universal graphs with no k-extendible induced
+subgraphs.
+","[{""version"":""v1"",""created"":""Mon, 15 Apr 1996 00:00:00 GMT""}]","2016-09-06"
+"nucl-th/9604017",,"W. Florkowski and B. Friman","Oscillations of the static meson fields at finite baryon density",,"Nucl.Phys. A611 (1996) 409-428","10.1016/S0375-9474(96)00281-3","Report INP No. 1724/PH","nucl-th hep-ph",,"  The spatial dependence of static meson correlation functions at finite baryon
+density is studied in the Nambu -- Jona - Lasinio model. In contrast to the
+finite temperature case, we find that the correlation functions at finite
+density are not screened but exhibit long-range oscillations. The observed
+phenomenon is analogous to the Friedel oscillations in a degenerate electron
+gas.
+","[{""version"":""v1"",""created"":""Mon, 15 Apr 1996 12:06:00 GMT""}]","2009-10-30"
+"plasm-ph/9604003","Berezhiani Vazha","A.D. Rogava","Special-relativistic model flows of viscous fluid","5 pages, RevTex, no figures",,,,"plasm-ph physics.plasm-ph",,"  Two, the most simple cases of special-relativistic flows of a viscous,
+incompressible fluid are considered: plane Couette flow and plane Poiseuille
+flow. Considering only the regular motion of the fluid we found the
+distribution of velocity in the fluid (velocity profiles) and the friction
+force, acting on immovable wall. The results are expressed through simple
+analytical functions for the Couette flow, while for the Poiseiulle flow they
+are expressed by higher transcendental functions (Jacobi's elliptic functions).
+","[{""version"":""v1"",""created"":""Sun, 14 Apr 1996 20:50:16 GMT""}]","2008-02-03"
+"quant-ph/9604012","Madina Penntinen","M. Penttinen","Small-angle scattering on a system of magnetic and electric charges","15 pages. 3 figures. Latex with epsf.sty used","Int.J.Mod.Phys. A12 (1997) 3193-3204","10.1142/S0217751X97001687","RUB-TPII-02/96","quant-ph hep-ph hep-th",,"  The generalization of the conformal scattering method for small-angle
+scattering processes involving magnetic monopoles and ordinary charges is
+constructed. Using this generalization we show that introducing of magnetic
+charges corresponds to analytical continuation of the eikonal amplitude in the
+complex charge plane (the imaginary part is proportional to the magnetic
+charge). We calculate explicitly the eikonal amplitude for scattering on a dyon
+and two monopoles in terms of confluent hypergeometric functions. The
+singularities of the corresponding amplitudes (focal points) are studied in
+details.
+","[{""version"":""v1"",""created"":""Mon, 15 Apr 1996 15:20:57 GMT""}]","2015-06-26"
+"quant-ph/9604013","P. Busch","P. Busch (U. Hull) and A. Shimony (Boston University)","Insolubility of the Quantum Measurement Problem for Unsharp Observables","plain TeX, 10 pages","Stud. Hist. Phil. Mod. Phys. 27 (1996) 397-404.",,,"quant-ph",,"  The quantum mechanical measurement problem is the difficulty of dealing with
+the indefiniteness of the pointer observable at the conclusion of a measurement
+process governed by unitary quantum dynamics. There has been hope to solve this
+problem by eliminating idealizations from the characterization of measurement.
+We state and prove two `insolubility theorems' that disappoint this hope. In
+both the initial state of the apparatus is taken to be mixed rather than pure,
+and the correlation of the object observable and the pointer observable is
+allowed to be imperfect. In the {\it insolubility theorem for sharp
+observables}, which is only a modest extension of previous results, the object
+observable is taken to be an arbitrary projection valued measure. In the {\it
+insolubility theorem for unsharp observables}, which is essentially new, the
+object observable is taken to be a positive operator v alued measure. Both
+theorems show that the measurement problem is not the consequence of neglecting
+the ever-present imperfections of actual measurements.
+","[{""version"":""v1"",""created"":""Mon, 15 Apr 1996 10:51:19 GMT""}]","2007-05-23"
+"solv-int/9604002","A. M. Carroll","Daniel Stubbs (University of Western Ontario)","Analytic Structure of the Landau-Ginzburg Equation in 2+1 Dimensions","6 pages, LaTeX, submitted to the Journal of Mathematical Physics",,,,"solv-int nlin.SI",,"  In this paper, two methods are employed to investigate for which values of
+the parameters, if any, the two-dimensional real Landau-Ginzburg equation
+possesses the Painleve property. For an ordinary differential equation to have
+the Painleve property all of its solutions must be meromorphic but for partial
+differential equations there are two inequivalent definitions, one a direct
+investigation of a Laurent series expansion and the other indirect and relying
+on a knowledge of the continuous symmetry group of the equation. We check both
+methods for the Landau-Ginzburg equation in 2+1 dimensions and each one yields
+that this equation does not possess the Painleve property for any values of the
+parameters.
+","[{""version"":""v1"",""created"":""Sun, 14 Apr 1996 18:15:35 GMT""}]","2008-02-03"

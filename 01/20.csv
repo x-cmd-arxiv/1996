@@ -1,0 +1,325 @@
+"adap-org/9601004","Sergi Maslov","Sergei Maslov and Yi-Cheng Zhang","Self-Organized Critical Directed Percolation","4 two-column pages (revtex), 3 ps figures included with epsf,
+  g-zipped, uuencoded","Physica A 223 (1996) 1","10.1016/0378-4371(95)00346-0",,"adap-org cond-mat nlin.AO",,"  We introduce and study a dynamic transport model exhibiting Self-Organized
+Criticality. The novel concepts of our model are the probabilistic propagation
+of activity and unbiased random repartition of energy among the active site and
+its nearest neighbors. For space dimensionality $d\geq 2$ we argue that the
+model is related to $d+1$ dimensional directed percolation, with time
+interpreted as the preferred direction.
+","[{""version"":""v1"",""created"":""Fri, 19 Jan 1996 18:43:05 GMT""}]","2015-06-24"
+"astro-ph/9601103","Steve Maddox","S.J. Maddox (The Royal Greenwich Observatory, Cambridge), G.
+  Efstathiou and W.J. Sutherland (Department of Physics, Oxford)","The APM Galaxy Survey III: An Analysis of Systematic Errors in the
+  Angular Correlation Function and Cosmological Implications","102 pages, plain TeX plus 41 postscript figures. Submitted to MNRAS","Mon.Not.Roy.Astron.Soc.283:1227-1263,1996","10.1093/mnras/283.4.1227",,"astro-ph",,"  We present measurements of the angular two-point galaxy correlation function,
+$w(theta)$, from the APM Galaxy Survey. The performance of various estimators
+of $w$ is assessed using simulated galaxy catalogues and analytic arguments.
+Several error analyses show that residual plate-to-plate errors do not bias our
+estimates of $w$ by more than $10^{-3}$. Direct comparison between our
+photometry and external CCD photometry of over 13,000 galaxies from the Las
+Campanas Deep Redshift Survey shows that the rms error in the APM plate zero
+points lies in the range 0.04-0.05 magnitudes, in agreement with our previous
+estimates. We estimate the effects on $w$ of atmospheric extinction and
+obscuration by dust in our Galaxy and conclude that these are negligible. We
+use our best estimates of the systematic errors in the survey to calculate
+corrected estimates of $w$. Deep redshift surveys are used to determine the
+selection function of the APM Galaxy Survey, and this is applied in Limber's
+equation to compute how $w$ scales as a function of limiting magnitude. Our
+estimates of $w$ are in excellent agreement with the scaling relation,
+providing further evidence that systematic errors in the APM survey are small.
+We explicitly remove large-scale structure by applying filters to the APM
+galaxy maps and conclude that there is still strong evidence for more
+clustering at large scales than predicted by the standard scale-invariant cold
+dark matter (CDM) model. We compare the APM $w$ and the three dimensional power
+spectrum derived by inverting $w$, with the predictions of scale-invariant CDM
+models. We show that the observations require $Gamma=Omega_0 h$ in the range
+0.2-0.3 and are incompatible with the value $Gamma=0.5$ of the standard CDM
+model.
+","[{""version"":""v1"",""created"":""Fri, 19 Jan 1996 19:49:23 GMT""}]","2015-06-24"
+"astro-ph/9601104","Andrew Jaffe","A. Jaffe (CITA) and M.S. Turner (Chicago, Fermilab)","Gamma Rays and the Decay of Neutrinos from SN1987A","17 pages, 6 postscript figures, uses revtex, epsf.sty. Submitted to
+  PRD. Also available at
+  file://ftp.cita.utoronto.ca/cita/jaffe/papers/pvoflux.ps.gz","Phys.Rev.D55:7951-7959,1997","10.1103/PhysRevD.55.7951","CITA-95-26","astro-ph hep-ph",,"  We calculate limits to the properties of massive, unstable neutrinos using
+data from gamma-ray detectors on the Pioneer Venus Orbiter Satellite; a massive
+neutrino emitted from SN1987A that decayed in flight and produced gamma rays
+would be detectable by this instruments. The lack of such a signal allows us to
+constrain the branching ratio to photons ($\Bg$), mass ($\mnu$), and radiative
+lifetime ($\tau_\gamma = \tau/\Bg$). For low mass ($m<T\sim8\MeV$) neutrinos
+decaying $\nu\rightarrow\nu'\gamma$, $\Bg<3\times 10^{-7}$, for $\mt\lesssim
+10^6 \keV\sec$, and $\Bg<6\times 10^{-14} \mt/\keV\sec$ for $\mt\gtrsim 10^6
+\keV\sec$; limits for high-mass neutrinos are somewhat weaker due to Boltzmann
+suppression. We also calculate limits for decays that produce gamma rays
+through the \brem channel, $\nu\rightarrow\nu'e^+e^-\gamma$. In the case that
+neutrino mass states are nearly degenerate, $\delta m^2/m^2\ll1$, our limits
+for the mode $\nu\rightarrow\nu'\gamma$ become more stringent by a factor of
+$\delta m^2/m^2$, because more of the decay photons are shifted into the PVO
+detector energy window.
+","[{""version"":""v1"",""created"":""Fri, 19 Jan 1996 19:21:38 GMT""}]","2008-11-26"
+"astro-ph/9601105","Ben Dorman","Ben Dorman (LASP, NASA/GSFC) and Robert W. O'Connell (U. Virginia)","Constraints on the Stellar Populations of Elliptical Galaxies from
+  Ultraviolet Spectra","6 pages, LaTeX + two encapsulated postscript figures. Uses paspconf,
+  rotate, epsf, times styles. Postscript version available at
+  http://shemesh.gsfc.nasa.gov/~dorman/Ben.html Attention is also drawn to
+  colour poster (Heidelberg meeting, June 1995) available at the same site
+  covering similar material. To appear in `From Stars to Galaxies: The Impact
+  of Stellar Physics on Galaxy Evolution,' eds C. Leitherer, U. Fritze-von
+  Alvensleben, & J. P. Huchra, ASP Conf Ser",,,,"astro-ph",,"  We present preliminary results from spectral synthesis models of old stellar
+populations for the spectral range 912-4000 A with ~ 10A resolution, which can
+be used to investigate the UVX phenomenon and to assess ages and abundances.
+Model spectra incorporating extreme horizontal branch (EHB) and Post-Asymptotic
+Giant Branch (P-AGB) populations give good matches to the far-UV spectra of
+galaxies. These models indicate an EHB fraction which is < 10% of the total HB
+population in all but the most extreme examples of the UVX phenomenon, where
+the EHB fraction is still <= 20. Once the hot component that gives rise to the
+UVX phenomenon is accounted for, the mid-UV wavelength range (2200 < lambda <
+3300 A) provides information about the age and metallicity of the underlying
+stellar population. The flux in this spectral range arises mainly from stars
+close to the main sequence turnoff. We compare models with the spectrum of M31
+and discuss UV features which should be useful as population diagnostics.
+","[{""version"":""v1"",""created"":""Fri, 19 Jan 1996 21:09:11 GMT""}]","2007-05-23"
+"astro-ph/9601106","Ben Bromley","Benjamin C. Bromley, Kaiyou Chen, and Warner A. Miller","Line Emission from an Accretion Disk around a Rotating Black Hole:
+  Toward a Measurement of Frame Dragging","15 pages (LaTex), 7 postscript figures; color plot (Figure 1)
+  available at http://cfata2.harvard.edu/bromley/nu_nofun.html (This version
+  contains a new subsection as well as minor corrections.)","Astrophys.J. 475 (1997) 57","10.1086/303505","LAUR 96-161","astro-ph gr-qc",,"  Line emission from an accretion disk and a corotating hot spot about a
+rotating black hole are considered for possible signatures of the
+frame-dragging effect. We explicitly compare integrated line profiles from a
+geometrically thin disk about a Schwarzschild and an extreme Kerr black hole,
+and show that the line profile differences are small if the inner radius of the
+disk is near or above the Schwarzschild stable-orbit limit of radius 6GM/c^2.
+However, if the inner disk radius extends below this limit, as is possible in
+the extreme Kerr spacetime, then differences can become significant, especially
+if the disk emissivity is stronger near the inner regions. We demonstrate that
+the first three moments of a line profile define a three-dimensional space in
+which the presence of material at small radii becomes quantitatively evident in
+broad classes of disk models. In the context of the simple, thin disk paradigm,
+this moment-mapping scheme suggests formally that the iron line detected by the
+Advanced Satellite for Cosmology and Astrophysics mission from MCG-6-30-15
+(Tanaka et al. 1995) is 3 times more likely to originate from a disk about a
+rotating black hole than from a Schwarzschild system. A statistically
+significant detection of black hole rotation in this way may be achieved after
+only modest improvements in the quality of data. We also consider light curves
+and frequency shifts in line emission as a function of time for corotating hot
+spots in extreme Kerr and Schwarzschild geometries. Both the frequency-shift
+profile and the light curve from a hot spot are valuable measures of orbital
+parameters and might possibly be used to detect frame dragging even at radii
+approaching 6GM/c^2 if the inclination angle of the orbital plane is large.
+","[{""version"":""v1"",""created"":""Fri, 19 Jan 1996 23:11:38 GMT""},{""version"":""v2"",""created"":""Mon, 3 Feb 1997 22:49:31 GMT""}]","2009-10-28"
+"astro-ph/9601107","Crystal Martin","Crystal L. Martin (Steward Observatory; University of Arizona)","Kinematic Evidence for Superbubbles in I Zw 18: Constraints on the Star
+  Formation History and Chemical Evolution","31 pages including 6 figures. Accepted for publication in the
+  Astrophysical Journal","Astrophys.J. 465 (1996) 680","10.1086/177453","1302","astro-ph",,"  We have combined measurements of the kinematics, morphology, and oxygen
+abundance of the ionized gas in \IZw18, one of the most metal-poor galaxies
+known, to examine the star formation history and chemical mixing processes.
+","[{""version"":""v1"",""created"":""Fri, 19 Jan 1996 23:20:48 GMT""}]","2009-10-28"
+"chao-dyn/9601014","Holger Schanz","Holger Schanz and Bernd Esser","Nonadiabatic couplings and incipience of quantum chaos","16 pages including figures","Z. Phys. B 101 (1996) 299-304","10.1007/s002570050212",,"chao-dyn nlin.CD",,"  The quantization of the electronic two site system interacting with a
+vibration is considered by using as the integrable reference system the
+decoupled oscillators resulting from the adiabatic approximation. A specific
+Bloch projection method is applied which demonstrates how besides some regular
+regions in the fine structure of the spectrum and the associated eigenvectors
+irregularities appear when passing from the low to the high coupling case. At
+the same time even for strong coupling some of the regular structure of the
+spectrum rooted in the adiabatic potentials is kept intact justifying the
+classification of this situation as incipience of quantum chaos.
+","[{""version"":""v1"",""created"":""Fri, 19 Jan 1996 19:16:00 GMT""}]","2009-10-28"
+"cond-mat/9601081",,"Gunter M. Sch\""utz (Department of Physics, University of Oxford)","Stochastic Reaction-Diffusion Processes, Operator Algebras and
+  Integrable Quantum Spin Chains","11 pages, LATEX. Invited lecture given at the Satellite Meeting to
+  Statphys 19 on Statistical Models, Yang-Baxter Equation and Related Topics,
+  at Nankai University, Tianjin (August 1995). To appear in the Proceedings,
+  eds. F.Y. Wu and M.L. Ge, (World Scientific, Singapore)",,,,"cond-mat",,"  We show that the stochastic dynamics of a large class of one-dimensional
+interacting particle systems may be presented by integrable quantum spin
+Hamiltonians. Using the Bethe ansatz and similarity transformations this yields
+new exact results. In a complementary approach we generalize previous work and
+present a new description of these and other processes and the related quantum
+chains in terms of an operator algebra with quadratic relations. The full
+solution of the master equation of the process is thus turned into the problem
+of finding representations of this algebra. We find a two-dimensional
+time-dependent representation of the algebra for the symmetric exclusion
+process with open boundary conditions. We obtain new results on the dynamics of
+this system and on the eigenvectors and eigenvalues of the corresponding
+quantum spin chain, which is the isotropic Heisenberg ferromagnet with
+non-diagonal boundary fields.
+","[{""version"":""v1"",""created"":""Fri, 19 Jan 1996 17:01:09 GMT""}]","2007-05-23"
+"cond-mat/9601082",,"Gunter M. Sch\""utz (Department of Physics, University of Oxford)","Experimental Realizations of Integrable Reaction-Diffusion Processes in
+  Biological and Chemical Systems","10 pages, LATEX. Invited lecture given at the $7^{th}$ Nankai
+  Workshop on Symmetry, Statistical Mechanics Models, and Applications at
+  Nankai University, Tianjin (August 1995). To appear in the Proceedings, eds.
+  F.Y. Wu and M.L. Ge, (World Scientific, Singapore, 1996)",,,,"cond-mat q-bio",,"  Stochastic reaction-diffusion processes may be presented in terms of
+integrable quantum chains and can be used to describe various biological and
+chemical systems. Exploiting the integrability of the models one finds in some
+cases good agreement between experimental and exact theoretical data. This is
+shown for the Rubinstein-Duke model for gel-electrophoresis of DNA, the
+asymmetric exclusion process as a model for the kinetics of biopolymerization
+and the coagulation-diffusion model for exciton dynamics on TMMC chains.
+","[{""version"":""v1"",""created"":""Fri, 19 Jan 1996 17:01:35 GMT""}]","2007-05-23"
+"cond-mat/9601083","Alexander Moroz","Alexander Moroz","Upper and Lower Bounds on the Partition Function of the Hofstadter Model","10 pages, plain latex, no figures. A section on bounds on the
+  derivatives of the partition function and one reference added, to appear in
+  Mod. Phys. Lett. B","Mod.Phys.Lett. B10 (1996) 409-416","10.1142/S0217984996000468","TPBU-11-95","cond-mat hep-th",,"  Using unitary equivalence of magnetic translation operators, explicit upper
+and lower convex bounds on the partition function of the Hofstadter model are
+given for any rational ``flux"" and any value of Bloch momenta. These bounds (i)
+generalize straightforwardly to the case of a general asymmetric hopping and to
+the case of hopping of the form $t_{jn}(S_j^n+S_j^{-n})$ with $n$ arbitrary
+integer larger than or equal $2$, and (ii) allow to derive bounds on the
+derivatives of the partition function.
+","[{""version"":""v1"",""created"":""Fri, 19 Jan 1996 16:57:53 GMT""},{""version"":""v2"",""created"":""Tue, 14 May 1996 14:04:22 GMT""}]","2009-10-28"
+"cond-mat/9601084","Regis Melin","R. M\'elin (CRTBT-CNRS, Grenoble, France)","Glauber dynamics in a zero magnetic field and eigenvalue spacing
+  statistics","21 pages; Journal de Physique I (France)",,"10.1051/jp1:1996225",,"cond-mat",,"  We discuss the eigenvalue spacing statistics of the Glauber matrix for
+various models of statistical mechanics (a one dimensional Ising model, a two
+dimensional Ising model, a one dimensional model with a disordered ground
+state, and a SK model with and without a ferromagnetic bias). The dynamics of
+the one dimensional Ising model are integrable, and the eigenvalue spacing
+statistics are non-universal. In the other cases, the eigenvalue statistics in
+the high temperature regime are intermediate between Poisson and G.O.E (with
+$P(0)$ of the order of $0.5$). In the intermediate temperature regime, the
+statistics are G.O.E.. In the low temperature regime, the statistics have a
+peak at $s=0$. In the low temperature regime, and for disordered systems, the
+eigenvalues condense around integers, due to the fact that the local field on
+any spin never vanishes. This property is still valid for the Ising model on
+the Cayley tree, even if it is not disordered. We also study the spacing
+between the two largest eigenvalues as a function of temperature. This quantity
+seems to be sensitive to the existence of a broken symmetry phase.
+","[{""version"":""v1"",""created"":""Fri, 19 Jan 1996 18:25:20 GMT""}]","2009-10-28"
+"cond-mat/9601085","Frank Wilhelm","A.A. Golubov (Institute of Thin Film and Ion Technology, Research
+  Centre J""ulich, Germany), F. Wilhelm and A.D. Zaikin (Institut f""ur
+  theoretische Festk""orperphysik, Universitaet Karlsruhe, Germany)","Charge Transport in Superconductor - Normal Metal Proximity Structures","12 pages RevTeX, 6 postscript figures, using psfig",,,,"cond-mat supr-con",,"  We develop a detailed analysis of electron transport in normal diffusive
+conductors in the presence of proximity induced superconducting correlation. We
+calculated the linear conductance of the system and the profile of the electric
+field. A rich structure of temperature dependences was found and explained. Our
+results are consistent with recent experimental findings.
+","[{""version"":""v1"",""created"":""Fri, 19 Jan 1996 18:40:00 GMT""}]","2007-05-23"
+"cond-mat/9601086","Mohammad Sharifzadeh","M.H. Sharifzadeh Amin, P.E.C. Stamp","Vertex corrections in antiferromagnetic spin fluctuation theories","13 pages, RevTeX, 2 figures, Minor changes including tabular values
+  have been made. The main conclusions have not been changed.The revised
+  version is to appear in Phys. Rev. Lett. 77, 3017 (1996)",,"10.1103/PhysRevLett.77.3017",,"cond-mat",,"  We calculate the first vertex correction $\delta\Lambda_{\bf k}$ to the bare
+vertex $\Lambda_\circ$ in the nearly antiferromagnetic spin fluctuation Fermi
+liquid theory of the cuprate superconductor ${\rm YBa_2Cu_3O_7}$. It is
+calculated for $\bf k$ on the Fermi surface, and ${\bf Q}=(\pm {\pi\over a},
+\pm {\pi\over a})$. We find that the dimensionless ratio $|\delta\Lambda_{\bf
+k}|/\Lambda_\circ$, which parametrizes the vertex correction, is not small. It
+is a maximum for ${\bf k=k_h}$, where ${\bf k_h}$ is a ``hot spot'' on the
+Fermi surface. This makes large quantitative corrections to the theory.
+","[{""version"":""v1"",""created"":""Fri, 19 Jan 1996 22:25:22 GMT""},{""version"":""v2"",""created"":""Fri, 4 Oct 1996 22:00:05 GMT""}]","2009-10-28"
+"cond-mat/9601087","Yury Gurevich","G. Gonzalez de la Cruz, Yu. G. Gurevich (1), V. V. Prosentsov (2) ((1)
+  http://www.fis.cinvestav.mx/~gurevich/, Centro de Investigacion y Estudios
+  Avanzados del Instituto Politecnico Nacional, (2) Kharkov Politechnical
+  University)","New Mechanism of Magnetoresistance in Bulk Semiconductors: Boundary
+  Condition Effects","7 pages, Elsart macro package (LaTeX2e edition)","Solid State Communications 97, 1069 (1996)","10.1016/0038-1098(96)00032-4",,"cond-mat",,"  We consider the electronic transport in bounded semiconductors in the
+presence of an external magnetic field. Taking into account appropriate
+boundary conditions for the current density at the contacts, a change in the
+magnetoresistance of bulk semiconductors is found as compared with the usual
+theory of galvanomagnetic effects in boundless media. New mechanism in
+magnetoresistance connected with the boundary conditions arises. In particular,
+even when the relaxation time is independent of the electron energy,
+magnetoresistance is not vanish.
+","[{""version"":""v1"",""created"":""Sat, 20 Jan 1996 00:30:12 GMT""}]","2009-10-28"
+"hep-ph/9601300",,"Fabio Zwirner (CERN-TH and INFN,Padua)","Extensions of the Standard Model","LATEX, 5 figures, 15 A4 pages",,,"CERN-TH/96-06","hep-ph",,"  Rapporteur talk at the International Europhysics Conference on High Energy
+Physics, Brussels (Belgium), July 27-August 2, 1995. This talk begins with a
+brief general introduction to the extensions of the Standard Model, reviewing
+the ideology of effective field theories and its practical implications. The
+central part deals with candidate extensions near the Fermi scale, focusing on
+some phenomenological aspects of the Minimal Supersymmetric Standard Model. The
+final part discusses some possible low-energy implications of further
+extensions near the Planck scale, namely superstring theories.
+","[{""version"":""v1"",""created"":""Fri, 19 Jan 1996 17:20:55 GMT""}]","2007-05-23"
+"hep-ph/9601301",,"Stanley J. Brodsky (SLAC) and Hung Jung Lu (Univ. Arizona)","Optimal Renormalization Scales and Commensurate Scale Relations","LaTex 34 pages, 5 figures. To obtain a copy, send e-mail to
+  techpub@slac.stanford.edu",,,"SLAC-PUB-96-7098","hep-ph",,"  Commensurate scale relations relate observables to observables and thus are
+independent of theoretical conventions, such as the choice of intermediate
+renormalization scheme. The physical quantities are related at commensurate
+scales which satisfy a transitivity rule which ensures that predictions are
+independent of the choice of an intermediate renormalization scheme. QCD can
+thus be tested in a new and precise way by checking that the observables track
+both in their relative normalization and in their commensurate scale
+dependence. For example, the radiative corrections to the Bjorken sum rule at a
+given momentum transfer $Q$ can be predicted from measurements of the e+e-
+annihilation cross section at a corresponding commensurate energy scale $\sqrt
+s \propto Q,$ thus generalizing Crewther's relation to non-conformal QCD. The
+coefficients that appear in this perturbative expansion take the form of a
+simple geometric series and thus have no renormalon divergent behavior. We also
+discuss scale-fixed relations between the threshold corrections to the heavy
+quark production cross section in e+e- annihilation and the heavy quark
+coupling $\alpha_V$ which is measurable in lattice gauge theory.
+","[{""version"":""v1"",""created"":""Fri, 19 Jan 1996 19:35:05 GMT""}]","2007-05-23"
+"hep-ph/9601302","Jack Smith","M. Buza, Y. Matiounine, J. Smith, R. Migneron, W.L. van Neerven","Heavy quark coefficient functions at asymptotic values $Q^2 \gg m^2$","56 pages plain LATEX, 11 Postscript figures","Nucl.Phys.B472:611-658,1996","10.1016/0550-3213(96)00228-3","NIKHEF/95-070, ITP-SB-95-59, INLO-PUB-22/95","hep-ph",,"  In this paper we present the analytic form of the heavy-quark coefficient
+functions for deep-inelastic lepton-hadron scattering in the kinematical regime
+$Q^2 \gg m^2$ . Here $Q^2$ and $m^2$ stand for the masses squared of the
+virtual photon and heavy quark respectively. The calculations have been
+performed up to next-to-leading order in the strong coupling constant
+$\alpha_s$ using operator product expansion techniques. Apart from a check on
+earlier calculations, which however are only accessible via large computer
+programs, the asymptotic forms of the coefficient functions are useful for
+charm production at HERA when the condition $Q^2 \gg m_c^2$ is satisfied.
+Furthermore the analytical expressions can also be used when one applies the
+variable heavy flavour scheme up to next-to-leading order in $\alpha_s$.
+","[{""version"":""v1"",""created"":""Fri, 19 Jan 1996 19:57:38 GMT""}]","2010-04-06"
+"hep-ph/9601303","Stuart Raby","Vincent Lucas and Stuart Raby (The Ohio State University)","GUT Scale Threshold Corrections in a Complete Supersymmetric SO(10)
+  Model: $\alpha_s(M_Z)$ vs. Proton Lifetime","29 pages, using revtex, 2 figures (not included)","Phys.Rev.D54:2261-2272,1996","10.1103/PhysRevD.54.2261","OHSTPY-HEP-T-95-028","hep-ph",,"  We show that one loop GUT scale threshold corrections to gauge couplings are
+a significant constraint on the GUT symmetry breaking sector of the theory. The
+one loop threshold corrections relate the prediction for $\alpha_s(M_Z)$ to the
+proton lifetime. We have calculated these corrections in a new complete SO(10)
+SUSY GUT. The results are consistent with the low energy measurement of
+$\alpha_s(M_Z)$. We have also calculated the proton lifetime and branching
+ratios in this model. We show that proton decay rates provide a powerful test
+for theories of fermion masses.
+","[{""version"":""v1"",""created"":""Fri, 19 Jan 1996 23:13:16 GMT""}]","2014-11-17"
+"hep-ph/9601304","Taekoon Lee","Taekoon Lee","Longitudinal Z-boson pair production via gluon fusion in technicolor
+  models","6 pages, two Postcript Figures, uses sprocl.sty file included",,,"FERMILAB-CONF-96/019-T","hep-ph",,"  We study the coupling of two longitudinal Z-bosons to two gluons via
+technicolor interactions. Noticing a similarity of this process to $2 \gamma
+\rightarrow 2 \pi^{0}$, we calculate the amplitude in chiral perturbation
+theory in one-generation technicolor model. At the invariant mass of $
+Z_{L}Z_{L}$ above the colored pseudo-Goldstone boson threshold, we find the
+signal in proton collisions at $\sqrt{s} = 14\, TeV$ is stronger than the
+standard model background by an order of magnitude, and is large enough to be
+easily observable at LHC.
+  The cross section for $W_{L}^{+}W_{L}^{-}$ pair production is also presented.
+","[{""version"":""v1"",""created"":""Fri, 19 Jan 1996 23:59:10 GMT""}]","2009-09-25"
+"hep-th/9601102","Kelly Jay Davis","K. Davis ( Rutgers University )","M-Theory and String-String Duality","28 Pages, Uses harvmac.tex",,,"RU-XX","hep-th",,"  In this article we examine the compatibility of some recent results, results
+relating M-Theory to String Theory, with the string-string duality conjecture
+in six-dimensions. In particular, we rederive the relation between M-Theory and
+Type IIA strings. We then go on to examine in detail M-Theory on $K3 \times
+S^{1}$ and its relation to the Heterotic theory on $T^{4}$. We conclude with
+some remarks on M-Theory on $T^{4}\times (S^{1}/{\bf Z}_{2})$ and its relation
+to the Type II theory on $K3$.
+","[{""version"":""v1"",""created"":""Fri, 19 Jan 1996 16:57:53 GMT""}]","2007-05-23"
+"hep-th/9601103","Carlos Laciana","Carlos E. Laciana","Thermal Conditions for Scalar Bosons in a Curved Space Time","14 pages (TeX manuscript)","Gen.Rel.Grav. 28 (1996) 1013-1026","10.1007/BF02113095",,"hep-th gr-qc",,"  The conditions that allow us to consider the vacuum expectation value of the
+energy-momentum tensor as a statistical average, at some particular
+temperature, are given. When the mean value of created particles is stationary,
+a planckian distribution for the field modes is obtained. In the massless
+approximation, the temperature dependence is as that corresponding to a
+radiation dominated Friedmann-like model.
+","[{""version"":""v1"",""created"":""Fri, 19 Jan 1996 17:31:00 GMT""},{""version"":""v2"",""created"":""Mon, 22 Jan 1996 12:04:00 GMT""}]","2009-10-30"
+"hep-th/9601104","Stephen G. Naculich","M. Crescimanno, S. G. Naculich, and H. J. Schnitzer","Evaluation of the Free Energy of Two-Dimensional Yang-Mills Theory","10 pages; no figures; LaTeX","Phys.Rev. D54 (1996) 1809-1813","10.1103/PhysRevD.54.1809","BRX-TH-365, BOW-PH-106, BERC-PH-105","hep-th",,"  The free energy in the weak-coupling phase of two-dimensional Yang-Mills
+theory on a sphere for SO(N) and Sp(N) is evaluated in the 1/N expansion using
+the techniques of Gross and Matytsin. Many features of Yang-Mills theory are
+universal among different gauge groups in the large N limit, but significant
+differences arise in subleading order in 1/N.
+","[{""version"":""v1"",""created"":""Fri, 19 Jan 1996 21:16:02 GMT""}]","2009-10-30"
+"hep-th/9601105","Thomas Thiemann","Thomas Thiemann (Harvard University)","The inverse loop transform","15 pages, Latex","J.Math.Phys. 39 (1998) 1236-1248","10.1063/1.532344","CGPG-95/7-2, HUTMP-95/B-346","hep-th gr-qc",,"  The loop transform in quantum gauge field theory can be recognized as the
+Fourier transform (or characteristic functional) of a measure on the space of
+generalized connections modulo gauge transformations. Since this space is a
+compact Hausdorff space, conversely, we know from the Riesz-Markov theorem that
+every positive linear functional on the space of continuous functions thereon
+qualifies as the loop transform of a regular Borel measure on the moduli space.
+In the present article we show how one can compute the finite joint
+distributions of a given characteristic functional, that is, we derive the
+inverse loop transform.
+","[{""version"":""v1"",""created"":""Fri, 19 Jan 1996 23:20:52 GMT""}]","2016-09-06"
+"hep-th/9601106",,"Anatolij I.Bugrij, Vitalij N.Shadura (Bogolyubov Institute for
+  Theoretical Physics, Kiev)","On Duality of Two-dimensional Ising Model on Finite Lattice","18 pages, LaTeX",,"10.1103/PhysRevB.55.11045","ITP-96-01E","hep-th cond-mat hep-lat",,"  It is shown that the partition function of the 2d Ising model on the dual
+finite lattice with periodical boundary conditions is expressed through some
+specific combination of the partition functions of the model on the torus with
+corresponding boundary conditions. The generalization of the duality relations
+for the nonhomogeneous case is given. These relations are proved for the
+weakly-nonhomogeneous distribution of the coupling constants for the finite
+lattice of arbitrary sizes. Using the duality relations for the nonhomogeneous
+Ising model, we obtain the duality relations for the two-point correlation
+function on the torus, the 2d Ising model with magnetic fields applied to the
+boundaries and the 2d Ising model with free, fixed and mixed boundary
+conditions.
+","[{""version"":""v1"",""created"":""Sat, 20 Jan 1996 09:09:01 GMT""}]","2009-10-30"
+"patt-sol/9601002","David Raitt","David Raitt (Florida State University), Hermann Riecke (Northwestern
+  University)","Parametric Forcing of Waves with Non-Monotonic Dispersion Relation:
+  Domain Structures in Ferrofluids?","23 pages, 6 postscript figures, composed using RevTeX. Submitted to
+  PRE",,"10.1103/PhysRevE.55.5448",,"patt-sol nlin.PS",,"  Surface waves on ferrofluids exposed to a dc-magnetic field exhibit a
+non-monotonic dispersion relation. The effect of a parametric driving on such
+waves is studied within suitable coupled Ginzburg-Landau equations. Due to the
+non-monotonicity the neutral curve for the excitation of standing waves can
+have up to three minima. The stability of the waves with respect to long-wave
+perturbations is determined $via$ a phase-diffusion equation. It shows that the
+band of stable wave numbers can split up into two or three sub-bands. The
+resulting competition between the wave numbers corresponding to the respective
+sub-bands leads quite naturally to patterns consisting of multiple domains of
+standing waves which differ in their wave number. The coarsening dynamics of
+such domain structures is addressed.
+","[{""version"":""v1"",""created"":""Fri, 19 Jan 1996 21:17:41 GMT""}]","2009-10-30"

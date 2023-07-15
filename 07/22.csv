@@ -1,0 +1,322 @@
+"alg-geom/9607021","Miles Reid","F. Catanese, M. Franciosi, K. Hulek and M. Reid","Embeddings of curves and surfaces","LaTeX2e with packages: amstex, amssymb, theorem. 32 pp",,,"To be issued as Univ. of Pisa preprint. Requests for copies to the
+  second author at Pisa","alg-geom math.AG",,"  We prove a general embedding theorem for Cohen--Macaulay curves (possibly
+nonreduced), and deduce a cheap proof of the standard results on pluricanonical
+embeddings of surfaces, assuming vanishing H^1(2K_X)=0.
+","[{""version"":""v1"",""created"":""Mon, 22 Jul 1996 10:30:14 GMT""}]","2008-02-03"
+"alg-geom/9607022","Flavio. Angelini","Flavio Angelini","Ample divisors on the blow up of P^3 at points","AMS-LaTeX, 9 pages",,,,"alg-geom math.AG",,"  We give a condition for certain divisors on the blow up of P^3 at points in
+general position to be ample. The result extends a theorem of G. Xu on the blow
+up of the projective plane.
+","[{""version"":""v1"",""created"":""Mon, 22 Jul 1996 14:26:14 GMT""}]","2008-02-03"
+"astro-ph/9607102","Takahiko Matsubara","Yasushi Suto and Takahiko Matsubara (University of Tokyo)","Cosmological Redshift-Space Distortion II: distance in an inhomogeneous
+  universe and evolution of bias","5 pages, 4 figures included",,,"RESCEU-24/96, UTAP-239/96","astro-ph",,"  We discuss the two potentially important effects which should be taken into
+account in the analysis of the cosmological redshift-space distortion
+especially at high redshifts; the effect of inhomogeneities in the light
+propagation and the evolution of bias. Although such inhomogeneities affect
+significantly the degree of the cosmological redshift distortion, one can
+determine the density parameter $\Omega_0$ from the distortion pattern at
+$z=0$, and the cosmological constant $\lambda_0$ from that at $z = (1\sim 2)$.
+In particular we show that in low-density ($\Omega_0\ll 1$) universes one can
+determine the value of $\lambda_0$ and even the evolution of the bias parameter
+almost insensitively to the degree of the clumpiness of the matter distribution
+in the universe.
+","[{""version"":""v1"",""created"":""Mon, 22 Jul 1996 08:28:07 GMT""}]","2007-05-23"
+"cond-mat/9607144","Anton Alexeev","Anton Yu. Alekseev, Vadim V. Cheianov, J\""urg Fr\""ohlich","Comparing conductance quantization in quantum wires and Quantum Hall
+  systems","3 pages, LaTeX",,"10.1103/PhysRevB.54.R17320",,"cond-mat hep-th",,"  We propose a new calculation of the DC conductance of a 1-dimensional
+electron system described by the Luttinger model. Our approach is based on the
+ideas of Landauer and B\""{u}ttiker and on the methods of current algebra. We
+analyse in detail the way in which the system can be coupled to external
+reservoirs. This determines whether the conductance is renormalized or not. We
+show that although a quantum wire and a Fractional Quantum Hall system are
+described by the same effective theory, their coupling to external reservoirs
+is different. As a consequence, the conductance in the wire is quantized in
+integer units of $e^2/h$ per spin orientation whereas the Hall conductance
+allows for fractional quantization.
+","[{""version"":""v1"",""created"":""Sun, 21 Jul 1996 17:57:38 GMT""}]","2016-08-15"
+"cond-mat/9607145","Oreg Yuval","Yuval Oreg and Yuval Gefen","Electron Scattering Through a Quantum Dot: A Phase Lapse Mechanism","12 Pages, Revtex, 3 figures",,"10.1103/PhysRevB.55.13726",,"cond-mat",,"  The scattering phase shift of an electron transferred through a quantum dot
+is studied within a model Hamiltonian, accounting for both the
+electron--electron interaction in the dot and a finite temperature. It is shown
+that, unlike in an independent electron picture, this phase may exhibit a phase
+lapse of $ \pi $ {\em between } consecutive resonances under generic
+circumstances.
+","[{""version"":""v1"",""created"":""Sun, 21 Jul 1996 16:16:24 GMT""}]","2009-10-28"
+"cond-mat/9607146",,"Don H. Kim, Derek K.K. Lee, Patrick A. Lee","Bosons, gauge fields, and high-Tc cuprates","17 pages (16 EPS figures included), uses RevTeX 3.0, epsf, multicol",,"10.1103/PhysRevB.55.591",,"cond-mat",,"  A simple model of a degenerate two-dimensional Bose liquid interacting with a
+fluctuating gauge field is investigated as a possible candidate to describe the
+charge degree of freedom in the normal state of the cuprate superconductors. We
+show that the fluctuating gauge field destroys superfluidity even in the Bose
+degenerate regime. We discuss the nature of the resulting normal state in terms
+of the geometric properties of the imaginary-time paths of the bosons. We will
+also present numerical results on the transport properties and the density
+correlations in the system. We find a transport scattering rate of the order of
+2T, consistent with experiments on the optimally-doped cuprates. We also find
+that the density correlations of our model resemble the charge correlations of
+the t-J model.
+","[{""version"":""v1"",""created"":""Sun, 21 Jul 1996 19:59:29 GMT""}]","2009-10-28"
+"cond-mat/9607147","Jainendra K. Jain","J.K. Jain and R.K. Kamilla","Study of composite fermions: Beyond few particle systems","Revtex format. Typographical errors corrected in some equations",,,,"cond-mat",,"  We construct a new representation of composite fermion wave functions in the
+lowest Landau level which enables Monte Carlo computations at arbitrary filling
+factors for a fairly large number of composite fermions, thus clearing the way
+toward a more detailed quantitative investigation of the fractional quantum
+Hall effect. As an illustrative application, thermodynamic estimates for the
+transport gaps of several spin polarized incompressible states have been
+obtained.
+","[{""version"":""v1"",""created"":""Mon, 22 Jul 1996 07:30:01 GMT""},{""version"":""v2"",""created"":""Fri, 30 Aug 1996 11:09:14 GMT""}]","2008-02-03"
+"cond-mat/9607148","K. Shizuya","K. Shizuya","Current distributions and the de Haas-van Alphen oscillation in a planar
+  system of Hall electrons","20 pages, Revtex, 6 figures, final version as published","Int. J. Mod. Phys. B11 (1997) 1799-1812","10.1142/S0217979297000927","YITP-96-24","cond-mat",,"  The current distribution is studied for a finite-width two-dimensional system
+of Hall electrons, with a clear distinction drawn between the equilibrium edge
+current and the Hall current. It is pointed out that both the distribution and
+direction of the equilibrium edge current change dramatically as the number of
+electron edge states increases, and that this alternating edge current is
+another manifestation of the de Haas-van Alphen effect. The Hall-current
+distribution is substantially different from the edge current distribution, and
+it is shown numerically that the fast-traveling electrons along the sample edge
+are not the main carriers of the Hall current.
+","[{""version"":""v1"",""created"":""Mon, 22 Jul 1996 11:05:03 GMT""},{""version"":""v2"",""created"":""Fri, 12 Dec 1997 09:06:04 GMT""}]","2009-10-28"
+"cond-mat/9607149","Oreg Yuval","Yuval Oreg and Alexander M. Finkel'stein","DC--Transport in Quantum Wires","11 Pages, Revtex","Phys. Rev. B 54, R14265, (1996)","10.1103/PhysRevB.54.R14265",,"cond-mat",,"  The influence of electron--electron interaction on two terminal DC
+conductance of one--dimensional quantum wires is studied. A cancelation between
+the effect of the electron--electron interaction on the current and on the
+external electric field is the reason for the universal value, $e^2/2\pi\hbar $
+per mode, of the DC conductance of a clean wire. The effect of the
+renormalization of the electric field on the DC conductance in the presence of
+an interplay between the electron--electron interaction and backward scattering
+due to an impurity is considered.
+","[{""version"":""v1"",""created"":""Mon, 22 Jul 1996 13:13:38 GMT""}]","2009-10-28"
+"cond-mat/9607150","Gross Dieter","D.H.E.Gross, A.Ecker and X.Z.Zhang (Hahn-Meitner Institut Berlin,
+  Germany)","Microcanonical Thermodynamics of First Order Phase Transitions studied
+  in the Potts Model","Latex, 4 eps-figures, graphicx.sty","Annalen Phys. 5 (1996) 446-452",,,"cond-mat nucl-th",,"  Phase transitions of first and second order can easily be distinguished in
+small systems in the microcanonical ensemble. Configurations of phase
+coexistence, which are suppressed in the canonical formulation, carry important
+information about the main characteristics of first order phase transitions
+like the transition temperature, the latent heat, and the interphase surface
+tension. The characterisitc backbending of the micro- canonical caloric
+equation of state T(E) (not to be confused with the well known Van der Waals
+loops in ordinary thermodynamics) leading to a negative specific heat is
+intimatly linked to the interphase surface entropy.
+","[{""version"":""v1"",""created"":""Mon, 22 Jul 1996 13:04:47 GMT""}]","2007-05-23"
+"gr-qc/9607044","Hugo Morales Tecotl","Hugo A. Morales-Tecotl, Luis F. Urrutia and J. David Vergara","Reality conditions for Ashtekar variables as Dirac constraints","16 pages, plain LaTeX, submitted to Class. Quant. Grav. E-mail:
+  hugo@xanum.uam.mx","Class.Quant.Grav. 13 (1996) 2933-2940","10.1088/0264-9381/13/11/009",,"gr-qc hep-th",,"  We show that the reality conditions to be imposed on Ashtekar variables to
+recover real gravity can be implemented as second class constraints a la Dirac.
+Thus, counting gravitational degrees of freedom follows accordingly. Some
+constraints of the real theory turn out to be non-polynomial, regardless of the
+form, polynomial or non-polynomial, taken for the reality conditions. We
+comment upon the compatibility of our approach with the recently proposed Wick
+transform point of view, as well as on some alternatives for dealing with such
+second class constraints.
+","[{""version"":""v1"",""created"":""Sun, 21 Jul 1996 19:22:18 GMT""}]","2009-10-28"
+"gr-qc/9607045","Herbert Balasin","P.C.Aichelburg and H.Balasin","Generalized Symmetries of Impulsive Gravitational Waves","18 pages, latex2e, no figures","Class.Quant.Grav.14:A31-A42,1997","10.1088/0264-9381/14/1A/004","UWThPh-1996-28, TUW95-07","gr-qc",,"  We generalize previous \cite{AiBa2} work on the classification of
+($C^\infty$) symmetries of plane-fronted waves with an impulsive profile. Due
+to the specific form of the profile it is possible to extend the group of
+normal-form-preserving diffeomorphisms to include non-smooth transformations.
+This extension entails a richer structure of the symmetry algebra generated by
+the (non-smooth) Killing vectors.
+","[{""version"":""v1"",""created"":""Sun, 21 Jul 1996 21:10:14 GMT""}]","2010-04-06"
+"gr-qc/9607046","Prasanna","A. R. Prasanna (Physical Research Laboratory, Ahmedabad, India)","Inertial frame dragging and Mach's principle in General Relativity","19 pages, LateX","Class.Quant.Grav. 14 (1997) 227-236","10.1088/0264-9381/14/1/020",,"gr-qc",,"  We define a new parameter `cumulative drag index' for a particle in circular
+orbit in a stationary, axisymmetric gravitational field and study its behaviour
+in the two well known solutions of general relativity {\it viz.}, the Kerr
+spacetime and the G\""odel spacetime, wherein the inertial frame dragging has an
+important role. As it shows similar behaviour for both co and counter rotating
+particles, it may indeed be an indication of the influence of the faraway
+universe on local physics and thus Machian.
+","[{""version"":""v1"",""created"":""Mon, 22 Jul 1996 07:42:42 GMT""}]","2009-10-28"
+"hep-lat/9607047",,"She-Sheng Xue","Undoubled Chiral Fermions on a Lattice","Talk presented at LATTICE96 (chiral gauge), Latex","Nucl.Phys.Proc.Suppl. 53 (1997) 668-670","10.1016/S0920-5632(96)00749-9","MITH 96/10","hep-lat hep-ph hep-th",,"  We analyze the dynamics of an $SU_L(2)\otimes U_R(1)$ chiral theory on the
+lattice with a strong multifermion coupling. It is shown that no spontaneous
+symmetry breaking occurs; the ``spectator'' fermion $\psi_R$ is a free mode;
+doublers are decoupled as massive Dirac fermions consistently with the chiral
+symmetries. In 1+1 dimension, we show that the right-handed three-fermion state
+disappears at the threshold and an undoubled left-handed chiral fermion remains
+in the continuum limit.
+","[{""version"":""v1"",""created"":""Sun, 21 Jul 1996 18:23:24 GMT""}]","2009-10-28"
+"hep-lat/9607048","Jochen Heitger","Hermann Dilger and Jochen Heitger (Universit\""at M\""unster)","Scaling in the two-dimensional U(1)--Higgs model","Talk presented at LATTICE96(topology), 3 pages, latex2e, 2 Postscript
+  figures, uses packages epsfig and espcrc2","Nucl.Phys.Proc.Suppl. 53 (1997) 587-589","10.1016/S0920-5632(96)00726-8","MS-TPI-96-11","hep-lat",,"  We study the continuum limit of the $2D$ U(1)--Higgs model with variable
+scalar field length, which is qualitatively different from the fixed length
+case. Our simulations concentrate on the scaling behaviour of the topological
+susceptibility, and an instanton-induced confinement mechanism of fractional
+charges is numerically confirmed.
+","[{""version"":""v1"",""created"":""Mon, 22 Jul 1996 15:03:01 GMT""}]","2009-10-28"
+"hep-lat/9607049","Graham Boyd","B. All\'es, G. Boyd, M. D'Elia, A. Di Giacomo and E. Vicari","Hybrid Monte Carlo and topological modes of full QCD","LaTeX2e, uses elsart.cls (included), amstex package, cite.sty
+  (included). 8 pages, 1 figure. Change to the mass dependence of the
+  autocorrelation and a couple of references changed","Phys.Lett.B389:107-111,1996","10.1016/S0370-2693(96)01247-6","IFUP-TH 41/96","hep-lat",,"  We investigate the performance of the hybrid Monte Carlo algorithm, the
+standard algorithm used for lattice QCD simulations involving fermions, in
+updating non-trivial global topological structures. We find that the hybrid
+Monte Carlo algorithm has serious problems decorrelating the global topological
+charge at the values of $\beta$ and $m$ currently simulated, where continuum
+physics should be approximately realized. This represents a warning which must
+be seriously considered when simulating full QCD by hybrid Monte Carlo.
+","[{""version"":""v1"",""created"":""Mon, 22 Jul 1996 14:20:24 GMT""},{""version"":""v2"",""created"":""Thu, 22 Aug 1996 14:59:09 GMT""}]","2016-08-15"
+"hep-ph/9607380","Robert Eckardt","Robert Eckardt, J""org Hansper, Manfred F. Gari (RUB, Bochum)","A Haplousterotic Model for the Nucleon Wave Function","6 p., 4 figs, 12 EPS files, LaTeX, uses sprocl.sty (included) and
+  psfig.sty, talk given at the workshop on ""Virtual Compton Scattering""
+  Clermont-Fd., Jun '96, to appear in the proceedings",,,,"hep-ph",,"  We review the consequences of the sensitivity of the relation between the
+moments of a model for the nucleon quark distribution amplitude and the
+coefficients of its polynomial expansion. Criteria for a simpler approach to
+constructing a model for the quark distribution amplitude are formulated. We
+describe how such a simpler (or ""haplousterotic"") model for the quark
+distribution amplitude of the nucleon is obtained from the QCD sum-rule moments
+of COZ.
+","[{""version"":""v1"",""created"":""Mon, 22 Jul 1996 00:26:54 GMT""}]","2007-05-23"
+"hep-ph/9607382","Mikko Laine","H. Kurki-Suonio and M. Laine","Real-Time History of the Cosmological Electroweak Phase Transition","4 pages (revtex), 3 figures. One curve added to Fig.2, conclusions
+  unchanged","Phys.Rev.Lett. 77 (1996) 3951-3954","10.1103/PhysRevLett.77.3951","HU-TFT-96-26, HD-THEP-96-22","hep-ph astro-ph",,"  We study numerically the real-time history of the cosmological electroweak
+phase transition, as it may take place in the Standard Model or in MSSM for m_H
+< m_W according to recent lattice results. We follow the nucleated bubbles from
+the initial stages of acceleration and rapid growth, through collisions with
+compression waves resulting in slowing down and reheating to T_c, until the
+final stages of slow growth and evaporation. We find that collisions with
+compression waves may make the bubble walls oscillate in the radial direction,
+and that reheating to T_c takes generically place.
+","[{""version"":""v1"",""created"":""Mon, 22 Jul 1996 03:59:11 GMT""},{""version"":""v2"",""created"":""Thu, 1 Aug 1996 07:47:15 GMT""}]","2009-10-28"
+"hep-ph/9607383","Alex Pomarol","Gia Dvali and Alex Pomarol","Anomalous U(1) as a mediator of Supersymmetry Breaking","8 pages, Latex. Some comments added","Phys.Rev.Lett. 77 (1996) 3728-3731","10.1103/PhysRevLett.77.3728","CERN-TH/96-192","hep-ph hep-th",,"  We point out that an anomalous gauge U(1) symmetry is a natural candidate for
+being the mediator and messenger of supersymmetry breaking. It facilitates
+dynamical supersymmetry breaking even in the flat limit. Soft masses are
+induced by both gravity and the U(1) gauge interactions giving an unusual mass
+hierarchy in the sparticle spectrum which suppresses flavor violations. This
+scenario does not suffer from the Polonyi problem.
+","[{""version"":""v1"",""created"":""Sun, 21 Jul 1996 20:26:15 GMT""},{""version"":""v2"",""created"":""Thu, 1 Aug 1996 20:42:12 GMT""}]","2009-10-28"
+"hep-ph/9607384","V. Ravindran","V. Ravindran","The Polarised $\Lambda$ production in QCD","20 pages, 3 figures available on request","Nucl.Phys.B490:272-288,1997","10.1016/S0550-3213(97)00063-1","PRL-TH-96/5","hep-ph",,"  The $Q^2$ evolution of polarised parton fragmentation functions is discussed
+using Altarelli-Parisi evolution equations. The first moments of both polarised
+quark and gluon fragmentation functions are shown to behave in a similar
+fashion at very high energies. This analysis is applicable to any hard
+processes involving production of polarised hadrons. The polarised $\Lambda$
+hyperon production in $e^+~e^-$ annihilation where this can be realised is
+considered. We present a complete $\alpha_s(Q^2)$ corrections to the
+asymmetries discussed in the paper of Burkardt and Jaffe which demonstrates the
+extraction of various polarised fragmentation functions. To this order, these
+corrections are found to be scheme dependent similar to that of structure
+functions.
+","[{""version"":""v1"",""created"":""Sun, 21 Jul 1996 21:07:58 GMT""}]","2014-11-17"
+"hep-ph/9607385","Sridhar K.","Prakash Mathews, V. Ravindran, Sridhar K","Transverse structure function in the factorisation method","Latex file (15 pages), 3 figures using FEYNMAN.tex, New version
+  contains minor modifications in the text",,,"TIFR/TH/96-40","hep-ph",,"  Deep Inelastic scattering experiments using transversely polarised targets
+yield information on the structure function $g_2$. By means of a free-field
+analysis, we study the operator structure of $g_2$ and demonstrate the need for
+retaining the twist three mass terms in order to maintain current-conservation.
+We show that the structure function $g_T=g_1+g_2$ has a much simpler operator
+structure as compared to $g_2$, in spite of the fact that, like $g_2$, $g_T$
+has a twist-three component. We demonstrate factorisation of the hadronic
+tensor into hard and soft parts for the case of $g_T$. We show that the first
+moment of the gluonic contribution to $g_T$ vanishes, and discuss possible
+physical applications.
+","[{""version"":""v1"",""created"":""Mon, 22 Jul 1996 07:45:16 GMT""},{""version"":""v2"",""created"":""Thu, 8 Aug 1996 16:10:22 GMT""}]","2008-02-03"
+"hep-ph/9607386",,"S. Yu. Khlebnikov (Purdue) and M. E. Shaposhnikov (CERN)","Melting of the Higgs Vacuum: Conserved Numbers at High Temperature","9 pages, Latex, 3 eps figures","Phys.Lett. B387 (1996) 817-822","10.1016/0370-2693(96)01116-1","PURD-TH-96-05, CERN-TH/96-167","hep-ph",,"  We discuss the computation of the grand canonical partition sum describing
+hot matter in systems with the Higgs mechanism in the presence of non-zero
+conserved global charges. We formulate a set of simple rules for that
+computation in the high-temperature approximation in the limit of small
+chemical potentials. As an illustration of the use of these rules, we calculate
+the leading term in the free energy of the standard model as a function of
+baryon number B. We show that this quantity depends continuously on the Higgs
+expectation value $\phi$, with a crossover at $\phi\sim T$ where Debye
+screening overtakes the Higgs mechanism---the Higgs vacuum ``melts"". A number
+of confusions that exist in the literature regarding the B dependence of the
+free energy is clarified.
+","[{""version"":""v1"",""created"":""Mon, 22 Jul 1996 13:00:48 GMT""}]","2009-10-28"
+"hep-ph/9607389","Huang Han-wen","Yuan-Ben Dai, Chao-Shang Huang, Han-Wen Huang","$B\to X_s\tau^+\tau^-$ in a two Higgs doublet model","9 pages, LaTex(2 figures included)","Phys.Lett. B390 (1997) 257-262; Erratum-ibid. B513 (2001) 429-430","10.1016/S0370-2693(01)00752-3",,"hep-ph",,"  The inclusive rate and forward-backward asymmetry of dilepton angular
+distribution for a B-meson to decay to strange hadronic final states and a
+$\tau^+\tau^-$ pair in a two Higgs doublet model are computed. In particular,
+contributions of neutral Higgs bosons to the decay are included. QCD
+corrections to the effective Hamiltonian for $B\rightarrow X_s\tau^+\tau^-$ are
+calculated using the leading logarithmic approximation.
+","[{""version"":""v1"",""created"":""Mon, 22 Jul 1996 12:08:15 GMT""}]","2009-10-28"
+"hep-ph/9607390","Jean-Marc Virey","P. Taxil and J.-M. Virey","Discovery limits for a new contact interaction at future hadronic
+  colliders with polarized beams","Latex file, 9 pages and 1 ps fig, definition of the subprocess
+  variables and one example of the effect of new contact terms on the parity
+  violating spin asymmetry are added. Eq. 8 (now eq. 9) and the following
+  equation are changed, giving better bounds in the polarized pp case (new
+  figure)","Phys.Rev. D55 (1997) 4480-4483","10.1103/PhysRevD.55.4480","CPT-96/P.3364","hep-ph",,"  The production of high-transverse energy jets in hadron-hadroncollisions is
+sensitive to the presence of new contact interactions between quarks. If proton
+polarization were available, the measurement of some parity violating spin
+asymmetries in one-jet production at large transverse energy would complement
+the usual search for deviations from the expected QCD cross section. In the
+same time, a unique information on the chirality structure of the new
+interaction could be obtained. In this context, we compare the potentialities
+of various $pp$ and $p\bar p$ colliders that are planned or have been proposed,
+with the additional requirement of beam polarization.
+","[{""version"":""v1"",""created"":""Mon, 22 Jul 1996 13:38:14 GMT""},{""version"":""v2"",""created"":""Thu, 10 Oct 1996 10:33:38 GMT""}]","2009-10-28"
+"hep-ph/9607392",,"A. Ali and D. London","CP Violation and Flavour Mixing in the Standard Model -- 1996 Update","23 pages, LaTeX, 9 figures; updated to include latest experimental
+  results on Bs-Bs(bar) mixing","Nucl.Phys.Proc.Suppl.54A:297-308,1997","10.1016/S0920-5632(97)00059-5","DESY 96-140, UdeM-GPP-TH-96-38","hep-ph",,"  We review and update the constraints on the parameters of the quark flavour
+mixing matrix $V_{CKM}$ in the standard model and estimate the resulting CP
+asymmetries in $B$ decays, taking into account recent experimental and
+theoretical developments. With the updated CKM matrix we present the
+currently-allowed range of the ratios $|V_{td}/V_{ts}|$ and $|V_{td}/V_{ub}|$,
+as well as the standard model predictions for the \bsbsbar\ mixing parameter
+$\xs$ (or, equivalently, $\delms$) and the quantities $\sin 2\alpha$, $\sin
+2\beta$ and $\sin^2\gamma$, which characterize the CP-asymmetries in
+$B$-decays.
+","[{""version"":""v1"",""created"":""Mon, 22 Jul 1996 15:35:26 GMT""},{""version"":""v2"",""created"":""Mon, 19 Aug 1996 19:31:39 GMT""}]","2010-11-23"
+"hep-th/9607165","Wolfgang Eholzer","Wolfgang Eholzer and Nils-Peter Skoruppa","Product Expansions of Conformal Characters","10 pages, LaTeX2e (+amsfonts, amsopn, amsthm, amsmath), one reference
+  added","Phys.Lett. B388 (1996) 82-89","10.1016/0370-2693(96)01154-9","DAMTP-96-63","hep-th",,"  We describe several infinite series of rational conformal field theories
+whose conformal characters are modular units, i.e. which are modular functions
+having no zeros or poles in the upper complex half plane, and which thus
+possess simple product expansions. We conjecture that certain infinite series
+of rational models of Casimir W-algebras always have this property.
+Furthermore, we describe an algorithm which can be used to prove whether a
+modular function is a modular unit or not.
+","[{""version"":""v1"",""created"":""Sun, 21 Jul 1996 18:01:52 GMT""},{""version"":""v2"",""created"":""Tue, 17 Dec 1996 16:18:20 GMT""}]","2009-10-30"
+"hep-th/9607166","Sergey Solodukhin","Sergey Solodukhin","Brick wall and quantum statistical entropy of black hole","4 pages, latex. Invited talk at 2nd International Sakharov Conference
+  on Physics, Moscow, Russia, 20-23 May 1996",,,,"hep-th",,"  We discuss the statistical-mechanical entropy of black hole calculated
+according to 't Hooft. It is argued that in presence of horizon the statistical
+mechanics of quantum fields depends on their UV behavior. The ``brick wall''
+model was shown to provide a correct description when the ``brick wall''
+parameter is less than any UV cut-off.
+","[{""version"":""v1"",""created"":""Sun, 21 Jul 1996 20:46:52 GMT""}]","2007-05-23"
+"hep-th/9607167","Patrick E. Dorey","Patrick Dorey and Roberto Tateo","Excited states by analytic continuation of TBA equations","25 pages, latex, 6 ps files, uses epsf.tex. Typos corrected","Nucl.Phys.B482:639-659,1996","10.1016/S0550-3213(96)00516-0","DTP-96/29","hep-th",,"  We suggest an approach to the problem of finding integral equations for the
+excited states of an integrable model, starting from the Thermodynamic Bethe
+Ansatz equations for its ground state. The idea relies on analytic continuation
+through complex values of the coupling constant, and an analysis of the
+monodromies that the equations and their solutions undergo. For the scaling
+Lee-Yang model, we find equations in this way for the one- and two- particle
+states in the spin-zero sector, and suggest various generalisations. Numerical
+results show excellent agreement with the truncated conformal space approach,
+and we also treat some of the ultraviolet and infrared asymptotics
+analytically.
+","[{""version"":""v1"",""created"":""Sun, 21 Jul 1996 22:44:37 GMT""},{""version"":""v2"",""created"":""Tue, 6 Aug 1996 17:28:38 GMT""}]","2011-05-05"
+"hep-th/9607168","Leung Hok Chim","Leung Chim","Central Charge and the Andrews-Bailey Construction","Latex2e, requires cite.sty package, 13 pages. Additional footnote,
+  citation and references","J.Math.Phys. 40 (1999) 3761-3772","10.1063/1.532925","Research Report No.7, 1996","hep-th",,"  From the equivalence of the bosonic and fermionic representations of
+finitized characters in conformal field theory, one can extract mathematical
+objects known as Bailey pairs. Recently Berkovich, McCoy and Schilling have
+constructed a `generalized' character formula depending on two parameters $\ra$
+and $\r2$, using the Bailey pairs of the unitary model $M(p-1,p)$. By taking
+appropriate limits of these parameters, they were able to obtain the characters
+of model $M(p,p+1)$, $N=1$ model $SM(p,p+2)$, and the unitary $N=2$ model with
+central charge $c=3(1-{\frac{2}{p}})$. In this letter we computed the effective
+central charge associated with this `generalized' character formula using a
+saddle point method. The result is a simple expression in dilogarithms which
+interpolates between the central charges of these unitary models.
+","[{""version"":""v1"",""created"":""Mon, 22 Jul 1996 02:16:18 GMT""},{""version"":""v2"",""created"":""Wed, 24 Jul 1996 07:15:10 GMT""}]","2009-10-30"
+"hep-th/9607169","Sergei G. Gukov","Sergei Gukov and Igor Polyubin","Akin $N=2$ SUSY Yang Mills Theories and Instanton Expansion","Latex, 10 pages, 1 figure","Phys.Lett.B391:115-123,1997","10.1016/S0370-2693(96)01454-2","Landau-96-TMP-3, ITEP-TH-17/96","hep-th",,"  The low energy effective actions of the $N=2$ SUSY $SU(N_c)$ QCD are
+considered at the symmetric point on the moduli space. The classes of such
+theories have similar spectral curves. This fact allows us to show that all
+these models have the same structure of the coupling matrix and to show that
+the $N_f=2N_c$ spectral curve can not be presented as a double covering of the
+sphere. We calculate first instanton contributions to the coupling matrix and
+get nonperturbative $\beta$-functions in the $SU(2)$ gauge theory with non-zero
+bare masses of the matter hypermultiplets.
+","[{""version"":""v1"",""created"":""Mon, 22 Jul 1996 11:33:10 GMT""}]","2008-11-26"
+"hep-th/9607170","Arut","G.E.Arutyunov, S.A.Frolov and P.B.Medvedev","Elliptic Ruijsenaars-Schneider model via the Poisson reduction of the
+  Affine Heisenberg Double","latex, 15 pages, a new section is added where we show that the
+  problem of solving the equations of motion is equivalent to the factorization
+  problem","J.Phys.A30:5051-5063,1997","10.1088/0305-4470/30/14/016","SMI-96-55","hep-th",,"  It is shown that the elliptic Ruijsenaars-Schneider model can be obtained
+from the affine Heisenberg Double by means of the Poisson reduction procedure.
+The dynamical $r$-matrix naturally appears in the construction.
+","[{""version"":""v1"",""created"":""Mon, 22 Jul 1996 15:00:25 GMT""},{""version"":""v2"",""created"":""Fri, 18 Oct 1996 13:53:14 GMT""}]","2008-11-26"
+"hep-th/9607171",,"Paolo Pasti, Dmitrij Sorokin and Mario Tonin","Comment on covariant duality symmetric actions","LaTeX file, 3 pages","Phys.Rev. D56 (1997) 2473-2474","10.1103/PhysRevD.56.2473","DFPD 96/TH/41","hep-th",,"  We demonstrate that an action proposed by A. Khoudeir and N. R. Pantoja in
+{\sl Phys. Rev.} {\bf D53}, 5974 (1996) for endowing Maxwell theory with
+manifest electric--magnetic duality symmetry contains, besides the Maxwell
+field, additional propagating vector degrees of freedom. Hence it cannot be
+considered as a duality symmetric action for a {\it single} abelian gauge
+field.
+","[{""version"":""v1"",""created"":""Mon, 22 Jul 1996 15:22:27 GMT""}]","2009-10-30"
+"nucl-th/9607042","Root","Jean Cleymans and Azwinndini Muronga","Hadronic Ratios and the Number of Projectile Participants. Thermal
+  hadron production in Si-Au collisions","5 pages LaTeX2e, 4 figures in Postscript format","Phys.Lett. B388 (1996) 5-9","10.1016/0370-2693(96)01135-5","UCT-TP 230/96","nucl-th",,"  We investigate the dependence of hadronic ratios on the number of projectile
+participants using a thermal model incorporating exact baryon number and
+strangeness conservation. A comparison is made with results from $Au-Au$
+collisions obtained at the BNL-AGS.
+","[{""version"":""v1"",""created"":""Mon, 22 Jul 1996 14:16:06 GMT""}]","2009-10-30"
+"quant-ph/9607019","John Klauder","John R. Klauder (University of Florida)","Coherent State Path Integrals for Systems with Constraints","Latex, 10 pages, no figures",,,,"quant-ph hep-th",,"  We outline the principal results of a recent examination of the quantization
+of systems with first- and second-class constraints from the point of view of
+coherent-state phase-space path integration. Two examples serve to illustrate
+the procedures.
+","[{""version"":""v1"",""created"":""Mon, 22 Jul 1996 12:38:05 GMT""}]","2007-05-23"
+"quant-ph/9607020","John Klauder","John R. Klauder (University of Florida)","New Measures for the Quantization of Systems with Constraints","Latex, 9 pages, no figures",,,,"quant-ph hep-th",,"  Based on the results of a recent reexamination of the quantization of systems
+with first-class and second-class constraints from the point of view of
+coherent-state phase-space path integration, we give additional examples of the
+quantization procedure for reparameterization invariant Hamiltonians, for
+systems for which the original set of Lagrange multipliers are elevated to
+dynamical variables, as well as extend the formalism to include cases of
+first-class constraints the operator form of which have a spectral gap about
+the value zero that characterizes the quantum constraint subspace.
+","[{""version"":""v1"",""created"":""Mon, 22 Jul 1996 12:38:43 GMT""}]","2007-05-23"

@@ -1,0 +1,431 @@
+"astro-ph/9609191","Kazushi Iwasawa","K. Iwasawa, A.C. Fabian, S. Ueno, H. Awaki, Y. Fukazawa, K.
+  Matsushita, K. Makishima","ASCA PV observations of the Seyfert 2 galaxy NGC 4388: the obscured
+  nucleus and its X-ray emission","9 pages, 5 Postscript figures, to be published in MNRAS",,"10.1093/mnras/285.4.683",,"astro-ph",,"  We present results on the Seyfert 2 galaxy NGC4388 in the Virgo cluster
+observed with ASCA during its PV phase. The 0.5-10 keV X-ray spectrum consists
+of multiple components; (1) a continuum component heavily absorbed by a column
+density NH = 4E23 cm-2 above 3 keV; (2) a strong 6.4 keV line (EW = 500 eV);
+(3) a weak flat continuum between 1 and 3 keV; and (4) excess soft X-ray
+emission below 1 keV. The detection of strong absorption for the hard X-ray
+component is firm evidence for an obscured active nucleus in this Seyfert 2
+galaxy. The absorption corrected X-ray luminosity is about 2E42 erg/s. This is
+the first time that the fluorescent iron-K line has been detected in this
+object. The flat spectrum in the intermediate energy range may be a scattered
+continuum from the central source. The soft X-ray emission below 1 keV can be
+thermal emission from a temperature kT = 0.5 keV, consistent with the spatially
+extended emission observed by ROSAT HRI. However, the low abundance (0.05 Zs)
+and high mass flow rate required for the thermal model and an iron-K line
+stronger than expected from the obscuring torus model are puzzling. An
+alternative consistent solution can be obtained if the central source was a
+hundred times more luminous over than a thousand years ago. All the X-ray
+emission below 3 keV is then scattered radiation.
+","[{""version"":""v1"",""created"":""Fri, 27 Sep 1996 17:03:36 GMT""}]","2015-06-24"
+"atom-ph/9609001","Konrad Banaszek","Konrad Banaszek (Imperial College, London), Krzysztof Wodkiewicz
+  (University of New Mexico, Albuquerque)","Operational Theory of Homodyne Detection","7 pages, REVTeX","Phys. Rev. A 55, 3117 (1997)","10.1103/PhysRevA.55.3117",,"atom-ph physics.atom-ph quant-ph",,"  We discuss a balanced homodyne detection scheme with imperfect detectors in
+the framework of the operational approach to quantum measurement. We show that
+a realistic homodyne measurement is described by a family of operational
+observables that depends on the experimental setup, rather than a single field
+quadrature operator. We find an explicit form of this family, which fully
+characterizes the experimental device and is independent of a specific state of
+the measured system. We also derive operational homodyne observables for the
+setup with a random phase, which has been recently applied in an ultrafast
+measurement of the photon statistics of a pulsed diode laser. The operational
+formulation directly gives the relation between the detected noise and the
+intrinsic quantum fluctuations of the measured field. We demonstrate this on
+two examples: the operational uncertainty relation for the field quadratures,
+and the homodyne detection of suppressed fluctuations in photon statistics.
+","[{""version"":""v1"",""created"":""Fri, 27 Sep 1996 16:46:53 GMT""}]","2009-10-28"
+"chao-dyn/9610002","Henryk Fuks","N. Boccara, H. Fuks, S. Geurten","A New Class of Automata Networks","Uses elsart.cls document class. Five figures (two in EPS format)","Physica D 103 (1997) 145-154","10.1016/S0167-2789(97)00257-1",,"chao-dyn nlin.CD",,"  A new class of automata networks is defined. Their evolution rules are
+determined by a probability measure p on the set of all integers Z and an
+indicator function I_A on the interval [0,1]. It is shown that any cellular
+automaton rule can be represented by a (nonunique) rule formulated in terms of
+a pair (p,I_A). This new class of automata networks contains discrete systems
+which are not cellular automata. Some of their properties are discussed.
+","[{""version"":""v1"",""created"":""Fri, 27 Sep 1996 20:25:06 GMT""}]","2009-10-28"
+"chem-ph/9609002","Don Frantz","Don D. Frantz (Department of Chemistry, University of Waterloo,
+  Waterloo, Canada)","A Computational Study of Thirteen-atom Ar-Kr Cluster Heat Capacities","46 pages, 13 Figures combined in 2 .gif files, Journal of Chemical
+  Physics, AIP ID number 508646JCP",,"10.1063/1.472834",,"chem-ph physics.chem-ph",,"  Heat capacity curves as functions of temperature were calculated using Monte
+Carlo methods for the series of Ar_{13-n}Kr_n clusters (0 <= n <= 13). The
+clusters were modeled classically using pairwise additive Lennard-Jones
+potentials. J-walking (or jump-walking) was used to overcome convergence
+difficulties due to quasiergodicity present in the solid-liquid transition
+regions, as well as in the very low temperature regions where heat capacity
+anomalies arising from permutational isomers were observed. Substantial
+discrepancies between the J-walking results and the results obtained using
+standard Metropolis Monte Carlo methods were found. Results obtained using the
+atom-exchange method, another Monte Carlo variant designed for multi-component
+systems, were mostly similar to the J-walker results. Quench studies were also
+done to investigate the clusters' potential energy surfaces; in each case, the
+lowest energy isomer had an icosahedral-like symmetry typical of homogeneous
+thirteen-atom rare gas clusters, with an Ar atom being the central atom.
+","[{""version"":""v1"",""created"":""Fri, 27 Sep 1996 22:33:47 GMT""}]","2009-10-28"
+"cond-mat/9609269","Marc Gabay","M. Benakli, H. Zheng, M. Gabay","Thermal excitations of frustated XY spins in two dimensions","32 pages, RevTex, 11 eps figures available upon request, article to
+  appear in Phys. Rev. B","Phys.Rev. B55 (1997) 278-290","10.1103/PhysRevB.55.278",,"cond-mat",,"  We present a new variational approach to the study of phase transitions in
+frustrated 2D XY models. In the spirit of Villain's approach for the
+ferromagnetic case we divide thermal excitations into a low temperature long
+wavelength part (LW) and a high temperature short wavelength part (SW). In the
+present work we mainly deal with LW excitations and we explicitly consider the
+cases of the fully frustrated triangular (FFTXY) and square ( FFSQXY) XY
+models. The novel aspect of our method is that it preserves the coupling
+between phase (spin angles) and chiral degrees of freedom. LW fluctuations
+consist of coupled phase and chiral excitations. As a result, we find that for
+frustrated systems the effective interactions between phase variables is long
+range and oscillatory in contrast to the unfrustrated problem. Using Monte
+Carlo (MC) simulations we show that our analytical calculations produce
+accurate results at all temperature $T$; this is seen at low $T$ in the spin
+wave stiffness constant and in the staggered chirality; this is also the case
+near $T_c$: transitions are driven by the SW part associated with domain walls
+and vortices, but the coupling between phase and chiral variables is still
+relevant in the critical region. In that regime our analytical results yield
+the correct $T$ dependence for bare couplings (given by the LW fluctuations)
+such as the Coulomb gas temperature $T_{CG}$ of the frustrated XY models . In
+particular we find that $T_{CG}$ tracks chiral rather than phase fluctuations.
+Our results provides support for a single phase transition scenario in the
+FFTXY and FFSQXY models.
+","[{""version"":""v1"",""created"":""Fri, 27 Sep 1996 16:36:17 GMT""}]","2009-10-28"
+"cond-mat/9609271","Felix Ritort","Silvio Franz and Felix Ritort","Relaxation processes and entropic traps in the Backgammon model","4 Pages including 3 Figures, Revtex",,"10.1088/0305-4470/30/11/003","ITFA-96-39 (Institute of Theoretical Physics, University of
+  Amsterdam, The Netherlands)","cond-mat",,"  We examine the density-density correlation function in a model recently
+proposed to study the effect of entropy barriers in glassy dynamics. We find
+that the relaxation proceeds in two steps with a fast beta process followed by
+alpha relaxation. The results are physically interpreted in the context of an
+adiabatic approximation which allows to separate the two processes, and to
+define an effective temperature in the off-equilibrium dynamics of the model.
+We investigate the behavior of the response function associated to the density,
+and find violations of the fluctuation dissipation theorem.
+","[{""version"":""v1"",""created"":""Fri, 27 Sep 1996 16:52:11 GMT""}]","2009-10-28"
+"cond-mat/9609272","Boris Shraiman","Alain Pumir (Institut Non Lineaire de Nice), Boris I. Shraiman (Bell
+  Laboratories), Eric D. Siggia (Cornell University)","On the Kraichnan Model of Passive Scalar Advection Near the Batchelor
+  limit",,,,,"cond-mat",,"  The third order correlation function of the scalar field advected by a
+Gaussian random velocity, with a spatial scaling exponent $2 - \epsilon$, and
+in the presence of a mean gradient, is calculated perturbatively in $\epsilon
+<< 1$. This expansion corresponds to the regime close to Batchelor's advection
+by linear diffeomorphisms. The scaling exponent is found to be equal to 1 in
+dimensions 2 and 3, up to corrections smaller than $ { \cal O } ( \epsilon ) $,
+implying an anomalous scaling of the third order correlation function and the
+persistence of small scale anisotropy.
+","[{""version"":""v1"",""created"":""Fri, 27 Sep 1996 18:24:38 GMT""}]","2007-05-23"
+"cond-mat/9609273","Kenji Andrew Matsuoka","K.A. Matsuoka, K.K. Likharev, P. Dresselhaus, L. Ji, S. Han, and J.
+  Lukens (State University of New York, Stony Brook)","Single-Electron Traps: A Quantitative Comparison of Theory and
+  Experiment","17 pages, 21 figures, RevTex, epsf",,"10.1063/1.364278",,"cond-mat",,"  We have carried out a coordinated experimental and theoretical study of
+single-electron traps based on submicron aluminum islands and aluminum oxide
+tunnel junctions. The results of geometrical modeling using a modified version
+of MIT's FastCap were used as input data for the general-purpose
+single-electron circuit simulator MOSES. The analysis indicates reasonable
+quantitative agreement between theory and experiment for those trap
+characteristics which are not affected by random offset charges. The observed
+differences between theory and experiment (ranging from a few to fifty percent)
+can be readily explained by the uncertainty in the exact geometry of the
+experimental nanostructures.
+","[{""version"":""v1"",""created"":""Fri, 27 Sep 1996 19:33:50 GMT""}]","2009-10-28"
+"cond-mat/9609274","Laszlo Mihaly","Vladimir Golovanov, Laszlo Mihaly and A. R. Moodenbaugh","Magnetoresistance in La(1-x)SrxCoO3 for 0.05 - x - 0.25","4 pages, 3 figures. Also available at
+  http://buckminster.physics.sunysb.edu/papers/pubrece.htm","Phys. Rev. B, Vol 53, p. 8207 (1996)","10.1103/PhysRevB.53.8207",,"cond-mat",,"  The dc resistivity, magnetoresistance and magnetic susceptibility of
+La(1-x)SrxCoO3 compounds have been investigated in the temperature range of 4K
+to 300K for magnetic fields up to 7 T. In the doping range studied (0.05 - x -
+0.25) the electronic properties of the material exhibit a crossover from
+semiconducting to metallic behavior. The magnetoresistance is highest in the
+semiconducting state. A correlation was found between the energy gap determined
+from the dc conductivity and the energy scale identified from neutron
+scattering data. The results are interpreted in terms of a double exchange
+model.
+","[{""version"":""v1"",""created"":""Fri, 27 Sep 1996 21:17:48 GMT""}]","2009-10-28"
+"cond-mat/9609275",,"F. Marsiglio (Chalk River/McMaster)","Evaluation of the BCS Approximation for the Attractive Hubbard Model in
+  One Dimension","25 pages, 5 Postscript figures",,"10.1103/PhysRevB.55.575",,"cond-mat",,"  The ground state energy and energy gap to the first excited state are
+calculated for the attractive Hubbard model in one dimension using both the
+Bethe Ansatz equations and the variational BCS wavefunction. Comparisons are
+provided as a function of coupling strength and electron density. While the
+ground state energies are always in very good agreement, the BCS energy gap is
+sometimes incorrect by an order of magnitude, particularly at half-filling.
+Finite size effects are also briefly discussed for cases where an exact
+solution in the thermodynamic limit is not possible. In general, the BCS result
+for the energy gap is poor compared to the exact result.
+","[{""version"":""v1"",""created"":""Fri, 27 Sep 1996 21:44:48 GMT""}]","2009-10-28"
+"cond-mat/9609276","Frank Milde","Frank Milde, Rudolf A. R\""omer, and Michael Schreiber (TU-Chemnitz)","Multifractal analysis of the metal-insulator transition in anisotropic
+  systems","25 RevTeX pages with 10 PS-figures included","Phys. Rev. B 55, 9463-9469 (1997)","10.1103/PhysRevB.55.9463","SFB393/96-13","cond-mat",,"  We study the Anderson model of localization with anisotropic hopping in three
+dimensions for weakly coupled chains and weakly coupled planes. The eigenstates
+of the Hamiltonian, as computed by Lanczos diagonalization for systems of sizes
+up to $48^3$, show multifractal behavior at the metal-insulator transition even
+for strong anisotropy. The critical disorder strength $W_c$ determined from the
+system size dependence of the singularity spectra is in a reasonable agreement
+with a recent study using transfer matrix methods. But the respective spectrum
+at $W_c$ deviates from the ``characteristic spectrum'' determined for the
+isotropic system. This indicates a quantitative difference of the multifractal
+properties of states of the anisotropic as compared to the isotropic system.
+Further, we calculate the Kubo conductivity for given anisotropies by exact
+diagonalization. Already for small system sizes of only $12^3$ sites we observe
+a rapidly decreasing conductivity in the directions with reduced hopping if the
+coupling becomes weaker.
+","[{""version"":""v1"",""created"":""Sat, 28 Sep 1996 12:18:18 GMT""}]","2016-08-15"
+"gr-qc/9609064","Fay Dowker","H.F. Dowker and R.D. Sorkin","A Spin-Statistics Theorem for Certain Topological Geons","21 pages, Plain TeX with harvmac, 3 figures included via epsf","Class.Quant.Grav.15:1153-1167,1998","10.1088/0264-9381/15/5/007","CALT-68-2068","gr-qc",,"  We review the mechanism in quantum gravity whereby topological geons,
+particles made from non-trivial spatial topology, are endowed with nontrivial
+spin and statistics. In a theory without topology change there is no
+obstruction to ``anomalous'' spin-statistics pairings for geons. However, in a
+sum-over-histories formulation including topology change, we show that
+non-chiral abelian geons do satisfy a spin-statistics correlation if they are
+described by a wave function which is given by a functional integral over
+metrics on a particular four-manifold. This manifold describes a topology
+changing process which creates a pair of geons from $R^3$.
+","[{""version"":""v1"",""created"":""Sat, 28 Sep 1996 00:09:25 GMT""}]","2014-11-17"
+"gr-qc/9609065","Cai Rong-gen","Rong-Gen Cai and Yuan-Zhong Zhang (ACITP, Beijing)","Black plane solutions in four dimensional spacetimes","8 pages, RevTex, to appear in Phys. Rev. D","Phys.Rev.D54:4891-4898,1996","10.1103/PhysRevD.54.4891",,"gr-qc",,"  The static, plane symmetric solutions and cylindrically symmetric solutions
+of Einstein-Maxwell equations with a negative cosmological constant are
+investigated. These black configurations are asymptotically anti-de Sitter not
+only in the transverse directions, but also in the membrane or string
+directions. Their causal structure is similar to that of Reissner-Nordstr\""{o}m
+black holes, but their Hawking temperature goes with $M^{1/3}$, where $M$ is
+the ADM mass density. We also discuss the static plane solutions in
+Einstein-Maxwell-dilaton gravity with a Liouville-type dilaton potential. The
+presence of the dilaton field changes drastically the structure of solutions.
+They are asymptotically ``anti-de Sitter'' or ``de Sitter'' depending on the
+parameters in the theory.
+","[{""version"":""v1"",""created"":""Sat, 28 Sep 1996 08:14:58 GMT""}]","2009-07-09"
+"hep-lat/9609043","Shoichi Sasaki Rcnp","Shoichi Sasaki(1), Masahiro Fukushima(1), Atsunori Tanaka(1), Hideo
+  Suganuma(1), Hiroshi Toki(1), Osamu Miyamura(2) and Dmitri Diakonov(3)((1)
+  RCNP (2) Hiroshima Univ. (3) INP St. Petersburg)","Instanton, Monopole and Confinement","Talk presented by S. Sasaki at International Conference on Quark
+  Confinement and the Hadron Spectrum II, Como, Italy, 26-29 Jun 1996. Latex,
+  uses epsf.tex and sprocl.sty, 4 pages, 3 postscript figures included",,,,"hep-lat",,"  We study the correlation between instantons and QCD-monopoles both in the
+lattice gauge theory and in the multi-instanton system using the maximally
+abelian gauge. First, we find the existence of an almost linear correlation
+between the total length of monopole trajectories and the total number of
+pseudoparticles (instantons and anti-instantons) in the $16^{3}\times4$ SU(2)
+lattice. Second, we study the features of QCD-monopole in the SU(2)
+multi-instanton vacuum on the $16^{4}$ lattice as a random ensemble of
+pseudoparticles. A signal of monopole condensation is found as the clustering
+of monopole trajectories, when the topological pseudoparticles is sufficiently
+dense.
+","[{""version"":""v1"",""created"":""Sat, 28 Sep 1996 00:42:54 GMT""}]","2007-05-23"
+"hep-lat/9609044","Wolfhard Janke","C.F. Baillie, W. Janke, D.A. Johnston","Softening Transitions with Quenched 2D Gravity","3 pages, LaTeX + 1 postscript figure. Talk presented at
+  LATTICE96(other models). See also
+  http://www.cond-mat.physik.uni-mainz.de/~janke/doc/home_janke.html","Nucl.Phys.Proc.Suppl. 53 (1997) 732-734","10.1016/S0920-5632(96)00767-0","KOMA-96-37","hep-lat",,"  We perform extensive Monte Carlo simulations of the 10-state Potts model on
+quenched two-dimensional $\Phi^3$ gravity graphs to study the effect of
+quenched connectivity disorder on the phase transition, which is strongly first
+order on regular lattices. The numerical data provides strong evidence that,
+due to the quenched randomness, the discontinuous first-order phase transition
+of the pure model is softened to a continuous transition.
+","[{""version"":""v1"",""created"":""Fri, 27 Sep 1996 23:12:29 GMT""}]","2009-10-28"
+"hep-ph/9609504","Sourendu Gupta","Sourendu Gupta and Prakash Mathews","J/psi Spin Asymmetries in the Colour-Octet Model","LaTeX source, 18 pages","Phys.Rev. D55 (1997) 7144-7151","10.1103/PhysRevD.55.7144","TIFR/TH/96-53","hep-ph",,"  We investigate the pattern of asymmetries in the colour-octet model for
+inclusive production of charmonium with polarised initial state hadrons and
+photons. We find that singly polarised asymmetries vanish. The double polarised
+asymmetry for J/psi involves a new combination of long-distance matrix element.
+We also investigate the asymmetries for eta_c, chi_c and Upsilon production.
+The asymmetries distinguish well between different models of charmonium
+production.
+","[{""version"":""v1"",""created"":""Sat, 28 Sep 1996 01:39:44 GMT""}]","2009-10-28"
+"hep-ph/9609506","Haim Goldberg","Haim Goldberg","Thermodynamics of Hidden Sector Gaugino Condensation in the Expanding
+  Universe","13 pages LaTex, no figures","Phys.Lett. B394 (1997) 43-48","10.1016/S0370-2693(96)01678-4","NUB-3144/96-Th","hep-ph",,"  This work examines the confining-deconfining phase transition in a hidden
+Yang Mills sector with scale $\Lambda \sim 10^{14}$ GeV appropriate to dilaton
+stabilization and SUSY-breaking via formation of a gaugino consensate. If the
+transition is assumed to take place through homogenous nucleation, then under
+reasonable assumptions it is found that a critical bubble, formed at a
+temperature which provides enough supercooling, is not large enough to
+accommodate an adequate number $(\gsim 100)$ of quanta of the confined phase
+(`hidden hadrons') to allow a consistent thermodynamic description. Thus, a
+first order transition in the hidden sector may not be possible in the
+expanding universe.
+","[{""version"":""v1"",""created"":""Fri, 27 Sep 1996 16:45:47 GMT""}]","2009-10-28"
+"hep-ph/9609508","Gregory D. Mahlon","Gregory Mahlon (U. Michigan)","How to Search for a Light Stop at the Tevatron","3 pages, 1 figure, latex, uses sprocl.sty and psfig.tex. Talk given
+  at DPF96, Minneapolis, MN, Aug. 11-15, 1996",,,"UM-TH-96-15","hep-ph",,"  We describe a method for searching for a light stop squark
+[M(stop)+M(LSP)<M(t)] at the Fermilab Tevatron. Traditional searches rely upon
+stringent background-reducing cuts which, unfortunately, leave very few signal
+events given the present data set. To avoid this difficulty, we suggest using a
+milder set of cuts, combined with a ``superweight,'' whose purpose is to
+discriminate between signal and background. The superweight consists of a sum
+of terms (each of which are either zero or one) assigned event-by-event
+depending upon the values of various observables. By construction, the
+superweight ``large'' for the signal and ``small'' for the background. We apply
+this method to the detection of stops coming from top decay. It is
+straightforward to adapt our method to other processes.
+","[{""version"":""v1"",""created"":""Fri, 27 Sep 1996 20:00:23 GMT""}]","2007-05-23"
+"hep-ph/9609509",,"D. Ring","Neutrino Oscillations from Dirac and Majorana Masses","12 pages, 1 eps figure, REVTeX, epsf","Phys. Rev. D 55, 5767 (1997)","10.1103/PhysRevD.55.5767","CPT-TAMU-48/96","hep-ph",,"  We present a scenario of neutrino masses and mixing angles. Each generation
+includes a sterile right handed neutrino in addition to the usual left handed
+one. We assume a hierarchy in their Dirac masses similar to, but much larger
+than the hierarchies in the quarks and charged leptons. In addition, we include
+a Majorana mass term for the sterile neutrinos only. These assumptions prove
+sufficient to accomodate scales of mass differences and mixing angles
+consistent with all existing neutrino oscillation data.
+","[{""version"":""v1"",""created"":""Fri, 27 Sep 1996 22:02:36 GMT""}]","2016-08-24"
+"hep-ph/9609510","Amitabha Lahiri","Amitabha Lahiri (University of Sussex)","The Dynamical Nonabelian Two-Form: BRST Quantization","15 pages, revtex","Phys. Rev. D 55, 5045 (1997)","10.1103/PhysRevD.55.5045","SUSX-TH/96-013","hep-ph",,"  When an antisymmetric tensor potential is coupled to the field strength of a
+gauge field via a $B\wedge F$ coupling and a kinetic term for $B$ is included,
+the gauge field develops an effective mass. The theory can be made invariant
+under a non-abelian vector gauge symmetry by introducing an auxiliary vector
+field. The covariant quantization of this theory requires ghosts for ghosts.
+The resultant theory including gauge fixing and ghost terms is BRST-invariant
+by construction, and therefore unitary. The construction of the BRST-invariant
+action is given for both abelian and non-abelian models of mass generation.
+","[{""version"":""v1"",""created"":""Fri, 27 Sep 1996 23:55:49 GMT""}]","2016-08-24"
+"hep-th/9609215","Vist","M. Passare, A.K. Tsikh, A.A. Cheshel","Multiple Mellin-Barnes Integrals as Periods of Calabi-Yau Manifolds With
+  Several Moduli","18 pages, AMS-tex + 3 postscript figures, to be published in Theor.
+  Math. Phys. Russia","Theor.Math.Phys. 109 (1997) 1544-1555; Teor.Mat.Fiz. 109N3 (1996)
+  381-394","10.1007/BF02073871",,"hep-th",,"  We give a representation, in terms of iterated Mellin-Barnes integrals, of
+periods on multi-moduli Calabi-Yau manifolds arising in superstring theory.
+Using this representation and the theory of multidimensional residues, we
+present a method for analytic continuation of the fundamental period in the
+form of Horn series.
+","[{""version"":""v1"",""created"":""Fri, 27 Sep 1996 17:43:38 GMT""}]","2009-10-30"
+"hep-th/9609216","Michael Engelhardt","Michael Engelhardt and Shimon Levit (Weizmann Institute)","Variational Master Field for Large-N Interacting Matrix Models - Free
+  Random Variables on Trial","24 pages, 16 figures","Nucl.Phys. B488 (1997) 735-774","10.1016/S0550-3213(97)00043-6",,"hep-th cond-mat nucl-th",,"  Matrices are said to behave as free non-commuting random variables if the
+action which governs their dynamics constrains only their eigenvalues, i.e.
+depends on traces of powers of individual matrices. The authors use recently
+developed mathematical techniques in combination with a standard variational
+principle to formulate a new variational approach for matrix models.
+Approximate variational solutions of interacting large-N matrix models are
+found using the free random matrices as the variational space. Several classes
+of classical and quantum mechanical matrix models with different types of
+interactions are considered and the variational solutions compared with exact
+Monte Carlo and analytical results. Impressive agreement is found in a majority
+of cases.
+","[{""version"":""v1"",""created"":""Fri, 27 Sep 1996 16:36:05 GMT""}]","2009-10-30"
+"hep-th/9609217","Paul Townsend","P.K. Townsend","Brane Surgery","Minor corrections. Now in Latex. Needs espcrc2.sty macro. 13 pp. To
+  appear in Proceedings of the European Research Conference on `Advanced
+  Quantum Field Theory' held in memory of Claude Itzykson, La lonnde les
+  Maures, France, Sept. 1996","Nucl.Phys.Proc.Suppl. 58 (1997) 163-175","10.1016/S0920-5632(97)00421-0",,"hep-th",,"  Some aspects of the role of p-branes in non-perturbative superstring theory
+and M-theory are reviewed. It is then shown how the Chern-Simons terms in D=10
+and D=11 supergravity theories determine which branes can end on which, i.e.
+the `brane boundary rules'.
+","[{""version"":""v1"",""created"":""Fri, 27 Sep 1996 17:27:54 GMT""},{""version"":""v2"",""created"":""Mon, 14 Oct 1996 15:34:39 GMT""}]","2009-10-30"
+"hep-th/9609218","Saulo Carneiro de Souza Silva S.","P.C.R. Cardoso de Mello, S. Carneiro and M.C. Nemes","Action Principle for the Classical Dual Electrodynamics","latex, 8 pages, no figures","Phys.Lett.B384:197-200,1996","10.1016/0370-2693(96)00813-1",,"hep-th",,"  The purpose of this paper is to formulate an action principle which allows
+for the construction of a classical lagrangean including both electric and
+magnetic currents. The lagrangean is non-local and shown to yield all the
+expected (local) equations for dual electrodynamics.
+","[{""version"":""v1"",""created"":""Fri, 27 Sep 1996 17:57:50 GMT""}]","2010-03-19"
+"hep-th/9609220","Alexander Belopolsky","Alexander Belopolsky","De Rham Cohomology of the Supermanifolds and Superstring BRST Cohomology","6 pages","Phys.Lett. B403 (1997) 47-50","10.1016/S0370-2693(97)00445-0","IFP/101/UNC","hep-th",,"  We show that the BRST operator of Neveu-Schwarz-Ramond superstring is closely
+related to de Rham differential on the moduli space of decorated super-Riemann
+surfaces P. We develop formalism where superstring amplitudes are computed via
+integration of some differential forms over a section of P over the super
+moduli space M. We show that the result of integration does not depend on the
+choice of section when all the states are BRST physical. Our approach is based
+on the geometrical theory of integration on supermanifolds of which we give a
+short review.
+","[{""version"":""v1"",""created"":""Sat, 28 Sep 1996 00:50:20 GMT""}]","2009-10-30"
+"hep-th/9609221",,"Kenichiro Aoki, Eric D'Hoker","High energy scattering of non-critical strings","10pp, LaTeX, Contribution to Proceedings of the Telluride 1996,
+  workshop on Low-Dimensional Quantum Fields Theory","Int.J.Mod.Phys.A12:1253-1263,1997","10.1142/S0217751X97000980","UCLA/96/TEP/29","hep-th",,"  We summarize recent work, in which we consider scattering amplitudes of
+non-critical strings in the limit where the energy of all external states is
+large compared to the string tension. We show that the high energy limit is
+dominated by a saddle point that can be mapped onto an electrostatic
+equilibrium configuration of an assembly of charges associated with the
+external states, together with a density of charges arising from the Liouville
+field. The Liouville charges accumulate on line segments, which produce
+quadratic branch cuts on the worldsheet. The electrostatics problem is solved
+for string tree level in terms of hyperelliptic integrals and is given
+explicitly for the 3- and 4-point functions. For generic values of the central
+charge, the high energy limit behaves in a string-like fashion, with
+exponential energy dependence.
+","[{""version"":""v1"",""created"":""Sat, 28 Sep 1996 01:47:16 GMT""}]","2014-11-18"
+"hep-th/9609223","Motohiko Yoshimura","I. Joichi, Sh. Matsumoto, and M. Yoshimura","Quantum Dissipation and Decay in Medium","19 pages, LATEX file. Substantially expanded and revised for
+  publication, including more complete description of application to unstable
+  particle decay in thermal medium. Some minor mistake of numerical factors
+  corrected","Phys.Rev. A57 (1998) 798","10.1103/PhysRevA.57.798","TU/96/510","hep-th cond-mat gr-qc hep-ph quant-ph",,"  Quantum dissipation in thermal environment is investigated, using the path
+integral approach. The reduced density matrix of the harmonic oscillator system
+coupled to thermal bath of oscillators is derived for arbitrary spectrum of
+bath oscillators. Time evolution and the end point of two-body decay of
+unstable particles is then elucidated: After early transient times unstable
+particles undergo the exponential decay, followed by the power law decay and
+finally ending in a mixed state of residual particles containing contributions
+from both on and off the mass shell, whose abundance does not suffer from the
+Boltzmann suppression.
+","[{""version"":""v1"",""created"":""Sat, 28 Sep 1996 07:47:27 GMT""},{""version"":""v2"",""created"":""Tue, 2 Sep 1997 01:07:14 GMT""}]","2009-10-30"
+"hep-th/9609224","Takehisa Fujita","Takehisa Fujita, Makoto Hiramoto and Hidenori Takahashi","Bound states of 1+1 dimensional field theories","10 pages, Latex, no figure, Talk given at the 13th International
+  Seminar On High Energy Physics Problems, Dubna, 2-7 September, 1996",,,,"hep-th",,"  We discuss the bound states of the massive Thirring model. Here, the periodic
+boundary condition equations for the Bethe ansatz solutions are numerically
+solved. It is found that the massive Thirring model has only one bound state
+and the bound state spectrum as the function of the coupling constant agrees
+with that of infinite momentum frame prescription by Fujita and Ogura. Boson
+boson states (2p$-$2h states) appear only as the continuum spectrum without
+making any bound states.
+  Further, the finite size correction to the vacuum energy is estimated. The
+evaluated central charge is found to be close to unity.
+","[{""version"":""v1"",""created"":""Sat, 28 Sep 1996 11:01:17 GMT""}]","2007-05-23"
+"nucl-th/9609062",,"C. Ciofi degli Atti, L.P. Kaptari (Perugia), S. Scopetta (Perugia and
+  Mainz)","Tagging nucleon structure functions by heavy particle detection in deep
+  inelastic electron-ion scattering","14 pages, Latex file, 4 postscript figures generated by epsf.sty
+  included in submission",,,,"nucl-th",,"  It is shown that in deep inelastic electron - ion collisions the detection,
+in coincidence with the scattered electron, of a nucleus A-1 in the ground
+state, as well as a nucleon and a nucleus A-2 also in the ground state, may
+provide unique information on several long standing problems, such as the
+origin of the EMC effect, the possible medium modifications of the nucleon
+structure functions, and the nature of Nucleon-Nucleon correlations.
+","[{""version"":""v1"",""created"":""Fri, 27 Sep 1996 20:18:17 GMT""}]","2007-05-23"
+"nucl-th/9609063","Mannque Rho","Mannque Rho (SPhT/CEA Saclay)","QCD Vacuum Changes in Nuclei","12 pages, revtex, no figures. Invited talk given at the International
+  Workshop on Hadrons in Dense Matter, July 3-5, 1996, GSI, Darmstadt, Germany
+  and at the International Symposium on Non-Nucleonic Degrees of Freedom
+  Detected in Nucleus, September 2-5, 1996, Osaka, Japan",,,,"nucl-th hep-ph",,"  In this talk, I discuss how the changes in the QCD vacuum induced by
+increasing nuclear matter density affect nuclear properties under normal as
+well as extreme conditions. The quark condensate which is the order parameter
+for the mode in which chiral symmetry is manifested is expected to change as
+matter density or temperature is changed. The topics discussed are ``BR
+scaling,"" its connection to the structure of nuclei in Landau's Fermi liquid
+theory and a variety of consequences on such nuclear properties as effective
+nucleon mass, nuclear gyromagnetic ratios, $g_A^\star$, axial-charge
+transitions in nuclei and on the fluctuations of nuclear matter into the
+strange-flavor direction as observed in heavy-ion collisions. I will also
+present a simple explanation of the recent dilepton data in the CERN-CERES
+heavy-ion experiments involving densities greater than that of nuclear matter
+and of the Indiana results on the longitudinally polarized proton scattering
+from heavy nuclei, evidencing dropping vector-meson masses in medium which can
+be interpreted as signaling an aspect of chiral symmetry restoration in dense
+medium. The test of BR scaling provides a bridge between the physics of extreme
+conditions (e.g. relativistic heavy-ion collisions) and the physics of normal
+conditions which has conventional descriptions, thereby setting the stage for
+formulating many-body theory for nuclear matter starting from an effective
+chiral Lagrangian.
+","[{""version"":""v1"",""created"":""Sat, 28 Sep 1996 09:48:44 GMT""}]","2007-05-23"
+"q-alg/9609031","Vyjayanthi Chari","Vyjayanthi Chari and Andrew Pressley","Quantum Affine Algebras at Roots of Unity","54 pages, Amstex. The paper has been substantially revised,
+  reorganized and the results are now proved for arbitrary untwisted affine Lie
+  algebras. The proof uses several new identities in the the quantized
+  enveloping algbera",,,,"q-alg math.QA",,"  We study the restricted form of the qaunatized enveloping algebra of an
+untwisted affine Lie algebra and prove a triangular decomposition for it. In
+proving the decomposition we prove several new identities in the quantized
+algebra, one of these show a connection between the quantized algebra and Young
+diagrams. These identities are all invisible in the non-quantum case of the
+problem which was considered by Garland in 1978. We then study the
+finite-dimensional irreducible representations and prove a factorization
+theorem for such representations.
+","[{""version"":""v1"",""created"":""Fri, 27 Sep 1996 22:02:28 GMT""},{""version"":""v2"",""created"":""Tue, 22 Apr 1997 02:40:38 GMT""}]","2016-09-08"
+"quant-ph/9609023","Olavo Leopoldino Da Silva Filho","L.S.F. Olavo","Quantum Mechanics as a Classical Theory XIV: Connection with Stochastic
+  Processes","plain latex, no figures, 15 pages",,,"unb-014","quant-ph",,"  In this paper we are interested in unraveling the mathematical connections
+between the stochastic derivation of Schr\""odinger equation and ours. It will
+be shown that these connections are given by means of the time-energy
+dispersion relation and will allow us to interpret this relation on more
+sounded grounds. We also discuss the underlying epistemology.
+","[{""version"":""v1"",""created"":""Fri, 27 Sep 1996 18:23:19 GMT""}]","2007-05-23"
+"quant-ph/9609024","Chris Adami","C. Adami and N.J. Cerf (California Institute of Technology)","On the von Neumann capacity of noisy quantum channels","15 pages RevTeX with psfig, 13 figures. Revised interpretation of
+  capacity, added section, changed title","Phys.Rev.A56:3470,1997","10.1103/PhysRevA.56.3470","KRL MAP-206","quant-ph",,"  We discuss the capacity of quantum channels for information transmission and
+storage. Quantum channels have dual uses: they can be used to transmit known
+quantum states which code for classical information, and they can be used in a
+purely quantum manner, for transmitting or storing quantum entanglement. We
+propose here a definition of the von Neumann capacity of quantum channels,
+which is a quantum mechanical extension of the Shannon capacity and reverts to
+it in the classical limit. As such, the von Neumann capacity assumes the role
+of a classical or quantum capacity depending on the usage of the channel. In
+analogy to the classical construction, this capacity is defined as the maximum
+von Neumann mutual entropy processed by the channel, a measure which reduces to
+the capacity for classical information transmission through quantum channels
+(the ""Kholevo capacity"") when known quantum states are sent. The quantum mutual
+entropy fulfills all basic requirements for a measure of information, and
+observes quantum data-processing inequalities. We also derive a quantum Fano
+inequality relating the quantum loss of the channel to the fidelity of the
+quantum code. The quantities introduced are calculated explicitly for the
+quantum ""depolarizing"" channel. The von Neumann capacity is interpreted within
+the context of superdense coding, and an ""extended"" Hamming bound is derived
+that is consistent with that capacity.
+","[{""version"":""v1"",""created"":""Fri, 27 Sep 1996 23:17:08 GMT""},{""version"":""v2"",""created"":""Wed, 23 Oct 1996 02:27:50 GMT""},{""version"":""v3"",""created"":""Tue, 3 Jun 1997 02:35:23 GMT""}]","2008-12-18"
+"quant-ph/9609025","Mark J. Gotay","Mark J. Gotay, Hendrik B. Grundling","On Quantizing $T^*S^1$","LaTeX, 19 pps","Rept.Math.Phys. 40 (1997) 107-123","10.1016/S0034-4877(97)85622-4",,"quant-ph dg-ga hep-th math.DG",,"  In this paper we continue our study of Groenewold-Van Hove obstructions to
+quantization. We show that there exists such an obstruction to quantizing the
+cylinder $T^*S^1.$ More precisely, we prove that there is no quantization of
+the Poisson algebra of $T^*S^1$ which is irreducible on a naturally defined
+$e(2) \times R$ subalgebra. Furthermore, we determine the maximal
+``polynomial'' subalgebras that can be consistently quantized, and completely
+characterize the quantizations thereof. This example provides support for one
+of the conjectures in Gotay et al 1996, but disproves part of another. Passing
+to coverings, we also derive a no-go result for $R^2$ which is comparatively
+stronger than those originally found by Groenewold and Van Hove.
+","[{""version"":""v1"",""created"":""Sat, 28 Sep 1996 00:15:28 GMT""}]","2009-10-30"
+"quant-ph/9609026",,"Stefano Mancini, Vladimir I. Man'ko, and Paolo Tombesi","Classical-Like Description of Quantum Dynamics by Means of Symplectic
+  Tomography","29 pages,LATEX,accepted by Foundations of Physics","Found.Phys. 27 (1997) 801","10.1007/BF02550342",,"quant-ph",,"  The dynamical equation of quantum mechanics are rewritten in form of
+dynamical equations for the measurable, positive marginal distribution of the
+shifted, rotated and squeezed quadrature introduced in the so called
+""symplectic tomography"". Then the possibility of a purely classical description
+of a quantum system as well as a reinterpretation of the quantum measurement
+theory is discussed and a comparision with the well known quasi-probabilities
+approach is given. Furthermore, an analysis of the properties of this marginal
+distribution, which contains all the quantum information, is performed in the
+framework of classical probability theory. Finally examples of harmonic
+oscillator's states dynamics are treated.
+","[{""version"":""v1"",""created"":""Sat, 28 Sep 1996 11:17:00 GMT""}]","2009-10-30"

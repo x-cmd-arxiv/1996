@@ -1,0 +1,182 @@
+"astro-ph/9609007","Hector DE Vega","D. Boyanovsky, H.J. de Vega, R. Holman and J. F. J. Salgado","Preheating and Reheating in Inflationary Cosmology: a pedagogical survey","Latex file, expanded (+50%) and improved version, eight pages and
+  thirteen .ps figures. To appear in the Proceedings of the Paris Euronetwork
+  Meeting `String Gravity'",,,,"astro-ph hep-ph",,"  Recent progress in the preheating phenomena for inflationary cosmology is
+reviewed. We first discuss estimates of the preheating time scale and particle
+production at the early stages of parametric amplification within the Mathieu
+and Lam'e approximations and we analyze their precision and limitations. The
+necessity of self-consistent calculations including the non-linearity of the
+field theory equations in an energy conserving scheme is stressed. The large N
+calculations including the field back-reaction are reviewed. For spontaneously
+broken theories the issue of symmetry restoration is analyzed. A discussion of
+the possibility and criterion for symmetry restoration is presented.
+","[{""version"":""v1"",""created"":""Sat, 31 Aug 1996 16:53:02 GMT""},{""version"":""v2"",""created"":""Fri, 27 Sep 1996 12:16:39 GMT""}]","2008-02-03"
+"cond-mat/9609007","Chris L. Henley","C. Zeng (Syracuse U.) and C. L. Henley (Cornell U.)","Zero-Temperature Phase Transitions of Antiferromagnetic Ising Model of
+  General Spin on a Triangular Lattice","15 pages, LaTeX; 10 figures in PostScript files; The revised version
+  appears in PRB (see Journal-ref). New electronic address of first author,
+  chenz@physics.rutgers.edu","Phys. Rev. B 55, 14935 (1997)","10.1103/PhysRevB.55.14935",,"cond-mat",,"  We map the ground-state ensemble of antiferromagnetic Ising model of spin-S
+on a triangular lattice to an interface model whose entropic fluctuations are
+proposed to be described by an effective Gaussian free energy, which enables us
+to calculate the critical exponents of various operators in terms of the
+stiffness constant of the interface. Monte Carlo simulations for the
+ground-state ensemble utilizing this interfacial representation are performed
+to study both the dynamical and the static properties of the model. This method
+yields more accurate numerical results for the critical exponents. By varying
+the spin magnitude in the model, we find that the model exhibits three phases
+with a Kosterlitz-Thouless phase transition at 3/2<S_{KT}<2 and a locking phase
+transition at 5/2 < S_L \leq 3. The phase diagram at finite temperatures is
+also discussed.
+","[{""version"":""v1"",""created"":""Sat, 31 Aug 1996 20:19:58 GMT""},{""version"":""v2"",""created"":""Mon, 28 Jul 1997 01:33:52 GMT""}]","2009-10-28"
+"cond-mat/9609042","Carlos Rascon","C. Rascon, L. Mederos and G. Navascues (Universidad Autonoma de Madrid
+  / Instituto de Ciencia de Materiales de Madrid-CSIC)","Perturbation Theory for Classical Solids","4 pages, latex, 1 figure available upon request:
+  (rascon@fluid1.fmc.uam.es)","Phys.Rev.Lett.77, p.2249 (1996)","10.1103/PhysRevLett.77.2249",,"cond-mat chem-ph",,"  The first well founded perturbation theory for classical solid systems is
+presented. Theoretical approaches to thermodynamic and structural properties of
+the hard-sphere solid provide us with the reference system. The traditional
+difficulties of all previous approaches are overcome. The perturbation is a
+first order term in an expansion of the Helmholtz free energy functional
+instead of an additive {\it ad hoc} term and the proper solid reference
+structure is used instead of some kind of mapping into the fluid structure at
+some effective density. As the theory reduces to the usual liquid perturbation
+theory in the uniform limit, it can describe consistently the complete phase
+diagram. Excellent results are obtained when applied to different model
+systems.
+","[{""version"":""v1"",""created"":""Sun, 1 Sep 1996 11:16:06 GMT""}]","2009-10-28"
+"cs/9609101",,"A. Gerevini, L. Schubert","Accelerating Partial-Order Planners: Some Techniques for Effective
+  Search Control and Pruning","See http://www.jair.org/ for an online appendix and other files
+  accompanying this article","Journal of Artificial Intelligence Research, Vol 5, (1996), 95-137",,,"cs.AI",,"  We propose some domain-independent techniques for bringing well-founded
+partial-order planners closer to practicality. The first two techniques are
+aimed at improving search control while keeping overhead costs low. One is
+based on a simple adjustment to the default A* heuristic used by UCPOP to
+select plans for refinement. The other is based on preferring ``zero
+commitment'' (forced) plan refinements whenever possible, and using LIFO
+prioritization otherwise. A more radical technique is the use of operator
+parameter domains to prune search. These domains are initially computed from
+the definitions of the operators and the initial and goal conditions, using a
+polynomial-time algorithm that propagates sets of constants through the
+operator graph, starting in the initial conditions. During planning, parameter
+domains can be used to prune nonviable operator instances and to remove
+spurious clobbering threats. In experiments based on modifications of UCPOP,
+our improved plan and goal selection strategies gave speedups by factors
+ranging from 5 to more than 1000 for a variety of problems that are nontrivial
+for the unmodified version. Crucially, the hardest problems gave the greatest
+improvements. The pruning technique based on parameter domains often gave
+speedups by an order of magnitude or more for difficult problems, both with the
+default UCPOP search strategy and with our improved strategy. The Lisp code for
+our techniques and for the test problems is provided in on-line appendices.
+","[{""version"":""v1"",""created"":""Sun, 1 Sep 1996 00:00:00 GMT""}]","2009-09-25"
+"cs/9609102",,"D. J. Litman","Cue Phrase Classification Using Machine Learning","See http://www.jair.org/ for any accompanying files","Journal of Artificial Intelligence Research, Vol 5, (1996), 53-94",,,"cs.AI",,"  Cue phrases may be used in a discourse sense to explicitly signal discourse
+structure, but also in a sentential sense to convey semantic rather than
+structural information. Correctly classifying cue phrases as discourse or
+sentential is critical in natural language processing systems that exploit
+discourse structure, e.g., for performing tasks such as anaphora resolution and
+plan recognition. This paper explores the use of machine learning for
+classifying cue phrases as discourse or sentential. Two machine learning
+programs (Cgrendel and C4.5) are used to induce classification models from sets
+of pre-classified cue phrases and their features in text and speech. Machine
+learning is shown to be an effective technique for not only automating the
+generation of classification models, but also for improving upon previous
+results. When compared to manually derived classification models already in the
+literature, the learned models often perform with higher accuracy and contain
+new linguistic insights into the data. In addition, the ability to
+automatically construct classification models makes it easier to comparatively
+analyze the utility of alternative feature representations of the data.
+Finally, the ease of retraining makes the learning approach more scalable and
+flexible than manual methods.
+","[{""version"":""v1"",""created"":""Sun, 1 Sep 1996 00:00:00 GMT""}]","2008-02-03"
+"gr-qc/9609006","Remo Garattini","Remo Garattini","Wormholes and Black Hole Pair Creation","Revtex 3.0, preprint,amsfonts 19 pages","Nuovo Cim. B113 (1998) 963-974",,,"gr-qc hep-th",,"  We analyze the possibility of black holes pair creation induced by three
+dimensional wormholes. Although this spacetime configuration is nowadays hard
+to suppose, it can be very important in the early universe, when the wormhole
+spacetime foam representation can be meaningful. We compare our approach with
+the no-boundary prescription of Hartle-Hawking.
+","[{""version"":""v1"",""created"":""Sat, 31 Aug 1996 19:07:42 GMT""}]","2007-05-23"
+"hep-ex/9609001","Peter Filip","Peter Filip","Azimuthally Sensitive HBT Analysis","LaTeX, 13 pages, 8 figures, 1 table",,,"SAS/Ph/1-96","hep-ex",,"  In the paper we investigate a possibility to perform shape-sensitive HBT
+analysis in transversal plane. We study presently used Side-Out decomposition
+of the correlation function and we do not find it to be very sensitive for the
+detection of a shape of source distribution in transversal plane. Therefore we
+suggest to use X-Y decomposition of the correlation function for the HBT
+analysis. We test the method suggested on artificial and non-central Pb-Pb
+158GeV/n events produced by CASCUS generator. Further possible enhancement of
+the method is sketched.
+","[{""version"":""v1"",""created"":""Sun, 1 Sep 1996 09:07:32 GMT""}]","2007-05-23"
+"hep-ph/9609214","Martin Beneke","M. Beneke (SLAC)","Lifetime Difference of Neutral $B_s$ Mesons and its Implications","8 pages, LaTeX, sprocl.sty provided (To appear in the Proceedings of
+  the 28th International Conference on High Energy Physics, Warsaw, Poland,
+  25-31 July 1996)",,,"SLAC-PUB-96-7258","hep-ph",,"  We discuss the calculation of the width difference $\Delta\Gamma_{B_s}$
+between the $B_s$ mass eigenstates to next-to-leading order in the heavy quark
+expansion. $1/m_b$-corrections are estimated to reduce the leading order result
+by typically $30\%$. The error of the present estimate
+$(\Delta\Gamma/\Gamma)_{B_s} = 0.16^{+0.11}_{-0.09}$ could be substantially
+improved by pinning down the value of $\langle \bar{B}_s |(\bar
+b_is_i)_{S-P}(\bar b_js_j)_{S-P}| B_s\rangle$ and an accuracy of $10\%$ in
+$(\Delta\Gamma/\Gamma)_{B_s}$ should eventually be reached. We briefly mention
+strategies to measure $(\Delta\Gamma/\Gamma)_{B_s}$, and its implications for
+constraints on $\Delta M_{B_s}$, CKM parameters and the observation of CP
+violation in untagged $B_s$ samples.
+","[{""version"":""v1"",""created"":""Sun, 1 Sep 1996 01:43:50 GMT""}]","2016-09-06"
+"hep-ph/9609215","Martin Beneke","M. Beneke (SLAC)","Power Corrections, Renormalons and Resummation","11 pages, LaTeX, sprocl.sty provided (To appear in the Proceedings of
+  the 28th International Conference on High Energy Physics, Warsaw, Poland,
+  25-31 July 1996)",,,"SLAC-PUB-96-7272","hep-ph",,"  I briefly review three topics of recent interest concerning power
+corrections, renormalons and Sudakov resummation: (a) $1/Q$ corrections to
+event shape observables in $e^+ e^-$ annihilation, (b) power corrections in
+Drell-Yan production and (c) factorial divergences that arise in resummation of
+large infrared (Sudakov) logarithms in moment or `real' space.
+","[{""version"":""v1"",""created"":""Sun, 1 Sep 1996 02:07:15 GMT""}]","2007-05-23"
+"hep-ph/9609216","Arkadii A. Kozhevnikov","N.N. Achasov and A.A. Kozhevnikov (Laboratory of Theoretical Physics,
+  S.L.Sobolev Institute for Mathematics)","Rho primes in analyzing e+e- annihilation, MARK III, LASS and ARGUS data","20 pages, ReVTeX, 9 Postscript figures As compared to hep-ph/9607398,
+  new material concerning the analysis of the ARGUS data on the tau decays into
+  four pion hadronic states is added","Phys.Rev.D55:2663-2671,1997","10.1103/PhysRevD.55.2663","IM SB RAS NNA-5-96","hep-ph hep-ex nucl-th",,"  The results of an analysis are presented of some recent data on the reactions
+$e^+e^-\to\pi^+\pi^-\pi^+\pi^-$, $e^+e^-\to\pi^+\pi^-\pi^0\pi^0$ with the
+subtracted $\omega\pi^0$ events, $e^+e^-\to\omega\pi^0$, $e^+e^-\to\eta
+\pi^+\pi^-$, $e^+e^-\to\pi^+\pi^-$, $K^-p\to\pi^+\pi^-\Lambda$, the decays
+$J/\psi\to\pi^+\pi^-\pi^0$, $tau^-\to\nu_tau\pi^+\pi^-\pi^-\pi^0$
+$tau^-\to\nu_\tau\omega\pi^-$, upon taking into account both the strong energy
+dependence of the partial widths on energy and the previously neglected mixing
+of the $\rho$ type resonances. The above effects are shown to exert an
+essential influence on the specific values of masses and coupling constants of
+heavy resonances and hence are necessary to be accounted for in establishing
+their true nature.
+","[{""version"":""v1"",""created"":""Sun, 1 Sep 1996 12:06:04 GMT""}]","2008-11-26"
+"hep-th/9609009","Viqar Husain","Viqar Husain","General covariance, and supersymmetry without supersymmetry","17 pages, RevTeX, two minor errors corrected","Phys.Rev. D54 (1996) 7849-7856","10.1103/PhysRevD.54.7849","CGPG-96/7-1","hep-th gr-qc",,"  An unusual four-dimensional generally covariant and supersymmetric SU(2)
+gauge theory is described. The theory has propagating degrees of freedom, and
+is invariant under a local (left-handed) chiral supersymmetry, which is half
+the supersymmetry of supergravity. The Hamiltonian 3+1 decomposition of the
+theory reveals the remarkable feature that the local supersymmetry is a
+consequence of Yang-Mills symmetry, in a manner reminiscent of how general
+coordinate invariance in Chern-Simons theory is a consequence of Yang-Mills
+symmetry. It is possible to write down an infinite number of conserved
+currents, which strongly suggests that the theory is classically integrable. A
+possible scheme for non-perturbative quantization is outlined. This utilizes
+ideas that have been developed and applied recently to the problem of
+quantizing gravity.
+","[{""version"":""v1"",""created"":""Sun, 1 Sep 1996 14:58:11 GMT""},{""version"":""v2"",""created"":""Mon, 7 Oct 1996 16:58:18 GMT""},{""version"":""v3"",""created"":""Sun, 1 Dec 1996 19:18:57 GMT""}]","2009-10-30"
+"hep-th/9609013","Shoichi Ichinose","Shoichi Ichinose and Noriaki Ikeda","Weak Field Expansion of Gravity and Graphical Representation","Figures are not included",,,"US-96-03","hep-th",,"  We introduce a graphical representation for a global SO(n) tensor
+$\pl_\m\pl_\n h_\ab$, which generally appears in the perturbative approach of
+gravity around the flat space: $g_\mn=\del_\mn+h_\mn$. We systematically
+construct global SO(n) invariants. Independence and completeness of those
+invariants are shown by taking examples of $\pl\pl h$-, and $ (\pl\pl h)^2$-
+invariants. They are classified graphically. Indices which characterize all
+independent invariants (or graphs) are given. We apply the results to general
+invariants with dimension $(Mass)^4$ and the Gauss-Bonnet identity in 4-dim
+gravity.
+","[{""version"":""v1"",""created"":""Sat, 31 Aug 1996 18:54:32 GMT""}]","2007-05-23"
+"hep-th/9609014","Shoichi Ichinose","Shoichi Ichinose","New Algorithm for Tensor Calculation in Field Theories","27 pages, 17 figures, epsbox.sty included, to appear in
+  Int.Jour.Mod.Phys.C","Int.J.Mod.Phys. C9 (1998) 243-264","10.1142/S0129183198000182","US-96-05","hep-th",,"  Tensor calculation of suffix-contraction is carried out by a C-program.
+Tensors are represented graphically, and the algorithm makes use of the
+topology of graphs. Classical and quantum gravity, in the weak-field
+perturbative approach, is a special interest. Examples of the leading order
+calculation of some general invariants such as $R_{\mn\ls}R^{\mn\ls}$ are
+given. Application to Weyl anomaly calculation is commented.
+","[{""version"":""v1"",""created"":""Sat, 31 Aug 1996 18:55:44 GMT""},{""version"":""v2"",""created"":""Sat, 31 Jan 1998 04:00:37 GMT""}]","2009-10-30"
+"supr-con/9609001","Durga P. Choudhury","Durga P. Choudhury, Balam A. Willemsen, John S. Derov and S. Sridhar
+  (Physics Department, Northeastern University and Rome Laboratory, Hanscom
+  AFB.)","Nonlinear Response of HTSC Thin Film Microwave Resonators in an Applied
+  DC Magnetic Field","4 pages, LaTeX type, Uses IEEE style files, 600 dpi PostScript file
+  with color figures available at http://sagar.physics.neu.edu/preprints.html
+  Submitted to IEEE Transactions on Applied Superconductivity",,"10.1109/77.620744",,"supr-con cond-mat.supr-con",,"  The non-linear microwave surface impedance of patterned YBCO thin films, was
+measured using a suspended line resonator in the presence of a perpendicular DC
+magnetic field of magnitude comparable to that of the microwave field.
+Signature of the virgin state was found to be absent even for relatively low
+microwave power levels. The microwave loss was initially found to decrease for
+small applied DC field before increasing again. Also, non-linearities inherent
+in the sample were found to be substantially suppressed at low powers at these
+applied fields. These two features together can lead to significant improvement
+in device performance.
+","[{""version"":""v1"",""created"":""Sat, 31 Aug 1996 17:34:38 GMT""}]","2016-11-18"

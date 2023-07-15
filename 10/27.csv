@@ -1,0 +1,153 @@
+"alg-geom/9610019","Alexander G. Kuznetsov","Alexander Kuznetsov","The Laumon's resolution of Drinfeld's compactification is small","Correction of misprints, alternative definition of Drinfeld's
+  compactification included AMSLaTeX v 1.1",,,,"alg-geom math.AG",,"  Let $C$ be a smooth projective curve of genus 0. Let $\FF$ be the variety of
+complete flags in an $n$-dimensional vector space $V$. Given an $(n-1)$-tuple
+$\alpha$ of positive integers one can consider the space $\MM\alpha$ of
+algebraic maps of degree $\alpha$ from $C$ to $\FF$. This space has drawn much
+attention recently in connection with Quantum Cohomology. The space $\MM\alpha$
+is smooth but not compact. The problem of compactification of $\MM\alpha$
+proved very important. One compactification $\MML\alpha$ (the space of {\em
+quasiflags}), was constructed in \cite{L}. However, historically the first and
+most economical compactification $\MMD\alpha$ (the space of {\em quasimaps})
+was constructed by Drinfeld (early 80-s, unpublished). The latter
+compactification is singular, while the former one is smooth. Drinfeld has
+conjectured that the natural map $\pi:\MML\alpha\to\MMD\alpha$ is a small
+resolution of singularities. In the present note we prove this conjecture. As a
+byproduct, we compute the stalks of $IC$ sheaf on $\MMD\alpha$ and, moreover,
+the Hodge structure in these stalks. Namely, the Hodge structure is a pure Tate
+one, and the generating function for the $IC$ stalks is just the Lusztig's
+$q$-analogue of Kostant's partition function (see \cite{Lu}).
+","[{""version"":""v1"",""created"":""Sun, 27 Oct 1996 10:37:49 GMT""},{""version"":""v2"",""created"":""Mon, 28 Oct 1996 05:33:31 GMT""},{""version"":""v3"",""created"":""Mon, 16 Dec 1996 09:46:05 GMT""}]","2008-02-03"
+"astro-ph/9610213","Kriten Joshi","K. J. Joshi and F. A. Rasio","Distant Companions and Planets around Millisecond Pulsars","30 pages, Latex, 10 Postscript figures, uses aaspp4.sty. ApJ
+  submitted. Also available at http://ensor.mit.edu/~rasio",,"10.1086/303916",,"astro-ph",,"  We present a general method for determining the masses and orbital parameters
+of binary millisecond pulsars with long orbital periods (P_orb >> 1 yr), using
+timing data in the form of pulse frequency derivatives. We apply our method to
+analyze the properties of the second companion in the PSR B1620-26 triple
+system. We use the latest timing data for this system to constrain the mass and
+orbital parameters of the second companion. We find that all possible solutions
+have a mass m_2 in the range 2.4 10^-4 M_sun <= m_2 sin i_2 <= 1.2 10^-2 M_sun,
+i.e., almost certainly excluding a second companion of stellar mass and
+suggesting instead that the system contains a planet or a brown dwarf. Using
+Monte-Carlo realizations of the triple configuration in three dimensions we
+find the most probable value of m_2 to be 0.010(5) M_sun, corresponding to a
+distance of 38(6) AU from the center of mass of the inner binary (the errors
+indicate 80% confidence intervals). We also apply our method to analyze the
+planetary system around PSR B1257+12, where a distant, giant planet may be
+present in addition to the three well-established Earth-mass planets. We find
+that the simplest interpretation of the frequency derivatives implies the
+presence of a fourth planet with a mass of ~100 M_earth in a circular orbit of
+radius ~40 AU.
+","[{""version"":""v1"",""created"":""Sat, 26 Oct 1996 21:40:23 GMT""}]","2009-10-28"
+"astro-ph/9610218","Emmanuel Bertin","E. Bertin (IAP, Sterrewacht Leiden), M. Dennefeld (IAP), and M. Moshir
+  (IPAC)","Galaxy evolution at low redshift? II. Number counts and optical
+  identifications of faint IRAS sources","13 pages, LaTeX, l-aa.sty, accepted in A&A",,,,"astro-ph",,"  We analyse a Far InfraRed (FIR) catalogue of galaxies at 60 microns with a
+flux limit of approx. 110 mJy, extracted from a deep subsample of the IRAS
+Faint Source Survey. Monte-Carlo simulations and optical identification
+statistics are used to put constraints on the evolution of galaxies in the FIR.
+We find evidence for strong evolution of IRAS galaxies, in luminosity prop. to
+(1+z)^3.2 or density prop. to (1+z)^6.0 for f60 > 150 mJy, in agreement with
+previous claims. An excess of rather red faint optical counterparts with B>18,
+consistent with the above evolution, is detected. We interpret these results as
+strong evolution at recent times among the starburst (or dusty AGN) population
+of merging/interacting galaxies. Most of these objects at moderate redshifts
+may pass unnoticed among the population of massive spirals in broad-band
+optical surveys, because of large amounts of dust extinction in their central
+regions. A possible link with the strong evolution observed in the optical for
+blue sub-M* galaxies is discussed.
+","[{""version"":""v1"",""created"":""Sat, 26 Oct 1996 19:22:51 GMT""}]","2007-05-23"
+"astro-ph/9610219","Andrei Linde","A. Linde and V. Mukhanov","Nongaussian Isocurvature Perturbations from Inflation","Few misprints are corrected; results are not changed. It is noted
+  that our results for the most natural range of parameters correspond to the
+  spectral index of isothermal perturbations n ~1.6","Phys.Rev.D56:535-539,1997","10.1103/PhysRevD.56.R535","SU-ITP-96-49","astro-ph gr-qc hep-ph hep-th",,"  We present a class of very simple inflationary models of two scalar fields
+which leads to nongaussian isothermal perturbations with ""blue"" spectrum, n >
+1. One of the models is inspired by supersymmetric theories where light scalar
+fields naturally acquire masses of the order of the Hubble constant H during
+inflation. Another model presumes that one of the fields has a nonminimal
+interaction with gravity. By a slight modification of parameters of these
+models one can obtain either gaussian isothermal perturbations, or nongaussian
+adiabatic perturbations with n > 1.
+","[{""version"":""v1"",""created"":""Sat, 26 Oct 1996 23:39:41 GMT""},{""version"":""v2"",""created"":""Tue, 19 Nov 1996 16:47:58 GMT""}]","2009-09-29"
+"dg-ga/9610015","Michael Farber","M. Braverman and M. Farber","Equivariant Novikov inequalities","AMS-Tex, 23 pages",,,,"dg-ga math.DG",,"  We establish an equivariant generalization of the Novikov inequalities which
+allow to estimate the topology of the set of critical points of a closed basic
+invariant form by means of twisted equivariant cohomology of the manifold. We
+apply these inequalities to study cohomology of the fixed points set of a
+symplectic torus action. We show that in this case our inequalities are
+perfect, i.e. they are in fact equalities.
+","[{""version"":""v1"",""created"":""Sat, 26 Oct 1996 16:29:34 GMT""},{""version"":""v2"",""created"":""Mon, 28 Oct 1996 12:47:49 GMT""}]","2008-02-03"
+"dg-ga/9610016","Michael Farber","Michael Farber","Von Neumann categories and extended $L^2$ cohomology","AMS-Tex, 53 pages; a small correction made in section 2.7",,,,"dg-ga math.DG",,"  In this paper we suggest a new general formalism for studying the invariants
+of polyhedra and manifolds comming from the theory of von Neumann algebras.
+First, we examine generality in which one may apply the construction of the
+extended abelian category, which was suggested in the previous publications of
+the author, using the ideas of P.Freyd. This leads to the notions of a finite
+von Neumann category and of a trace on such category. Given a finite von
+Neumann category, we study the extended homology and cohomology theories with
+values in the abelian extension. Any trace on the initial category produces
+numerical invariants - the von Neumann dimension and the Novikov - Shubin
+numbers. Thus, we obtain the local versions of the Novikov - Shubin invariants,
+localized at different traces. In the ""abelian"" case this localization can be
+made more geometric: we show that any torsion object determines a ""divisor"" --
+a closed subspace of the space of the parameters. The divisors of torsion
+objects together with the information produced by the local Novikov - Shubin
+invariants may be used to study multiplicities of intersections of algebraic
+and analytic varieties (we discuss here only simple examples demonstrating this
+possibility). We compute explicitly the divisors and the von Neumann dimensions
+of the extended cohomology in the real analytic situation. We also give general
+formulae for the extended cohomology of a mapping torus. Finally, we show how
+one can define a De Rham version of the extended cohomology and prove a De Rham
+type theorem.
+","[{""version"":""v1"",""created"":""Sat, 26 Oct 1996 16:37:00 GMT""},{""version"":""v2"",""created"":""Mon, 28 Oct 1996 12:41:05 GMT""},{""version"":""v3"",""created"":""Thu, 31 Oct 1996 08:11:21 GMT""},{""version"":""v4"",""created"":""Mon, 20 Jan 1997 13:07:31 GMT""}]","2008-02-03"
+"hep-ph/9610497",,"Edmond L. Berger (Argonne), Xiaofeng Guo and Jianwei Qiu (Iowa State)","Isolated Prompt Photon Cross Sections","4 pages, LaTeX, 2 postscript figures, uses sprocl.sty. Invited paper
+  presented by E. L. Berger at DPF'96, 1996 Meeting of the Division of
+  Particles and Fields of the American Physical Society, Minneapolis, MN,
+  August 10-15, 1996. Report-no: ANL-HEP-CP-96-77",,,,"hep-ph",,"  We show that the conventionally defined partonic cross section for the
+production of isolated prompt photons is not an infrared safe quantity. We work
+out the case of $e^+e^-\to\gamma + X$, and discuss implications for hadron
+reactions.
+","[{""version"":""v1"",""created"":""Sat, 26 Oct 1996 17:18:18 GMT""}]","2007-05-23"
+"hep-ph/9610498","Trocsanyi Zoltan","Zolt\'an Nagy and Zolt\'an Tr\'ocs\'anyi (Debrecen, Hungary)","Calculation of QCD jet cross sections at next-to-leading order","32 pages, LaTeX","Nucl.Phys. B486 (1997) 189-226","10.1016/S0550-3213(96)00657-8","KLTE-DTP/96-1","hep-ph",,"  A general method for calculating \NLO cross sections in perturbative QCD is
+presented. The algorithm is worked out for calculating $N$-jet cross sections
+in hadron-hadron collisions. The generalization of the scheme to performing
+caclulations for other QCD process, such as electron-positron annihilation or
+in deep inelastic scattering is also straightforward. As an illustration
+several three-jet cross section distributions in electron-positron
+annihilation, calculated using the algorithm, are presented.
+","[{""version"":""v1"",""created"":""Sun, 27 Oct 1996 11:03:47 GMT""}]","2009-10-30"
+"hep-ph/9610499","Trocsanyi Zoltan","Zolt\'an Tr\'ocs\'anyi (Debrecen, Hungary)","Three-jet cross section in hadron collisions at next-to-leading order:
+  pure gluon processes","10 pages, RevTeX + epsf.sty","Phys.Rev.Lett. 77 (1996) 2182-2185","10.1103/PhysRevLett.77.2182","KLTE-DTP/96-2","hep-ph",,"  The next-to-leading order three-jet cross section in hadron collisions is
+calculated in the simplified case when the matrix elements of all QCD
+subprocesses are approximated by the pure gluon matrix element. The
+longitudinally-invariant $k_\perp$ jet-clustering algorithm is used. The
+important property of reduced renormalization and factorization scale
+dependence of the next-to-leading order physical cross section as compared to
+the Born cross section is demonstrated.
+","[{""version"":""v1"",""created"":""Sun, 27 Oct 1996 11:04:53 GMT""}]","2009-10-30"
+"hep-ph/9610500","Bernd Kniehl","Bernd A. Kniehl (MPI Munich)","Theoretical Aspects of Higgs Physics","8 pages (Latex), 10 figures (Postscript), uses stwol.sty, to appear
+  in the Proceedings of the 28th International Conference on High Energy
+  Physics, Warsaw, Poland, 25-31 July 1996, edited by A. Wroblewski",,,"MPI/PhT/96-113","hep-ph hep-ex",,"  We review the present status of Higgs physics within the standard model and
+its extensions. First, we briefly summarize the current experimental exclusion
+limits from the direct searches with LEP1 and the Tevatron, and assess the
+discovery potential of LEP2. Then, we report the mass bounds resulting from
+global fits to the latest electroweak precision data, and compile various
+theoretical principles which lead to restrictions - or even determinations - of
+the Higgs-boson masses. Perturbative upper bounds are discussed in some detail.
+Finally, we survey the recent progress in the computation of higher-order
+radiative corrections to the bb-bar decay width of the standard-model Higgs
+boson.
+","[{""version"":""v1"",""created"":""Sun, 27 Oct 1996 12:10:42 GMT""}]","2007-05-23"
+"hep-th/9610207","Dmitri A. Ivanov","D. Ivanov","Knizhnik-Zamolodchikov-Bernard equations as a quantization of
+  nonstationary Hitchin system","12 pages, TeX",,,,"hep-th",,"  The KZB equations for conformal blocks of the WZNW theory are written on the
+moduli space of holomorphic principal bundles on the surface. They become the
+multi-time Schroedinger equation for the nonstationary Hitchin system. From the
+known form of the equations we learn about the covariance of quantization with
+respect to changes of the coordinate frame.
+","[{""version"":""v1"",""created"":""Sun, 27 Oct 1996 15:23:36 GMT""}]","2007-05-23"
+"nucl-th/9610041","Ruprecht Machleidt","G. Holzwarth and R. Machleidt","Skyrme-Model $\pi NN$ Form Factor and Nucleon-Nucleon Interaction","20 pages, RevTex, 14 figures","Phys.Rev.C55:1088-1095,1997","10.1103/PhysRevC.55.1088",,"nucl-th hep-ph",,"  We apply the strong $\pi NN$ form factor, which emerges from the Skyrme
+model, in the two-nucleon system using a one-boson-exchange (OBE) model for the
+nucleon-nucleon (NN) interaction. Deuteron properties and phase parameters of
+NN scattering are reproduced well. In contrast to the form factor of monopole
+shape that is traditionally used in OBE models, the Skyrme form factor leaves
+low momentum transfers essentially unaffected while it suppresses the
+high-momentum region strongly. It turns out that this behavior is very
+appropriate for models of the NN interaction and makes possible to use a soft
+pion form factor in the NN system. As a consequence, the $\pi N$ and the $NN$
+systems can be described using the same soft $\pi NN$ form factor, which is
+impossible with the monopole.
+","[{""version"":""v1"",""created"":""Sat, 26 Oct 1996 19:34:26 GMT""},{""version"":""v2"",""created"":""Mon, 28 Oct 1996 05:02:31 GMT""}]","2009-09-25"

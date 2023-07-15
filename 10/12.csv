@@ -1,0 +1,322 @@
+"alg-geom/9610012","David A. Bayer","Dave Bayer, Irena Peeva, Bernd Sturmfels","Monomial Resolutions","plain TeX, 20 pages with 5 figures, Postscript file available from
+  ftp://math.columbia.edu/pub/bayer/monomial_resolutions/monres.ps",,,,"alg-geom math.AG",,"  Call a monomial ideal M ""generic"" if no variable appears with the same
+nonzero exponent in two distinct monomial generators. Using a convex polytope
+first studied by Scarf, we obtain a minimal free resolution of M. Any monomial
+ideal M can be made generic by deformation of its generating exponents. Thus,
+the above construction yields a (usually nonminimal) resolution of M for
+arbitrary monomial ideals, bounding the Betti numbers of M in terms of the
+Upper Bound Theorem for Convex Polytopes.
+  We show that our resolutions are DG-algebras, and consider realizability
+questions and irreducible decompositions.
+","[{""version"":""v1"",""created"":""Fri, 11 Oct 1996 21:53:49 GMT""}]","2008-02-03"
+"alg-geom/9610013","Hans Boden","H. U. Boden and K. Yokogawa","Rationality of Moduli Spaces of Parabolic Bundles","latex2e","J. London Math. Soc. 59 (1999) 461-478","10.1112/S0024610799007061",,"alg-geom math.AG",,"  The moduli space of parabolic bundles with fixed determinant over a smooth
+curve of genus greater than one is proved to be rational whenever one of the
+multiplicities associated to the quasi-parabolic structure is equal to one. It
+follows that if rank and degree are coprime, the moduli space of vector bundles
+is stably rational, and the bound obtained on the level is strong enough to
+conclude rationality in many cases.
+","[{""version"":""v1"",""created"":""Fri, 11 Oct 1996 23:16:19 GMT""}]","2021-09-29"
+"alg-geom/9610014","Hans Boden","H. U. Boden and K. Yokogawa","Moduli Spaces of Parabolic Higgs Bundles and Parabolic K(D) Pairs over
+  Smooth Curves: I","25 pages, figure corrected","Internat. J. Math. 7 (1996) 573-598","10.1142/S0129167X96000311",,"alg-geom math.AG",,"  This paper concerns the moduli spaces of rank two parabolic Higgs bundles and
+parabolic K(D) pairs over a smooth curve. Precisely which parabolic bundles
+occur in stable K(D), pairs and stable Higgs bundles is determined. Using Morse
+theory, the moduli space of parabolic Higgs bundles is shown to be a
+non-compact, connected, simply connected manifold, and a computation of its
+Poincar\'e polynomial is given.
+","[{""version"":""v1"",""created"":""Fri, 11 Oct 1996 23:35:17 GMT""},{""version"":""v2"",""created"":""Tue, 22 Sep 1998 22:00:38 GMT""}]","2021-09-29"
+"astro-ph/9610082","Marco Scodeggio","Marco Scodeggio, Riccardo Giovanelli & Martha P. Haynes (CRSR & NAIC,
+  Cornell University)","The Relative Distance between the Clusters of Galaxies A2634 and Coma","22 pages, AAS LaTeX v4.0; 4 tables and 6 figures, Postscript.
+  Accepted for publication in AJ",,"10.1086/118236",,"astro-ph",,"  The Tully-Fisher and Fundamental Plane relations are used to obtain two
+independent estimates of the relative distance between the clusters A2634 and
+Coma. Previously published studies of A2634 showed a large discrepancy between
+the distance estimates obtained with the TF and the Dn-sigma relations,
+questioning the reliability of redshift-independent distances obtained using
+these relations. Because of the importance of this issue, we have obtained new
+distance estimates for A2634, based on much larger samples than previously
+used, and selected according to rigorous membership criteria. New I band CCD
+photometry for 175 galaxies, new 21 cm observations of 11 galaxies, and new
+velocity dispersion measurements for 62 galaxies are used together with
+previously published data in building these samples. After the appropriate
+corrections for sample incompleteness have been taken into account, we find the
+TF and FP distance estimates to be in good agreement, both indicating that
+A2634 has a negligibly small peculiar velocity with respect to the Cosmic
+Microwave Background reference frame. Because of the high accuracy with which
+the two distance estimates have been obtained, their agreement strongly
+supports the universality of the TF and FP relations, and therefore their
+reliability for the estimate of redshift-independent distances.
+","[{""version"":""v1"",""created"":""Fri, 11 Oct 1996 18:02:42 GMT""}]","2009-10-28"
+"astro-ph/9610083","Nelson Caldwell","G.S. Da Costa, T.E. Armandroff, Nelson Caldwell, Patrick Seitzer","The Dwarf Spheroidal Companions to M31: WFPC2 Observations of Andromeda
+  I","26 pages using aas2pp4.sty, including 2 tables and 7 figures, to be
+  published in AJ. Figure 1 is in gif form. To include in main ps file, use xv
+  to create a ps file called Da_Costa.fig1.ps and uncomment appropriate lines
+  in .tex file",,"10.1086/118204",,"astro-ph",,"  Images have been obtained with the Hubble Space Telescope WFPC2 camera of
+Andromeda I, a dwarf spheroidal (dSph) galaxy that lies in the outer halo of
+M31. The resulting color-magnitude diagrams reveal for the first time the
+morphology of the horizontal branch in this system. We find that, in a similar
+fashion to many of the galactic dSph companions, the horizontal branch (HB) of
+And~I is predominantly red. Combined with the metal abundance of this dSph,
+this red HB morphology indicates that And I can be classified as a ``second
+parameter'' system in the outer halo of M31. This result then supports the
+hypothesis that the outer halo of M31 formed in the same extended chaotic
+manner as is postulated for the outer halo of the Galaxy.
+","[{""version"":""v1"",""created"":""Fri, 11 Oct 1996 17:19:41 GMT""}]","2009-10-28"
+"astro-ph/9610084","Jiasheng Huang","J.-S. Huang(1), L. L. Cowie(1), J. P. Gardner(1)(2), E. M. Hu(1), A.
+  Songaila(1), and R. J. Wainscoat(1)((1)Univ. of Hawaii, (2) Univ. of Durham)","The Hawaii K-Band Galaxy Survey. II. Bright K-band Imaging","24 pages Latex + 8 PostScript figures, to appear in Astrophysical
+  Journal(02/97)",,"10.1086/303598","IFA-96-54","astro-ph",,"  We present the results of a wide-field K-selected galaxy survey with
+complementary optical I- and B-band imaging in six fields with a total coverage
+of 9.8 square degrees. This survey establishes the bright-end K-band galaxy
+number counts in the magnitude range 13<K<16 with high precision. We find that
+our bright-end counts have a significantly steeper slope than the prediction of
+a no-evolution model, which cannot be accounted for by known observational or
+theoretical error. We also argue against the likelihood of sufficient evolution
+at such low redshifts to account for this effect, we describe an alternative
+picture in which there is a local deficiency of galaxies by a factor of 2 on
+scale sizes of around 300 Mpc. Taken at face value, this would imply that local
+measurements of \Omega_0 underestimate the true value of the cosmological mass
+density by this factor and that local measurements of $H_0$ could be high by as
+much as 33%.
+","[{""version"":""v1"",""created"":""Fri, 11 Oct 1996 20:25:07 GMT""}]","2009-10-28"
+"astro-ph/9610085","Uffe Hellsten","Jesper Sommer-Larsen (TAC), Henrik Vedel (TAC), Uffe Hellsten (UCSC)","The Structure of Isothermal, Self-gravitating Gas Spheres for Softened
+  Gravity","22 pages Latex + 12 figures","Astrophys.J. 500 (1998) 610-618","10.1086/305739",,"astro-ph",,"  A theory for the structure of isothermal, self-gravitating gas spheres in
+pressure equilibrium in a softened gravitational field is developed. The one
+parameter spline softening proposed by Hernquist & Katz (1989) is used. We show
+that the addition of this extra scale parameter implies that the set of
+equilibrium solutions constitute a one-parameter family, rather than the one
+and only one isothermal sphere solution for Newtonian gravity. We demonstrate
+the perhaps somewhat surprising result that for any finite choice of softening
+length and temperature, it is possible to deposit an arbitrarily large mass of
+gas in pressure equilibrium and with a non-singular density distribution inside
+of r_0 for any r_0 > 0. The theoretical predictions of our models are compared
+with the properties of the small, massive, quasi-isothermal gas clumps which
+typically form in numerical Tree-SPH simulations of 'passive' galaxy formation
+of Milky Way sized galaxies. We find reasonable agreement despite the neglect
+of rotational support in the models. We comment on whether the hydrodynamical
+resolution in our numerical simulation of galaxy formation is sufficient, and
+finally we conclude that one should be cautious, when comparing results of
+numerical simulations involving gravitational softening and hydrodynamical
+smoothing, with reality.
+","[{""version"":""v1"",""created"":""Sat, 12 Oct 1996 00:50:23 GMT""}]","2009-10-28"
+"astro-ph/9610086","Carl R. Gwinn","Carl R. Gwinn, T. Marshall Eubanks, Ted Pyne, Mark Birkinshaw, and
+  Demetrios N. Matsakis","Quasar Proper Motions and Low-Frequency Gravitational Waves","15 pages, 1 figure. Also available at
+  http://charm.physics.ucsb.edu:80/people/cgwinn/cgwinn_group/index.html","Astrophys.J. 485 (1997) 87-91","10.1086/304424",,"astro-ph",,"  We report observational upper limits on the mass-energy of the cosmological
+gravitational-wave background, from limits on proper motions of quasars.
+Gravitational waves with periods longer than the time span of observations
+produce a simple pattern of apparent proper motions over the sky, composed
+primarily of second-order transverse vector spherical harmonics. A fit of such
+harmonics to measured motions yields a 95%-confidence limit on the mass-energy
+of gravitational waves with frequencies <2e-9 Hz, of <0.11/h*h times the
+closure density of the universe.
+","[{""version"":""v1"",""created"":""Sat, 12 Oct 1996 01:41:56 GMT""}]","2009-10-28"
+"astro-ph/9610087","Edvige Corbelli","Edvige Corbelli and Stephen E. Schneider","A warped disk model for M33 and the 21-cm line width in spiral galaxies","27 pages, ps files only, ApJ in press",,"10.1086/303849","Arcetri-26-96","astro-ph",,"  To determine the actual HI distribution and the velocity field in the
+outermost disk of the spiral galaxy M33, a tilted-ring model is fitted to 21-cm
+line data taken with the Arecibo Telescope. Since M33 is one of the main
+calibrators for the extragalactic distance scale derived through the
+Tully-Fisher relation, the outer disk warping is of interest for a correct
+determination and deprojection of the galaxy's line width. Even though our best
+model predicts small effects on the observed line width of M33, we show that
+similar outer disk warping in galaxies oriented differently along our line of
+sight could affect the widths considerably. Therefore there may be systematic
+effects in the determination of the rotation velocities and dynamic masses of
+spiral galaxies, whose exact value depends also on which method is used for
+measuring the galaxy's total line width.
+","[{""version"":""v1"",""created"":""Sat, 12 Oct 1996 09:23:17 GMT""}]","2009-10-28"
+"astro-ph/9610088","Maret Einasto","Maret Einasto, Erik Tago, Jaak Jaaniste, Jaan Einasto and Heinz
+  Andernach","The Supercluster-Void Network I. The Supercluster Catalogue and
+  Large-Scale Distribution","AA LaTex style, 14 pages, 1 Tex Table, 6 PostScript figures embedded,
+  l-aa.sty added. Figures 4 and 5, 1 ASCII Table with readme.doc (and the
+  complete paper) are available by anonymous ftp at
+  ftp://ftp.aai.ee/pub/publications/astro, accepted by AAS on August 21, 1996",,"10.1051/aas:1997340","VILSPA IUE preprint 90","astro-ph",,"  We investigate the distribution of superclusters and voids using a new
+catalogue of superclusters of rich clusters of galaxies which extends up to a
+redshift of z=0.12. The new catalogue contains 220 superclusters of rich
+clusters, of which 90 superclusters have been determined for the first time.
+Two thirds of those superclusters with eight or more member clusters are
+concentrated to a Dominant Supercluster Plane almost perpendicular to the plane
+of the Local Supercluster. Several independent methods indicate consistently
+the presence of a quite regular supercluster-void network with scale of approx.
+120 Mpc. We determine the selection function of the sample of clusters and
+suggest that the mean true space density of Abell clusters is 2.6 x 10^-5 h^3
+Mpc^-3, or twice the conventionally used value.
+","[{""version"":""v1"",""created"":""Sat, 12 Oct 1996 10:46:37 GMT""},{""version"":""v2"",""created"":""Mon, 14 Oct 1996 17:10:42 GMT""}]","2009-10-28"
+"cond-mat/9610101","Vitaly Shumeiko","V. S. Shumeiko, E. N. Bratus', and G. Wendin","Scattering theory of superconductive tunneling in quantum junctions","47 pages, 9 figures, [preprint,eqsecnum,aps]{revtex}",,"10.1063/1.593475",,"cond-mat.supr-con",,"  We present a consistent theory of superconductive tunneling in single-mode
+junctions within a scattering formulation of Bogoliubov-de Gennes quantum
+mechanics. Both dc Josephson effect and dc quasiparticle transport in voltage
+biased junctions are considered. Elastic quasiparticle scattering by the
+junction determines equilibrium Josephson current. We discuss the origin of
+Andreev bound states in tunnel junctions and their role in equilibrium
+Josephson transport. In contrast, quasiparticle tunneling in voltage biased
+junctions is determined by inelastic scattering. We derive a general expression
+for inelastic scattering amplitudes and calculate the quasiparticle current at
+all voltages with emphasis on a discussion of the properties of subgap tunnel
+current and the nature of subharmonic gap structure.
+","[{""version"":""v1"",""created"":""Fri, 11 Oct 1996 17:59:51 GMT""}]","2009-10-28"
+"cond-mat/9610102","Shivaji L. Sondhi","E. Shimshoni (Oranim-Haifa), S. L. Sondhi (Princeton) and D. Shahar
+  (Princeton)","Duality Near Quantum Hall Transitions","26 pages, Revtex 3.0",,"10.1103/PhysRevB.55.13730",,"cond-mat.mes-hall",,"  A recent experiment by Shahar et al, on the phase transitions between quantum
+Hall states and the insulator, found that the current-voltage characteristics
+in the two phases are related by symmetry. It was suggested in this work that
+this is evidence for charge-flux duality near quantum Hall transitions. Here we
+provide details of this analysis. (Appearances notwithstanding, this is a
+theoretical paper.)
+","[{""version"":""v1"",""created"":""Sat, 12 Oct 1996 14:59:43 GMT""}]","2009-10-28"
+"dg-ga/9610007","Mikhail Shubin","Mikhail Shubin","De Rham theorem for extended L^2-cohomology","16 pages, author-supplied file available at
+  ftp://ftp.math.neu.edu/Pub/faculty/Shubin_Mikhail/papers/DR19.tex This is a
+  slight revision -- some references are added AMSTeX v 2.1",,,,"dg-ga math.DG",,"  We prove an analogue of the de Rham theorem for the extended L^2-cohomology
+introduced by M. Farber. This is done by establishing that the de Rham complex
+over a compact closed manifold with coefficients in a flat Hilbert bundle E of
+A-modules over a finite von Neumann algebra A is chain-homotopy equivalent
+(with bounded morphisms and homotopy operators) to a combinatorial complex with
+the same coefficients. This is established by using the Witten deformation of
+the de Rham complex. We also prove that the de Rham complex is chain-homotopy
+equivalent to the spectrally truncated de Rham complex which is also finitely
+generated.
+","[{""version"":""v1"",""created"":""Fri, 11 Oct 1996 19:55:15 GMT""},{""version"":""v2"",""created"":""Sun, 1 Dec 1996 22:42:44 GMT""}]","2008-02-03"
+"gr-qc/9610020","Alberto Carlini","A. Carlini and J. Greensite","The mass shell of the universe","plain latex file, 25 pags","Phys.Rev. D55 (1997) 3514-3524","10.1103/PhysRevD.55.3514","TIT/HEP-346/COSMO-79","gr-qc hep-th",,"  The classical field equations of general relativity can be expressed as a
+single geodesic equation, describing the free fall of a point particle in
+superspace. Based on this formulation, a ``worldline'' quantization of gravity,
+analogous to the Feynman-Schwinger treatment of particle propagation, is
+proposed, and a hidden mass-shell parameter is identified. We consider the
+effective action for the supermetric, which would be induced at one loop. In
+certain minisuperspace models, we find that this effective action is stationary
+for vanishing cosmological constant.
+","[{""version"":""v1"",""created"":""Sat, 12 Oct 1996 07:48:29 GMT""}]","2009-10-28"
+"hep-ph/9610335","Michael Pluemacher","W. Buchmuller","Electroweak Phase Transition and Neutrino Masses","LaTeX, 23 pages, 9 figures, uses epsfig. To be published in Quarks
+  '96, Proc. of the IXth International Seminar, Yaroslavl, Russia, 1996",,,"DESY 96-216","hep-ph hep-lat",,"  The presently observed cosmological baryon asymmetry has been finally
+determined at the time of the electroweak phase transition, when baryon and
+lepton number violating interactions fell out of thermal equilibrium. We
+discuss the thermodynamics of the phase transition based on the free energy of
+the SU(2) Higgs model at finite temperature, which has been studied in
+perturbation theory and lattice simulations. The results suggest that the
+baryon asymmetry has been generated by lepton number violating interactions in
+the symmetric phase of the standard model, i.e., at temperatures above the
+critical temperature of the electroweak transition. The observed value of the
+baryon asymmetry, $n_B/s \sim 10^{-10}$, is naturally obtained in an extension
+of the standard model with right-handed neutrinos where $B-L$ is broken at the
+unification scale $\Lambda_{GUT}}\sim 10^{16}$ GeV. The corresponding pattern
+of masses and mixings of the light neutrinos $\nu_e$, $\nu_\mu$ and $\nu_\tau$
+is briefly described.
+","[{""version"":""v1"",""created"":""Fri, 11 Oct 1996 16:02:08 GMT""}]","2007-05-23"
+"hep-ph/9610336","Dirk Jungnickel","D.-U. Jungnickel and C. Wetterich (ITP Heidelberg)","Nonperturbative Flow Equations and Low--Energy QCD","34 pages, 4 figures ; Based on invited talks by the authors at the
+  `Workshop on Quantum Chromodynamics: Confinement, Collisions, and Chaos',
+  Paris, France, June 1996, and `QCD 96', Yaroslavl, Russia, May 1996",,,"HD-THEP-96-40","hep-ph",,"  We review the formalism of the effective average action in quantum field
+theory which corresponds to a coarse grained free energy in statistical
+mechanics. The associated exact renormalization group equation and possible
+nonperturbative approximations for its solution are discussed. This is applied
+to QCD where one observes the consecutive emergence of mesonic bound states and
+spontaneous chiral symmetry breaking as the coarse graining scale is lowered.
+We finally present a study of the phenomenological importance of
+non--renormalizable terms in the effective linear meson model.
+","[{""version"":""v1"",""created"":""Fri, 11 Oct 1996 17:48:49 GMT""}]","2007-05-23"
+"hep-ph/9610337","J. Gunion","J.F. Gunion (U.C. Davis), H.E. Haber (U.C. Santa Cruz) and T. Moroi
+  (LBL)","Will at least one of the Higgs bosons of the next-to-minimal
+  supersymmetric extension of the Standard Model be observable at LEP2 or the
+  LHC?","6 pages, full postscript file also available via anonymous ftp at
+  ftp://ucdhep.ucdavis.edu/gunion/nmssm_sm96.ps To appear in ``Proceedings of
+  the 1996 DPF/DPB Summer Study on New Directions for High Energy Physics''","ECONF C960625:LTH095,1996",,"UCD-96-26","hep-ph hep-ex",,"  We demonstrate that there are regions of parameter space in the
+next-to-minimal (i.e. two-Higgs-doublet, one-Higgs-singlet superfield)
+supersymmetric extension of the SM for which none of the Higgs bosons are
+observable either at LEP2 with $\sqrt{s}=192 GeV$ and an integrated luminosity
+of $L=1000 inverse pb$ or at the LHC with $L=600 inverse fb$.
+","[{""version"":""v1"",""created"":""Fri, 11 Oct 1996 23:54:14 GMT""}]","2011-03-02"
+"hep-ph/9610338","Iain Stewart","Iain W. Stewart (1 and 2), and Peter G. Blunden (1 and 3) ((1) Univ.
+  of Manitoba, (2) Cal Tech, (3) Univ. of Washington)","Quantum solitons at strong coupling","17 pages, 4 Postscript figures, REVTeX","Phys.Rev.D55:3742-3747,1997","10.1103/PhysRevD.55.3742","CALT-68-2080","hep-ph hep-th",,"  We examine the effect of one loop quantum corrections on the formation of
+nontopological solitons in a strongly coupled scalar-fermionic Yukawa theory.
+The exact one fermion loop contribution is incorporated by using a nonlocal
+method to correct the local derivative expansion approximation (DE) of the
+effective action. As the Yukawa coupling is increased we find that the nonlocal
+corrections play an increasingly important role. The corrections cause the
+scalar field to increase in depth while maintaining its size. This increases
+the energy of the bag configuration, but this is compensated for by more
+tightly bound fermionic states with lower energy. In contrast to the
+semi-classical picture without quantum corrections, the binding energy is
+small, and the total energy scales directly with the Yukawa coupling. This
+confirms the qualitative behavior found in earlier work using the second order
+DE, although the quantitative solutions differ.
+","[{""version"":""v1"",""created"":""Sat, 12 Oct 1996 01:36:37 GMT""}]","2008-11-26"
+"hep-th/9610086","Ken Olum","Ken D. Olum","Entropy of Localized States and Black Hole Evaporation","27 pages, ReVTeX, 5 postscript figures using epsf. Miscellaneous
+  cleanups, one section rewritten for clarity","Phys.Rev. D55 (1997) 6168-6180","10.1103/PhysRevD.55.6168","MIT-CTP-2580","hep-th",,"  We call a state ""vacuum-bounded"" if every measurement performed outside a
+specified interior region gives the same result as in the vacuum. We compute
+the maximum entropy of a vacuum-bounded state with a given energy for a
+one-dimensional model, with the aid of numerical calculations on a lattice. The
+maximum entropy is larger than it would be for rigid wall boundary conditions
+by an amount $\delta S$ which for large energies is less than or approximately
+$(1/6) ln (L_in T)$, where L_in is the length of the interior region. Assuming
+that the state resulting from the evaporation of a black hole is similar to a
+vacuum-bounded state, and that the similarity between vacuum-bounded and
+rigid-wall-bounded problems extends from 1 to 3 dimensions, we apply these
+results to the black hole information paradox. We conclude that large amounts
+of information cannot be emitted in the final explosion of a black hole.
+","[{""version"":""v1"",""created"":""Fri, 11 Oct 1996 16:48:26 GMT""},{""version"":""v2"",""created"":""Wed, 20 Nov 1996 00:07:03 GMT""}]","2009-10-30"
+"hep-th/9610087","Robert Sarsfield Dunne","R.S. Dunne, A.J. Macfarlane, J.A. de Azc\'arraga and J.C. P\'erez
+  Bueno","Geometrical foundations of fractional supersymmetry","42 pages, LaTeX. To appear in Int. J. Mod. Phys. A","Int.J.Mod.Phys. A12 (1997) 3275-3306","10.1142/S0217751X97001729","DAMTP/96-57, FTUV/96-39 , IFIC/96-47","hep-th math.QA q-alg",,"  A deformed $q$-calculus is developed on the basis of an algebraic structure
+involving graded brackets. A number operator and left and right shift operators
+are constructed for this algebra, and the whole structure is related to the
+algebra of a $q$-deformed boson. The limit of this algebra when $q$ is a $n$-th
+root of unity is also studied in detail. By means of a chain rule expansion,
+the left and right derivatives are identified with the charge $Q$ and covariant
+derivative $D$ encountered in ordinary/fractional supersymmetry and this leads
+to new results for these operators. A generalized Berezin integral and
+fractional superspace measure arise as a natural part of our formalism. When
+$q$ is a root of unity the algebra is found to have a non-trivial Hopf
+structure, extending that associated with the anyonic line. One-dimensional
+ordinary/fractional superspace is identified with the braided line when $q$ is
+a root of unity, so that one-dimensional ordinary/fractional supersymmetry can
+be viewed as invariance under translation along this line. In our construction
+of fractional supersymmetry the $q$-deformed bosons play a role exactly
+analogous to that of the fermions in the familiar supersymmetric case.
+","[{""version"":""v1"",""created"":""Fri, 11 Oct 1996 17:48:16 GMT""}]","2016-09-06"
+"hep-th/9610088","Domingo J. Louis Martinez","Domingo Louis-Martinez (University of British Columbia)","Exact Quantum States for all Two-Dimensional Dilaton Gravity Theories",,"Phys.Rev.D55:791-794,1997","10.1103/PhysRevD.55.791",,"hep-th",,"  It is shown that the recently obtained quantum wave functionals in terms of
+the CJZ variables for generic 2d dilaton gravity are equivalent to the
+previously reported exact quantum wave functionals in geometrical variables. A
+third representation of these exact quantum states is also presented.
+","[{""version"":""v1"",""created"":""Sat, 12 Oct 1996 01:47:47 GMT""}]","2011-07-19"
+"hep-th/9610089",,"Yi-Yen Wu (UC Berkeley and Lawrence Berkeley National Laboratory)","Dilaton Stabilization and Supersymmetry Breaking by Dynamical Gaugino
+  Condensation in the Linear Multiplet Formalism of String Effective Theory","37 pages, LaTeX, 4 postscript figures. Sect.4 is modified. Two
+  references are added",,,"LBNL-39441, UCB-PTH-96/42","hep-th hep-ph",,"  We study dynamical gaugino condensation in superstring effective theories
+using the linear multiplet representation for the dilaton superfield. An
+interesting necessary condition for the dilaton to be stabilized, which was
+first derived in generic models of static gaugino condensation, is shown to
+hold for generic models of dynamical gaugino condensation. We also point out
+that it is stringy non-perturbative effects that stabilize the dilaton and
+allow dynamical supersymmetry breaking via the field-theoretical
+non-perturbative effect of gaugino condensation. As a typical example, a toy
+S-dual model of a dynamical E_8 condensate is constructed and the dilaton is
+explicitly shown to be stabilized with broken supersymmetry and (fine-tuned)
+vanishing cosmological constant.
+","[{""version"":""v1"",""created"":""Sat, 12 Oct 1996 04:35:43 GMT""},{""version"":""v2"",""created"":""Mon, 23 Dec 1996 04:57:31 GMT""}]","2008-02-03"
+"math/9610202",,"Peter L. Polyakov","Sharp Lipschitz estimates for operator dbar_M on a q-concave CR manifold",,,,,"math.CV",,"  We prove that the integral operators $R_r$ and $H_r$ constructed in \cite{P}
+and such that $$f = \bar\partial_{\bold M} R_r(f) + R_{r+1}(\bar\partial_{\bold
+M} f) + H_r(f),$$ for a differential form $f \in C_{(0,r)}^{\infty}({\bold M})$
+on a regular q-concave CR manifold ${\bold M}$ admit sharp estimates in the
+Lipschitz scale.
+","[{""version"":""v1"",""created"":""Fri, 11 Oct 1996 19:54:04 GMT""}]","2009-09-25"
+"nucl-th/9610019","Fuqiang Wang","Fuqiang Wang","Coulomb Effect on phi->K+K- Invariant Mass","14 pages, 8 figures in a single file",,,,"nucl-th",,"  We demonstrate that coulomb interaction between a static charge source and K+
+and K- from phi-meson decay could introduce systematic shift in the phi
+invariant mass reconstructed from the K+K- pair.
+","[{""version"":""v1"",""created"":""Fri, 11 Oct 1996 18:58:26 GMT""}]","2007-05-23"
+"nucl-th/9610020","Charlotte Elster","Ch. Elster and W. Gloeckle","Nucleon Scattering from Very Light Nuclei: Intermediate Energy
+  Expansions for Transition Potentials and Breakup Processes","30 pages, LaTeX, 3 postscript figures","Phys.Rev.C55:1058-1073,1997","10.1103/PhysRevC.55.1058",,"nucl-th",,"  Optical potentials for elastic p-d scattering and the coupled processes
+p+$^3$He $\rightarrow$ p+$^3$He and p+$^3$He $\rightarrow$ d+d are derived in
+the Faddeev-Yakubovsky framework with special emphasis on leading order terms,
+which are expected to be valid at intermediate energies. In addition, equations
+for the fragmentations $^3$He(p,ppp)n and $^3$He(p,pp)d are derived within the
+same framework. Again leading order terms for intermediate energies are
+considered.
+","[{""version"":""v1"",""created"":""Sat, 12 Oct 1996 00:08:08 GMT""}]","2008-11-26"
+"q-alg/9610015","Pat Gilmer","Patrick M. Gilmer","Turaev-Viro Modules of Satellite knots","AMSTeX, 25 pages with 18 figures, uses epsf.tex","Knots 96, ed S. Suzuki, World Scientific 1997, 337-363",,,"q-alg math.QA",,"  Given an oriented knot K in S^3 and a TQFT, Turaev and Viro defined modules
+somewhat analogous to the Alexander module. We work with the (V_p,Z_p) theories
+of Blanchet, Habegger, Masbaum and Vogel {BHMV} for p \ge 3, and consider the
+associated modules. In {G}, we defined modules which also depend on the extra
+data of a color c which is assigned to a meridian of the knot in the
+construction of the module. These modules can be used to calculate the quantum
+invariants of cyclic branched covers of knots and have other uses. Suppose now
+that S is a satellite knot with companion C, and pattern P. We give formulas
+for the Turaev-Viro modules for S in terms of the Turaev-Viro modules of C and
+similar data coming from the pattern P. We compute these invariants explicitly
+in several examples.
+","[{""version"":""v1"",""created"":""Fri, 11 Oct 1996 23:14:42 GMT""}]","2015-12-22"
+"quant-ph/9610017","Emily Kracklauer","A. F. Kracklauer","Dichotomic Functions and Bell's Theorems","4 pages, plain.tex, to appear in the Proceedings of the II Int.
+  Symposium on Fundamental Problems in Quantum Physics, Kluwer AP",,,,"quant-ph",,"  It is shown that correlations of dichotomic functions can not conform to
+results from Quantum Mechanics. Also, it is seen that the assumptions attendant
+to optical tests of Bell's Inequalities actually are consistent with classical
+physics so that in conclusion, Bell's Theorems do not preclude hidden variable
+interpretations of Quantum Mechanics.
+","[{""version"":""v1"",""created"":""Fri, 11 Oct 1996 16:15:28 GMT""}]","2007-05-23"

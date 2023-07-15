@@ -1,0 +1,210 @@
+"alg-geom/9602013","V. Batyrev","Victor V. Batyrev and Yuri Tschinkel","Rational points on some Fano cubic bundles","8 pages., LaTeX",,,,"alg-geom math.AG",,"  We consider some families of smooth Fano hypersurfaces $X_{n+2}$ in ${\bf
+P}^{n+2} \times {\bf P}^3$ given by a homogeneous polynomial of bidegree
+$(1,3)$. For these varieties we obtain lower bounds for the number of
+$F$-rational points of bounded anticanonical height in arbitrary nonempty
+Zariski open subset $U \subset X_{n+2}$. These bounds contradict previous
+expectations about the distribution of $F$-rational points of bounded height on
+Fano varieties.
+","[{""version"":""v1"",""created"":""Sat, 17 Feb 1996 19:42:55 GMT""}]","2008-02-03"
+"astro-ph/9602086","Antonaldo Diaferio","Antonaldo Diaferio, Margaret J. Geller (CfA, Cambridge MA)","Galaxy Pairwise Velocity Distributions on Non-Linear Scales","28 pages, TeX, to appear in The Astrophysical Journal",,"10.1086/177582",,"astro-ph",,"  The redshift-space correlation function $\xi_s$ for projected galaxy
+separations $\simless 1h^{-1}$ Mpc can be expressed as the convolution of the
+real-space correlation function with the galaxy pairwise velocity distribution
+function (PVDF). An exponential PVDF yields the best fit to the $\xi_s$
+measured from galaxy samples of different redshift surveys. We show that this
+exponential PVDF is not merely a fitting function but arises from well defined
+gravitational processes. Two ingredients conspire to yield a PVDF with a nearly
+exponential shape: (i) the number density $n(\sigma)$ of systems with velocity
+dispersion $\sigma$; (ii) the unrelaxed dynamical state of most galaxy systems.
+The former ingredient determines the exponential tail and the latter the
+central peak of the PVDF. We compare the $\xi_s$ measured on non-linear scales
+from galaxy samples of the CfA redshift surveys with different models of the
+PVDF convolved with the measured real-space correlation function. This
+preliminary comparison indicates that the agreement between model and
+observations depends strongly on both the underlying cosmological model and the
+internal dynamics of galaxy systems. Neither parameter dominates. Moreover, the
+agreement depends sensitively on the accuracy of the galaxy position and
+velocity measurements.
+","[{""version"":""v1"",""created"":""Sat, 17 Feb 1996 20:17:16 GMT""}]","2009-10-28"
+"astro-ph/9602087","Thomas Rauscher","T. Rauscher, F.-K. Thielemann (University of Basel, Switzerland),
+  K.-L. Kratz (University of Mainz, Germany)","The Nuclear Level Density and the Determination of Thermonuclear Rates
+  for Astrophysics","12 pages, 4 Postcript figures, uses memsait.sty; preprint also
+  available at http://quasar.physik.unibas.ch/ . to appear in Memorie della
+  Societa Astronomica Italiana","Mem.Soc.Ast.It. 67 (1996) 851",,,"astro-ph nucl-th",,"  The prediction of cross sections for nuclei far off stability is crucial in
+the field of nuclear astrophysics. In recent calculations the nuclear level
+density -- as an important ingredient to the statistical model
+(Hauser-Feshbach) -- has shown the highest uncertainties. We present a global
+parametrization of nuclear level densities based on the back-shifted Fermi-Gas
+formalism. Employment of an energy-dependent level density parameter $a$ and
+microscopic corrections from a recent FRDM mass formula by M\""oller et al.\
+leads to a highly improved fit of level densities at the neutron-separation
+energy in the mass range $20\le A \le 245$. The importance of using proper
+microscopic corrections from mass formulae is emphasized. The resulting level
+description is well suited for astrophysical applications.
+  The level density can also provide clues to the applicability of the
+statistical model which is only correct for a high density of excited states.
+Using the above description one can derive a ``map'' for the applicability of
+the model for reactions of stable and unstable nuclei with neutral and charged
+particles.
+","[{""version"":""v1"",""created"":""Sat, 17 Feb 1996 20:32:08 GMT""}]","2016-08-30"
+"astro-ph/9602088","Reynier Peletier","R.F. Peletier, M. Balcells (Kapteyn Institute, Groningen)","Ages of galaxy bulges and disks from optical and near-infrared colors","12 pages, latex, including 3 figures (Fig. 1 missing). Fig. 1 can be
+  obtained at ftp://iac.es/pub/rpelet/preprints/buldiskfig1.ps.gz Astronomical
+  Journal, in press",,"10.1086/117958",,"astro-ph",,"  We compare optical and near-infrared colors of disks and bulges in a
+diameter-limited sample of inclined, bright, nearby, early-type spirals. Color
+profiles along wedge apertures at 15 degree from the major axis and on the
+minor axis on the side of the galaxy opposite to the dust lane are used to
+assign nominal colors for the inner disks (at 2 scale length) and for the
+bulges (~ 0.5 r_eff), respectively. We estimate that the effects of dust
+reddening and the cross-talk between the colors of the two components is
+negligible. We find that color differences (bulge -- disk) are very small:
+Delta(U-R)=0.126 +/- 0.165, Delta(R-K)=0.078 +/- 0.165. Disks tend to be bluer
+by an amount three times smaller than that reported by Bothun & Gregg (1990)
+for S0's. Color variations from galaxy to galaxy are much larger than color
+differences between disk and bulge in each galaxy. Probably, the underlying old
+population of disks and bulges is much more similar than the population
+paradigm would lead us to believe. Implied age differences, assuming identical
+metallicities, are less than 30%.
+","[{""version"":""v1"",""created"":""Sun, 18 Feb 1996 11:53:31 GMT""},{""version"":""v2"",""created"":""Tue, 20 Feb 1996 09:23:39 GMT""}]","2009-10-28"
+"cmp-lg/9602003","Bob Losee","Robert M. Losee (University of North Carolina Chapel Hill)","Text Windows and Phrases Differing by Discipline, Location in Document,
+  and Syntactic Structure","uuencoded and compressed postscript",,,,"cmp-lg cs.CL",,"  Knowledge of window style, content, location and grammatical structure may be
+used to classify documents as originating within a particular discipline or may
+be used to place a document on a theory versus practice spectrum. This
+distinction is also studied here using the type-token ratio to differentiate
+between sublanguages. The statistical significance of windows is computed,
+based on the the presence of terms in titles, abstracts, citations, and section
+headers, as well as binary independent (BI) and inverse document frequency
+(IDF) weightings. The characteristics of windows are studied by examining their
+within window density (WWD) and the S concentration (SC), the concentration of
+terms from various document fields (e.g. title, abstract) in the fulltext. The
+rate of window occurrences from the beginning to the end of document fulltext
+differs between academic fields. Different syntactic structures in sublanguages
+are examined, and their use is considered for discriminating between specific
+academic disciplines and, more generally, between theory versus practice or
+knowledge versus applications oriented documents.
+","[{""version"":""v1"",""created"":""Sun, 18 Feb 1996 13:35:29 GMT""}]","2008-02-03"
+"gr-qc/9602035","Jerzy Lewandowski","Jerzy Lewandowski (Institute of Theoretical Physics, Warsaw University
+  and Max-Planck-Institut f\""ur Gravitationsphysik, Potsdam)","Volume and Quantizations","8 pages","Class.Quant.Grav.14:71-76,1997","10.1088/0264-9381/14/1/010",,"gr-qc",,"  The aim of this letter is to indicate the differences between the
+Rovelli-Smolin quantum volume operator and other quantum volume operators
+existing in the literature. The formulas for the operators are written in a
+unifying notation of the graph projective framework. It is clarified whose
+results apply to which operators and why.
+","[{""version"":""v1"",""created"":""Sat, 17 Feb 1996 18:15:38 GMT""}]","2010-11-19"
+"gr-qc/9602036","Donald Marolf","Donald Marolf","Interpolating Between Topologies: Casimir Energies","7 pages Revtex, Note and reference added","Phys.Lett. B392 (1997) 287-290","10.1016/S0370-2693(96)01577-8","UCSBTH-96-03","gr-qc hep-th",,"  A set of models is considered which, in a certain sense, interpolates between
+1+1 free quantum field theories on topologically distinct backgrounds. The
+intermediate models may be termed free quantum field theories, though they are
+certainly not local. Their ground state energies are computed and shown to be
+finite. The possible relevance to changing spacetime topologies is discussed.
+","[{""version"":""v1"",""created"":""Sun, 18 Feb 1996 01:09:41 GMT""},{""version"":""v2"",""created"":""Thu, 22 Feb 1996 01:58:33 GMT""},{""version"":""v3"",""created"":""Tue, 4 Mar 1997 02:05:47 GMT""}]","2009-10-28"
+"gr-qc/9602037","David Scialom","Reto Eggenschwiler, David Scialom and Norbert Straumann","Asymptotic Behavior of the Einstein-Yang-Mills-Dilaton System for a
+  Closed Friedmann-Lemaitre Universe","18 pages, Uuencoded gzip compressed tar file containing a latex file
+  and 12 figures. The epsfig.sty is needed","Nucl.Phys. B474 (1996) 461-480","10.1016/0550-3213(96)00267-2","ZH-TH 4/96","gr-qc astro-ph hep-th",,"  We study the coupled Einstein-Yang-Mills-Dilaton (EYMD) equations for a
+Fried\-mann-Le\-mai\-tre universe with constant curvature $k=1$. Our detailed
+analysis is restricted to the case where the dilaton potential and the
+cosmological constant vanish. Also assuming a static gauge field, we present
+analytical and numerical results on the behavior of solutions of the EYMD
+equations. For different values of the dilaton coupling constant we analyze the
+phase portrait for the time evolution of the dilaton field and give the
+behavior of the scale factor. It turns out that there are no inflationary
+stages in this model.
+","[{""version"":""v1"",""created"":""Sun, 18 Feb 1996 14:42:40 GMT""}]","2009-10-28"
+"hep-ph/9602335",,"Michael Gronau (Technion) and Jonathan L. Rosner (CERN and University
+  of Chicago)","$V_{td}$ from Hadronic Two-Body $B$ Decays","11 pages, latex, no figures","Phys.Lett.B376:205-211,1996","10.1016/0370-2693(96)00298-5","CERN-TH-96/38, EFI-96-05, TECHNION-PH-96-03","hep-ph",,"  Certain hadronic two-body decays of $B$ mesons are dominated by penguin
+diagrams. The ratios of rates for several such decays, including $\Gamma(B^0
+\to \overline{K}^{*0} K^0)/\Gamma(B^0 \to \phi K^0)$, $\Gamma(B^0 \to
+\overline{K}^{*0} K^{*0})/\Gamma(B^0 \to \phi K^{*0})$, $\Gamma(B^+ \to
+\overline{K}^{*0} K^+)$ $/\Gamma(B^+ \to \phi K^+)$, and $\Gamma(B^+ \to
+\overline{K}^{*0} K^{*+})/\Gamma(B^+ \to \phi K^{*+})$, can provide information
+on the ratio of Cabibbo-Kobayashi-Maskawa (CKM) elements $|V_{td}/V_{ts}|$ in a
+manner complementary to other proposed determinations. SU(3) breaking effects
+cancel in some ratios. The cases of neutral $B$ decays are free of corrections
+from small annihilation terms.
+","[{""version"":""v1"",""created"":""Sat, 17 Feb 1996 16:32:44 GMT""}]","2011-01-13"
+"hep-ph/9602336","Dvali Georgi","Gia Dvali and K.Tamvakis","Symmerty Non-restoration at High Temperature and Supersymmetry","9 pages, Latex","Phys.Lett. B378 (1996) 141-146","10.1016/0370-2693(96)00437-6","CERN-TH/96-45","hep-ph astro-ph hep-th",,"  We analyse the high temperature behaviour of softly broken supersymmetric
+theories taking into account the role played by effective non-renormalizable
+terms generated by the decoupling of superheavy degrees of freedom or the
+Planck scale physics. It turns out that discrete or continuous symmetries,
+spontaneously broken at intermediate scales, may never be restored, at least up
+to temperatures of the cutoff scale. There are a few interesting differences
+from the usual non-restoration in non-supersymmetric theories case where one
+needs at least two Higgs fields and non-restoration takes place for a range of
+parameters only. We show that with non-renormalizable interactions taken into
+account the non-restoration can occur for any nonzero range of parameters even
+for a single Higgs field. We show that such theories in general solve the
+cosmological domain wall problem, since the thermal production of the dangerous
+domain walls is enormously suppressed.
+","[{""version"":""v1"",""created"":""Sat, 17 Feb 1996 17:48:35 GMT""}]","2009-10-28"
+"hep-ph/9602337",,"Pran Nath","Textured Minimal and Extended Supergravity Unification and Implications
+  for Proton Stability","14 pages, latex, no figures","Phys.Lett.B381:147-153,1996","10.1016/0370-2693(96)00593-X","NSF-ITP-96-04/NUB-TH-3131","hep-ph",,"  We construct a class of textured supergravity unified SU(5) models using
+Planck scale corrections. We show that the texture constraints in the Higgs
+doublet sector are insufficient in general to fully determine the textures in
+the Higgs triplet sector. A classification of textured minimal parameter models
+is given and their Higgs triplet textures computed under the constraint that
+they possess the Georgi-Jarlskog textures in the Higgs doublet sector. It is
+argued that additional dynamical assumptions are needed to remove the
+ambiguity.The recently proposed extension of supergravity unification to
+include a minimal exotic sector is free of this ambiguity and leads to unique
+textures in the Higgs triplet sector. Implications for proton stability are
+discussed.
+","[{""version"":""v1"",""created"":""Sun, 18 Feb 1996 13:14:31 GMT""}]","2011-06-02"
+"hep-th/9602094",,"G. Bimonte, A. Stern and P. Vitale","$SU_q(2)$ Lattice Gauge Theory","26 pages, LATEX file","Phys.Rev.D54:1054-1062,1996","10.1103/PhysRevD.54.1054",,"hep-th hep-lat math.QA q-alg",,"  We reformulate the Hamiltonian approach to lattice gauge theories such that,
+at the classical level, the gauge group does not act canonically, but instead
+as a Poisson-Lie group. At the quantum level, it then gets promoted to a
+quantum group gauge symmetry. The theory depends on two parameters - the
+deformation parameter $\lambda$ and the lattice spacing $a$. We show that the
+system of Kogut and Susskind is recovered when $\lambda \rightarrow 0$, while
+QCD is recovered in the continuum limit (for any $\lambda$). We thus have the
+possibility of having a two parameter regularization of QCD.
+","[{""version"":""v1"",""created"":""Sat, 17 Feb 1996 22:19:40 GMT""}]","2014-11-18"
+"hep-th/9602095","Ali Mostafazadeh","Ali Mostafazadeh","Scalar Curvature Factor in the Schroedinger Equation and Scattering on a
+  Curved Surface","13 pages, latex. Some minor changes made, to appear in Phys. Rev. A.","Phys.Rev. A54 (1996) 1165-1170","10.1103/PhysRevA.54.1165","IPM preprint Feb. 1996","hep-th gr-qc",,"  The scattering of free particles constrained to move on a cylindrically
+symmetric curved surface is studied. The nontrivial geometry of the space
+contributes to the scattering cross section through the kinetic as well as a
+possible scalar curvature term in the quantum Hamiltonian. The coefficient of
+the latter term is known to be related to the factor ordering problem in curved
+space quantization. Hence, in principle, the scattering data may be used to
+provide an experimental resolution of the theoretical factor ordering
+ambiguity. To demonstrate the sensitivity required of such an experimental
+setup, the effect of a localized magnetic field in the scattering process is
+also analyzed.
+","[{""version"":""v1"",""created"":""Sat, 17 Feb 1996 23:32:42 GMT""},{""version"":""v2"",""created"":""Wed, 3 Jul 1996 20:11:17 GMT""}]","2009-10-30"
+"math/9602206",,"Peter G. Casazza, Niels Jorgen Nielsen","A Gaussian Average Property for Banach Spaces",,,,"Banach Archive 2/18/96","math.FA",,"  In this paper we investigate a Gaussian average property of Banach spaces.
+This property is weaker than the Gordon Lewis property but closely related to
+this and other unconditional structures. It is also shown that this property
+implies that certain Hilbert space valued operators defined on subspaces of the
+given space can be extended.
+","[{""version"":""v1"",""created"":""Sun, 18 Feb 1996 00:00:00 GMT""}]","2016-09-06"
+"nucl-th/9602029","Thomas Rauscher","T. Rauscher (University of Basel, Switzerland), G. Raimann (The Ohio
+  State University, Columbus, OH, USA)","Astrophysical Reaction Rates for $^{10}$B(p,$\alpha$)$^{7}$Be and
+  $^{11}$B(p,$\alpha$)$^{8}$Be From a Direct Model","27 pages, 5 Postscript figures, uses RevTex and aps.sty; preprint
+  also available at http://quasar.physik.unibas.ch/ Phys. Rev. C, in press","Phys.Rev.C53:2496-2504,1996","10.1103/PhysRevC.53.2496",,"nucl-th astro-ph",,"  The reactions $^{10}$B(p,$\alpha$)$^{7}$Be and $^{11}$B(p,$\alpha$)$^{8}$Be
+are studied at thermonuclear energies using DWBA calculations. For both
+reactions, transitions to the ground states and first excited states are
+investigated. In the case of $^{10}$B(p,$\alpha$)$^{7}$Be, a resonance at
+$E_{Res}=10$ keV can be consistently described in the potential model, thereby
+allowing the extension of the astrophysical $S$-factor data to very low
+energies. Strong interference with a resonance at about $E_{Res}=550$ keV
+require a Breit-Wigner description of that resonance and the introduction of an
+interference term for the reaction $^{10}$B(p,$\alpha_1$)$^{7}$Be$^*$. Two
+isospin $T=1$ resonances (at $E_{Res1}=149$ keV and $E_{Res2}=619$ keV)
+observed in the $^{11}$B+p reactions necessitate Breit-Wigner resonance and
+interference terms to fit the data of the $^{11}$B(p,$\alpha$)$^{8}$Be
+reaction. $S$-factors and thermonuclear reaction rates are given for each
+reaction. The present calculation is the first consistent parametrization for
+the transition to the ground states and first excited states at low energies.
+","[{""version"":""v1"",""created"":""Sat, 17 Feb 1996 18:39:33 GMT""}]","2008-11-26"
+"quant-ph/9602013","Edwin R. Karat","Edwin R. Karat and Michael B. Schulz","Self-Adjoint Extensions of the Pauli Equation in the Presence of a
+  Magnetic Monopole","revised version to be published in Annals of Physics (includes a new
+  section comparing the Pauli case to the Dirac case, as well as other
+  improvements), 17 pages, LaTex (using RevTex)","Annals Phys. 254 (1997) 11-24","10.1006/aphy.1996.5638","AOP 63677","quant-ph hep-th",,"  We discuss the Hamiltonian for a nonrelativistic electron with spin in the
+presence of an abelian magnetic monopole and note that it is not self-adjoint
+in the lowest two angular momentum modes. We then use von Neumann's theory of
+self-adjoint extensions to construct a self-adjoint operator with the same
+functional form. In general, this operator will have eigenstates in which the
+lowest two angular momentum modes mix, thereby removing conservation of angular
+momentum. However, consistency with the solutions of the Dirac equation limits
+the possibilities such that conservation of angular momentum is restored.
+Because the same effect occurs for a spinless particle with a sufficiently
+attractive inverse square potential, we also study this system. We use this
+simpler Hamiltonian to compare the eigenfunctions corresponding to a particular
+self-adjoint extension with the eigenfunctions satisfying a boundary condition
+consistent with probability conservation.
+","[{""version"":""v1"",""created"":""Sun, 18 Feb 1996 06:50:01 GMT""},{""version"":""v2"",""created"":""Tue, 22 Oct 1996 06:19:31 GMT""}]","2009-10-30"

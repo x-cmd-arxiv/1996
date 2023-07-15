@@ -1,0 +1,149 @@
+"astro-ph/9606146",,"Jason Pinkney(1), Jon Holtzman(1), Chris Garasi(1), Alan M. Watson(1),
+  John S. Gallagher(2), and the WFPC2 IDT ((1) NMSU, (2) Univ. of Wisconsin )","WFPC2 Observations of the Cooling Flow Elliptical in Abell 1795","14 pages, LaTeX, Figure 4 included, Postscript Figs. 1-3 available at
+  ftp://astro.nmsu.edu/pub/JASON/A1795/, accepted for publication in ApJ
+  Letters",,"10.1086/310219",,"astro-ph",,"  We present WFPC2 images of the core of the cooling flow cD galaxy in Abell
+1795. An irregular, asymmetric dust lane extends 7 \h75 kpc in projection to
+the north-northwest. The dust shares the morphology observed in the H$\alpha$
+and excess UV emission. We see both diffuse and knotty blue emission around the
+dust lane, especially at the ends. The dust and emission features lie on the
+edge of the radio lobes, suggesting star formation induced by the radio source
+or the deflection of the radio jets off of pre-existing dust and gas. We
+measure an apparent R$_V$ significantly less than 3.1, implying that the
+extinction law is not Galactic in the dust lane, or the presence of line
+emission which is proportional to the extinction. The dust mass is at least
+2$\times10^{5} h_{75}^{-2}$ M\solar\ and is more likely to be 6.5$\times10^{5}
+h_{75}^{-2}$ M\solar.
+","[{""version"":""v1"",""created"":""Sat, 22 Jun 1996 20:26:16 GMT""}]","2009-10-28"
+"astro-ph/9606147","Tariq Shahbaz","T. Shahbaz and Janet H. Wood","The system parameters of the polars MR Ser and ST LMi","6 pages, accepted for MNRAS, use mn.sty, 9 postscript figures, 3
+  tables",,"10.1093/mnras/282.2.362",,"astro-ph",,"  We obtain the NaI 8183,8195 absorption line radial velocity curves for the
+polars ST LMi and MR Ser, from which we find the semi-amplitudes to be
+K_abs=329=+/-6 kms-1 and K_abs=289+/-9 kms-1 respectively. We find that for
+both systems the effects on the \NaI absorption lines due to X-rays heating the
+inner face of the secondary are negligible, and so the values obtained for
+K_abs can be taken as the true semi-amplitude of the secondary star. We then
+determine the projected rotational velocities, vsini, to be 104+/-9 kms-1 and
+66+/-13 kms-1 for ST LMi and MR Ser respectively which enables their mass
+ratios to be calculated. For ST LMi and MR Ser we find the mass ratio to be
+0.22+/-0.04 and 0.10+/-0.05 respectively; values which are significantly
+different only at the 94 percent level. We show that ``spike'' in the orbital
+period distribution of polars is a significant feature, although the discovery
+of only one more system with a period outside the ``spike'' would decrease its
+significance below a 99 percent confidence level. We conclude that, even if the
+limb darkening coefficients for the secondary stars in ST LMi and MR Ser are
+the same, we cannot rule out the two systems having identical parameters.
+Therefore our observations are compatible with the theory explaining the
+``spike'' in the period distribution of the AM Hers.
+","[{""version"":""v1"",""created"":""Sun, 23 Jun 1996 07:39:43 GMT""}]","2015-06-24"
+"cmp-lg/9606029",,"Lauri Karttunen","Directed Replacement","To appear in the Proceedings of ACL-96",,,,"cmp-lg cs.CL",,"  This paper introduces to the finite-state calculus a family of directed
+replace operators. In contrast to the simple replace expression, UPPER ->
+LOWER, defined in Karttunen (ACL-95), the new directed version, UPPER @->
+LOWER, yields an unambiguous transducer if the lower language consists of a
+single string. It transduces the input string from left to right, making only
+the longest possible replacement at each point.
+  A new type of replacement expression, UPPER @-> PREFIX ... SUFFIX, yields a
+transducer that inserts text around strings that are instances of UPPER. The
+symbol ... denotes the matching part of the input which itself remains
+unchanged. PREFIX and SUFFIX are regular expressions describing the insertions.
+  Expressions of the type UPPER @-> PREFIX ... SUFFIX may be used to compose a
+deterministic parser for a ``local grammar'' in the sense of Gross (1989).
+Other useful applications of directed replacement include tokenization and
+filtering of text streams.
+","[{""version"":""v1"",""created"":""Sun, 23 Jun 1996 07:15:58 GMT""}]","2008-02-03"
+"gr-qc/9606066","David Langlois","David Langlois","Cosmic Microwave Background Dipole induced by double inflation","Latex, 9 pages, no figure, to appear in Phys. Rev. D","Phys.Rev.D54:2447-2450,1996","10.1103/PhysRevD.54.2447",,"gr-qc astro-ph",,"  The observed CMBR dipole is generally interpreted as the consequence of the
+peculiar motion of the Sun with respect to the reference frame of the CMBR.
+This article proposes an alternative interpretation in which the observed
+dipole is the result of isocurvature perturbations on scales larger than the
+present Hubble radius. These perturbations are produced in the simplest model
+of double inflation, depending on three parameters. The observed dipole and
+quadrupole can be explained in this model, while severely constraining its
+parameters.
+","[{""version"":""v1"",""created"":""Sun, 23 Jun 1996 11:18:31 GMT""}]","2009-12-30"
+"hep-lat/9606013","Christian B. Lang","J. Jersak, C. B. Lang and T. Neuhaus","Four-dimensional pure compact U(1) gauge theory on a spherical lattice","40 pages, LaTeX, 12 figures","Phys.Rev. D54 (1996) 6909-6922","10.1103/PhysRevD.54.6909","UNIGRAZ-UTP-11-06-96","hep-lat",,"  We investigate the confinement-Coulomb phase transition in the
+four-dimensional (4D) pure compact U(1) gauge theory on spherical lattices. The
+action contains the Wilson coupling beta and the double charge coupling gamma.
+The lattice is obtained from the 4D surface of the 5D cubic lattice by its
+radial projection onto a 4D sphere, and made homogeneous by means of
+appropriate weight factors for individual plaquette contributions to the
+action. On such lattices the two-state signal, impeding the studies of this
+theory on toroidal lattices, is absent for gamma le 0. Furthermore, here a
+consistent finite-size scaling behavior of several bulk observables is found,
+with the correlation length exponent nu in the range nu = 0.35 - 40. These
+observables include Fisher zeros, specific-heat and cumulant extrema as well as
+pseudocritical values of beta at fixed gamma. The most reliable determination
+of nu by means of the Fisher zeros gives nu = 0.365(8). The phase transition at
+gamma le 0 is thus very probably of 2nd order and belongs to the universality
+class of a non-Gaussian fixed point.
+","[{""version"":""v1"",""created"":""Sat, 22 Jun 1996 20:08:05 GMT""}]","2009-10-28"
+"hep-ph/9606414",,"Csaba Csaki (MIT)","The Minimal Supersymmetric Standard Model (MSSM)","Brief review, 15 pages, LaTeX, 2 embedded figures","Mod.Phys.Lett.A11:599,1996","10.1142/S021773239600062X","MIT-CTP-2542","hep-ph",,"  The structure of the MSSM is reviewed. We first motivate the particle content
+of the theory by examining the quantum numbers of the known standard model
+particles and by the requirement of anomaly cancellation. Once the particle
+content is fixed we can write down the most general renormalizable
+superpotential. However such a superpotential will contain terms breaking
+lepton and baryon number which leads us to the concept of R-parity
+conservation. The question of supersymmetry breaking is discussed next. We list
+the possible soft breaking terms. However the Lagrangian involving the most
+general soft breaking terms is phenomenologically intractable because of the
+appearance of the many new parameters. It also leads to some unacceptable
+predictions. To reduce the number of parameters we restrict ourself to the case
+with universal soft breaking terms at the GUT scale. We motivate the need for
+universal soft breaking terms by the apparent unification of gauge couplings in
+the MSSM and by the absence of flavor changing neutral currents. Then we
+discuss radiative electroweak symmetry breaking. Radiative breaking arises
+because the one loop corrections involving the large top Yukawa coupling change
+the sign of the soft breaking mass parameter of the up-type Higgs doublet, this
+way introducing a nontrivial minimum in the Higgs potential. Finally we give an
+overview of the possible mixings in the MSSM and enumerate the physical (mass
+eigenstate) fields together with the mass matrices.
+","[{""version"":""v1"",""created"":""Sat, 22 Jun 1996 17:21:12 GMT""}]","2009-09-17"
+"hep-ph/9606416","Andrei Linde","Greg.W. Anderson, Andrei Linde, and Antonio Riotto","Preheating, Supersymmetry Breaking and Baryogenesis","4 pages, no figures","Phys.Rev.Lett.77:3716-3719,1996","10.1103/PhysRevLett.77.3716","FERMILAB--Pub--96/078-A, SU-ITP-96-27","hep-ph astro-ph gr-qc hep-th",,"  Fluctuations of scalar fields produced at the stage of preheating after
+inflation are so large that they can break supersymmetry much stronger than
+inflation itself. These fluctuations may lead to symmetry restoration along
+flat directions of the effective potential even in the theories where the usual
+high temperature corrections are exponentially suppressed. Our results show
+that nonthermal phase transitions after preheating may play a crucial role in
+the generation of the primordial baryon asymmetry by the Affleck-Dine
+mechanism. In particular, the baryon asymmetry may be generated at the very
+early stage of the evolution of the Universe, at the preheating era, and not
+when the Hubble parameter becomes of order the gravitino mass.
+","[{""version"":""v1"",""created"":""Sun, 23 Jun 1996 06:39:11 GMT""}]","2009-09-29"
+"hep-th/9606144","Andrei Mironov","S.Kharchev, A.Mironov, A.Zhedanov","Faces of Relativistic Toda Chain","51 pages, LaTeX, no figures (some misprints are corrected)","Int.J.Mod.Phys. A12 (1997) 2675-2724","10.1142/S0217751X97001493","ITEP/TH-1/95, FIAN/TD-19/95","hep-th nlin.SI solv-int",,"  We demonstrate that the generalization of the relativistic Toda chain (RTC)
+is a special reduction of two-dimensional Toda Lattice hierarchy (2DTL). This
+reduction implies that the RTC is gauge equivalent to the discrete AKNS
+hierarchy and, which is the same, to the two-component Volterra hierarchy while
+its forced (semi-infinite) variant is described by the unitary matrix integral.
+The integrable properties of the RTC hierarchy are revealed in different
+frameworks of: Lax representation, orthogonal polynomial systems, and
+$\tau$-function approach. Relativistic Toda molecule hierarchy is also
+considered, along with the forced RTC. Some applications to biorthogonal
+polynomial systems are discussed.
+","[{""version"":""v1"",""created"":""Sat, 22 Jun 1996 22:14:05 GMT""},{""version"":""v2"",""created"":""Thu, 5 Dec 1996 15:08:16 GMT""}]","2009-10-30"
+"hep-th/9606145",,"Hans-Peter Nilles, Michal Spalinski","Generalized string compactifications with spontaneously broken
+  supersymmetry","15 pages, LaTeX, no figures","Phys.Lett. B392 (1997) 67-76","10.1016/S0370-2693(96)01497-9",,"hep-th",,"  The Narain lattice construction of string compactifications is generalized to
+include spontaneously broken supersymmetry. Consistency conditions from modular
+invariance and Lorentz symmetry are solved in full generality. This framework
+incorporates models where supersymmetry breaking is inversely proportional to
+the radii of compact dimensions. The enhanced lattice description, however,
+might allow for models with a different geometrical or even non-geometrical
+interpretation.
+","[{""version"":""v1"",""created"":""Sat, 22 Jun 1996 23:54:41 GMT""},{""version"":""v2"",""created"":""Sun, 4 Aug 1996 21:06:32 GMT""}]","2009-10-30"
+"nucl-th/9606048","Terasaki Jun","J. Terasaki, H. Flocard (IPN Orsay), P.-H. Heenen (U.L.B.) and P.
+  Bonche (CE-Saclay)","Superdeformed Bands of Odd Nuclei in A=190 Region in the Quasiparticle
+  Picture","12 pages, 5 Postscript figures, submitted to Phys.Rev.C","Phys.Rev.C55:1231-1235,1997","10.1103/PhysRevC.55.1231",,"nucl-th",,"  We study the properties of the superdeformed (SD) bands of 195Pb and 193Hg by
+the cranked Hartree-Fock-Bogoliubov method. Our calculations reproduce the flat
+behavior of the dynamical moment of inertia of two of the SD bands of 195Pb
+measured recently. We discuss possible configuration assignments for the
+observed bands 3 and 4 of 195Pb. We also calculate the two interacting SD bands
+of 193Hg. Our analysis confirms the superiority of a density-dependent pairing
+force over a seniority pairing interaction.
+","[{""version"":""v1"",""created"":""Sun, 23 Jun 1996 12:28:36 GMT""}]","2008-11-26"
+"supr-con/9606003","Prozorov Ruslan","Y. Abulafia, A. Shaulov, Y. Wolfus, R. Prozorov, L. Burlachkov, and Y.
+  Yeshurun, D. Majer E. Zeldov, H. W\""uhl, V.B. Geshkenbein, V.M. Vinokur","Plastic vortex-creep in YBa$_2$Cu$_3$O$_{7-x}$ crystals","10 pages, RevTeX type, 4 PS figures",,"10.1103/PhysRevLett.77.1596",,"supr-con cond-mat.supr-con",,"  Local magnetic relaxation measurements in YBa$_2$Cu$_3$O$_{7-x}$ crystals
+show evidence for plastic vortex-creep associated with the motion of
+dislocations in the vortex lattice. This creep mechanism governs the vortex
+dynamics in a wide range of temperatures and fields below the melting line and
+above the field corresponding to the peak in the ''fishtail'' magnetization. In
+this range the activation energy $U_{pl}$, which decreases with field, drops
+below the elastic (collective) creep activation energy, $U_{el}$, which
+increases with field. A crossover in flux dynamics from elastic to plastic
+creep is shown to be the origin of the fishtail in YBa$_2$Cu$_3$O$_{7-x}$.
+","[{""version"":""v1"",""created"":""Sat, 22 Jun 1996 23:11:39 GMT""}]","2009-10-30"

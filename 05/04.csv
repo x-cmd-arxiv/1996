@@ -1,0 +1,213 @@
+"astro-ph/9605017",,"W. E. Ballinger, J. A. Peacock and A. F. Heavens (Institute for
+  Astronomy and Royal Observatory, Edinburgh)","Measuring the cosmological constant with redshift surveys","MNRAS in press. 12 pages LaTeX including Postscript figures. Uses
+  mn.sty and epsf.sty",,"10.1093/mnras/282.3.877",,"astro-ph",,"  It has been proposed that the cosmological constant $\Lambda$ might be
+measured from geometric effects on large-scale structure. A positive vacuum
+density leads to correlation-function contours which are squashed in the radial
+direction when calculated assuming a matter-dominated model. We show that this
+effect will be somewhat harder to detect than previous calculations have
+suggested: the squashing factor is likely to be $<1.3$, given realistic
+constraints on the matter contribution to $\Omega$. Moreover, the geometrical
+distortion risks being confused with the redshift-space distortions caused by
+the peculiar velocities associated with the growth of galaxy clustering. These
+depend on the density and bias parameters via the combination $\beta\equiv
+\Omega^{0.6}/b$, and we show that the main practical effect of a geometrical
+flattening factor $F$ is to simulate gravitational instability with $\beta_{\rm
+eff}\simeq 0.5(F-1)$. Nevertheless, with datasets of sufficient size it is
+possible to distinguish the two effects; we discuss in detail how this should
+be done. New-generation redshift surveys of galaxies and quasars are
+potentially capable of detecting a non-zero vacuum density, if it exists at a
+cosmologically interesting level.
+","[{""version"":""v1"",""created"":""Fri, 3 May 1996 16:19:44 GMT""}]","2015-06-24"
+"astro-ph/9605018","Dean McLaughlin","Dean E. McLaughlin and Ralph E. Pudritz","A Model for the Internal Structure of Molecular Cloud Cores","33 pages, LaTeX with 3 PS figures; ApJ in press (October 1 1996)",,"10.1086/177771",,"astro-ph",,"  We generalize the classic Bonnor-Ebert stability analysis of
+pressure-truncated, self-gravitating gas spheres, to include clouds with
+arbitrary equations of state. A virial-theorem analysis is also used to
+incorporate mean magnetic fields into such structures. The results are applied
+to giant molecular clouds (GMCs), and to individual dense cores, with an eye to
+accounting for recent observations of the internal velocity-dispersion profiles
+of the cores in particular. We argue that GMCs and massive cores are at or near
+their critical mass, and that in such a case the size-linewidth and mass-radius
+relations between them are only weakly dependent on their internal structures;
+any gas equation of state leads to essentially the same relations. We briefly
+consider the possibility that molecular clouds can be described by polytropic
+pressure-density relations (of either positive or negative index), but show
+that these are inconsistent with the apparent gravitational virial equilibrium,
+2U + W = 0 of GMCs and of massive cores. This class of models would include
+clouds whose nonthermal support comes entirely from Alfven wave pressure. The
+simplest model consistent with all the salient features of GMCs and cores is a
+``pure logotrope,'' in which P/P_c = 1 + A ln(rho/rho_c). Detailed comparisons
+with data are made to estimate the value of A, and an excellent fit to the
+observed dependence of velocity dispersion on radius in cores is obtained with
+A = 0.2.
+","[{""version"":""v1"",""created"":""Fri, 3 May 1996 22:31:39 GMT""}]","2009-10-28"
+"astro-ph/9605019","Piet Hut","Piet Hut","The Role of Binaries in the Dynamical Evolution of the Core of a
+  Globular Cluster","10 pages, Latex + 3 ps-figures, to appear in the proceedings of IAU
+  Symposium 174: Dynamical Evolution of Star Clusters",,,"IASSNS AST 96/15","astro-ph",,"  The size of the core is one of the main diagnostics of the evolutionary state
+of a globular cluster. Much has been learned over the last few years about the
+behavior of the core radius during and after core collapse, under a variety of
+different conditions related to the presence or absence of large numbers of
+binaries. An overview is presented of the basic physical principles that can be
+used to estimate the core radius. Four different situations are discussed, and
+expressions are presented for the ratio $r_c/r_h$ of core radius to half mass
+radius. The regimes are: deep collapse in the absence of primordial binaries;
+steady post-collapse evolution after primordial binaries have been burned up;
+chaotic post-collapse evolution under the same conditions; and post-collapse
+evolution in the presence of primordial binaries. In addition, modifications to
+all of these cases are indicated for the more realistic situation where effects
+of the galactic tidal field are taken into account.
+","[{""version"":""v1"",""created"":""Sat, 4 May 1996 02:18:26 GMT""}]","2007-05-23"
+"cond-mat/9605023","Juan Carlos Cuevas Rodriguez","J. C. Cuevas, A. Martin-Rodero and A. Levy Yeyati","Hamiltonian approach to the transport properties of superconducting
+  quantum point contacts","Revtex, 31 pages, 6 Postscript figures (ps-files uuencoded);
+  submitted to PRB","Phys. Rev. B 54, 7366 (1996)","10.1103/PhysRevB.54.7366",,"cond-mat",,"  A microscopic theory of the transport properties of quantum point contacts
+giving a unified description of the normal conductor- superconductor (N-S) and
+superconductor-superconductor (S-S) cases is presented. It is based on a model
+Hamiltonian describing charge transfer processes in the contact region and
+makes use of non-equilibrium Green function techniques for the calculation of
+the relevant quantities. It is explicitly shown that when calculations are
+performed up to infinite order in the coupling between the electrodes, the
+theory contains all known results predicted by the more usual scattering
+approach for N-S and S-S contacts. For the latter we introduce a specific
+formulation for dealing with the non-stationary transport properties. An
+efficient algorithm is developed for obtaining the dc and ac current
+components, which allows a detailed analysis of the different current-voltage
+characteristics for all range of parameters. We finally address the less
+understood small bias limit, for which some analytical results can be obtained
+within the present formalism. It is shown that four different physical regimes
+can be reached in this limit depending on the values of the inelastic
+scattering rate and the contact transmission. The behavior of the system in
+these regimes is discussed together with the conditions for their experimental
+observability.
+","[{""version"":""v1"",""created"":""Fri, 3 May 1996 16:03:20 GMT""}]","2009-10-28"
+"cond-mat/9605025","Kevin Ingersent","Kevin Ingersent (University of Florida)","Behavior of magnetic impurities in gapless Fermi systems","RevTex, 5 pages, 3 epsf-embedded EPS figures. Important reference
+  added (Ref. 10), other minor changes",,"10.1103/PhysRevB.54.11936",,"cond-mat",,"  In a number of systems, including certain semiconductors and unconventional
+superconductors, the effective density of states varies near the Fermi energy
+like $|E-E_F|^r$. The behavior of dilute magnetic impurities in such systems is
+studied using a non-perturbative renormalization-group approach. Close to
+particle-hole symmetry, the Kondo effect is suppressed for the cases of
+greatest relevance ($r=1$ and $2$). Away from this symmetry, any quenching of
+the impurity moment is accompanied by a low-temperature decrease in the
+impurity resistivity, rather than the increase found in metals.
+","[{""version"":""v1"",""created"":""Fri, 3 May 1996 18:00:26 GMT""},{""version"":""v2"",""created"":""Mon, 13 May 1996 21:35:56 GMT""}]","2009-10-28"
+"cond-mat/9605026","Jose Manuel Carmelo","J.M.P. Carmelo and A. H. Castro Neto","Magnetic-field and chemical-potential effects on the low-energy
+  separation","29 pages, latex, submitted to Phys. Rev. B",,"10.1103/PhysRevB.54.9960",,"cond-mat",,"  We show that in the presence of a magnetic field the usual low-energy
+separation of the Hubbard chain is replaced by a ``$c$'' and ``$s$''
+separation. Here $c$ and $s$ refer to small-momentum and low-energy independent
+excitation modes which couple both to charge and spin. Importantly, we find the
+exact generators of these excitations both in the electronic and pseudoparticle
+basis. In the limit of zero magnetic field these generators become the usual
+charge and spin fluctuation operators. The $c$ and $s$ elementary excitations
+are associated with the $c$ and $s$ pseudoparticles, respectively. We also
+study the separate pseudoparticle left and right conservation laws. In the
+presence of the magnetic field the small-momentum and low-energy excitations
+can be bosonized. However, the suitable bosonization corresponds to the $c$ and
+$s$ pseudoparticle modes and not to the usual charge and spin fluctuations. We
+evaluate exactly the commutator between the electronic-density operators. Its
+spin-dependent factor is in general non diagonal and depends on the
+interaction. The associate bosonic commutation relations characterize the
+present unconventional low-energy separation.
+","[{""version"":""v1"",""created"":""Fri, 3 May 1996 18:01:44 GMT""}]","2009-10-28"
+"cond-mat/9605027","Regis Melin","R. Melin and B. Doucot, CRTBT, Grenoble, France","Monopoles in the gauge theory of the t-J model","Jour. Phys. I (France)",,"10.1051/jp1:1996103",,"cond-mat",,"  We consider a RG approach for the plasma of magnetic monopoles of the
+Ioffe-Larkin approach to the t-J model. We first derive the interaction
+parameters of the 2+1 plasma of magnetic monopoles. The total charge along the
+time axis is constrained to be zero for each lattice plaquette. Under the
+one-plaquette approximation, the problem is equivalent to a one dimensional
+neutral plasma interacting via a potential $V(t) \sim t^{\alpha}$, with
+$\alpha=1/3$. The plasma is in a dipolar phase if $\alpha \ge 1$ and a
+possibility of transition towards a Debye screening phase arises if $\alpha <
+1$, so that there exists a critical Fermi wave vector $k_f^{*}$ such as the
+plasma is Debye screening if $k_f<k_f^{*}$ and confined if $k_f>k_f^{*}$. The
+2+1 dimensional problem is treated numerically. We show that $k_f^{*}$
+decreases and goes to zero as the number of colors increases. This suggests
+that the assumption of spin-charge decoupling within the slave-boson scheme is
+self-consistent at large enough values of $N$ and small enough doping.
+Elsewhere, a confining force between spinons and antiholons appears, suggesting
+a transition to a Fermi liquid state.
+","[{""version"":""v1"",""created"":""Fri, 3 May 1996 19:44:43 GMT""}]","2009-10-28"
+"funct-an/9605001","Vladimir M. Manuilov","V.M.Manuilov","Diagonalizing operators over continuous fields of C*-algebras","21 pages, LaTeX 2.09, no figures",,"10.1070/SM1997v188n06ABEH000229",,"funct-an math.OA",,"  It is well known that in the commutative case, i.e. for $A=C(X)$ being a
+commutative C*-algebra, compact selfadjoint operators acting on the Hilbert
+C*-module $H_A$ (= continuous families of such operators $K(x)$, $x\in X$) can
+be diagonalized if we pass to a bigger W*-algebra $L^\infty(X)={\bf A} \supset
+A$ which can be obtained from $A$ by completing it with respect to the weak
+topology. Unlike the ""eigenvectors"", which have coordinates from $\bf A$, the
+""eigenvalues"" are continuous, i.e. lie in the C*-algebra $A$. We discuss here
+the non-commutative analog of this well-known fact. Here the ""eigenvalues"" are
+defined not uniquely but in some cases they can also be taken from the initial
+C*-algebra instead of the bigger W*-algebra. We prove here that such is the
+case for some continuous fields of real rank zero C*-algebras over a
+one-dimensional manifold and give an example of a C*-algebra $A$ for which the
+""eigenvalues"" cannot be chosen from $A$, i.e. are discontinuous. The main point
+of the proof is connected with a problem on almost commuting operators. We
+prove that for some C*-algebras if $h\in A$ is a selfadjoint, $u\in A$ is a
+unitary and if the norm of their commutant $[u,h]$ is small enough then one can
+connect $u$ with the unity by a path $u(t)$ so that the norm of $[u(t),h]$
+would be also small along this path.
+","[{""version"":""v1"",""created"":""Sat, 4 May 1996 12:37:47 GMT""}]","2015-06-25"
+"gr-qc/9605008","Henrique","H. P. de Oliveira","Self-Similar Collapse in Brans-Dicke Theory and Critical Behavior","7 pages, 4 Postscript figures available upon request",,,,"gr-qc",,"  We use the technique of conformal transformations to generate self-similar
+collapse in Brans-Dicke theory. We analyze the solutions concerning the
+critical behavior found recently by Choptuik. The critical exponent associated
+to the formation of black hole for near critical evolution is obtained. The
+role of the coupling parameter is discussed.
+","[{""version"":""v1"",""created"":""Fri, 3 May 1996 22:47:15 GMT""}]","2007-05-23"
+"hep-ph/9605223","Jorgen Randrup","J. Randrup (Lawrence Berkeley Laboratory, Berkeley, USA)","Amplification of pionic instabilities in high-energy collisions?","uuencoded revtex body and 4 ps figures (4 pages total)","Phys.Rev.Lett. 77 (1996) 1226-1229","10.1103/PhysRevLett.77.1226","LBL-38379R","hep-ph nucl-th",,"  Considering a variety of dynamical scenarios within the linear sigma model,
+we examine the conditions for pionic modes to be amplified as the chiral field
+relaxes towards the normal vacuum following the transient restoration of
+approximate chiral symmetry in a high-energy collision. While Bjorken-type
+longitudinal expansions appear to be insufficient for amplification for occur,
+analoguos expansions in two or three dimensions may enhance the low-energy
+power spectrum by up to an order of magnitude.
+","[{""version"":""v1"",""created"":""Fri, 3 May 1996 17:12:44 GMT""}]","2009-10-28"
+"hep-ph/9605224","Lawrence Hall","Riccardo Barbieri, Lawrence Hall","A Grand Unified Supersymmetric Theory of Flavor","38 pages, 3 Postscript figures","Nuovo Cim. A110 (1997) 1-30",,"LBL-38381","hep-ph",,"  A grand unified $SU(5)$ theory is constructed with a hierarchical breaking of
+a $U(2)$ flavor symmetry. The small parameters of the squark and slepton mass
+matrices, necessary to solve the supersymmetric flavor-changing problem, and
+the inter-generational quark and lepton mass hierarchies are both generated
+from the $U(2)$ symmetry breaking parameters. The flavor interactions of the
+theory are tightly constrained, with just 10 free real parameters for both the
+fermion and scalar sectors. All but one of the 8 small fermion mass ratios, and
+all of the 3 small Cabibbo-Kobayashi-Maskawa mixing angles, can be understood
+without introducing small dimensionless Yukawa parameters. Predictions are made
+for 2 of the Cabibbo-Kobayashi-Maskawa mixing angles and for 2 of the fermion
+masses. The six flavor mixing matrices which appear at the neutralino vertices,
+and which in general are arbitrary unitary matrices, are determined in terms of
+just a single free parameter.
+","[{""version"":""v1"",""created"":""Fri, 3 May 1996 22:01:59 GMT""}]","2007-05-23"
+"hep-th/9605025","Hiroyuki Takata","Hiroyuki Takata (KEK Theory group and Hiroshima U.)","4 D Quantum N-Dilaton Gravity and One-Loop Divergence of Effective
+  Action on Constant Dilaton","13 Pages, 4 Postscript figures, Latex, uses some style files. This
+  paper also available at
+  http://theory.kek.jp/~takata/mypaper/paper.html#mypaper7.ps","Prog.Theor.Phys. 96 (1996) 203-214","10.1143/PTP.96.203","KEK-preprint 96-8, HUPD-9608","hep-th",,"  We consider 4D quantum gravity with N-dilatons with the most general
+couplings. Especially, on constant dilaton and arbitrary metric background, we
+show the structure of the divergent terms. We show the constraint between the
+couplings necessary to cancel the coefficient of the square of the Wyle tensor.
+Next we show the N dependence of a non-renormalizable divergent term, and found
+that it cannot be canceled in the case of $N \geq 1$ with any fine-tuning of
+the couplings.
+","[{""version"":""v1"",""created"":""Sat, 4 May 1996 08:24:31 GMT""}]","2009-10-30"
+"nucl-th/9605004","Daniel Phillips","D. R. Phillips (University of Maryland) and I. R. Afnan (Flinders
+  University of South Australia)","Solving the four-dimensional $NN-\pi NN$ equations for scalars below
+  meson-production threshold","23 pages, RevTeX, 17 encapsulated postscript files included,
+  manuscript uses BoxedEPS.tex","Phys.Rev.C54:1542-1560,1996; Erratum-ibid.C55:3178,1997","10.1103/PhysRevC.54.1542 10.1103/PhysRevC.55.3178",,"nucl-th",,"  The four-dimensional $NN-\pi NN$ equations are adapted to the case of scalar
+particles with a $\phi^2\sigma$ interaction Lagrangian, and solved for energies
+below the $\sigma$-production threshold. This is achieved in the approximation
+where $\phi\sigma$ scattering is dominated by the $s$-channel $\phi$-pole term.
+The importance of the removal of double-counting is investigated, and a
+detailed comparison of the results of a covariant coupled-channels formulation
+and the Bethe-Salpeter equation in the ladder and ladder plus crossed-box
+approximations is presented. A brief discussion of the extension of the method
+to energies above the $\sigma$-production threshold is given.
+","[{""version"":""v1"",""created"":""Sat, 4 May 1996 04:43:27 GMT""}]","2014-11-18"
+"q-alg/9605004","Anatol Kirillov","Anatol N. Kirillov and Masatoshi Noumi","Affine Hecke algebras and raising operators for Macdonald polynomials","35 pages, AMSTEX",,,,"q-alg math.QA",,"  We introduce certain raising and lowering operators for Macdonald polynomials
+(of type $A_{n-1}$) by means of Dunkl operators. The raising operators we
+discuss are a natural $q$-analogue of raising operators for Jack polynomials
+introduced by L.Lapointe and L.Vinet. As an application we prove the
+integrality of double Kostka coefficients. Double analog of the multinomial
+coefficients are introduced.
+","[{""version"":""v1"",""created"":""Sat, 4 May 1996 09:56:36 GMT""}]","2008-02-03"
+"q-alg/9605005","Anatol Kirillov","Anatol N. Kirillov and Masatoshi Noumi","$q$-Difference raising operators for Macdonald polynomials and the
+  integrality of transition coefficients","20 pages, AMSTEX",,,,"q-alg math.QA",,"  We study certain $q$-difference raising operators for Macdonald polynomials
+(of type $A_{n-1}$) which are originated from the $q$-difference-reflection
+operators introduced in our previous paper. These operators can be regarded as
+a $q$-difference version of the raising operators for Jack polynomials
+introduced by L.Lapointe and L.Vinet. As an application of our $q$-difference
+raising operators we give an elementary proof of the integrality of the double
+Kostka coefficients which had been conjectured I.G. Macdonald. We also
+determine their quasi-classical limits, which give rise to (differental)
+raising operators for Jack polynomials.
+","[{""version"":""v1"",""created"":""Sat, 4 May 1996 10:16:48 GMT""}]","2008-02-03"

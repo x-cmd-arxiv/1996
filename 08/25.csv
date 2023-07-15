@@ -1,0 +1,202 @@
+"alg-geom/9705023","tomohide Teraoms","Tomohide Terasoma (Department of Mathematical Science, University of
+  Tokyo)","Hodge and Tate conjectures for hypergeometric sheaves","42 pages, amstex",,,,"alg-geom math.AG",,"  A constructible sheaf corresponding to Gel'fand Zelevinski hypergeometric
+functions on a torus is called hypergeometric sheaf. We consider Hodge and Tate
+conjectrue for hypergeomtric sheaves. Hodge conjecture is formulated in terms
+of variation of Hodge strucure and Tate conjecture is done for l-adic sheaves
+on an open set of torus. We prove Hodge and Tate conjecture up to Hodge and
+Tate cycle of Fermat motifes. We use cohomological Mellin transform to get the
+main theorem. This is the final revision for preprint.
+","[{""version"":""v1"",""created"":""Sun, 25 Aug 1996 03:47:50 GMT""},{""version"":""v2"",""created"":""Tue, 27 Aug 1996 07:46:32 GMT""},{""version"":""v3"",""created"":""Sun, 1 Sep 1996 11:07:42 GMT""}]","2008-02-03"
+"astro-ph/9608152","Tsvi Piran","Re'em Sari and Tsvi Piran (Hebrew University)","Cosmological GRBs: Internal vs. External Shocks","Submitted to MNRAS; 7 page MN latex file, using EPSFIG, with 3
+  figures. Complete uuencoded compressed PS file is available at
+  ftp://shemesh.fiz.huji.ac.il or http://shemesh.fiz.huji.ac.il/papers/insp.uu",,"10.1093/mnras/287.1.110",,"astro-ph",,"  Internal (IS) or external (ES) shocks in relativistic expanding shells are
+currently the best known mechanism for producing GRBs. We calculate the
+hydrodynamic conditions and the cooling processes in internal shocks, that
+occur when one layer overtakes another. We compare these conditions with the
+conditions in external shocks that occur when the shell encounters the ISM. We
+find that the complicated temporal structure observed in GRBs could be easily
+explained in IS scenario. Unlike ES, the observed temporal structure simply
+reflects the temporal behavior of the internal engine that produces the shell.
+We also find that opacity and in particular the opacity for pair production
+poses strong constraints on the parameter space and consequently bursts with
+very narrow peaks are expected to be optically thick and would not contain GeV
+photons. Finally we find that as in ES synchrotron is the most likely radiation
+process.
+","[{""version"":""v1"",""created"":""Sun, 25 Aug 1996 10:56:34 GMT""}]","2015-06-24"
+"astro-ph/9608158","Yannick Mellier","Y. Mellier (1,2) ((1) Institut d'Astrophysique de Paris, (2)
+  Observatoire de Paris DEMIRM)","Gravitational Lensing and the Redshift Distribution of $B>25$ galaxies","8 pages, Invited talks for the 37th Herstmonceux Conference on ""HST
+  and the High Redshift Universe"" 1-5 july 1996. Latex with hx37_latex.sty and
+  psfig.sty. 8 pages, 4 figures 191K gzipped tar file. Also available on
+  ftp.iap.fr/pub/incoming/mellier",,,,"astro-ph",,"  In addition to the determination of the mass distribution of lenses (see P.
+Schneider, this conference), strong and weak lensing can also be powerfull
+tools to analyse the redshift distribution of faint galaxies. In this review, I
+summarize the present status of redshifts of galaxies beyond $B=25$ as they are
+inferred by spectroscopy of magnified galaxies, lensing inversion and
+magnification bias.
+","[{""version"":""v1"",""created"":""Sun, 25 Aug 1996 07:01:33 GMT""}]","2007-05-23"
+"astro-ph/9608159","Junichiro Makino","Junichiro Makino and Piet Hut","Merger Rate of Equal-Mass Spherical Galaxies","To appear in ApJ (May 20, 1997 issue) 22 pages, 14 figures,
+  Postscript (or GIF) version available at
+  http://grape.c.u-tokyo.ac.jp/pub/people/makino/papers/rate.ps or
+  http://grape.c.u-tokyo.ac.jp/pub/people/makino/papers/rate.html",,"10.1086/304013",,"astro-ph",,"  We present cross sections and reaction rates for merging to occur during
+encounters of equal-mass spherical galaxies. As an application, we determine
+the rate of galaxy merging in clusters of galaxies. We present results for two
+types of Plummer models (a full and a truncated one), two King models and the
+Hernquist model. Cross sections are determined on the basis of a large number
+($\sim 500$) of simulations of galaxy encounters, using the 10-Gigaflops GRAPE
+3A special-purpose computer. We characterize the overall merger rate of
+galaxies in a galaxy cluster by a single number, derived from our cross
+sections by an integration over galaxy encounter velocities in the limit of a
+constant density in velocity space. For small clusters, where the cluster
+velocity dispersion may not significantly exceed the internal velocity
+dispersion of the individual galaxies, this constant-density approximation may
+not be valid. For those cases, we present separate results, based on
+integrations of our cross sections over Maxwellian velocity distributions.
+Finally, tidal effects from the cluster potential as well as from neighboring
+galaxies may prevent a barely bound galaxy pair from spiraling in after their
+first encounter. We give a quantitative estimate of the resulting reduction in
+the actual merger rate, due to these tidal interactions.
+","[{""version"":""v1"",""created"":""Sun, 25 Aug 1996 10:55:06 GMT""},{""version"":""v2"",""created"":""Thu, 27 Mar 1997 14:40:52 GMT""}]","2009-10-28"
+"astro-ph/9608160","Junichiro Makino","Junichiro Makino","Post-Collapse evolution of globular clusters","To appear in Apj, Vol 470, Oct 20, 11 pages, 7 figures, Postscript
+  (or GIF) version available at
+  http://grape.c.u-tokyo.ac.jp/pub/people/makino/papers/osclong.ps or
+  http://grape.c.u-tokyo.ac.jp/pub/people/makino/papers/osclong.html",,"10.1086/178007",,"astro-ph",,"  A number of globular clusters appear to have undergone core collapse, in the
+sense that their predicted collapse time is much shorter than their current
+age. Simulations using gas models and Fokker-Planck approximation have shown
+that the central density of a globular cluster after the collapse undergoes
+nonlinear oscillation with large amplitude (gravothermal oscillation). However,
+whether such an oscillation actually takes place in a real $N$-body system has
+remained unsolved, because an $N$-body simulation with a sufficiently high
+resolution would have required the computing resource of the order of several
+Gflops$\cdot$years. In the present paper, we report the result of such a
+simulation, performed on a dedicated special-purpose computer GRAPE-4. We
+simulated the evolution of isolated point-mass systems with up to 32,768
+particles. The largest number of particles reported previously is 10,000. We
+confirmed that gravothermal oscillation takes place in an $N$-body system. The
+expansion phase shows all signatures that are considered as the evidences of
+the gravothermal nature of the oscillation. At the maximum expansion, the core
+radius is $\sim 1$\% of the half-mass radius for the run with 32,768 particles.
+The maximum core size $r_c$ depends on $N$, as $<r_c> \propto N^{-1/3}$.
+","[{""version"":""v1"",""created"":""Sun, 25 Aug 1996 11:26:29 GMT""}]","2009-10-28"
+"astro-ph/9608161","Junichiro Makino","Junichiro Makino","Merging of galaxies with central black holes II. Evolution of the black
+  hole binary and the structure of the core","Submitted to Apj, 20 pages, 5 figures, Postscript (or GIF) version
+  available at http://grape.c.u-tokyo.ac.jp/pub/people/makino/papers/list.html",,"10.1086/303773",,"astro-ph",,"  We investigated the evolution of the black hole binary formed by the merging
+of two galaxies each containing a central massive black hole. Our main goal
+here is to determine if the black hole binary can merge through the hardening
+by dynamical friction and the gravitational wave radiation. We performed
+$N$-body simulations of merging of two galaxies with wide range of total number
+of particles to investigate the effect of the number of particles on the
+evolution of the black hole binary. We found that the evolution timescale was
+independent of the number of particles in the galaxy $N$ until the separation
+reaches a critical value. After the separation became smaller than this
+critical value, the evolution timescale was longer for larger number of
+particles. Qualitatively, this behavior is understood naturally the result the
+``loss-cone'' effect. However, the dependence of the timescale on $N$ is
+noticeably weaker than the theoretical prediction. In addition, the critical
+separation is smaller than the theoretical prediction. The timescale of
+evolution through gravitational radiation at this critical separation is longer
+than the Hubble time. We discuss the reason of these discrepancy and the
+implication of the present result on the structure of the ellipticals and QSO
+activities.
+","[{""version"":""v1"",""created"":""Sun, 25 Aug 1996 11:39:37 GMT""}]","2009-10-28"
+"astro-ph/9608162","Toshio Tsuchiya","Toshio Tsuchiya, Naoteru Gouda, and Tetsuro Konishi","Chaotic itinerancy and thermalization in one-dimensional
+  self-gravitating systems","23 pages, postscript only","Astrophys.Space Sci. 257 (1998) 319-341","10.1023/A:1001563025692","OU-TAP-32, DPNU-96-41","astro-ph chao-dyn nlin.CD",,"  This is the third paper of the series of our studies of the one-dimensional
+self-gravitating many-body systems. In this paper, we thus study the transition
+phenomena after the first transition from a quasiequilibrium. We found that
+irrespective of the initial conditions, the system wanders between many states
+which yield the same properties of the quasiequilibrium as the water-bag. This
+itinerancy is most prominent in the time scale $t\sim 10^5 \sim 10^6 t_c$. In
+the midway between two succeeding quasiequilibria, the system experiences a
+transient state, where one particle keeps exclusive high energy and its motion
+decouples with the others. Though the transient state is not the thermally
+relaxed equilibrium, its distribution quite resembles the isothermal
+distribution. Thus the macroscopic relaxation we discussed in the previous
+papers corresponds to the transition from one of quasiequilibria to a transient
+state. Averaging the behavior over a time scale much longer than the
+macroscopic relaxation time gives the isothermal distribution. Distribution of
+lifetime $\tau$ of the transient states yields a power-law distribution of
+$\tau^{-2}$. The transient state gives a clear example of chaotic itinerancy in
+conserved dynamical systems. The mechanism of the onset of itinerancy is
+examined.
+","[{""version"":""v1"",""created"":""Sun, 25 Aug 1996 14:06:55 GMT""}]","2009-10-28"
+"cond-mat/9608112","Frederic Lesage","F. Lesage, H. Saleur","Form-factors computation of Friedel oscillations in Luttinger liquids","Revtex, epsf, 4pgs, 2figs",,"10.1088/0305-4470/30/14/003","USC-96-021","cond-mat",,"  We show how to analytically determine for $g\leq 1/2$ the ""Friedel
+oscillations"" of charge density by a single impurity in a 1D Luttinger liquid
+of spinless electrons.
+","[{""version"":""v1"",""created"":""Sun, 25 Aug 1996 03:09:27 GMT""}]","2009-10-28"
+"gr-qc/9608056","Sandro Silva E. Costa","Sandro S. Costa (IFT)","Schwarzschild solution and Mach's principle","10 pages, standard LaTeX article",,,,"gr-qc",,"  The purpose of this work is to show a possible reconciliation between Mach's
+principle and the Schwarzschild solution, using a description of this solution
+in terms of a new radial cooordinate related to the behaviour of Unruh
+detectors.
+","[{""version"":""v1"",""created"":""Sat, 24 Aug 1996 20:47:55 GMT""}]","2007-05-23"
+"hep-lat/9608134","Sinya Aoki","JLQCD Collaboration: S. Aoki, M. Fukugita, S. Hashimoto, N. Ishizuka,
+  Y. Iwasaki, K. Kanaya, Y. Kuramashi, H. Mino, M. Okawa, A. Ukawa and T.
+  Yoshie","Toward the Continuum Limit of $B_K$ with the Quenched Kogut-Susskind
+  Quark Action","4 pages incl. 2 figures, Latex+espcrc2+epsf, Talk presented at
+  LATTICE96(poster) by S. Aoki","Nucl.Phys.Proc.Suppl. 53 (1997) 341-344","10.1016/S0920-5632(96)00655-X",,"hep-lat",,"  We present new results of our ongoing project toward a precision
+determination of the kaon $B$ parameter with the Kogut-Susskind quark action in
+quenched QCD. New results taken at $\beta$=6.4 and $\beta=5.7$ suggest that an
+apparently linear $a$ dependence of $B_K$ previously observed for
+$\beta=5.85-6.2$ arises from a change of curvature from convex to concave as
+the lattice spacing is reduced. Fitting data for $\beta\geq 5.93$ with an
+$O(a^2)$ form yields $B_K$(NDR,2 GeV)=0.587(7)(17) in the continuum limit. We
+also describe a finite-size study of $B_K$ at $\beta=$ 6.0 and 6.4, and a
+reanalysis of the theoretical argument for $O(a^2)$ behavior.
+","[{""version"":""v1"",""created"":""Sun, 25 Aug 1996 08:13:28 GMT""}]","2009-10-28"
+"hep-ph/9608433","Sourendu Gupta","Sourendu Gupta and K. Sridhar","Colour-octet Contributions to $x_F$ Distributions in $J/\psi$
+  Hadro-production at Fixed Target Energies","LaTeX source; giving 18 pages including 5 figures; minor changes in
+  text","Phys.Rev. D55 (1997) 2650-2656","10.1103/PhysRevD.55.2650","TIFR/TH/96-48","hep-ph",,"  We study J/\psi production at fixed-target energies, including the
+colour-octet production mechanisms predicted by NRQCD. In an earlier paper, we
+found that the octet components were crucial in understanding p_T-integrated
+forward (x_F > 0) cross-sections. Here we make a detailed comparison of the
+theoretical predictions with measured x_F distributions from fixed-target
+experiments. We find that the model predictions agree well with data. Taking
+into account higher orders in NRQCD, we argue that
+sigma(chi_1)/sigma(chi_2)=0.6, in excellent agreement with data. Similiar
+arguments also predict that sigma(chi)/sigma(J/psi) is roughly equal in photo-
+and hadro-production.
+","[{""version"":""v1"",""created"":""Sat, 24 Aug 1996 23:24:01 GMT""},{""version"":""v2"",""created"":""Mon, 9 Sep 1996 15:22:41 GMT""}]","2009-10-28"
+"hep-ph/9608434","Maxim Polyakov","P.V. Pobylitsa, M.V. Polyakov","Transverse Spin Distribution Function of Nucleon in Chiral Theory","12 pages, 2 figures","Phys.Lett. B389 (1996) 350-357","10.1016/S0370-2693(96)01288-9","RUB-TPII-15/96","hep-ph",,"  At large N_c the nucleon can be viewed as a soliton of the effective chiral
+lagrangian. This picture of nucleons allows a consistent nonperturbative
+calculation of the leading-twist parton distributions at a low normalization
+point. We derive general formulae for the transverse spin quark distribution
+h_1(x) in the chiral quark-soliton model. We present numerical estimates and
+compare them to the results obtained in other models.
+","[{""version"":""v1"",""created"":""Sun, 25 Aug 1996 12:35:22 GMT""}]","2009-10-28"
+"hep-th/9608161","Andrei Marshakov","A.Marshakov","Integrability as Effective Principle of Nonperturbative Field and String
+  Theories","5 pages, LaTeX, no figures; based on a talk given at the Second
+  International Sakharov Conference, 20-24 May 1996, Moscow, Russia",,,"FIAN/TD-13/96, ITEP/TH-25/96","hep-th",,"  One of the perspectives in modern quantum field and string theory is related
+with the attempts to go beyond the perturbation theory. It turns out that a key
+principle in the formulation of all known non-perturbative results is {\it
+integrability}, i.e. arising of the structures of completely integrable
+systems. I discuss several important steps in this direction and speculate on
+its further possible development.
+","[{""version"":""v1"",""created"":""Sun, 25 Aug 1996 14:19:33 GMT""}]","2007-05-23"
+"hep-th/9608165","Zachary Guralnik","Zachary Guralnik (Princeton University)","Multiple Vacua and Boundary Conditions of Schwinger-Dyson Equations","10 pages, LateX, talk given at 3rd AUP Workshop on QCD: Collisions,
+  Confinement, and Chaos, Paris, France, 3-8 Jun 1996",,,"PUPT-1645","hep-th",,"  We discuss the relationship between the boundary conditions of the
+Schwinger-Dyson equations and the phase diagram of a bosonic field theory or
+matrix model. In the thermodynamic limit, many boundary conditions lead to the
+same solution, while other boundary conditions have no such limit. The list of
+boundary conditions for which a thermodynamic limit exists depends on the
+parameters of the theory. The boundary conditions of a physical solution may be
+quite exotic, corresponding to path integration over various inequivalent
+complex contours.
+","[{""version"":""v1"",""created"":""Sat, 24 Aug 1996 20:07:53 GMT""}]","2007-05-23"
+"hep-th/9608166","Alexander Sorin","A.N. Leznov and A.S. Sorin","Two-dimensional Superintegrable Mappings and Integrable Hierarchies in
+  the $(2|2)$ Superspace","12 pages, latex, no figures, some misprints corrected","Phys.Lett. B389 (1996) 494-502","10.1016/S0370-2693(96)01309-3","JINR E2-96-306","hep-th",,"  The formalism of integrable mappings is applied to the problem of
+constructing hierarchies of $(1+2)$ dimensional integrable systems in the
+$(2|2)$ superspace. We find new supersymmetric integrable mappings and
+corresponding to them new hierarchies of integrable systems which, at the
+reduction to the $(1|2)$ superspace, possess $N=2$ supersymmetry. The general
+formulae obtained for the hierarchies are used to explicitly derive their first
+nontrivial equations possessing a manifest $N=2$ supersymmetry. New bosonic
+substitutions and hierarchies are obtained from the supersymmetric counterparts
+in the bosonic limit.
+","[{""version"":""v1"",""created"":""Sun, 25 Aug 1996 10:51:18 GMT""},{""version"":""v2"",""created"":""Fri, 6 Sep 1996 12:02:03 GMT""}]","2009-10-30"
+"nucl-th/9608054","Jeremy S. Heyl","Jeremy S. Heyl and Lars Hernquist","Magnetically Catalyzed Fusion","13 pages, 6 figures","Phys.Rev.C54:2751-2759,1996","10.1103/PhysRevC.54.2751",,"nucl-th astro-ph",,"  We calculate the reaction cross-sections for the fusion of hydrogen and
+deuterium in strong magnetic fields as are believed to exist in the atmospheres
+of neutron stars. We find that in the presence of a strong magnetic field ($B
+\gsim 10^{12}$G), the reaction rates are many orders of magnitude higher than
+in the unmagnetized case. The fusion of both protons and deuterons are
+important over a neutron star's lifetime for ultrastrong magnetic fields ($B
+\sim 10^{16}$G). The enhancement may have dramatic effects on thermonuclear
+runaways and bursts on the surfaces of neutron stars.
+","[{""version"":""v1"",""created"":""Sun, 25 Aug 1996 00:04:59 GMT""}]","2008-11-26"

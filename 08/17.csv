@@ -1,0 +1,324 @@
+"alg-geom/9608012","Valery Alexeev","Valery Alexeev","Compactified jacobians","AMSLaTeX 1.2/LaTeX2e with epic.sty, eepic.sty, Postscript file is
+  also available at http://domovoy.math.uga.edu/preprints , a few misprints
+  corrected",,,,"alg-geom math.AG",,"  Let J be the jacobian of a reduced projective curve C with nodes only. 1) We
+give a simple and natural definition for its many compactifications and show
+the connection with various other definitions appearing in the literature. 2)
+Among all compactifications we choose one canonical, and define a theta divisor
+on it. 3) We give two very explicit and simple descriptions of a stratification
+of this canonical compactification into homogeneous spaces over J.
+","[{""version"":""v1"",""created"":""Sat, 17 Aug 1996 12:03:30 GMT""},{""version"":""v2"",""created"":""Mon, 19 Aug 1996 11:13:44 GMT""}]","2008-02-03"
+"alg-geom/9608013","Valery Alexeev","Valery Alexeev","Log canonical singularities and complete moduli of stable pairs","AMSLaTeX 1.2/LaTeX2e, Postscript file is also available at
+  http://domovoy.math.uga.edu/preprints",,,,"alg-geom math.AG",,"  1) Assuming log Minimal Model Conjecture, we give a construction of a
+complete moduli space of stable log pairs of arbitrary dimension generalizing
+directly the space M_{g,n} of pointed stable curves. Each stable pair has semi
+log canonical singularities. 2) We prove that a stable quasiabelian pair,
+defined by author and I.Nakamura as the limit of abelian varieties with theta
+divisors, has semi log canonical singularities.
+","[{""version"":""v1"",""created"":""Sat, 17 Aug 1996 12:04:04 GMT""}]","2008-02-03"
+"alg-geom/9608014","Valery Alexeev","Valery Alexeev and Iku Nakamura","On Mumford's construction of degenerating abelian varieties","Final version, to appear in Tohoku Math. J",,,,"alg-geom math.AG",,"  We prove that a 1-dimnl family of abelian varieties with an ample sheaf
+defining principal polarization can be canonically compactified (after a finite
+base change) to a projective family with an ample sheaf. We show that the
+central fiber (P,L), which we call an SQAV, has a canonical Cartier theta
+divisor. We give a combinatorial definition for SQAVs and describe their
+geometrical properties, in particular compute cohomologies of L^n, n\ge0.
+","[{""version"":""v1"",""created"":""Sat, 17 Aug 1996 12:03:03 GMT""},{""version"":""v2"",""created"":""Tue, 18 May 1999 22:16:34 GMT""}]","2008-02-03"
+"astro-ph/9608108","Andrew Layden","A.C. Layden, R.B. Hanson, S.L. Hawley, A.R. Klemola, and C.J. Hanley","The Absolute Magnitude and Kinematics of RR Lyrae Stars via Statistical
+  Parallax","44 pages, aastex, 8 postscript figures; tentatively scheduled for the
+  Nov 1996 issue of AJ; Table 2 data available in ASCII from
+  http://www.physics.mcmaster.ca/PDF_Layden/PUBL/preprints.html",,"10.1086/118167",,"astro-ph",,"  We present new statistical parallax solutions for the absolute magnitude and
+kinematics of RR Lyrae stars. New proper motion, radial velocity, and abundance
+data are used; the new data set is 50% larger, and of higher quality, than
+previously available data sets. Based on an a priori kinematic study, we
+separate the stars into halo and thick disk sub-populations. Statistical
+parallax solutions on these sub-samples yield M_V(RR) = +0.71 +/- 0.12 at
+<[Fe/H]> = -1.61 for the halo (162 stars), and M_V(RR) = +0.79 +/- 0.30 at
+<[Fe/H]> = -0.76 for the thick disk (51 stars). The solutions yield kinematic
+parameters (solar motion and velocity ellipsoid) in good agreement with
+estimates of the halo and thick disk kinematics derived from both RR Lyrae
+stars and other stellar tracers. Monte Carlo simulations indicate that the
+solutions are accurate, and that the errors may be smaller than the estimates
+above. The simulations reveal a small bias in the disk solutions, and
+appropriate corrections are derived. The large uncertainty in the disk M_V(RR)
+prevents ascertaining the slope of the M_V(RR)-[Fe/H] relation. We find that
+(1) the distance to the Galactic Center is 7.6 +/- 0.4 kpc; (2) the mean age of
+the 17 oldest Galactic globular clusters is 16.5 _{-1.9}^{+2.1} Gyr; and (3)
+the distance modulus of the LMC is 18.28 +/- 0.13 mag. Estimates of H_0 which
+are based on an LMC distance modulus of 18.50 (e.g., Cepheid studies) increase
+by 10% if they are recalibrated to match our LMC distance modulus.
+","[{""version"":""v1"",""created"":""Fri, 16 Aug 1996 18:02:01 GMT""}]","2009-10-28"
+"astro-ph/9608109","Alan M. Levine","Alan M. Levine, Hale Bradt, Wei Cui, J. G. Jernigan, Edward H. Morgan,
+  Ronald Remillard, Robert E. Shirey, Donald A. Smith","First Results from the All-Sky Monitor on the Rossi X-ray Timing
+  Explorer","9 pages, LaTeX type (aas2pp4.sty), one bitmapped and two PostScript
+  figures, to appear in ApJL, September 20, 1996","Astrophys.J.469:L33,1996","10.1086/310260","CSR-96-41","astro-ph",,"  The All-Sky Monitor on the Rossi X-ray Timing Explorer has been monitoring
+the sky in the 1.5 - 12 keV band since late February. The instrument consists
+of three coded-aperture cameras which can be rotated to view different regions
+by a motorized drive assembly. Intensities of ~100 known sources are obtained
+via least-square fits of shadow patterns to the data and compiled to form x-ray
+light curves. Six orbital periodicities and four long-term periodicities, all
+previously known, have been detected in these light curves. Searches for
+additional sources have also been conducted. X-ray light curves for the Crab
+Nebula, Cyg X-1, 4U 1705-44, GRO J1655-40, and SMC X-1 are reported. They
+illustrate the quality of the results and the range of observed phenomena.
+","[{""version"":""v1"",""created"":""Fri, 16 Aug 1996 19:33:59 GMT""}]","2009-10-28"
+"astro-ph/9608110","Roberto Cid","R. Cid Fernandes (Depto. de Fisica - UFSC, Florianopolis, Brazil)","The Starburst Model for AGN: Past, Present & Future","6 pages, uses rmaaconf.sty. Also available at
+  http://www.if.ufrgs.br/~cid To appear in ""Starburst Activity in Galaxies"",
+  Rev. Mex. Astron. & Astroph. (1996)",,,,"astro-ph",,"  It is now eleven years since Terlevich \& Melnick first proposed an `AGN
+without black-holes' model, an idea which since then evolved into what is now
+called the starburst model for AGN. This model has been the subject of much
+debate in the last decade, with observational evidence both for and against it
+further fuelling the controversy. Can we after all these years reach a
+veredictum on whether starbursts can power AGN? This contribution tries to
+answer this question reviewing the main achievements of the starburst model,
+its current status and future prospects.
+","[{""version"":""v1"",""created"":""Fri, 16 Aug 1996 18:59:31 GMT""}]","2007-05-23"
+"astro-ph/9608111",,"Michael Loewenstein and Richard Mushotzky (NASA/GSFC)","The Mass of Abell 1060 and AWM 7 from Spatially Resolved X-ray
+  Spectroscopy: Variations in Baryon Fraction","11 pages Latex including 3 encapsulated postscript files, uses
+  aaspp4.sty, accepted for publication in ApJ Letters",,,,"astro-ph",,"  Using X-ray temperature and surface brightness profiles of the hot
+intracluster medium derived from ASCA and ROSAT observations we place
+constraints on the dark matter and baryon fraction distributions in the poor
+clusters Abell 1060 and AWM 7. Although their total mass distributions are
+similar, AWM 7 has twice the baryon fraction of Abell 1060 in the best-fit
+models. The functional form of the dark matter distribution is ill-determined,
+however mass models where the baryon fractions in Abell 1060 and AWM 7
+significantly overlap are excluded. Such variations in baryon fraction are not
+predicted by standard models and imply that some mechanism in addition to
+gravity plays a major role in organizing matter on cluster scales.
+","[{""version"":""v1"",""created"":""Fri, 16 Aug 1996 20:52:57 GMT""}]","2007-05-23"
+"cmp-lg/9608010","Ted Pedersen","Ted Pedersen (Southern Methodist University, Dallas, TX)","Fishing for Exactness","13 pages - postscript","Proceedings of the South-Central SAS Users Group Conference
+  (SCSUG-96), Austin, TX, Oct 27-29, 1996",,,"cmp-lg cs.CL",,"  Statistical methods for automatically identifying dependent word pairs (i.e.
+dependent bigrams) in a corpus of natural language text have traditionally been
+performed using asymptotic tests of significance. This paper suggests that
+Fisher's exact test is a more appropriate test due to the skewed and sparse
+data samples typical of this problem. Both theoretical and experimental
+comparisons between Fisher's exact test and a variety of asymptotic tests (the
+t-test, Pearson's chi-square test, and Likelihood-ratio chi-square test) are
+presented. These comparisons show that Fisher's exact test is more reliable in
+identifying dependent word pairs. The usefulness of Fisher's exact test extends
+to other problems in statistical natural language processing as skewed and
+sparse data appears to be the rule in natural language. The experiment
+presented in this paper was performed using PROC FREQ of the SAS System.
+","[{""version"":""v1"",""created"":""Fri, 16 Aug 1996 20:24:17 GMT""}]","2008-02-03"
+"cmp-lg/9608011","Christy Doran","Christine Doran (University of Pennsylvania)","Punctuation in Quoted Speech","11 pages, 11 ps figures, Proceedings of SIGPARSE 96 - Punctuation in
+  Computational Linguistics",,,,"cmp-lg cs.CL",,"  Quoted speech is often set off by punctuation marks, in particular quotation
+marks. Thus, it might seem that the quotation marks would be extremely useful
+in identifying these structures in texts. Unfortunately, the situation is not
+quite so clear. In this work, I will argue that quotation marks are not
+adequate for either identifying or constraining the syntax of quoted speech.
+More useful information comes from the presence of a quoting verb, which is
+either a verb of saying or a punctual verb, and the presence of other
+punctuation marks, usually commas. Using a lexicalized grammar, we can license
+most quoting clauses as text adjuncts. A distinction will be made not between
+direct and indirect quoted speech, but rather between adjunct and non-adjunct
+quoting clauses.
+","[{""version"":""v1"",""created"":""Fri, 16 Aug 1996 21:24:23 GMT""}]","2008-02-03"
+"cond-mat/9608070","Yaroslav ""M."" Blanter","Yaroslav M. Blanter, Gerd Sch\""on, and Andrei D. Zaikin","Metastable Voltage States of Coupled Josephson Junctions","5 pages, 4 figures included","Phys. Rev. B 55, 8452 (1997)","10.1103/PhysRevB.55.8452",,"cond-mat",,"  We investigate a chain of capacitively coupled Josephson junctions in the
+regime where the charging energy dominates over the Josephson coupling,
+exploiting the analogy between this system and a multi-dimensional crystal. We
+find that the current-voltage characteristic of the current-driven chain has a
+staircase shape, beginning with an (insulating) non-zero voltage plateau at
+small currents. This behavior differs qualitatively from that of a single
+junction, which should show Bloch oscillations with vanishing dc voltage. The
+simplest system where this effect can be observed consists of three grains
+connected by two junctions. The theory explains the results of recent
+experiments on Josephson junction arrays.
+","[{""version"":""v1"",""created"":""Fri, 16 Aug 1996 16:33:13 GMT""}]","2009-10-28"
+"cond-mat/9608071","Aprelev Alexei","A.M. Aprelev, A.A. Lisachenko, R. Laiho, A. Pavlov and Y. Pavlova","Electronic Spectra of Porous Silicon near Fermi Level","7 pages, LaTeX, 3 PostScript figures. Also available at
+  ftp://phot2.niif.spb.su",,,,"cond-mat",,"  Electronic spectra of porous Si have been investigated in the region $<$4 eV
+below the Fermi level with specimens subjected to in situ oxygenation and
+thermal treatments. The significance of DOS to the photoluminescence and its
+degradation in porous Si is discussed. Fine structure of the photoelectron
+spectra is found from specimens heated in oxygen at 600 K.
+","[{""version"":""v1"",""created"":""Sat, 17 Aug 1996 15:58:02 GMT""}]","2007-05-23"
+"dg-ga/9608006","David Borthwick","David Borthwick and Alejandro Uribe","Almost complex structures and geometric quantization","14 pages, AMS-LaTeX",,,,"dg-ga math.DG",,"  We study two quantization schemes for compact symplectic manifolds with
+almost complex structures. The first of these is the Spin-c quantization. We
+prove the analog of Kodaira vanishing for the Spin-c Dirac operator, which
+shows that the index space of this operator provides an honest (not virtual)
+vector space semiclassically. We also introduce a new quantization scheme,
+based on a rescaled Laplacian, for which we are able to prove strong
+semiclassical properties. The two quantizations are shown to be close
+semiclassically.
+","[{""version"":""v1"",""created"":""Sat, 17 Aug 1996 13:04:48 GMT""}]","2008-02-03"
+"gr-qc/9608039","Youngjai Kiem","Dae Sung Hwang, Youngjai Kiem (Sejong Univ.), Dahl Park (KAIST)","Particle dynamics in a class of 2-dimensional gravity theories","15 pages, LaTeX. The deletion of the repeated portion of the abstract
+  and the proper line wrapping of the tex file. No other changes","Phys.Rev.D54:4879-4885,1996","10.1103/PhysRevD.54.4879","KAIST-CHEP-95/18","gr-qc",,"  We provide a method to determine the motion of a classical massive particle
+in a background geometry of 2-dimensional gravity theories, for which the
+Birkhoff theorem holds. In particular, we get the particle trajectory in a
+continuous class of 2-dimensional dilaton gravity theories that includes the
+Callan-Giddings-Harvey-Strominger (CGHS) model, the Jackiw-Teitelboim (JT)
+model, and the $d$-dimensional $s$-wave Einstein gravity. The explicit
+trajectory expressions for these theories are given along with the discussions
+on the results.
+","[{""version"":""v1"",""created"":""Fri, 16 Aug 1996 17:28:52 GMT""},{""version"":""v2"",""created"":""Mon, 19 Aug 1996 03:43:20 GMT""}]","2011-09-09"
+"gr-qc/9608040","Yoav Peleg","Yoav Peleg, Sukanta Bose, and Leonard Parker (Univ. of Wisconsin,
+  Milwaukee)","Choptuik Scaling and Quantum Effects in 2D Dilaton Gravity","11p RevTex version + 12p uuencoded gzip version including 3 figures","Phys.Rev.D55:4525-4528,1997","10.1103/PhysRevD.55.4525","WISC-MILW-96-TH-22","gr-qc hep-th",,"  We study numerically the collapse of massless scalar fields in
+two-dimensional dilaton gravity, both classically and semiclassically. At the
+classical level, we find that the black hole mass scales at threshold like
+$M_{\rm bh} \propto |p-p^*|^{\gamma}$, where $\gamma \simeq 0.53$. At the
+semiclassical level, we find that in general $M_{\rm bh}$ approaches a non-zero
+constant as $p \rightarrow p^*$. Thus, quantum effects produce a mass gap not
+present classically at the onset of black hole formation.
+","[{""version"":""v1"",""created"":""Fri, 16 Aug 1996 18:12:17 GMT""}]","2009-12-30"
+"gr-qc/9608041","Karen Brewster","Abhay Ashtekar, Jiri Bicak, Bernd G. Schmidt","Behavior of Einstein-Rosen Waves at Null Infinity","16 pages, REVETEX, CGPG-96/5-2","Phys.Rev. D55 (1997) 687-694","10.1103/PhysRevD.55.687",,"gr-qc",,"  The asymptotic behavior of Einstein-Rosen waves at null infinity in 4
+dimensions is investigated in {\it all} directions by exploiting the relation
+between the 4-dimensional space-time and the 3-dimensional symmetry reduction
+thereof. Somewhat surprisingly, the behavior in a generic direction is {\it
+better} than that in directions orthogonal to the symmetry axis. The geometric
+origin of this difference can be understood most clearly from the 3-dimensional
+perspective.
+","[{""version"":""v1"",""created"":""Fri, 16 Aug 1996 17:49:29 GMT""}]","2009-10-28"
+"gr-qc/9608042","Karen Brewster","Abhay Ashtekar, Jiri Bicak, Bernd G. Schmidt","Asymptotic Structure of Symmetry Reduced General Relativity","39 Pages, REVTEX, CGPG-96/5-1","Phys.Rev.D55:669-686,1997","10.1103/PhysRevD.55.669",,"gr-qc",,"  Gravitational waves with a space-translation Killing field are considered. In
+this case, the 4-dimensional Einstein vacuum equations are equivalent to the
+3-dimensional Einstein equations with certain matter sources. This interplay
+between 4- and 3- dimensional general relativity can be exploited effectively
+to analyze issues pertaining to 4 dimensions in terms of the 3-dimensional
+structures. An example is provided by the asymptotic structure at null
+infinity: While these space-times fail to be asymptotically flat in 4
+dimensions, they can admit a regular completion at null infinity in 3
+dimensions. This completion is used to analyze the asymptotic symmetries,
+introduce the analog of the 4-dimensional Bondi energy-momentum and write down
+a flux formula.
+  The analysis is also of interest from a purely 3-dimensional perspective
+because it pertains to a diffeomorphism invariant 3-dimensional field theory
+with {\it local} degrees of freedom, i.e., to a midi-superspace. Furthermore,
+due to certain peculiarities of 3 dimensions, the description of null infinity
+does have a number of features that are quite surprising because they do not
+arise in the Bondi-Penrose description in 4 dimensions.
+","[{""version"":""v1"",""created"":""Fri, 16 Aug 1996 18:00:09 GMT""}]","2014-11-17"
+"gr-qc/9608043","Luis Lehner","Simonetta Frittelli, Luis Lehner, Carlo Rovelli (Univ. of Pittsburgh)","The complete spectrum of the area from recoupling theory in loop quantum
+  gravity","typos corrected in eqn.(21). Latex with IOP and epsf styles, 1 figure
+  (eps postscript file), 12 pages. To appear in Class. Quantum Grav","Class.Quant.Grav. 13 (1996) 2921-2932","10.1088/0264-9381/13/11/008",,"gr-qc",,"  We compute the complete spectrum of the area operator in the loop
+representation of quantum gravity, using recoupling theory. This result extends
+previous derivations, which did not include the ``degenerate'' sector, and
+agrees with the recently computed spectrum of the connection-representation
+area operator.
+","[{""version"":""v1"",""created"":""Fri, 16 Aug 1996 18:16:35 GMT""},{""version"":""v2"",""created"":""Thu, 29 Aug 1996 14:34:27 GMT""}]","2009-10-28"
+"gr-qc/9608044",,"A.A. Tseytlin","Composite black holes in string theory","6 pages, latex. Talk presented at the Second Sakharov Conference on
+  Physics, Moscow, May 20-24, 1996",,,"Imperial/TP/95-96/65","gr-qc hep-th",,"  We discuss special supersymmetric extreme black holes in 4 and 5 dimensions
+which have regular horizons, non-zero entropy and can be interpreted as
+compactifications of BPS bound states of p-branes in 10 or 11 dimensions.
+","[{""version"":""v1"",""created"":""Sat, 17 Aug 1996 11:05:52 GMT""}]","2007-05-23"
+"hep-lat/9608092","Claude Bernard","The MILC Collaboration: C. Bernard, T. Blum, T. DeGrand, C. DeTar,
+  Steven Gottlieb, U. M. Heller, J. Hetrick, C. McNeile, K. Rummukainen, A.
+  Soni, R. Sugar, D. Toussaint and M. Wingate","Update on $f_B$","Poster presented by C. Bernard at LATTICE96(heavy quarks); 4 pages of
+  LaTeX, uses espcrc2 and epsf, four postscript figures included","Nucl.Phys.Proc.Suppl.53:358-361,1997","10.1016/S0920-5632(96)00659-7","Wash.U.-HEP/96-31","hep-lat hep-ph",,"  We describe the current status of the MILC collaboration computation of
+$f_B$, $f_{B_s}$, $f_D$, $f_{D_s}$ and their ratios. Progress over the past
+year includes: better statistics and plateaus at $\beta=6.52$ (quenched),
+$\beta=5.6$ ($N_F=2$) and $\beta=5.445$ ($N_F=2$), new runs with a wide range
+of dynamical quark masses at $\beta=5.5$ ($N_F=2$), an estimate of the
+systematic errors due to the chiral extrapolation, and an improved analysis
+which consistently takes into account both the correlations in the data at
+every stage and the systematic effects due to changing fitting ranges.
+","[{""version"":""v1"",""created"":""Fri, 16 Aug 1996 18:12:25 GMT""}]","2008-11-26"
+"hep-lat/9608093","Tetsuya Takaishi","Philippe de Forcrand and Tetsuya Takaishi","Fast Fermion Monte Carlo","Talk presented at LATTICE96(algorithms), 3 pages","Nucl.Phys.Proc.Suppl. 53 (1997) 968-970","10.1016/S0920-5632(96)00829-8",,"hep-lat",,"  Three possibilities to speed up the Hybrid Monte Carlo algorithm are
+investigated. Changing the step-size adaptively brings no practical gain. On
+the other hand, substantial improvements result from using an approximate
+Hamiltonian or a preconditioned action.
+","[{""version"":""v1"",""created"":""Fri, 16 Aug 1996 17:35:59 GMT""}]","2009-10-28"
+"hep-lat/9608094","Shinji Hioki","Ph.deForcrand, M.Fujisaki, T.Hashimoto, S.Hioki, H.Matsufuru,
+  O.Miyamura, A.Nakamura, M.Okuda I.O.Stamatescu, Y.Tago and T.Takaishi","Search for Effective Lattice Action of Pure QCD","4 pages of A4 format plus 1 Postscript figure, (tar+gzip+uuencode)
+  Talk presented at LATTICE96(poster)","Nucl.Phys.Proc.Suppl.53:938-941,1997","10.1016/S0920-5632(96)00820-1",,"hep-lat",,"  We study a coupling flow of pure QCD gauge system by using the Monte Carlo
+Renormalization Group method. A rough location of the renormalized trajectory
+in two coupling space is obtained. Also we compare 4 different actions;
+(a)standard Wilson, (b)Symanzik's, (c)Iwasaki's and (d)QCDTARO's. The
+rotational symmetry is restored better as an action gets close to the
+renormalized trajectory.
+","[{""version"":""v1"",""created"":""Sat, 17 Aug 1996 04:31:49 GMT""}]","2010-11-19"
+"hep-ph/9608348",,"O.I. Yakovlev (BuderINP and Mainz Univ.)","Heavy Baryons and QCD Sum Rules","Invited talk given at the III German-Russian Workshop on Heavy Quark
+  Physics, Dubna, Russia, May 20-22, 1996 to appear in the Proceedings; 11
+  pages, 3 Postscript figures",,,"MZ-TH-96-26","hep-ph",,"  We discuss an application of QCD sum rules to the heavy baryons $\Lambda_Q$
+and $\Sigma_Q$. The predictions for the masses of heavy baryons, residues and
+Isgur-Wise function are presented.
+  The new results on two loop anomalous dimensions of baryonic currents and QCD
+radiative corrections (two- and three- loop contributions) to the first two
+Wilson coefficients in OPE are explicitly presented.
+","[{""version"":""v1"",""created"":""Fri, 16 Aug 1996 16:07:18 GMT""}]","2016-09-06"
+"hep-ph/9608350","Neil G. Turok","Guy D. Moore, Neil G. Turok","Classical Field Dynamics of the Electroweak Phase Transition","50 pages with figures (uses psfig). Revised to compress number of
+  figures, fix some typographical errors, and revise the data for the case of a
+  localized chemical potential on the bubble wall. This version has appeared in
+  Phys. Rev. D55, 6538 (1997)","Phys.Rev.D55:6538-6560,1997","10.1103/PhysRevD.55.6538","DAMTP 96-77, PUPT-1640","hep-ph",,"  We investigate the thermodynamics and dynamics of the electroweak phase
+transition by modelling the infrared physics with classical Yang-Mills Higgs
+theory. We discuss the accuracy of this approach and conclude that, for
+quantities whose determination is dominated by the infrared, the classical
+method should be correct up to parametrically suppressed (ie O(alpha))
+corrections. For a Higgs self-coupling which at tree level corresponds to m_H ~
+50 GeV, we determine the jump in the order parameter to be delta phi = 1.5 gT,
+the surface tension to be sigma = 0.07 g^4 T^3, and the friction coefficient on
+the moving bubble wall due to infrared bosons to be \eta = P/v_w = 0.03 \pm
+.004 g^6 T^4. We also investigate the response of Chern-Simons number to a
+spatially uniform chemical potential and find that it falls off a short
+distance inside the bubble wall, both in equilibrium and below the equilibrium
+temperature.
+","[{""version"":""v1"",""created"":""Fri, 16 Aug 1996 17:35:14 GMT""},{""version"":""v2"",""created"":""Mon, 19 Aug 1996 10:03:38 GMT""},{""version"":""v3"",""created"":""Wed, 14 May 1997 14:13:57 GMT""}]","2011-04-20"
+"hep-ph/9608351","Mustafa Savci","T. M. Aliev (Institute of Physics, Azerbaijanian Academy of Sciences),
+  N. K. Pak and M. Savci (Middle East Technical University)","The Strong Coupling Constants of Excited Positive Parity Heavy Mesons in
+  Light Cone QCD","9 pages, LaTeX formatted","Phys.Lett. B390 (1997) 335-340","10.1016/S0370-2693(96)01400-1",,"hep-ph",,"  We calculate the strong coupling constants g_(P^(**)P^(*)\pi), where
+P^(**)(D^(**), B^(**)) is the 1^+ p-wave state, in the framework of the light
+cone QCD sum rules, and using these values of g_(P^(**)P^(*) pi, we compute the
+hadronic decay widths for D^(**) -> D^* pi and B^(**) -> B^* pi.
+","[{""version"":""v1"",""created"":""Fri, 16 Aug 1996 18:03:32 GMT""}]","2009-10-28"
+"hep-ph/9608352","Sreerup Raychaudhuri","Dilip Kumar Ghosh (Bombay U.), Sreerup Raychaudhuri and K. Sridhar
+  (Tata Inst.)","Bounds from $t \bar t$ production on R-parity violating models of
+  supersymmetry","12 pages, Latex, 3 postscript figures","Phys.Lett. B396 (1997) 177-182","10.1016/S0370-2693(97)00117-2","TIFR-TH/96-44, BU-TH/96-3","hep-ph",,"  We study $t \bar t$ production in R-parity violating supersymmetry. The
+annihilation channel $q \bar q \rightarrow t \bar t$ gets new contributions
+from $t$-channel exchange of squarks or sleptons. With the data from Tevatron
+on $t \bar t$ production, we find that the squark- or slepton-exchange
+processes constrain the $B$-violating $\lambda''$ couplings or the
+$L$-violating $\lambda'$ couplings, respectively. Our bounds are already
+comparable to the few existing constraints on third-generation $R$-parity
+violating couplings, and will improve when more precise measurements of the $t
+\bar t$ production cross-section become available. We also discuss the effects
+of these couplings for top production at the LHC.
+","[{""version"":""v1"",""created"":""Sat, 17 Aug 1996 07:00:13 GMT""}]","2009-10-28"
+"hep-ph/9608353","Nishida Kozo","Kouzou Nishida, Ikuo S. Sogami","A Phenomenological Formula for KM Matrix","9 pages, LaTeX, no figures","Prog.Theor.Phys.96:857-862,1996","10.1143/PTP.96.857",,"hep-ph",,"  We propose a phenomenological formula relating the Kobayashi-Maskawa matrix
+$V_{KM}$ and quark masses in a form $(m_d,\ m_s,\ m_b)\propto (m_u,\ m_c,\
+m_t)V_{KM}$. The formula agrees with experimental data well and has an
+interesting geometric picture. The origin of such a formula is discussed in the
+standard model.
+","[{""version"":""v1"",""created"":""Sat, 17 Aug 1996 09:31:20 GMT""}]","2014-11-17"
+"hep-ph/9608354","Hannes Uibo","Kari Enqvist, Petteri Ker\""anen, Jukka Maalampi and Hannes Uibo
+  (Department of Physics, University of Helsinki, Finland)","Cosmological abundances of right-handed neutrinos","LaTeX, 18 pages, 5 PostScript figures","Nucl.Phys.B484:403-418,1997","10.1016/S0550-3213(96)00604-9","HU-TFT-96-34","hep-ph astro-ph",,"  We study the equilibration of the right-helicity states of light Dirac
+neutrinos in the early universe by solving the momentum dependent Boltzmann
+equations numerically. We show that the main effect is due to electroweak gauge
+boson poles, which enhance thermalization rates by some three orders of
+magnitude. The right-helicity states of tau neutrinos will be brought in
+equilibrium independently of their initial distribution at a temperature above
+the poles if the tau neutrino mass is larger than about 10 keV.
+","[{""version"":""v1"",""created"":""Sat, 17 Aug 1996 12:18:45 GMT""}]","2011-02-01"
+"hep-th/9608113","K. Davis","K.Davis ( Rutgers University )","Enhanced Gauge Symmetry in M-Theory","29 Pages, 1 Postscript Figure, Uses harvmac.tex and epsf.tex",,,"RU-XX","hep-th",,"  In this article we examine some points in the moduli space of M-Theory at
+which there arise enhanced gauge symmetries. In particular, we examine the
+``trivial"" points of enhanced gauge symmetry in the moduli space of M-Theory on
+$S^{ 1 } \times S^{ 1 } / { \bf Z }_{ 2 }$ as well as the points of enhanced
+gauge symmetry in the moduli space of M-Theory on $ K3 $ and those in the
+moduli space of M-Theory on $T^{5}/{\bf Z}_{2} \times S^{1}$. Also, we employ
+the above enhanced gauge symmetries to derive the existence of some points of
+enhanced gauge symmetry in the moduli space of the Type IIA string theory.
+","[{""version"":""v1"",""created"":""Fri, 16 Aug 1996 17:00:24 GMT""}]","2007-05-23"
+"hep-th/9608114","Piljin Yi","Piljin Yi","Duality, Multi-Monopole Dynamics & Quantum Threshold Bound States","LaTeX, 13pp, a talk given at the Argonne Summer Institute: Topics in
+  Nonabelian Duality",,,"CU-TP-770","hep-th",,"  Dynamics of many supersymmetric monopoles are studied in the low energy
+approximation. A conjecture for the exact moduli space metric is given for all
+collections of fundamental monopoles of distinct type, and various partial
+confirmations of the conjecture are discussed. Upon the quantization of the
+resulting multi-monopole dynamics in the context of $N=4$ supersymmetric
+Yang-Mills-Higgs theories, one recovers the missing magnetic states that are
+dual to some of the massive vector mesons. A generalization to monopoles with
+nonabelian charges is also discussed.
+","[{""version"":""v1"",""created"":""Fri, 16 Aug 1996 16:49:04 GMT""}]","2007-05-23"
+"q-alg/9608013","Siddhartha Sahi","Siddhartha Sahi (Rutgers University)","A new scalar product for nonsymmetric Jack polynomials","7 pages, plain TeX",,,,"q-alg math.QA",,"  Symmetric Jack polynomials arise naturally in several contexts, including
+statistics, physics, combinatorics, and representation theory. They are
+pairwise orthogonal with repsect to two different inner products, the first
+defined by integration over an n-dimensional torus, and the second defined via
+a power series expansion.
+  The nonsymmetric analogs of Jack polynomials were recently defined by Opdam
+via the first inner product. In this paper we show that they are also
+orthogonal with respect to an analog of the second product which was proposed
+by Dunkl. We also derive an explict formula for their norms.
+","[{""version"":""v1"",""created"":""Fri, 16 Aug 1996 21:36:16 GMT""}]","2008-02-03"
+"quant-ph/9608028","Martin Plenio","M. B. Plenio, V. Vedral, and P. L. Knight (Imperial College London)","Conditional generation of error syndromes in fault-tolerant error
+  correction","4 pages","Phys.Rev.A55:4593,1997","10.1103/PhysRevA.55.4593",,"quant-ph",,"  In this paper we show how the fault--tolerant error correction scheme
+recently proposed by DiVincenzo and Shor may be improved. Our scheme, unlike
+the earlier one, can also deal with a single error that might occur {\em
+during} the gate operations that are required for the implementation of the
+error correction and not only in--between the gates and hence presents an
+improvement towards enabling error correction and with it the practical
+possibility of some more involved quantum computations, such as e.g.
+factorization of large numbers.
+","[{""version"":""v1"",""created"":""Sat, 17 Aug 1996 11:09:37 GMT""}]","2008-12-18"

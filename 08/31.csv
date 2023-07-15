@@ -1,0 +1,268 @@
+"astro-ph/9609005","Hector DE Vega","H.J. de Vega, N. S\'anchez and F. Combes","Self-gravity as an explanation of the fractal structure of the
+  interstellar medium","Latex file, four pages and two colour figures in .cps files. To
+  appear in Nature, 5 September 1996",,"10.1038/383056a0",,"astro-ph cond-mat gr-qc hep-th",,"  The gas clouds of the interstellar medium have a fractal structure, the
+origin of which has generally been thought to lie in turbulence. The energy of
+turbulence could come from galactic rotation at large-scale, then cascade down
+to be dissipated on small-scales by viscosity; it has been suggested that such
+turbulence helps to prevent massive molecular clouds from collapsing in
+response to their own gravity. Here we show that, on the contrary, self-gravity
+itself may be the dominant factor in making clouds fractal. We develop a
+field-theory approach to the structure of clouds, assuming them to be
+isothermal, and with only gravitational interactions; we find that the observed
+fractal dimension of the clouds arise naturally from this approach. Although
+this result does not imply that turbulence is not important, it does
+demonstrate that the fractal structure can be understood without it.
+","[{""version"":""v1"",""created"":""Fri, 30 Aug 1996 16:01:39 GMT""}]","2016-08-30"
+"astro-ph/9609006","Mike Guidry","A. Mezzacappa, A. C. Calder, S. W. Bruenn, J. M. Blondin, M. W.
+  Guidry, M. R. Strayer, and A. S Umar","Deciphering Core Collapse Supernovae: Is Convection the Key? I. Prompt
+  Convection","Complete paper with embedded color figures available as .ps file from
+  http://csep10.phys.utk.edu/papers/",,,,"astro-ph",,"  We couple two-dimensional hydrodynamics to detailed one-dimensional
+multigroup flux-limited diffusion neutrino transport to investigate prompt
+convection in core collapse supernovae. Our initial conditions, time-dependent
+boundary conditions, and neutrino distributions for computing neutrino heating,
+cooling, and deleptonization rates are obtained from one-dimensional
+simulations that implement multigroup flux-limited diffusion neutrino transport
+and one-dimensional hydrodynamics. The development and evolution of prompt
+convection and its ramifications for the shock dynamics are investigated for
+both 15 and 25 solar mass models, representative of the two classes of stars
+with compact and extended iron cores, respectively. In the absence of neutrino
+transport, prompt convection develops and dissipates on a time scale $\sim$15
+ms for both models. Prompt convection seeds convection behind the shock, which
+causes distortions in the shock's sphericity, but on the average, the shock
+radius is not boosted significantly. In the presence of neutrino transport,
+prompt convection velocities are too small relative to bulk inflow velocities
+to result in any significant convective transport of entropy and leptons. A
+simple analytical model supports our numerical results, indicating that the
+inclusion of transport reduces the convection growth rates and asymptotic
+velocities by factors of 4--250.
+","[{""version"":""v1"",""created"":""Sat, 31 Aug 1996 04:49:53 GMT""}]","2007-05-23"
+"cond-mat/9609005","Hong Guo","Ming Lei and Hong Guo","Numerical confirmation of universality of transmission micro-symmetry
+  relations in a four-probe quantum dot","7 ps figures; to appear in PRB",,"10.1103/PhysRevB.54.11630",,"cond-mat",,"  We study the crossover behavior of the Hall resistance between the integer
+quantum Hall regime and a regime dominated by the Aharonov-Bohm oscillations,
+in a system of 4-probe quantum dot with an artificial impurity confined inside.
+In a previous study [M. Lei, N.J. Zhu and Hong Guo, Phys. Rev. B. 52, 16784,
+(1995)], a peculiar set of symmetry relations between various scattering
+probabilities were found in this crossover regime. In this paper we examine the
+universality of this set of symmetry relations using different shapes of the
+quantum dot and positions of the artificial impurity. The symmetry holds for
+these changes and we conclude that in this transport regime the general
+behavior of the Hall resistance is determined by the competition of the quantum
+Hall and Aharonov-Bohm effects, rather than by the detailed shapes of the
+structure.
+","[{""version"":""v1"",""created"":""Fri, 30 Aug 1996 18:22:20 GMT""}]","2016-08-31"
+"cond-mat/9609006","Robert Shcherbakov","R.R. Shcherbakov, Vl.V. Papoyan, A.M. Povolotsky","Critical Dynamics of Self-Organizing Eulerian Walkers","3 pages, 4 Postscript figures, RevTeX, additional information
+  available at http://thsun1.jinr.dubna.su/~shcher","Phys. Rev. E, v.55 (1997) 3686","10.1103/PhysRevE.55.3686",,"cond-mat adap-org nlin.AO",,"  The model of self-organizing Eulerian walkers is numerically investigated on
+the square lattice. The critical exponents for the distribution of a number of
+steps ($\tau_l$) and visited sites ($\tau_s$) characterizing the process of
+transformation from one recurrent configuration to another are calculated using
+the finite-size scaling analysis. Two different kinds of dynamical rules are
+considered. The results of simulations show that both the versions of the model
+belong to the same class of universality with the critical exponents
+$\tau_l=\tau_s=1.75\pm 0.1$.
+","[{""version"":""v1"",""created"":""Sat, 31 Aug 1996 12:31:59 GMT""}]","2009-10-28"
+"hep-lat/9609004","Michael P. Grady","Michael Grady","Deconfinement from Action Restriction","4 pages latex, 6 ps figures, uses espcrc2.sty (included). Poster
+  presented at LATTICE96(topology)","Nucl.Phys.Proc.Suppl. 53 (1997) 599-602","10.1016/S0920-5632(96)00730-X","SUNY-FRE-96-03","hep-lat",,"  The effect of restricting the plaquette to be greater than a certain cutoff
+value is studied. The action considered is the standard Wilson action with the
+addition of a plaquette restriction, which should not affect the continuum
+limit of the theory. In this investigation, the strong coupling limit is also
+taken. It is found that a deconfining phase transition occurs as the cutoff is
+increased, on all lattices studied (up to $20^4$). The critical cutoff on the
+infinite lattice appears to be around 0.55. For cutoffs above this, a fixed
+point behavior is observed in the normalized fourth cumulant of the Polyakov
+loop, suggesting the existence of a line of critical points corresponding to a
+massless gluon phase, not unlike the situation in compact U(1). The Polyakov
+loop susceptibility also appears to be diverging with lattice size at these
+cutoffs. A strong finite volume behavior is observed in the pseudo-specific
+heat. It is discussed whether these results could still be consistent with the
+standard crossover picture which precludes the existence of a deconfining phase
+transition on an infinite symmetric lattice.
+","[{""version"":""v1"",""created"":""Fri, 30 Aug 1996 18:28:00 GMT""}]","2009-10-28"
+"hep-lat/9609005","Tom Blum","C. Bernard, T. Blum, and A. Soni","SU(3) Flavor Breaking in Hadronic Matrix Elements for $B - \bar B$
+  Oscillations","Poster presented at LATTICE96(heavy quarks). LaTeX, uses espcrc2.sty
+  and epsf, 4 pages, 4 postscript figures included","Nucl.Phys.Proc.Suppl. 53 (1997) 382-385","10.1016/S0920-5632(96)00665-2",,"hep-lat hep-ph",,"  We present an analysis, using quenched configurations at $6/g^2=$5.7, 5.85,
+6.0, and 6.3 of the matrix element $\MP\equiv\langle \bar P_{hl}|\bar h
+\gamma_\mu (1-\gamma_5)l \bar h \gamma_\mu(1-\gamma_5)l|P_{hl}\rangle$ for
+heavy-light pseudoscalar mesons. The results are extrapolated to the physical
+$B$ meson states, $\Bd$ and $\Bs$. We directly compute the ratio $\MS/\MB$, and
+obtain the preliminary result $\MS/\MB=1.54(13)(32)$. A precise value of this
+SU(3) breaking ratio is important for determining $V_{td}$ once the mixing
+parameter $x_s$ for $\Bs-\bar\Bs$ is measured experimentally. We also determine
+values for the corresponding B parameters, $B_{bs}(2 \rm{GeV})=B_{bd}(2
+\rm{GeV})=1.02(13)$, which we cannot distinguish in the present analysis.
+","[{""version"":""v1"",""created"":""Fri, 30 Aug 1996 21:15:16 GMT""}]","2009-10-28"
+"hep-lat/9609006","Gregory Kilcup","G. Kilcup, D. Pekurovsky and L. Venkataraman","On the Nf and a Dependence of BK","Talk presented at LATTICE96(phenomenology)","Nucl.Phys.Proc.Suppl. 53 (1997) 345-348","10.1016/S0920-5632(96)00656-1",,"hep-lat",,"  We present results of a study of BK using tadpole improved gauge invariant
+staggered operators. Using three ensembles of 16^3x32 configurations with
+varying numbers of dynamical flavors, we observe a small dependence on Nf.
+Using seven quenched ensembles between beta=5.7 and beta=6.2 we extrapolate to
+a=0.
+","[{""version"":""v1"",""created"":""Sat, 31 Aug 1996 15:06:09 GMT""}]","2009-10-28"
+"hep-lat/9609007","Gregory Kilcup","L. Venkataraman, G. Kilcup and J. Grandy","The Staggered Eta-prime with Smeared Operators","Talk presented at LATTICE96(chirality in qcd)","Nucl.Phys.Proc.Suppl. 53 (1997) 259-261","10.1016/S0920-5632(96)00630-5",,"hep-lat",,"  We present a refined calculation of the eta-prime mass using staggered
+fermions and Wuppertal smeared operators. We use quenched and dynamical
+configurations of size 16^3x32 with Nf=0, Nf=2 and Nf=4, and compare our
+results with the expected forms from quenched, partially quenched and
+unquenched chiral perturbation thoery.
+","[{""version"":""v1"",""created"":""Sat, 31 Aug 1996 15:35:05 GMT""}]","2009-10-28"
+"hep-ph/9609209","Wim deBoer","W. de Boer, A. Dabelstein, W. Hollik, W. Moesle, U. Schwickerath
+  (University of Karlsruhe, Germany)","Global Fits of the SM and MSSM to Electroweak Precision Data","40 pages, update from hep-ph/9607286 using next-to-leading-log
+  corrections for b-s gamma presented in Warsaw in revised version",,,"IEKP-KA/96-08","hep-ph",,"  A program including all radiative corrections to the MSSM at the same level
+as the radiative corrections to the SM has been developed and used to perform
+global fits to all electroweak data from LEP, SLC and the Tevatron and the
+radiative b->sgamma decay from CLEO. Values of the strong coupling constant at
+the $M_Z$ scale and $\sin^2\theta_{\overline{MS}}$ are derived, both in the SM
+and MSSM. Recent updates on electroweak data, which have been presented at the
+Warsaw Conference in summer 1996, reduce the R_b anomaly from a 3.2 sigma to a
+1.8 sigma effect. In addition, the $b \to s\gamma$ decay is 30% below the SM
+prediction. In the MSSM light stops and light charginos increase $R_b$ and
+decrease the $b \to s\gamma$ rate, so both observations can be brought into
+agreement with the MSSM for the same region of parameter space. However, the
+resulting $\chi^2$ value for the MSSM fits is only marginally lower and in
+addition, the splitting in the stop sector has to be unnaturally high.
+","[{""version"":""v1"",""created"":""Fri, 30 Aug 1996 17:24:26 GMT""},{""version"":""v2"",""created"":""Mon, 2 Sep 1996 15:35:21 GMT""},{""version"":""v3"",""created"":""Mon, 30 Sep 1996 16:46:41 GMT""},{""version"":""v4"",""created"":""Wed, 20 Nov 1996 20:10:57 GMT""}]","2016-09-06"
+"hep-ph/9609210","Gregory D. Mahlon","Gregory Mahlon, G.L. Kane (University of Michigan)","Searching for a Light Stop at the Tevatron","45 pages, revtex, 15 figures included. Final version, as will appear
+  in Phys. Rev. D. Contains an expanded introduction plus a few additional
+  references","Phys.Rev. D55 (1997) 2779-2791","10.1103/PhysRevD.55.2779","UM-TH-96-13","hep-ph hep-ex",,"  We describe a method to help the search for a light stop squark [M(stop) +
+M(LSP) < M(top)] at the Fermilab Tevatron. Traditional search methods rely upon
+a series of stringent background-reducing cuts which, unfortunately, leave very
+few signal events given the present data set. To avoid this difficulty, we
+instead suggest using a milder set of cuts, combined with a ""superweight,""
+whose purpose is to discriminate between signal and background events. The
+superweight consists of a sum of terms, each of which are either zero or one.
+The terms are assigned event-by-event depending upon the values of various
+observables. We suggest a method for choosing the observables as well as the
+criteria used to assign the values such that the superweight is ""large"" for the
+supersymmetric signal and ""small"" for the standard model background. For
+illustration, we mainly consider the detection of stops coming from top decay,
+making our analysis especially relevant to the W+2 jets top sample.
+","[{""version"":""v1"",""created"":""Fri, 30 Aug 1996 18:41:19 GMT""},{""version"":""v2"",""created"":""Wed, 4 Dec 1996 14:27:47 GMT""}]","2009-10-28"
+"hep-ph/9609211","Evan Keith","E. Keith and Ernest Ma","Baryon-Number Nonconservation and the Stability of Strange Matter","14 pages, LaTex, 2 figures available upon request from
+  evan@ucrph0.ucr.edu","Mod.Phys.Lett. A12 (1997) 697-708","10.1142/S021773239700073X","UCRHEP-T160","hep-ph nucl-th",,"  If baryon-number nonconservation exists in the form of an effective six-quark
+operator which also changes strangeness by four units, it could have a
+tremendous impact on the absolute stability of strange quark matter. We show
+that such an operator is negligible in the supersymmetric standard model with
+$\lambda_{ijk} u_i^c d_j^c d_k^c$ terms in the superpotential, but may be of
+importance in models with exotic particle content. From the experimental lower
+limit of $10^{25}$ years on the stability of nuclei, we find a
+model-independent lower limit of the order $10^5$ years on the stability of
+strange matter against such decays.
+","[{""version"":""v1"",""created"":""Fri, 30 Aug 1996 22:54:54 GMT""}]","2015-06-25"
+"hep-ph/9609212","Sandro Ambrosanio","Sandro Ambrosanio and Barbara Mele","Supersymmetric Scenarios with Dominant Radiative Neutralino Decay","32 pages, LaTeX file + 23 figures embedded with epsf.sty. In this
+  revised version, Eq.(3) plus some related notations and text passages have
+  been changed. Minor error corrected in Fig.12(a). The numerical analysis and
+  the conclusions of the paper are not affected. (Includes the erratum to
+  appear in Phys. Rev. D.) Source and ps files are also available at
+  ftp://hpteo.roma1.infn.it/pub/preprints/ambr-mele/Rome1-1148/ or at
+  http://feynman.physics.lsa.umich.edu/~ambros/Physics.html#16","Phys.Rev.D55:1399-1417,1997; Erratum-ibid.D56:3157-3158,1997","10.1103/PhysRevD.55.1399 10.1103/PhysRevD.56.3157","ROME1-1148/96","hep-ph",,"  The radiative decay of the next-to-lightest neutralino into a lightest
+neutralino and a photon is analyzed in the MSSM. We find that significant
+regions of the supersymmetric parameter space with large radiative BR's (up to
+about 100%) do exist. The radiative channel turns out to be enhanced when the
+neutralino tree-level decays are suppressed either ""kinematically"" or
+""dynamically"". In general, in the regions allowed by LEP data and not
+characterized by asymptotic values of the SuSy parameters, the radiative
+enhancement requires tan beta ~= 1 and/or M_1 ~= M_2, and negative values of
+\mu. We present typical specific scenarios where these ""necessary"" conditions
+are fulfilled, relaxing the usual relation M_1=(5/3)*tan^2(th_W)*M_2. The
+influence of varying the stop masses and mixing angle when the radiative decay
+is enhanced is also considered. Some phenomenological consequences of the above
+picture are discussed.
+","[{""version"":""v1"",""created"":""Sat, 31 Aug 1996 01:14:24 GMT""},{""version"":""v2"",""created"":""Wed, 21 May 1997 18:14:29 GMT""}]","2014-11-17"
+"hep-ph/9609213",,"Germ\'an Rodrigo (Valencia U.)","Quark mass effects in QCD jets","6 pages, LaTeX. Talk given at High Energy Physics International
+  Euroconference on Quantum Chromodynamics (QCD 96), Montpellier, France, 4-12
+  Jul 1996. Uses espcrc2.sty","Nucl.Phys.Proc.Suppl.54A:60-66,1997","10.1016/S0920-5632(97)00015-7","FTUV 96/44, IFIC 96/52","hep-ph",,"  We present the calculation of the decay width of the Z-boson into three jets
+including complete quark mass effects to second order in the strong coupling
+constant. The study is done for different jet clustering algorithms such as EM,
+JADE, E and DURHAM. Because three-jet observables are very sensitive to the
+quark mass we consider the possibility of extracting the bottom quark mass from
+LEP data.
+","[{""version"":""v1"",""created"":""Sat, 31 Aug 1996 11:17:08 GMT""}]","2009-10-28"
+"hep-th/9609001","My Account","L.F. Urrutia (Universidad Autonoma Metropolitana-I, Universidad
+  Nacional Autonoma de Mexico)","Towards a loop representation of connection theories defined over a
+  super Lie algebra","35 pages, LATEX, aipproc style Based on the lectures given at the
+  Fifth Workshop on Particles and Fields, Puebla, Nov. 1995",,"10.1063/1.49736",,"hep-th",,"  The purpose of this contribution is to review some aspects of the loop space
+formulation of pure gauge theories having the connection defined over a Lie
+algebra. The emphasis is focused on the discussion of the Mandelstam
+identities, which provide the basic constraints upon both the classical and the
+quantum degrees of freedom of the theory. In the case where the connection is
+extended to be valued on a super Lie algebra, some new results are presented
+which can be considered as first steps towards the construction of the
+Mandelstam identities in this situation, which encompasses such interesting
+cases as supergravity in $3+1$ dimensions together with $2+1$ super
+Chern-Simons theories, for example. Also, these ideas could be useful in the
+loop space formulation of fully supersymmetric theories.
+","[{""version"":""v1"",""created"":""Fri, 30 Aug 1996 22:16:46 GMT""}]","2009-10-30"
+"hep-th/9609008",,"B. Durhuus (Mathematics Institute, University of Copenhagen) and C.
+  Kristjansen (NORDITA, Copenhagen)","Phase Structure of the O(n) Model on a Random Lattice for n>2","18 pages, LaTeX file, two eps-figures","Nucl.Phys. B483 (1997) 535-551","10.1016/S0550-3213(96)00574-3","NORDITA-96/55P","hep-th",,"  We show that coarse graining arguments invented for the analysis of
+multi-spin systems on a randomly triangulated surface apply also to the O(n)
+model on a random lattice. These arguments imply that if the model has a
+critical point with diverging string susceptibility, then either \g=+1/2 or
+there exists a dual critical point with negative string susceptibility
+exponent, \g', related to \g by \g=\g'/(\g'-1). Exploiting the exact solution
+of the O(n) model on a random lattice we show that both situations are realized
+for n>2 and that the possible dual pairs of string susceptibility exponents are
+given by (\g',\g)=(-1/m,1/(m+1)), m=2,3,.... We also show that at the critical
+points with positive string susceptibility exponent the average number of loops
+on the surface diverges while the average length of a single loop stays finite.
+","[{""version"":""v1"",""created"":""Fri, 30 Aug 1996 16:25:09 GMT""}]","2009-10-30"
+"hep-th/9609010","My Account","L.F. Urrutia (Universidad Autonoma Metropolitana-I, Universidad
+  Nacional Autonoma de Mexico), N. Morales (Universidad Autonoma
+  Metropolitana-I)","An extension of the Cayley-Hamilton theorem to the case of supermatrices","14 pages, plain TEX","Letters in Mathematical Physics, 32 (1994) 211-219","10.1007/BF00750663",,"hep-th",,"  Starting from the expression for the superdeterminant of $ (xI-M)$, where $M$
+is an arbitrary supermatrix , we propose a definition for the corresponding
+characteristic polynomial and we prove that each supermatrix satisfies its
+characteristic equation. Depending upon the factorization properties of the
+basic polynomials whose ratio defines the above mentioned superdeterminant we
+are able to construct polynomials of lower degree which are also shown to be
+annihilated by the supermatrix.
+","[{""version"":""v1"",""created"":""Fri, 30 Aug 1996 19:22:19 GMT""}]","2015-06-26"
+"hep-th/9609011","Garnik G. Alexanian","G. Alexanian and V.P. Nair (Physics Dept., CCNY)","On Non-Abelian Thomas-Fermi Screening","7 pages, plain Tex, no figures; one reference added, note added at
+  the end","Phys.Lett. B390 (1997) 370-374","10.1016/S0370-2693(96)01422-0","CCNY-HEP 96/10","hep-th",,"  The Thomas-Fermi screening of non-Abelian gauge fields by fermions or
+screening of gluon fields in quark matter is discussed. It is described by an
+effective mass term which is, as with hard thermal loops, related to the
+eikonal for a Chern-Simons theory and the Wess-Zumino-Witten action.
+","[{""version"":""v1"",""created"":""Fri, 30 Aug 1996 22:24:01 GMT""},{""version"":""v2"",""created"":""Mon, 16 Sep 1996 15:22:59 GMT""}]","2009-10-30"
+"hep-th/9609012","Valerie Nowak","S.L. Adler","Response to the Comment by G. Emch on Projective Group Representations
+  in Quaternionic Hilbert Space","8 pages, Revtex, no figures","J.Math.Phys. 37 (1996) 6586-6589","10.1063/1.531747","IASSNS-HEP-96/75","hep-th",,"  We discuss the differing definitions of complex and quaternionic projective
+group representations employed by us and by Emch. The definition of Emch
+(termed here a strong projective representation) is too restrictive to
+accommodate quaternionic Hilbert space embeddings of complex projective
+representations. Our definition (termed here a weak projective representation)
+encompasses such embeddings, and leads to a detailed theory of quaternionic, as
+well as complex, projective group representations.
+","[{""version"":""v1"",""created"":""Fri, 30 Aug 1996 20:29:25 GMT""}]","2009-10-30"
+"math/9608211",,"Nikolai Saveliev","On the homology cobordism group of homology 3-spheres",,,,"MSRI 1996-063","math.GT",,"  In this paper we present our results on the homology cobordism group $\Th$ of
+the oriented integral homology 3-spheres. We specially emphasize the role
+played in the subject by the gauge theory including Floer homology and
+invariants by Donaldson and Seiberg -- Witten.
+","[{""version"":""v1"",""created"":""Sat, 31 Aug 1996 00:00:00 GMT""}]","2016-09-06"
+"nucl-ex/9609001","Lacasse","Roger Lacasse and the E877 Collaboration","Hadron yields and spectra in Au+Au collisions at the AGS","12 pages, latex, 10 figures, submitted to Nuclear Physics A (Quark
+  Matter 1996 Proceedings)","Nucl.Phys. A610 (1996) 153c-164c","10.1016/S0375-9474(96)00351-X",,"nucl-ex",,"  Inclusive double differential multiplicities and rapidity density
+distributions of hadrons are presented for 10.8 A GeV/c Au+Au collisions as
+measured at the AGS by the E877 collaboration. The results indicate that large
+amounts of stopping and collective transverse flow effects are present. The
+data are also compared to the results from the lighter Si+Al system.
+","[{""version"":""v1"",""created"":""Fri, 30 Aug 1996 16:08:06 GMT""}]","2009-10-30"
+"nucl-th/9609004",,"G. Q. Li and C. M. Ko","Antikaon flow in heavy-ion collisions: the effects of absorption and
+  mean fields","12 pages, 2 postscript figures omitted in the original submission are
+  included, to appear in Phys. Rev. C","Phys.Rev.C54:2159-2162,1996","10.1103/PhysRevC.54.R2159",,"nucl-th",,"  We study antikaon flow in heavy-ion collisions at SIS energies based on the
+relativistic transport model (RVUU 1.0). The production of antikaons from both
+baryon-baryon and pion-baryon collisions are included. Taking into account only
+elastic and inelastic collisions of the antikaon with nucleons and neglecting
+its mean-field potential as in the cascade model, a strong antiflow or
+anti-correlation of antikaons with respect to nucleons is seen as a result of
+the strong absorption of antikaons by nucleons. However, the antiflow of
+antikaons disappears after including also their propagation in the attractive
+mean-field potential. The experimental measurement of antikaon flow in
+heavy-ion collision will be very useful in shedding lights on the relative
+importance of antikaon absorption versus its mean-field potential.
+","[{""version"":""v1"",""created"":""Fri, 30 Aug 1996 22:54:46 GMT""},{""version"":""v2"",""created"":""Thu, 3 Oct 1996 20:16:01 GMT""}]","2009-09-25"
+"quant-ph/9609002","Carlo Rovelli","Carlo Rovelli","Relational Quantum Mechanics","Substantially revised version. LaTeX file","Int. J. of Theor. Phys. 35 (1996) 1637","10.1007/BF02302261",,"quant-ph gr-qc hep-th",,"  I suggest that the common unease with taking quantum mechanics as a
+fundamental description of nature (the ""measurement problem"") could derive from
+the use of an incorrect notion, as the unease with the Lorentz transformations
+before Einstein derived from the notion of observer-independent time. I suggest
+that this incorrect notion is the notion of observer-independent state of a
+system (or observer-independent values of physical quantities). I reformulate
+the problem of the ""interpretation of quantum mechanics"" as the problem of
+deriving the formalism from a few simple physical postulates. I consider a
+reformulation of quantum mechanics in terms of information theory. All systems
+are assumed to be equivalent, there is no observer-observed distinction, and
+the theory describes only the information that systems have about each other;
+nevertheless, the theory is complete.
+","[{""version"":""v1"",""created"":""Sat, 31 Aug 1996 10:13:29 GMT""},{""version"":""v2"",""created"":""Mon, 24 Feb 1997 20:09:52 GMT""}]","2009-10-30"

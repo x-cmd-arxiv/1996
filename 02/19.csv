@@ -1,0 +1,311 @@
+"astro-ph/9602089","Tom Theuns","Tom Theuns (Oxford University), Henri Boffin (Kobe University) and
+  Alain Jorissen (Brussels University)","Wind accretion in binary stars II. Accretion rates","13 pages, mn style, 5 figures, to be published by MNRAS","Mon.Not.Roy.Astron.Soc. 280 (1996) 1264","10.1093/mnras/280.4.1264","OUAST-96-6","astro-ph",,"  Smoothed particle hydrodynamics (SPH) is used to estimate accretion rates of
+mass, linear and angular momentum in a binary system where one component
+undergoes mass loss through a wind. Physical parameters are chosen such as to
+model the alleged binary precursors of barium stars, whose chemical
+peculiarities are believed to result from the accretion of the wind from a
+companion formerly on the asymptotic giant branch (AGB). The binary system
+modelled consists of a 3 solar masses AGB star on the main sequence, in a 3AU
+circular orbit. Three-dimensional simulations are performed for gases with
+polytropic indices gamma=1, 1.1 and 1.5, to bracket more realistic situations
+that would include radiative cooling. Mass accretion rates are found to depend
+on resolution and we estimate typical values of 1-2% for the gamma=1.5 case and
+8% for the other models. The highest resolution obtained (with 400k particles)
+corresponds to an accretor of linear size 16 solar radii. Despite being (in the
+gamma = 1.5 case) about ten times smaller than theoretical estimates based on
+the Bondi-Hoyle prescription, the SPH accretion rates remain large enough to
+explain the pollution of barium stars. Uncertainties in the current SPH rates
+remain however, due to the simplified treatment of the wind acceleration
+mechanism, as well as to the absence of any cooling prescription and to the
+limited numerical resolution. Angular momentum transfer leads to significant
+spin up of the accretor and can account for the rapid rotation of HD165141, a
+barium star with a young white dwarf companion and a rotation rate unusually
+large among K giants.
+","[{""version"":""v1"",""created"":""Sun, 18 Feb 1996 16:54:18 GMT""}]","2015-06-24"
+"astro-ph/9602090",,"Boris V. Komberg (1), Andrey V. Kravtsov (2), Vladimir N. Lukash (1)
+  ((1) Astro Space Center, Moscow, (2) New Mexico State University)","The search and investigation of the Large Groups of Quasars","11 pages, 2 tables, uses mn.sty, also available at
+  http://charon.nmsu.edu/~akravtso/publications.html , accepted for publication
+  in MNRAS",,"10.1093/mnras/282.3.713",,"astro-ph",,"  Recently, it was suggested that large concentrations or groups of quasars may
+trace sites of enhanced matter density at medium and high redshifts analogous
+to how galaxy clusters trace them in nearby space. We have checked existing
+quasar data for the presence of such groups. Large Quasar Groups (LQGs) were
+identified using a well-known cluster analysis technique. Our final list
+consists of 12 groups, including one reported previously. Most of the quasars
+in these groups come from deep homogeneous surveys. We have found that: (i) the
+probability that the detected groups are random is rather small (generally a
+few per cent); (ii) their sizes range from $\sim 70$ to $\sim 160h^{-1} Mpc$,
+which is comparable to sizes of nearby rich superclusters; (iii) the detected
+groups all have redshifts $0.5<z\leq 2$; (iv) the abundance of the LQGs is
+comparable with the abundance of large superclusters at $z\sim 0$, which is
+consistent with the idea that quasar groups and superclusters can be
+evolutionarily related. We argue that quasar groups could be a common feature
+of the spatial distribution of medium redshift quasars, and that the quasars in
+groups may belong to concentrations of young galaxy clusters and groups
+(distant superclusters) and hence be biased tracers of large-scale structure of
+matter distribution in the early Universe. Theoretical implications as well as
+other observations needed to test this point are discussed.
+","[{""version"":""v1"",""created"":""Mon, 19 Feb 1996 02:44:24 GMT""}]","2019-04-03"
+"astro-ph/9602091","Vincent Eke","Vincent R. Eke, Shaun Cole, Carlos S. Frenk (Durham) and Julio F.
+  Navarro (Steward Observatory, Univ. of Arizona)","Cluster correlation functions in N-body simulations","Compressed postscript also available at
+  ftp://star-ftp.dur.ac.uk/pub/preprints/ecfn.ps.gz",,"10.1093/mnras/281.2.703",,"astro-ph",,"  The correlation function of galaxy clusters has often been used as a test of
+cosmological models. A number of assumptions are implicit in the comparison of
+theoretical expectations to data. Here we use an ensemble of ten large N-body
+simulations of the standard cold dark matter cosmology to investigate how
+cluster selection criteria and other uncertain factors influence the cluster
+correlation function. We consider the effects of varying the definition of a
+cluster, the mean number density (or equivalently the richness) in a catalogue,
+and the assumed normalisation of the model; we also examine the importance of
+redshift space distortions. We implement five different group-finding
+algorithms and construct cluster catalogues defined by mass, velocity
+dispersion or a measure of X-ray luminosity. We find that different cluster
+catalogues yield correlation functions which can differ by substantially more
+than the statistical errors in any one determination. For a given cluster
+selection criteria, the correlation length typically varies by $\sim 20\%$ in
+catalogues spanning the range of intercluster separations covered by the APM
+and Abell (richness class $\gsim 1$) catalogues. Distortions produced by
+peculiar velocities in redshift space enhance the correlation function at large
+separations and lead to a larger clustering length in redshift space than in
+real space. The sensitivity of the cluster correlation function to various
+uncertain model assumptions substantially weakens previous conclusions based on
+the comparison of model predictions with real data. Detailed modelling of
+cluster selection procedures including the effects of selecting from projected
+galaxy catalogues is required before the cluster correlation function can be
+regarded as a high precision constraint on cosmological models.
+","[{""version"":""v1"",""created"":""Mon, 19 Feb 1996 13:26:24 GMT""}]","2015-06-24"
+"astro-ph/9602093",,"Antoine Labeyrie (Coll\`ege de France & Observatoire de Haute
+  Provence)","Resolved imaging of extra-solar planets with future 10-100km optical
+  interferometric arrays","4 pages, 5 figures. Paper available at
+  http://www.obs-hp.fr/www/preprints/pp92/pp92.html",,,,"astro-ph",,"  In the recent years, interferometric arrays of optical telescopes have
+reached sizes of the order of 100m, but they have yet to produce
+high-resolution images. The analysis of image formation now shows that such
+images are obtainable directly in the recombined focal plane, if there are
+enough telescopes. Resolved images of extra-solar planets are in principle
+obtainable with 10km ground-based arrays.
+","[{""version"":""v1"",""created"":""Mon, 19 Feb 1996 11:58:29 GMT""}]","2009-09-25"
+"chao-dyn/9602018","Greg Eyink","Gregory L. Eyink (Department of Mathematics, University of Arizona)","The `Multifractal Model' of Turbulence and {\em A Priori} Estimates in
+  Large-Eddy Simulation, I. Subgrid Flux and Locality of Energy Transfer","33 pages, LaTeX, four figures available at request from the author.
+  This paper was originally submitted to Physics of Fluids, May 1994,
+  resubmitted in several versions with mostly stylistic changes and finally
+  withdrawn when the author, editor and referees could reach no consensus on
+  the form and contents of the work. It is submitted now to Journal of Fluid
+  Mechanics. You may read it and make up your own mind!",,,,"chao-dyn nlin.CD",,"  We establish and discuss {\em a priori} estimates on subgrid stress and
+subgrid flux for filtering schemes used in the turbulence modelling method of
+Large-Eddy Simulation (LES). Our estimates are derived as rigorous consequences
+of the exact subgrid stress formulae from Navier-Stokes equations under
+realistic conditions for inertial-range velocity fields, those conjectured in
+the Parisi-Frisch ``multifractal model.'' The estimates are shown to be an
+expression of ``local energy cascade,'' i.e. the dominance of local wavevector
+triads in the energy transfer. We prove that for nearly any reasonable filter
+function the LES method defines an energy flux in which local triads dominate
+in individual realizations, due to cancellation of distant triadic
+contributions by detailed conservation. A somewhat similar observation of
+Leslie and Quarini on graded filters in the EDQNM closure is shown to be
+unrelated to the cancellation we establish in Navier-Stokes solutions. The
+sharp Fourier cutoff filter is one example which does not satisfy the modest
+conditions of our proof and, in fact, we show that with that filter the energy
+transfer in individual realizations at arbitrarily high Reynolds number will be
+dominated by nonlocal, convective sweeping.
+","[{""version"":""v1"",""created"":""Mon, 19 Feb 1996 05:27:37 GMT""}]","2008-02-03"
+"chao-dyn/9602019","Greg Eyink","Gregory L. Eyink (Department of Mathematics, University of Arizona)","The `Multifractal Model' of Turbulence and {\em A Priori} Estimates in
+  Large-Eddy Simulation, II. Evaluation of Stress Models and Non-Universal
+  Effects of the Filter","25 pages, LaTeX, four figures in part I available at request. This
+  paper was originally submitted to Physics of Fluids, May 1994, resubmitted in
+  several versions with mostly stylistic changes and finally withdrawn when the
+  author, editor, and referees could reach no consensus on the form and
+  contents of the work. It is submitted now to Journal of Fluid Mechanics. You
+  may read it and make up your own mind!",,,,"chao-dyn nlin.CD",,"  We continue a previous work in which {\em a priori} estimates were derived on
+subgrid stress and subgrid flux for filtering schemes used in the turbulence
+modelling method of Large-Eddy Simulation (LES). The estimates were derived
+there as rigorous consequences of the exact subgrid stress formulae from
+Navier-Stokes equations under the conditions assumed for velocity fields in the
+Parisi-Frisch ``multifractal model.'' It was also shown that these assumptions
+are realistic in an extended inertial range. Therefore the estimates must be
+obeyed by any faithful subgrid model and we use them here to evaluate some
+popular models of the subgrid stress (Smagorinsky, Bardina, etc.) We also
+examine the effects of the choice of filter function on the magnitudes of
+subgrid stress and transfer. Under mild assumptions on the filter these
+quantities are determined by local-in-wavenumber, inertial-range interactions
+and can be modelled in a universal way. However, one common choice of
+filter---the sharp cutoff filter in Fourier space ---does not satisfy the
+modest required conditions and we show that the associated flux, including
+``backscatter'' effects, may be spuriously dominated by nonlocal-in-wavenumber,
+convective processes of a non-universal type.
+","[{""version"":""v1"",""created"":""Mon, 19 Feb 1996 05:29:00 GMT""}]","2008-02-03"
+"chem-ph/9602004","Carsten Peterson","Carsten Peterson, Ola Sommelius and Bo S\""oderberg","Scaling and Scale Breaking in Polyelectrolyte","18 pages, latex, 6 figures",,"10.1063/1.472372","LU TP 95-25","chem-ph cond-mat hep-lat physics.chem-ph",,"  We consider the thermodynamics of a uniformly charged polyelectrolyte with
+harmonic bonds. For such a system there is at high temperatures an approximate
+scaling of global properties like the end-to-end distance and the interaction
+energy with the chain-length divided by the temperature. This scaling is broken
+at low temperatures by the ultraviolet divergence of the Coulomb potential. By
+introducing a renormalization of the strength of the nearest- neighbour
+interaction the scaling is restored, making possible an efficient blocking
+method for emulating very large polyelectrolytes using small systems. The high
+temperature behaviour is well reproduced by the analytical high-$T$ expansions
+even for fairly low temperatures and system sizes. In addition, results from
+low-$T$ expansions, where the coefficients have been computed numerically, are
+presented. These results approximate well the corresponding Monte Carlo results
+at realistic temperatures. A corresponding analysis of screened chains is
+performed. The situation here is complicated by the appearance of an additional
+parameter, the screening length. A window is found in parameter space, where
+scaling holds for the end-to-end distance. This window corresponds to
+situations where the range of the potential interpolates between the bond
+length and the size of the chain. This scaling behaviour, which is verified by
+Monte Carlo results, is consistent with Flory scaling. Also for the screened
+chain a blocking approach can be devised, that performs well for low
+temperatures, whereas the low-$T$ expansion is inaccurate at realistic
+temperatures.
+","[{""version"":""v1"",""created"":""Mon, 19 Feb 1996 13:14:08 GMT""}]","2016-08-15"
+"cond-mat/9602097","Andrew Rutenberg","A.D. Rutenberg (Oxford University)","Stress-free Spatial Anisotropy in Phase-Ordering","4 pages, 4 figures included","Phys Rev E v 54, p R2181 (1996).","10.1103/PhysRevE.54.R2181","OUTP9609S","cond-mat mtrl-th",,"  We find spatial anisotropy in the asymptotic correlations of two-dimensional
+Ising models under non-equilibrium phase-ordering. Anisotropy is seen for
+critical and off-critical quenches and both conserved and non-conserved
+dynamics. We argue that spatial anisotropy is generic for scalar systems
+(including Potts models) with an anisotropic surface tension. Correlation
+functions will not be universal in these systems since anisotropy will depend
+on, e.g., temperature, microscopic interactions and dynamics, disorder, and
+frustration.
+","[{""version"":""v1"",""created"":""Mon, 19 Feb 1996 12:36:34 GMT""}]","2009-10-28"
+"gr-qc/9602038","Takahiro Tanaka","Takahiro Tanaka, Yasushi Mino, Misao Sasaki and Masaru Shibata","Gravitational waves from a spinning particle in circular orbits around a
+  rotating black hole","20 pages, LaTeX, 2 figures available upon request","Phys.Rev.D54:3762-3777,1996","10.1103/PhysRevD.54.3762","OU-TAP-27","gr-qc",,"  Using the Teukolsky and Sasaki-Nakamura formalisms for the perterbations
+around a Kerr black hole, we calculate the energy flux of gravitational waves
+induced by a {\it spinning} particle of mass $\mu$ and spin $S$ moving in
+circular orbits near the equatorial plain of a rotating black hole of mass $M
+(\gg \mu)$ and spin $Ma$. The calculations are performed by using the recently
+developed post-Newtonian expansion technique of the Teukolsky equation. To
+evaluate the source terms of perturbations caused by a {\it spinning} particle,
+we used the equations of motion of a spinning particle derived by Papapetrou
+and the energy momentum tensor of a spinning particle derived by Dixon. We
+present the post-Newtonian formula of the gravitational wave luminosity up to
+the order $(v/c)^5$ beyond the quadrupole formula including the linear order of
+particle spin. The results obtained in this paper will be an important
+guideline to the post-Newtonian calculation of the inspiral of two spinning
+compact objects.
+","[{""version"":""v1"",""created"":""Mon, 19 Feb 1996 12:13:46 GMT""}]","2009-10-09"
+"hep-lat/9602021","Jan Ambjorn","Jan Ambjorn, Piotr Bialas and Jerzy Jurkiewicz","RG flow in an exactly solvable model with fluctuating geometry","References updated, typos corrected and abstract sligtly changed. 10
+  pages. Pictex used","Phys.Lett. B379 (1996) 93-98","10.1016/0370-2693(96)00457-1","NBI-HET-96-9","hep-lat",,"  A recently proposed renormalization group technique, based on the
+hierarchical structures present in theories with fluctuating geometry, is
+implemented in the model of branched polymers. The renormalization group
+equations can be solved analytically, and the flow in coupling constant space
+can be determined.
+","[{""version"":""v1"",""created"":""Mon, 19 Feb 1996 15:03:53 GMT""},{""version"":""v2"",""created"":""Thu, 29 Feb 1996 09:44:56 GMT""}]","2009-10-28"
+"hep-ph/9602338","Michio Hashimoto","Michio Hashimoto","Isospin Breaking Effects in the Anomalous Processes with Vector Mesons","13 pages, no figure","Phys.Lett. B381 (1996) 465-469","10.1016/0370-2693(96)00620-X","DPNU-96-08","hep-ph",,"  We introduce isospin breaking terms as well as (SU(3)) breaking terms to the
+anomalous (VVP) coupling in the hidden local symmetry scheme without affecting
+the low energy theorem on the processes such as (\pi\to 2 \gamma) and
+(\gamma\to 3\pi ). It is shown that the predictions from these terms coincide
+successfully with all the experimental data of anomalous decays. It is also
+predicted that the decay widths of (\rho^0 \to \pi^0 \gamma) and (\phi \to
+\eta' \gamma) are (114\pm 7 keV) and (0.552 \pm 0.055 keV), respectively.
+","[{""version"":""v1"",""created"":""Mon, 19 Feb 1996 09:59:44 GMT""}]","2009-10-28"
+"hep-ph/9602339","Dietrich Lehner","D. Bardin, D. Lehner, A. Leike, T. Riemann","Semi-Analytical Approach to Off-Shell W and Z Pair Production","8 pages, 1 postscript figure, uses sprocl.sty",,,"DESY-Zeuthen 96-01","hep-ph",,"  We give a short review of the results for four fermion production, which have
+been obtained by the semi-analytical approach. The angular degrees of freedom
+(typically five or more) are integrated over analytically while the
+integrations over invariant fermion pair masses (typically two or more) remain
+to be performed by numerical methods. In addition to doubly resonating cross
+sections from virtual two boson production, QED corrections and background
+contributions were determined. However, a large variety of final state
+topologies has not been treated so far.
+","[{""version"":""v1"",""created"":""Mon, 19 Feb 1996 14:15:07 GMT""}]","2007-05-23"
+"hep-ph/9602340",,"Hanqing Zheng","A Renormalization Group Analysis of the Higgs Boson with Heavy Fermions
+  and Compositeness","Some typographic errors are corrected and title is changed. Version
+  to appear in Physics Letter B. 9 pages 6 Postscript figures, use epsf.sty","Phys.Lett. B370 (1996) 201; Erratum-ibid. B382 (1996) 448","10.1016/0370-2693(96)00434-0","PSI-PR-96-07","hep-ph",,"  We study the properties of heavy fermions in the vector-like representation
+of the electro-weak gauge group $SU(2)_W\times U(1)_Y$ with Yukawa couplings to
+the standard model (SM) Higgs boson. Using the renormalization group analysis,
+we discuss their effects on the vacuum stability and the triviality bound on
+the Higgs self-coupling, within the context of the standard model (i.e., the
+Higgs particle is elementary). Contrary to the low energy case where the
+decoupling theorem dictates their behavior, the inclusion of heavy fermions
+drastically change the SM structure at high scale. We also discuss the
+interesting possibility of compositeness, i.e., the Higgs particle is composed
+of the heavy fermions using the method of Bardeen, Hill and
+Lindner~\cite{BHL91}. Finally we briefly comment on their possible role in
+explaining $R_b$ and $R_c$.
+","[{""version"":""v1"",""created"":""Mon, 19 Feb 1996 13:54:38 GMT""},{""version"":""v2"",""created"":""Fri, 23 Feb 1996 18:18:32 GMT""},{""version"":""v3"",""created"":""Thu, 11 Apr 1996 19:53:49 GMT""}]","2009-10-28"
+"hep-th/9602096",":","M. Gasperini and G. Veneziano","Birth of the Universe as quantum scattering in string cosmology","8 pages, LATEX. A complete collection of papers and references on the
+  pre-big-bang scenario in string cosmology is available at
+  http://www.to.infn.it/teorici/gasperini/","Gen.Rel.Grav. 28 (1996) 1301-1307","10.1007/BF02109522","CERN-TH/96-49","hep-th astro-ph gr-qc",,"  In a Wheeler-de Witt approach to quantum string cosmology, the present state
+of the Universe arises from the scattering and reflection of the wave function
+representing the initial string vacuum in superspace. This scenario is
+described and compared with the more conventional quantum cosmology picture, in
+which the birth of the Universe is represented as a process of tunnelling ""from
+nothing"" in superspace.
+","[{""version"":""v1"",""created"":""Sun, 18 Feb 1996 19:25:39 GMT""}]","2009-10-30"
+"hep-th/9602097",,"G. Aldazabal, A. Font, L.E. Ibanez and F. Quevedo","Heterotic/Heterotic Duality in D=6,4","15 pages, latex","Phys.Lett. B380 (1996) 33-41","10.1016/0370-2693(96)00453-4","CERN-TH/96-35, FTUAM-96/05, UTTG-02-96","hep-th",,"  We consider $E_8\times E_8$ heterotic compactifications on $K3$ and $K3\times
+T^2$. The idea of heterotic/heterotic duality in $D=6$ has difficulties for
+generic compactifications since for large dilaton values some gauge groups
+acquire negative kinetic terms. Recently Duff, Minasian and Witten (DMW)
+suggested a solution to this problem which only works if the compactification
+is performed assuming the presence of symmetric gauge embeddings on both
+$E_8$'s. We consider an alternative in which asymmetric embeddings are possible
+and the wrong sign of kinetic terms for large dilaton value is a signal of
+spontaneous symmetry breaking. Upon further toroidal compactification to $D=4$,
+we find that the duals in the DMW case correspond to $N=2$ models in which the
+$\beta$-function of the different group factors verify ${\beta }_\alpha=12$,
+whereas the asymmetric solutions that we propose have ${\beta }_\alpha=24$. We
+check the consistency of these dualities by studying the different large $T,S$
+limits of the gauge kinetic function. Dual $N=1$, $D=4$ models can also be
+obtained by the operation of appropriate freely acting twists, as shown in
+specific examples.
+","[{""version"":""v1"",""created"":""Sun, 18 Feb 1996 22:37:16 GMT""}]","2009-10-30"
+"hep-th/9602098","Douglas A. Singleton","Douglas Singleton","Infinite Energy Dyon Solutions","11 pages LaTeX","Int.J.Theor.Phys. 36 (1997) 1857",,,"hep-th",,"  Three dyon solutions to the SU(2) Yang-Mills-Higgs system are presented.
+These solutions are obtained from the BPS dyon by allowing the gauge fields to
+be complex, or by letting the free parameter of the BPS solution become
+imaginary. In all cases however the physically measurable quantities connected
+with these new solutions are entirely real. Although the new solutions are
+mathematically simple variations of the BPS solution, they have one or more
+physically distinct characteristics.
+","[{""version"":""v1"",""created"":""Sun, 18 Feb 1996 23:08:19 GMT""}]","2007-05-23"
+"hep-th/9602099",,"E. Sezgin","Is There a Stringy Description of Self-Dual Supergravity in 2+2
+  Dimensions?","10 pages, LaTex, To appear in the Proceedings of Summer School on
+  High Energy Physics and Cosmology, Trieste, Italy, 12 June-28 July, 1995",,,"CTP TAMU-6/96","hep-th",,"  The well known N=2 string theory describes self-dual gravity, as was shown by
+Ooguri and Vafa sometime ago. In search of a variant of this theory which would
+describe self-dual supergravity in 2+2 dimensions, we have constructed two new
+N=2 strings theories in which the target space is a superspace. Both theories
+contain massless scalar and spinor fields in their spectrum, and one of them
+has spacetime supersymmetry. However, we find that the interactions of these
+fields do not correspond to those of self-dual supergravity. In our
+construction, we have used the basic (2,2) superspace variables, and considered
+quadratic constraints in these variables. A more general construction may be
+needed for a stringy description of self-dual supergravity.
+","[{""version"":""v1"",""created"":""Mon, 19 Feb 1996 00:30:41 GMT""}]","2007-05-23"
+"hep-th/9602100","M. Kuchiev","M.Yu.Kuchiev (University of New South Wales, Sydney, Australia)","The search for ``polarized'' instantons in the vacuum","16 pages, 2 Postscript figures","Phys.Rev. D53 (1996) 6946-6959","10.1103/PhysRevD.53.6946",,"hep-th gr-qc",,"  The new phase of a gauge theory in which the instantons are ``polarized'',
+i.e. have the preferred orientation is discussed. A class of gauge theories
+with the specific condensates of the scalar fields is considered. In these
+models there exists an interaction between instantons resulting from
+one-fermion loop correction. The interaction makes the identical orientation of
+instantons to be the most probable, permitting one to expect the system to
+undergo the phase transition into the state with polarized instantons. The
+existence of this phase is confirmed in the mean-field approximation in which
+there is the first order phase transition separating the ``polarized phase''
+from the usual non-polarized one. The considered phase can be important for the
+description of gravity in the framework of the gauge field theory.
+","[{""version"":""v1"",""created"":""Mon, 19 Feb 1996 06:25:51 GMT""}]","2009-10-30"
+"hep-th/9602101",,"Paolo Furlan, Ludmil K.Hadjiivanov and Ivan T.Todorov","Operator realization of the SU(2) WZNW model","18 pages, LATEX","Nucl.Phys. B474 (1996) 497-511","10.1016/0550-3213(96)00284-2","IC/95/398","hep-th",,"  Decoupling the chiral dynamics in the canonical approach to the WZNW model
+requires an extended phase space that includes left and right monodromy
+variables. Earlier work on the subject, which traced back the quantum qroup
+symmetry of the model to the Lie-Poisson symmetry of the chiral symplectic
+form, left some open questions: - How to reconcile the monodromy invariance of
+the local 2D group valued field (i.e., equality of the left and right
+monodromies) with the fact that the latter obey different exchange relations? -
+What is the status of the quantum group symmetry in the 2D theory in which the
+chiral fields commute? - Is there a consistent operator formalism in the chiral
+and in the extended 2D theory in the continuum limit? We propose a constructive
+affirmative answer to these questions for G=SU(2) by presenting the chiral
+quantum fields as sums of chiral vertex operators and q-Bose creation and
+annihilation operators.
+","[{""version"":""v1"",""created"":""Mon, 19 Feb 1996 13:01:21 GMT""}]","2009-10-30"
+"hep-th/9602102","Ruben Minasian","Sergio Ferrara, Ramzi R. Khuri and Ruben Minasian","M-Theory on a Calabi-Yau Manifold","12 pages, 1 figure, uses harvmac, epsf","Phys.Lett.B375:81-88,1996","10.1016/0370-2693(96)00270-5","CERN-TH/96-41, UCLA/96/TEP/6, McGill/96-05","hep-th",,"  We compactify $M$-theory on a Calabi-Yau manifold to five dimensions by
+wrapping the membrane and fivebrane solitons of the eleven-dimensional
+supergravity limit around Calabi-Yau two-cycles and four-cycles respectively.
+We identify the perturbative and non-perturbative BPS states thus obtained with
+those of heterotic string theory compactified on $K3\times S^1$. Quantum
+aspects of the five-dimensional theory are discussed.
+","[{""version"":""v1"",""created"":""Mon, 19 Feb 1996 12:31:51 GMT""}]","2014-11-18"
+"hep-th/9602103",,"M.Martellini, K. Yoshida and M. Spreafico","The Quantization of Anomalous Gauge Field Theory and BRST-invariant
+  Models of Two Dimensional Quantum Gravity","phyzzx.tex","Phys.Rev.D54:7664-7676,1996","10.1103/PhysRevD.54.7664",,"hep-th",,"  We analyze the problems with the so called gauge invariant quantization of
+the anomalous gauge field theories originary due to Faddeev and Shatashvili
+(FS). Our analysis bring to a generalization of FS method which allows to
+construct a series of classically equivalent theories which are non equivalent
+at quantum level. We prove that these classical theories are all consistent
+with the BRST invariance of the original gauge symmetry with suitably augmented
+field content. As an example of such a scenario, we discuss the class of
+physically distinct models of two dimensional induced gravity which are a
+generalization of the David-Distler-Kawai model.
+","[{""version"":""v1"",""created"":""Mon, 19 Feb 1996 11:24:12 GMT""}]","2011-09-09"

@@ -1,0 +1,91 @@
+"astro-ph/9609152","Adrian Melott","A.L. Melott and S.F. Shandarin (Univ. Kansas), R.J. Splinter (Univ.
+  Kentucky), and Y. Suto (Univ. Tokyo)","Demonstrating Discreteness and Collision Error in Cosmological N-body
+  Simulations of Dark Matter Gravitational Clustering","Final version accepted for ApJ Letters. Minor revisions, including
+  due to bug fix in tree code. Uses aasms4.sty. 15 pages. Higher resolution
+  figures available at ftp://kusmos.phsx.ukans.edu/preprints/discrete",,"10.1086/310590",,"astro-ph",,"  Two-body scattering and other discreteness effects are unimportant in
+cosmological gravitational clustering in most scenarios, since the dark matter
+has a small particle mass. The collective field should determine evolution:
+Two-body scattering in simulations violates the Poisson-Vlasov equations. We
+test this in PM, P$^3$M, Tree, and NGPM codes, noting that a collisionless code
+will preserve the one-dimensional character of plane wave collapse. We find
+collisionality vanishing as the softening parameter approaches the mean
+interparticle separation. Solutions for the problem are suggested, involving
+greater computer power, PM-based nested grid codes, and a more conservative
+approach to resolution claims.
+","[{""version"":""v1"",""created"":""Sat, 21 Sep 1996 21:49:40 GMT""},{""version"":""v2"",""created"":""Sat, 7 Dec 1996 00:21:11 GMT""},{""version"":""v3"",""created"":""Thu, 30 Jan 1997 02:22:40 GMT""}]","2009-10-28"
+"cond-mat/9609213","Mikhail Simkin","M.V. Simkin (Brown University)","Numerical Study of Competing Spin-Glass and Ferromagnetic Order","a bit more data is taken, 5 pages, 4 eps figures included, to appear
+  in PRB","Phys. Rev. B, 55 (1997) 11405.","10.1103/PhysRevB.55.11405",,"cond-mat",,"  Two and three dimensional random Ising models with a Gaussian distribution of
+couplings with variance $J$ and non-vanishing mean value $J_0$ are studied
+using the zero-temperature domain-wall renormalization group (DWRG). The DWRG
+trajectories in the ($J_0,J$) plane after rescaling can be collapsed on two
+curves: one for $J_0/J > r_c$ and other for $J_0/J < r_c$. In the first case
+the DWRG flows are toward the ferromagnetic fixed point both in two and three
+dimensions while in the second case flows are towards a paramagnetic fixed
+point and spin-glass fixed point in two and three dimensions respectively. No
+evidence for an extra phase is found.
+","[{""version"":""v1"",""created"":""Sun, 22 Sep 1996 00:49:52 GMT""},{""version"":""v2"",""created"":""Thu, 31 Oct 1996 00:35:46 GMT""},{""version"":""v3"",""created"":""Thu, 9 Jan 1997 23:26:51 GMT""}]","2009-10-28"
+"cond-mat/9609217","Grzegorz Haran","Grzegorz Haran and A. D. S. Nagi (University of Waterloo)","Role of anisotropic impurity scattering in anisotropic superconductors","14 pages, RevTeX, 5 PostScript figures, to be published in Phys. Rev.
+  B (December 1, 1996)",,"10.1103/PhysRevB.54.15463",,"cond-mat",,"  A theory of nonmagnetic impurities in an anisotropic superconductor including
+the effect of anisotropic (momentum-dependent) impurity scattering is given. It
+is shown that for a strongly anisotropic scattering the reduction of the
+pair-breaking effect of the impurities is large. For a significant overlap
+between the anisotropy functions of the scattering potential and that of the
+pair potential and for a large amount of anisotropic scattering rate in
+impurity potential the superconductivity becomes robust vis a vis impurity
+concentration. The implications of our result for YBCO high-temperature
+superconductor are discussed.
+","[{""version"":""v1"",""created"":""Sat, 21 Sep 1996 18:17:34 GMT""}]","2009-10-28"
+"cond-mat/9609218","Myron Bander","Myron Bander","Approach to Microcanonical Equilibrium for Nonisolated Systems","11 pages set in REVTEX III",,,"UCI TR-96-31","cond-mat quant-ph",,"  The approach to equilibrium for systems interacting with their environment by
+being regularly exposed to low energy, low intensity pulses of some type of
+quanta is studied. Assuming a randomness condition on the interaction of these
+quanta with the system, but making no assumptions about the accessible states
+of the system, we show that microcanonical equilibrium is reached. Although the
+intensity of the pulses is assumed to be weak the interactions are treated
+exactly, with no recourse to perturbation theory. The origin of time asymmetry
+and the absence of recurrence is discussed.
+","[{""version"":""v1"",""created"":""Sat, 21 Sep 1996 23:03:59 GMT""}]","2007-05-23"
+"dg-ga/9609008","Deane Yang","Deane Yang (Polytechnic University)","Deforming a map into a harmonic map","Major revision of earlier submission, 16 pages, AMSLaTeX",,,,"dg-ga math.DG",,"  Using a flow first introduced by J.P. Anderson, we obtain some existence
+theorems for harmonic maps from a noncompact complete Riemannian manifold into
+a complete Riemannian manifold. In particular, we prove as a corollary a recent
+result of Hardt and Wolf stating that any quasisymmetric map of the sphere that
+is sufficiently close to the identity can be extended to a quasiconformal
+harmonic diffeomorphism of the hyperbolic ball.
+  This version contains a much simpler proof than the first version.
+","[{""version"":""v1"",""created"":""Sat, 21 Sep 1996 21:13:57 GMT""},{""version"":""v2"",""created"":""Sun, 23 Mar 1997 20:27:37 GMT""}]","2008-02-03"
+"gr-qc/9609050","Tomas Kopf","Tomas Kopf","Spectral Geometry and Causality","AMS-Latex, 14 pages, 3 figures, using epsf macro","Int.J.Mod.Phys. A13 (1998) 2693-2708","10.1142/S0217751X98001360",,"gr-qc",,"  For a physical interpretation of a theory of quantum gravity, it is necessary
+to recover classical spacetime, at least approximately. However, quantum
+gravity may eventually provide classical spacetimes by giving spectral data
+similar to those appearing in noncommutative geometry, rather than by giving
+directly a spacetime manifold. It is shown that a globally hyperbolic
+Lorentzian manifold can be given by spectral data. A new phenomenon in the
+context of spectral geometry is observed: causal relationships. The employment
+of the causal relationships of spectral data is shown to lead to a highly
+efficient description of Lorentzian manifolds, indicating the possible
+usefulness of this approach. Connections to free quantum field theory are
+discussed for both motivation and physical interpretation. It is conjectured
+that the necessary spectral data can be generically obtained from an effective
+field theory having the fundamental structures of generalized quantum
+mechanics: a decoherence functional and a choice of histories.
+","[{""version"":""v1"",""created"":""Sat, 21 Sep 1996 16:21:38 GMT""}]","2009-10-28"
+"hep-ph/9609429","Fyodor V. Tkachov","Fyodor V. Tkachov (INR Russ. Acad. Sci., Moscow)","Algebraic algorithms for multiloop calculations. The first 15 years.
+  What's next?","5 pages, PS; 7-11-98: maintenance (PS, misprints, etc.)","Nucl.Instrum.Meth.A389:309-313,1997","10.1016/S0168-9002(97)00110-1",,"hep-ph hep-th",,"  The ideas behind the concept of algebraic (""integration-by-parts"") algorithms
+for multiloop calculations are reviewed. For any topology and mass pattern, a
+finite iterative algebraic procedure is proved to exist which transforms the
+corresponding Feynman-parametrized integrands into a form that is optimal for
+numerical integration, with all the poles in D-4 explicitly extracted.
+","[{""version"":""v1"",""created"":""Sat, 21 Sep 1996 18:15:11 GMT""},{""version"":""v2"",""created"":""Sat, 7 Nov 1998 04:34:42 GMT""}]","2011-04-15"
+"hep-ph/9609430","Wyler Daniel","M. Gronau","CP Violation in B Decays: The Standard Model and Beyond","19 pages","Nucl.Instrum.Meth.A384:1-7,1996","10.1016/S0168-9002(96)00909-6","TECHNION-PH-96-39","hep-ph",,"  We review the subject of CP violation in $B$ decays in the Standard Model
+(SM) and beyond the SM. We describe some of the present most promising ways of
+testing the Cabibbo-Kobayashi-Maskawa (CKM) origin of CP violation through a
+determination of the three angles of the CKM matrix unitarity triangle. Other
+sources of CP nonconservation violate SM constraints on the unitarity triangle.
+We show that different models of physics beyond the SM can be distinguished by
+combining their effects in CP asymmetries and in rare flavor-changing $B$
+decays.
+","[{""version"":""v1"",""created"":""Sun, 22 Sep 1996 08:01:52 GMT""}]","2014-11-17"
+"nucl-th/9609049","Abdulla Rakhimov","F. Khanna (Physics Department, University of Alberta Edmonton,
+  Canada), A.M. Rakhimov, M.M. Musakhanov and U.T. Yakhshiev (Theoretical
+  Physics Department, Tashkent State University, Tashkent, Uzbekistan)","Medium Modification of Nucleon Properties in Skyrme Model","17 pages, 4 Figures (Eps), Revtex, 182kb. Seriously revised","Phys.Rev.C58:1738-1744,1998","10.1103/PhysRevC.58.1738",,"nucl-th hep-ph",,"  A Skyrme type Lagrangian for a skyrmion imbedded in a baryon rich environment
+is proposed. The dependence of static nucleon properties and nucleon - nucleon
+tensor interaction on nuclear density is investigated.
+","[{""version"":""v1"",""created"":""Sat, 21 Sep 1996 22:40:06 GMT""},{""version"":""v2"",""created"":""Thu, 5 Aug 1999 09:07:30 GMT""}]","2008-11-26"

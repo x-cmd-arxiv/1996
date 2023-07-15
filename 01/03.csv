@@ -1,0 +1,204 @@
+"alg-geom/9601002","Matei Toma","Matei Toma","Birational models for varieties of Poncelet curves","revised TeX-version, latex2e",,,,"alg-geom math.AG",,"  We consider Poncelet pairs $(S,C)$, where $S$ is a smooth conic and $C$ is a
+degree$-c$ plane curve having the Poncelet property with respect to $S$. We
+prove that for $c>4$ the projection $(S,C)\mapsto C$ is generically one-to-one
+and use this to describe a birational model of the variety of Poncelet curves
+for $c$ odd.
+","[{""version"":""v1"",""created"":""Wed, 3 Jan 1996 08:19:18 GMT""},{""version"":""v2"",""created"":""Wed, 3 Jan 1996 10:57:44 GMT""},{""version"":""v3"",""created"":""Mon, 22 Jan 1996 09:34:06 GMT""}]","2008-02-03"
+"astro-ph/9601006","Peter Nugent","David Branch, Peter Nugent and Adam Fisher","Type Ia Supernovae as Extragalactic Distance Indicators","20 pages, latex, 8 figures, (uses styles: crckapb.sty and psfig.sty)
+  tarred and gzipped. A PostScript version is available at
+  http://www.nhn.uoknor.edu/~nugent To appear in Proceedings of the NATO
+  Advanced Study Institute on Thermonuclear Supernovae",,,,"astro-ph",,"  Because Type Ia supernovae (SNe Ia) are not perfect standard candles, it is
+important to be able to use distance-independent observables (DIOs) to define
+subsets of SNe Ia that are ``nearly standard candles'' or to correct SN Ia
+absolute magnitudes to make them nearly homogeneous (``standardized candles'').
+This is not crucial for the measurement of H_0, but it is for the measurement
+of q_0 and of parent-galaxy peculiar velocities. We discuss the use of various
+photometric and spectroscopic SN Ia DIOs, and a parent-galaxy DIO, for this
+purpose. We also discuss the status of the absolute-magnitude calibration of
+SNe Ia. We find that SNe Ia, whether calibrated by means of (1) Cepheids in
+their parent galaxies, (2) fitting their optical-ultraviolet spectra with
+detailed non-LTE model atmosphere calculations, or (3) by considering that the
+light curve is powered by the decay of radioactive Ni, firmly indicate that the
+value of H_0 is low, less than or about 60 km/s/Mpc. Some issues regarding the
+determination of q_0 by means of SNe Ia are discussed briefly. Finally, we
+conjecture that even if q_0 = 0.5, there probably is no cosmic age problem.
+","[{""version"":""v1"",""created"":""Tue, 2 Jan 1996 20:51:52 GMT""}]","2007-05-23"
+"astro-ph/9601007","Michael Maisack","R.Staubert and M.Maisack","OSSE Observations of the Radio Quiet Quasar PG 1416-129","A&A Postscript, 4 pages, to appear in A&A Letters",,,,"astro-ph",,"  We report the detection of the bright radio quiet quasar PG 1416-129 by the
+OSSE instrument on the Compton Gamma Ray Observatory (CGRO). This object had
+the hardest spectral index of all known AGN in the energy range 2-20 keV
+(Gamma=1.1 +- 0.1) when observed by Ginga. We find that the source is variable
+at energies >50 keV during the OSSE observation, and that the OSSE spectrum is
+steeper than the Ginga spectrum. The broad-band X-ray spectrum resembles that
+of Seyfert galaxies, supporting models which interpret radio quiet quasars as
+the high-luminosity counterparts of Seyferts.
+","[{""version"":""v1"",""created"":""Wed, 3 Jan 1996 12:33:32 GMT""}]","2007-05-23"
+"astro-ph/9601008","Gunnlaugur Bjornsson","I.V. Artemova, G.S. Bisnovatyi-Kogan, G. Bjornsson, I. Novikov","Accretion Disk Models with Self-Consistent Advective Cooling and Heating","9 pages, 4 figures, tarred and gzipped. Uses aasms4.sty",,,,"astro-ph",,"  We present solutions to the accretion disk structure equations in which
+advective cooling is accounted for in a self-consistent way. It is shown that
+for high rates of accretion, above a critical value, when without advection
+there are no solutions extending continuously from large to small radii, there
+exist global solutions with self-consistent advective cooling. These solutions
+are quite different fromthose solutions obtained earlier by other authors,
+where advective cooling was not treated self-consistently.
+","[{""version"":""v1"",""created"":""Wed, 3 Jan 1996 13:25:21 GMT""}]","2007-05-23"
+"chao-dyn/9601001","prof. Victor Lvov","Victor L'vov, Evgenii Podivilov and Itamar Procaccia","Scaling Behavior in Turbulence is Doubly Anomalous","Phys. Rev. Lett. submitted, RevTeX, 4 pages","Phys. Rev. Lett. v.76 3963 (1996)","10.1103/PhysRevLett.76.3963",,"chao-dyn nlin.CD",,"  It is shown that the description of anomalous scaling in turbulent systems
+requires the simultaneous use of two normalization scales. This phenomenon
+stems from the existence of two independent (infinite) sets of anomalous
+scaling exponents that appear in leading order, one set due to infrared
+anomalies, and the other due to ultraviolet anomalies. To expose this clearly
+we introduce here a set of local fields whose correlation functions depend
+simultaneously on the the two sets of exponents. Thus the Kolmogorov picture of
+""inertial range"" scaling is shown to fail because of anomalies that are
+sensitive to the {\em two ends} of this range.
+","[{""version"":""v1"",""created"":""Wed, 3 Jan 1996 11:17:02 GMT""}]","2009-10-28"
+"chao-dyn/9601002","prof. Victor Lvov","Daniel Segel, Victor L'vov, and Itamar Procaccia","Extended Self-Similarity in Turbulent Systems: an Analytically Soluble
+  Example","Phys. Rev. Lett., submitted, RevTeX, 4 pages, two figures by request
+  from Daniel Segel: daniel@dvir.weizmann.ac.il","PRL v.76 1828 (1996)","10.1103/PhysRevLett.76.1828",,"chao-dyn nlin.CD",,"  In turbulent flows the $n$'th order structure functions $S_n(R)$ scale like
+$R^{\zeta_n}$ when $R$ is in the ""inertial range"". Extended Self-Similarity
+refers to the substantial increase in the range of power law behaviour of
+$S_n(R)$ when they are plotted as a function of $S_2(R)$ or $S_3(R)$. In this
+Letter we demonstrate this phenomenon analytically in the context of the
+``multiscaling"" turbulent advection of a passive scalar. This model gives rise
+to a series of differential equations for the structure functions $S_n(R)$
+which can be solved and shown to exhibit extended self similarity. The
+phenomenon is understood by comparing the equations for $S_n(R)$ to those for
+$S_n(S_2)$.
+","[{""version"":""v1"",""created"":""Wed, 3 Jan 1996 11:18:55 GMT""}]","2009-10-28"
+"chao-dyn/9601003","prof. Victor Lvov","Victor L'vov, Evgenii Podivilov and Itamar Procaccia","Comment on ``Multicomponent turbulence, the spherical limit, and
+  non-Kolmogorov spectra''","Phys. Rev. E submitted, RevTeX, 4 pages",,,,"chao-dyn nlin.CD",,"  It is shown that the generalization of the Navier-Stokes equations to a
+theory with $N$ ``internal state"" copies of the velocity fields is a step in a
+wrong direction: the $N\to\infty$ limit has no physical sense and produces
+wrong results, whereas the treatment of the first order terms in $1/N$ is even
+more complicated than the initial problem of description of turbulence in the
+frame of the Navier-Stokes equation.
+","[{""version"":""v1"",""created"":""Wed, 3 Jan 1996 11:20:51 GMT""}]","2008-02-03"
+"cond-mat/9601003",,"Derek K.K. Lee, Don H. Kim, Patrick A. Lee","Degenerate Bose liquid in a fluctuating gauge field","4 pages. Uses RevTeX, epsf, multicols macros. 5 postscript figures",,"10.1103/PhysRevLett.76.4801",,"cond-mat",,"  We study the effect of a strongly fluctuating gauge field on a degenerate
+Bose liquid, relevant to the charge degrees of freedom in doped Mott
+insulators. We find that the superfluidity is destroyed. The resulting metallic
+phase is studied using quantum Monte Carlo methods. Gauge fluctuations cause
+the boson world lines to retrace themselves. We examine how this world-line
+geometry affects the physical properties of the system. In particular, we find
+a transport relaxation rate of the order of 2kT, consistent with the normal
+state of the cuprate superconductors. We also find that the density excitations
+of this model resemble that of the full tJ model.
+","[{""version"":""v1"",""created"":""Tue, 2 Jan 1996 21:24:54 GMT""}]","2009-10-28"
+"cond-mat/9601004","Karin Lin","K. Lin, R. L. Jaffe","Bound States and Threshold Resonances in Quantum Wires with Circular
+  Bends","24 pages, revtex file, one style file and 17 PostScript figures
+  included",,"10.1103/PhysRevB.54.5750","MIT-CTP-2504; HUTP-95/A052","cond-mat nucl-th quant-ph",,"  We study the solutions to the wave equation in a two-dimensional tube of unit
+width comprised of two straight regions connected by a region of constant
+curvature. We introduce a numerical method which permits high accuracy at high
+curvature. We determine the bound state energies as well as the transmission
+and reflection matrices, ${\cal T}$ and ${\cal R}$ and focus on the nature of
+the resonances which occur in the vicinity of channel thresholds. We explore
+the dependence of these solutions on the curvature of the tube and angle of the
+bend and discuss several limiting cases where our numerical results confirm
+analytic predictions.
+","[{""version"":""v1"",""created"":""Wed, 3 Jan 1996 03:49:04 GMT""}]","2009-10-28"
+"funct-an/9601001","Michael Lamoureux","Michael P. Lamoureux (University of Calgary, CANADA)","The topology of ideals in some triangular AF algebras","16 pages, AMS-TeX, email mikel@math.ucalgary.ca",,,"ML-95-12","funct-an math.OA",,"  A set of meet-irreducible ideals is described for a class of maximal
+triangular almost finite algebras. This set forms a topological space under the
+hull-kernel closure, and there is a one-to-one correspondence between closed
+sets in this space and ideals in the AF algebra. Some connections with nest
+representations and nest-primitive ideals are also described.
+","[{""version"":""v1"",""created"":""Tue, 2 Jan 1996 21:19:50 GMT""}]","2008-02-03"
+"gr-qc/9601002","Roland Puntigam","Efstratios Tsantilis, Roland A. Puntigam, and Friedrich W. Hehl
+  (Institute for Theoretical Physics, University of Cologne, Germany)","A quadratic curvature Lagrangian of Paw{\l}owski and R\c{a}czka: a
+  finger exercise with MathTensor","10 pages, no figure. To appear in Hehl, F.W., Puntigam, R.A., Ruder,
+  H. (eds.): Relativity and Scientific Computing -- Computer Algebra, Numerics,
+  Visualization. Springer, Berlin, 1996",,,"Cologne-thp-1996-H1","gr-qc hep-th",,"  Recently Paw{\l}owski and R\c{a}czka proposed a unified model for the
+fundamental interactions which does not contain a physical Higgs field. The
+gravitational field equation of their model is rederived under heavy use of the
+computer algebra system Mathematica and its package MathTensor.
+","[{""version"":""v1"",""created"":""Tue, 2 Jan 1996 19:26:31 GMT""}]","2007-05-23"
+"hep-ph/9601203",,"R. N. Mohapatra","$SU(5)\times SU(5)$ Unification, Seesaw Mechanism and R-Conservation","Plain latex, 9 pages; No figures","Phys.Lett. B379 (1996) 115-120","10.1016/0370-2693(96)00470-4","UMD-PP-96-59","hep-ph",,"  A new supersymmetric grand unified model based on the gauge group
+$SU(5)\times SU(5)$ is discussed. The model has the feature that the
+conventional seesaw mechanism for neutrino masses is implemented using the
+$(15, 1)+(1,\bar{15)}$ representation. This multiplet may have a better chance
+of arising from level two compactification of superstring theories than the the
+${bf \bar{126}}$ representation used in the SO(10) model. The model also
+naturally suppresses all R-parity violating interactions.
+","[{""version"":""v1"",""created"":""Tue, 2 Jan 1996 17:23:04 GMT""}]","2009-10-28"
+"hep-ph/9601204","PostDoc Its","Xiao-Gang He","B decays and models for CP violation","18 pagers, Revtex, Four compressed figures. Some typos in the figure
+  captions are corrected","Phys.Rev. D53 (1996) 6326-6333","10.1103/PhysRevD.53.6326","UM-P-117/95, OITS-596","hep-ph",,"  The decay modes $B$ to $\pi\pi$, $\psi K_S$, $K^- D$, $\pi K$ and $\eta K$
+are promising channels to study the unitarity triangle of the CP violating CKM
+matrix. In this paper I study the consequences of these measurements in the
+Weinberg model. I show that using the same set of measurements, the following
+different mechanisms for CP violation can be distinguished: 1) CP is violated
+in the CKM sector only; 2) CP is violated spontaneously in the Higgs sector
+only; And 3) CP is violated in both the CKM and Higgs sectors.
+","[{""version"":""v1"",""created"":""Tue, 2 Jan 1996 22:18:02 GMT""},{""version"":""v2"",""created"":""Thu, 4 Jan 1996 19:42:15 GMT""}]","2009-10-28"
+"hep-ph/9601205","Edmond Iancu","Jean-Paul Blaizot, Edmond Iancu","Lifetime of quasiparticles in hot QED plasmas","13 pages, LaTeX","Phys.Rev.Lett. 76 (1996) 3080-3083","10.1103/PhysRevLett.76.3080","Saclay-T95/146","hep-ph",,"  The calculation of the lifetime of quasiparticles in a QED plasma at high
+temperature remains plagued with infrared divergences, even after one has taken
+into account the screening corrections. The physical processes responsible for
+these divergences are the collisions involving the exchange of very soft,
+unscreened, magnetic photons, whose contribution is enhanced by the thermal
+Bose-Einstein occupation factor. The self energy diagrams which diverge in
+perturbation theory contain no internal fermion loops, but an arbitrary number
+of internal magnetostatic photon lines. By generalizing the Bloch-Nordsieck
+model at finite temperature, we can resum all the singular contributions of
+such diagrams, and obtain the correct long time behaviour of the retarded
+fermion propagator in the hot QED plasma: $S_R(t)\sim \exp\{-\alpha T \, t\,
+\ln\omega_pt\}$, where $\omega_p=eT/3$ is the plasma frequency and
+$\alpha=e^2/4\pi$.
+","[{""version"":""v1"",""created"":""Wed, 3 Jan 1996 10:12:37 GMT""}]","2009-10-28"
+"hep-th/9601002","Warren Siegel","W. Siegel","Actions for QCD-like strings","14 pg., plain tex, other formats available at
+  http://insti.physics.sunysb.edu/~siegel/preprints or at
+  ftp://max.physics.sunysb.edu/preprints/siegel","Int.J.Mod.Phys. A13 (1998) 381-392","10.1142/S0217751X98000160","ITP-SB-96-1","hep-th",,"  We introduce a random lattice corresponding to ordinary Feynman diagrams,
+with 1/p-squared propagators instead of the Gaussians used in the usual
+strings. The continuum limit defines a new type of string action with two
+worldsheet metrics, one Minkowskian and one Euclidean. The propagators
+correspond to curved lightlike paths with respect to the Minkowskian worldsheet
+metric. Spacetime dimensionality of four is implied not only as the usual
+critical dimension of renormalizable quantum field theory, but also from
+T-duality.
+","[{""version"":""v1"",""created"":""Tue, 2 Jan 1996 16:25:54 GMT""}]","2009-10-30"
+"hep-th/9601003","Christof Schmidhuber","Christof Schmidhuber","D-brane actions","15 pages, references/footnotes added; final version to appear in NPB","Nucl.Phys. B467 (1996) 146-158","10.1016/0550-3213(96)00092-2","PUPT-1585","hep-th",,"  Effective world-brane actions for solitons of ten-dimensional type IIA and
+IIB superstring theory are derived using the formulation of solitons as
+Dirichlet branes. The one-brane actions are used to recover predictions of
+SL(2,Z) strong-weak coupling duality. The two-brane action, which contains a
+hidden eleventh target space coordinate, is shown to be the eleven-dimensional
+supermembrane action. It can be thought of as the membrane action of
+`M-theory'.
+","[{""version"":""v1"",""created"":""Tue, 2 Jan 1996 18:36:10 GMT""},{""version"":""v2"",""created"":""Mon, 15 Jan 1996 22:33:28 GMT""},{""version"":""v3"",""created"":""Fri, 16 Feb 1996 20:42:00 GMT""}]","2009-10-30"
+"hep-th/9601004","Gary Horowitz","Gary T. Horowitz, Tsukasa Tada","An Extreme Black Hole with Electric Dipole Moment","12 pages, RevTeX, 2up style PostScript file available at
+  http://pentexts.itp.ucsb.edu/PS/HT.ps (reference added)","Phys.Rev.D54:1564-1567,1996","10.1103/PhysRevD.54.1564","UCSBTH-95-39, NSF-ITP-95-164","hep-th gr-qc",,"  We construct a new extreme black hole solution in toroidally compactified
+heterotic string theory. The black hole saturates the Bogomol'nyi bound, has
+zero angular momentum, but nonzero electric dipole moment. It is obtained by
+starting with a higher dimensional rotating charged black hole, and
+compactifying one direction in the plane of rotation.
+","[{""version"":""v1"",""created"":""Wed, 3 Jan 1996 00:57:21 GMT""},{""version"":""v2"",""created"":""Mon, 8 Jan 1996 21:42:00 GMT""}]","2010-11-19"
+"hep-th/9601005","Michael Soloviev","M.A.Soloviev","An Extension of Distribution Theory Related to Gauge Field Theory","20 pages, LaTeX, submitted to Commun.Math.Phys","Commun.Math.Phys. 184 (1997) 579-596","10.1007/s002200050074","FIAN/TD/24-95","hep-th",,"  We show that a considerable part of the theory of (ultra)distributions and
+hyperfunctions can be extended to more singular generalized functions, starting
+from an angular localizability notion introduced previously. Such an extension
+is needed to treat gauge quantum field theories with indefinite metric in a
+generic covariant gauge. Prime attention is paid to the generalized functions
+defined on the Gelfand-Shilov spaces $S_\alpha^0$ which gives the widest
+framework for construction of gauge-like models. We associate a similar test
+function space with every open and every closed cone, show that these spaces
+are nuclear and obtain the required formulas for their tensor products. The
+main results include the generalization of the Paley--Wiener--Schwartz theorem
+to the case of arbitrary singularity and the derivation of the relevant theorem
+on holomorphic approximation.
+","[{""version"":""v1"",""created"":""Wed, 3 Jan 1996 15:34:22 GMT""}]","2009-10-30"
+"math/9601206",,"Alexei G. Poltoratski","The Krein spectral shift and rank one perturbations of spectra",,,,"MSRI 1996-002","math.SP math.FA",,"  We use recent results on the boundary behavior of Cauchy integrals to study
+the Krein spectral shift of a rank one perturbation problem for self-adjoint
+operators. As an application, we prove that all self-adjoint rank one
+perturbations of a self-adjoint operator are pure point if and only if the
+spectrum of the operator is countable. We also study pairs of pure point
+operators unitarily equivalent up to a rank one perturbation and give various
+examples of rank one perturbations of singular spectra.
+","[{""version"":""v1"",""created"":""Wed, 3 Jan 1996 00:00:00 GMT""}]","2008-02-03"
+"q-alg/9601003","Giovanni Felder","Giovanni Felder, Alexander Varchenko (University of North Carolina at
+  Chapel Hill)","On representations of the elliptic quantum group $E_{\tau,\eta}(sl_2)$","21 pages, amstex. An explicit formula for the general R matrix is
+  given in this revised version",,"10.1007/BF02101296",,"q-alg math.QA",,"  We describe representation theory of the elliptic quantum group
+$E_{\tau,\eta}(sl_2)$. It turns out that the representation theory is parallel
+to the representation theory of the Yangian $Y(sl_2)$ and the quantum loop
+group $ U_q(\widetilde { sl }_2)$.
+","[{""version"":""v1"",""created"":""Wed, 3 Jan 1996 05:55:08 GMT""},{""version"":""v2"",""created"":""Thu, 18 Jan 1996 04:50:46 GMT""}]","2009-10-30"
+"quant-ph/9601002","Olavo Leopoldino Da Silva Filho","L.S.F. Olavo","Quantum Mechanics as a Classical Theory X: Quantization in Generalized
+  Coordinates","10 pages of plain LaTex, no figures",,,"UnB-010","quant-ph",,"  In this tenth paper of the series we aim at showing that our formalism, using
+the Wigner-Moyal Infinitesimal Transformation together with classical
+mechanics, endows us with the ways to quantize a system in any coordinate
+representation we wish. This result is necessary if one even think about making
+general relativistic extensions of the quantum formalism. Besides, physics
+shall not be dependent on the specific representation we use and this result is
+necessary to make quantum theory consistent and complete.
+","[{""version"":""v1"",""created"":""Wed, 3 Jan 1996 13:59:54 GMT""}]","2007-05-23"

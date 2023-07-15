@@ -1,0 +1,70 @@
+"astro-ph/9605202","J. S. Bagla","J.S.Bagla and T.Padmanabhan","Critical Index and Fixed Point in the Transfer of Power in Nonlinear
+  Gravitational Clustering","Title changed. Added two figures and some discussion. Postscript file
+  containing all the figures is available at
+  http://www.ast.cam.ac.uk/~jasjeet/papers/powspec.ps.gz Accepted for
+  publication in the MNRAS","Mon.Not.Roy.Astron.Soc. 286 (1997) 1023","10.1093/mnras/286.4.1023",,"astro-ph",,"  We investigate the transfer of power between different scales and coupling of
+modes during non-linear evolution of gravitational clustering in an expanding
+universe. We start with a power spectrum of density fluctuations that is
+exponentially damped outside a narrow range of scales and use numerical
+simulations to study evolution of this power spectrum. Non-Linear effects
+generate power at other scales with most power flowing from larger to smaller
+scales. The ``cascade'' of power leads to equipartition of energy at smaller
+scales, implying a power spectrum with index $n\approx -1$. We find that such a
+spectrum is produced in the range $1 < \delta < 200$ for density contrast
+$\delta$. This result continues to hold even when small scale power is added to
+the initial power spectrum. Semi-analytic models for gravitational clustering
+suggest a tendency for the effective index to move towards a critical index
+$n_c\approx -1$ in this range. For n<n_c, power in this range grows faster than
+linear rate, while if n>n_c, it grows at a slower rate - thereby changing the
+index closer to n_c. At scales larger than the narrow range of scales with
+initial power, a k^4 tail is produced. We demonstrate that non-linear small
+scales do not effect the growth of perturbations at larger scales.
+","[{""version"":""v1"",""created"":""Sun, 2 Jun 1996 10:32:12 GMT""},{""version"":""v2"",""created"":""Tue, 24 Dec 1996 11:50:58 GMT""}]","2015-06-24"
+"cmp-lg/9605038","Jason Eisner","Jason Eisner (Univ. of Pennsylvania)","Efficient Normal-Form Parsing for Combinatory Categorial Grammar","8 pages, LaTeX packaged with three .sty files, also uses cgloss4e.sty","Proceedings of ACL '96 (34th Meeting of the Association for
+  Computational Linguistics), Santa Cruz",,,"cmp-lg cs.CL",,"  Under categorial grammars that have powerful rules like composition, a simple
+n-word sentence can have exponentially many parses. Generating all parses is
+inefficient and obscures whatever true semantic ambiguities are in the input.
+This paper addresses the problem for a fairly general form of Combinatory
+Categorial Grammar, by means of an efficient, correct, and easy to implement
+normal-form parsing technique. The parser is proved to find exactly one parse
+in each semantic equivalence class of allowable parses; that is, spurious
+ambiguity (as carefully defined) is shown to be both safely and completely
+eliminated.
+","[{""version"":""v1"",""created"":""Sun, 2 Jun 1996 01:55:57 GMT""}]","2008-02-03"
+"hep-lat/9605045","J. Stack","John D. Stack (University of Oxford and University of Illinois,
+  Urbana-Champaign), Roy J. Wensley (Saint Mary's College,Moraga), and Steven
+  D. Neiman (University of Illinois, Urbana-Champaign)","Monopoles at Finite Volume and Temperature in SU(2) Lattice Gauge Theory","8 pages, Latex files: msum.tex,msum.aux packaged with uufiles","Phys.Lett. B385 (1996) 261-264","10.1016/0370-2693(96)00893-3","OUTP-96-26P","hep-lat",,"  We resolve a discrepancy between the SU(2) spacial string tension at finite
+temperature, and the value obtained by monopoles in the maximum Abelian gauge.
+Previous work had incorrectly omitted a term due to Dirac sheets. When this
+term is included, the monopole and full SU(2) determinations of the spacial
+string tension agree to within the statistical errors of the monopole
+calculation.
+","[{""version"":""v1"",""created"":""Sun, 2 Jun 1996 10:52:23 GMT""}]","2009-10-28"
+"hep-ph/9605464","Yoonbai Kim","Taichi Itoh, Yoonbai Kim, Masaki Sugiura, Koichi Yamawaki","Dynamical Symmetry Breaking in a Gauge Theory ``Thirring Model''","9 pages of LaTeX, Talk given by Y. Kim at 14th Symposium on
+  Theoretical Physics, Cheju, Korea, July 1995",,,,"hep-ph",,"  Dynamical fermion mass generation is studied in the three-dimensional
+Thirring model reformulated as a gauge theory by introducing hidden local
+symmetry. The analysis by use of Schwinger-Dyson equation is shown to exhibit a
+critical behavior as the number $N$ of four-component fermions approaches
+$N_{\rm cr}=128/3\pi^{2}$.
+","[{""version"":""v1"",""created"":""Sun, 2 Jun 1996 10:05:05 GMT""}]","2007-05-23"
+"hep-th/9605233","Hugo Compean","Jerzy Plebanski and Maciej Przanowski","The Lagrangian of a Self-Dual Gravitational Field as a Limit of the SDYM
+  Lagrangian","LaTeX, no figures, Version published","Phys.Lett. A212 (1996) 22-28","10.1016/0375-9601(96)00025-4","CINVESTAV-FIS 16/95","hep-th",,"  The action for the su(N) SDYM equations is shown to give in the limit $N \to
+\infty$ the action for the six-dimensional version of the second heavenly
+equation. The symmetry reductions of this latter equation to the well known
+equations of self-dual gravity are given. The Moyal deformation of the heavenly
+equations are also considered.
+","[{""version"":""v1"",""created"":""Sat, 1 Jun 1996 16:54:35 GMT""}]","2009-10-30"
+"q-alg/9605047","Jun Uchiyama","K. Kimura, J. Shiraishi and J. Uchiyama","A level-one representation of the quantum affine superalgebra
+  $\U_q(\hat{\frak{sl}}(M+1|N+1))$","AMS-TeX, 11 pages",,"10.1007/s002200050169",,"q-alg math.QA",,"  A level-one representation of the quantum affine superalgebra
+$\U_q(\hat{\frak{sl}}(M+1|N+1))$ and vertex operators associated with the
+fundamental representations are constructed in terms of free bosonic fields.
+Character formulas of level-one irreducible highest weight modules of
+$\U_q(\hat{\frak{sl}}(2|1))$ are conjectured.
+","[{""version"":""v1"",""created"":""Sun, 2 Jun 1996 08:36:55 GMT""},{""version"":""v2"",""created"":""Mon, 3 Jun 1996 08:34:48 GMT""},{""version"":""v3"",""created"":""Mon, 3 Jun 1996 07:48:55 GMT""}]","2009-10-30"
+"q-alg/9605048","Pavel Pyatov","D.I.Gurevich, P.N.Pyatov, P.A.Saponov","Hecke symmetries and characteristic relations on Reflection Equation
+  algebras","11 pages, LaTeX file, reference to preprint No. added",,,"JINR preprint E5-96-202","q-alg math.QA",,"  We discuss how properties of Hecke symmetry (i.e., Hecke type R-matrix)
+influence the algebraic structure of the corresponding Reflection Equation (RE)
+algebra. Analogues of the Newton relations and Cayley-Hamilton theorem for the
+matrix of generators of the RE algebra related to a finite rank even Hecke
+symmetry are derived.
+","[{""version"":""v1"",""created"":""Sun, 2 Jun 1996 10:00:43 GMT""},{""version"":""v2"",""created"":""Mon, 17 Jun 1996 13:59:35 GMT""}]","2008-02-03"

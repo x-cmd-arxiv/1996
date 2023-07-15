@@ -1,0 +1,173 @@
+"alg-geom/9611019","Peter Magyar","Peter M. Magyar","Bott-Samelson Varieties and Configuration Spaces","email address pmagyar@lynx.neu.edu LaTeX",,,,"alg-geom math.AG",,"  We give a new construction of the Bott-Samelson variety $Z$ as the closure of
+a $B$-orbit in a product of flag varieties $(G/B)^l$. This also gives an
+embedding of the projective coordinate ring of the variety into the function
+ring of a Borel subgroup: $\CC[Z] \subset \CC[B]$.
+  In the case of the general linear group $G = GL(n)$, this identifies $Z$ as a
+configuration variety of multiple flags subject to certain inclusion
+conditions, closely related to the the matrix factorizations of Berenstein,
+Fomin and Zelevinsky. As an application, we give a geometric proof of the
+theorem of Kraskiewicz and Pragacz that Schubert polynomials are characters of
+Schubert modules.
+  Our work leads on the one hand to a Demazure character formula for Schubert
+polynomials and other generalized Schur functions, and on the other hand to a
+Standard Monomial Theory for Bott-Samelson varieties.
+","[{""version"":""v1"",""created"":""Sat, 16 Nov 1996 18:18:07 GMT""}]","2008-02-03"
+"astro-ph/9611127","Lincoln Greenhill","L. J. Greenhill, S. P. Ellingsen, R. P. Norris, R. G. Gough, M. W.
+  Sinclair, J. M. Moran and R. Mushotzky","Extremely Rapid Variations of Water Maser Emission from the Circinus
+  Galaxy","10 pages, 2 encapsulated postscript figures included. To appear in
+  Astrophysical Journal (Letters), January 10, 1997",,"10.1086/310434","CfA Preprint No. 4431","astro-ph",,"  The water maser lines in the nucleus of the Circinus galaxy vary on time
+scales as short as a few minutes, at least two orders of magnitude less than
+for other Galactic or extragalactic water masers. The amplitude of one line
+more than doubled in about 10 minutes. The intensity changes cannot be
+attributed easily to a mechanism of intrinsic fluctuations. The variability may
+be the result of strong interstellar diffractive scintillation along the line
+of sight within our Galaxy, which would be the first example of diffractive
+scintillation for any source at 22 GHz and for any source other than a pulsar.
+However, only the very shortest timescales for interstellar scintillation,
+obtained from pulsar observations and scaled to 22 GHz, correspond to the
+observed maser variability. Alternatively, the intensity changes may be a
+reaction to fluctuations in compact background or radiative pump sources and
+thereby may be related to variability of the central engine. The maser spectral
+features symmetrically bracket the systemic velocity of the galaxy, offset by
+about +/-(100-200) km/s. The spectrum of the Circinus maser is similar in some
+respects to that of the maser in NGC 4258, which probably traces a molecular
+disk rotating around a supermassive object. VLBI observations could reveal
+whether the maser source in the heart of the Circinus galaxy is part of a
+similar dynamical system.
+","[{""version"":""v1"",""created"":""Sat, 16 Nov 1996 19:05:11 GMT""}]","2009-10-28"
+"astro-ph/9611128","Till Soffner","R.H. M\'endez and T. Soffner (Universit\""atssternwarte M\""unchen)","Improved simulations of the planetary nebula luminosity function","8 pages LaTeX, 12 Postscript figures, uses l-aa.sty and psfig.sty.
+  Accepted for Astronomy & Astrophysics. See also astro-ph/9608128 and
+  astro-ph/9611041",,,,"astro-ph",,"  We have developed a new procedure for the generation of a planetary nebula
+luminosity function (PNLF), improving on previous work. The procedure is based,
+as before, on an exponential central star mass distribution, on H-burning
+post-AGB evolutionary tracks, and on the avoidance of nebular models for the
+calculation of nebular fluxes. We have added new post-AGB evolutionary tracks
+and introduced the following improvements: (1) the imperfect analytical
+representation of post-AGB evolutionary tracks has been replaced by an
+interpolation routine giving a better approximation; (2) we have modified the
+distribution of the intensities of [O III] lambda 5007 relative to Hbeta, so
+that it better imitates the observed distribution, which we have taken from
+data in the Strasbourg-ESO catalogue of Galactic PNs and other sources; (3) we
+have adjusted the absorbing factor mu along the white dwarf cooling tracks, so
+as to reproduce the observed PNLF of the Magellanic Clouds and M 31 at fainter
+magnitudes. In this way we have produced a PNLF which is more consistent with
+observed PN properties. We use this randomly generated PNLF to: (1) show as
+convincingly as possible that most PNs in any real population must leak stellar
+H-ionizing photons; (2) revise our determinations of the parameter mu(max); (3)
+discuss the shape of the PNLF, hinting at the possible existence of a distinct
+feature 2 magnitudes fainter than the brightest PNs; (4) attempt estimates of
+maximum final masses from fits to the PNLFs of the LMC and M 31. There is
+marginal evidence of a higher maximum final mass in the LMC, but this should be
+confirmed in other galaxies with recent star formation. A convincing
+confirmation will require to increase the sample sizes and to extend the PNLFs
+to at least 1.5 mag fainter than the brightest PNs.
+","[{""version"":""v1"",""created"":""Sun, 17 Nov 1996 15:07:55 GMT""}]","2007-05-23"
+"astro-ph/9611129","Alon Retter","A. Retter, E.M. Leibowitz, E.O. Ofek (Wise Observatory)","Permanent Superhumps in V1974 Cyg","11 pages, 10 eps. figures, Latex, accepted for publication in MNRAS",,"10.1007/978-94-015-8941-3_23",,"astro-ph",,"  We present results of 32 nights of CCD photometry of V1974 Cygni, from the
+years 1994 and 1995. We verify the presence of two distinct periodicities in
+the light curve: 0.0812585 day~1.95 hours and 0.0849767 d~2.04 hr. We establish
+that the shorter periodicity is the orbital period of the underlying binary
+system. The longer period oscillates with an average value of |dot(P)| ~
+3x10^(7)--typical to permanent superhumps. The two periods obey the linear
+relation between the orbital and superhump periods that holds among members of
+the SU Ursae Majoris class of dwarf novae. A third periodicity of 0.083204
+d~2.00 hr appeared in 1994 but not in 1995. It may be related to the recently
+discovered anti-superhump phenomenon. These results suggest a linkage between
+the classical nova V1974 Cyg and the SU UMa stars, and indicate the existence
+of an accretion disk and permanent superhumps in the system no later than 30
+months after the nova outburst. From the precessing disk model of the superhump
+phenomenon we estimate that the mass ratio in the binary system is between 2.2
+and 3.6. Combined with previous results this implies a white dwarf mass of
+0.75-1.07 M sun.
+","[{""version"":""v1"",""created"":""Sun, 17 Nov 1996 13:56:27 GMT""}]","2016-01-27"
+"chao-dyn/9611007","Bob Kraichnan","Robert H. Kraichnan","Passive Scalar: Scaling Exponents and Realizability","Substantially revised to conform with published version. Revtex (4
+  pages) with 2 postscript figures. Send email to rhk@lanl.gov","Phys. Rev. Lett. 78 (1997) 4922-4925","10.1103/PhysRevLett.78.4922",,"chao-dyn nlin.CD",,"  An isotropic passive scalar field $T$ advected by a rapidly-varying velocity
+field is studied. The tail of the probability distribution $P(\theta,r)$ for
+the difference $\theta$ in $T$ across an inertial-range distance $r$ is found
+to be Gaussian. Scaling exponents of moments of $\theta$ increase as $\sqrt{n}$
+or faster at large order $n$, if a mean dissipation conditioned on $\theta$ is
+a nondecreasing function of $|\theta|$. The $P(\theta,r)$ computed numerically
+under the so-called linear ansatz is found to be realizable. Some classes of
+gentle modifications of the linear ansatz are not realizable.
+","[{""version"":""v1"",""created"":""Sat, 16 Nov 1996 23:27:36 GMT""},{""version"":""v2"",""created"":""Wed, 25 Jun 1997 00:49:52 GMT""}]","2009-10-28"
+"cond-mat/9611128","Abdollah Langari","A. Langari and V. Karimipour","Quantum Renormalization Group for 1 Dimensional Fermion Systems","LaTex file, 1 PS figure","Phys. Lett. A.236, (1997) 106","10.1016/S0375-9601(97)00727-5",,"cond-mat.stat-mech",,"  Inspired by the superblock method of White, we introduce a simple
+modification of the standard Renormalization Group (RG) technique for the study
+of quantum lattice systems. Our method which takes into account the effect of
+Boundary Conditions(BC), may be regarded as a simple way for obtaining first
+estimates of many properties of quantum lattice systems. By applying this
+method to the 1-dimensional free and interacting fermion system, we obtain the
+ground state energy with much higher accuracy than the standard RG. We also
+calculate the density-density correlation function in the free-fermion case
+which shows good agreement with the exact result.
+","[{""version"":""v1"",""created"":""Sat, 16 Nov 1996 21:07:15 GMT""},{""version"":""v2"",""created"":""Wed, 29 Apr 1998 07:06:04 GMT""}]","2009-10-28"
+"cond-mat/9611129","Ziqiang Wang","Ziqiang Wang","Weakly Coupled Antiferromagnetic Quantum Spin Chains","12 revtex pages, no figures, revised final version to appear in PRL",,"10.1103/PhysRevLett.78.126",,"cond-mat.str-el",,"  Quasi-one-dimensional quantum antiferromagnets formed by a d-dimensional
+hypercubic lattice of weakly coupled spin-1/2 antiferromagnetic Heisenberg
+chains are studied by combining exact results in one-dimension and
+renormalization group analyses of the interchain correlations. It is shown that
+d-dimensional magnetic long-range order develops at zero-temperature for
+infinitesimal antiferromagnetic or ferromagnetic interchain couplings. In the
+presence of weak bond alternations, the order-disorder transition occurs at a
+finite interchain coupling. Relevances to the lightly doped quantum
+antiferromagnets and multi-layer quantum Hall systems are discussed.
+","[{""version"":""v1"",""created"":""Sun, 17 Nov 1996 00:26:35 GMT""},{""version"":""v2"",""created"":""Fri, 22 Nov 1996 19:00:54 GMT""}]","2009-10-28"
+"gr-qc/9611046","Alex Kaganovich","E.I. Guendelman and A.B. Kaganovich (Physics Department, Ben Gurion
+  University of the Negev, Beer Sheva, Israel)","Gravitational Theory without the Cosmological Constant Problem","44 pages","Phys.Rev.D55:5970-5980,1997","10.1103/PhysRevD.55.5970","Phys.BGU-511/96","gr-qc",,"  We develop the principle of nongravitating vacuum energy, which is
+implemented by changing the measure of integration from $\sqrt{-g}d^{D}x$ to an
+integration in an internal space of $D$ scalar fields $\phi_{a}$. As a
+consequence of such a choice of the measure, the matter Lagrangian $L_{m}$ can
+be changed by adding a constant while no cosmological term is induced. Here we
+develop this idea to build a new theory which is formulated through the first
+order formalism, i.e. using vielbein $e_{a}^{\mu}$ and spin connection
+$\omega_{\mu}^{ab}$ (a,b=1,2,...D) as independent variables. The equations
+obtained from the variation of $e_{a}^{\mu}$ and the fields $\phi_{a}$ imply
+the existence of a nontrivial constraint. This approach can be made consistent
+with invariance under arbitrary diffeomorphisms in the internal space of scalar
+fields $\phi_{a}$ (as well as in ordinary space-time), provided that the matter
+model is chosen so as to satisfy the above mentioned constraint. If the matter
+model is not chosen so as to satisfy automatically this constraint, the
+diffeomorphism invariance in the internal space is broken. In this case the
+constraint is dynamically implemented by the degrees of freedom that become
+physical due to the breaking of the internal diffeomorphism invariance.
+However, this constraint always dictates the vanishing of the cosmological
+constant term and the gravitational equations in the vacuum coincide with
+vacuum Einstein's equations with zero cosmological constant. The requirement
+that the internal diffeomorphisms be a symmetry of the theory points towards
+the unification of forces in nature like in the Kaluza-Klein scheme.
+","[{""version"":""v1"",""created"":""Sun, 17 Nov 1996 07:38:30 GMT""}]","2011-09-09"
+"hep-th/9611121","Ioannis Giannakis","Ioannis Giannakis (Rockefeller University)","Symmetries of 2-d Gravity","9 pages, plain Tex","Phys.Lett. B400 (1997) 15-20","10.1016/S0370-2693(97)00317-1","RU96-15-B","hep-th",,"  Two-dimensional gravity in the light-cone gauge was shown to exhibit an
+underlying sl(2,R) current algebra. It is the purpose of this note to offer a
+possible explanation about the origin of this important algebra. The essential
+point is that two-dimensional gravity is governed by a topological field
+theory. The gauge group is sl(2,R) and it is this enhanced gauge group that
+yields Polyakov's current algebra.
+","[{""version"":""v1"",""created"":""Sat, 16 Nov 1996 20:51:29 GMT""}]","2016-09-06"
+"hep-th/9611122","Sayan Kar","Sayan Kar","Scale Factor Duality and the Energy Condition Inequalities","16 pages, RevTex, no figures","Phys.Lett. B401 (1997) 234-240","10.1016/S0370-2693(97)00402-4","IUCAA--96/43","hep-th",,"  We demonstrate, by a simple analysis, that cosmological line elements related
+by scale factor duality also exhibit a duality with respect to the
+conservation/violation of the Weak Energy Condition (WEC) by the matter that
+acts as the source in the one-loop beta function equations for the metric
+coupling written explicitly in the form of the Einstein equations. Furthermore,
+a study of specific pairs of line elements (obtained via O(d,d)
+transformations) hints at a possible generalisation of the above duality w.r.t.
+WEC for the case of O(d,d) related spacetimes. Consequences and extensions
+thereof are also pointed out.
+","[{""version"":""v1"",""created"":""Sun, 17 Nov 1996 10:12:48 GMT""}]","2016-09-06"
+"nucl-th/9611035","Dobaczewski","J. Dobaczewski and J. Dudek","Solution of the Skyrme-Hartree-Fock equations in the Cartesian deformed
+  harmonic oscillator basis. (I) The method","26 LaTeX pages, submitted to Computer Physics Communications","Comput.Phys.Commun. 102 (1997) 166-182","10.1016/S0010-4655(97)00004-0","CRN 96-30","nucl-th",,"  We describe a method of solving the nuclear Skyrme-Hartree-Fock problem by
+using a deformed Cartesian harmonic oscillator basis. The complete list of
+expressions required to calculate local densities, total energy, and
+self-consistent fields is presented, and an implementation of the
+self-consistent symmetries is discussed. Formulas to calculate matrix elements
+in the Cartesian harmonic oscillator basis are derived for the nuclear and
+Coulomb interactions.
+","[{""version"":""v1"",""created"":""Sun, 17 Nov 1996 10:10:12 GMT""}]","2009-10-30"
+"nucl-th/9611036","Dobaczewski","J. Dobaczewski and J. Dudek","Solution of the Skyrme-Hartree-Fock equations in the Cartesian deformed
+  harmonic oscillator basis. (II) The program HFODD","30 LaTeX pages, 9 postscript figures included, submitted to Computer
+  Physics Communications","Comput.Phys.Commun. 102 (1997) 183-209","10.1016/S0010-4655(97)00005-2","CRN 96-31","nucl-th",,"  We describe the code HFODD which solves the nuclear Skyrme-Hartree-Fock
+problem by using the deformed Cartesian harmonic oscillator basis. The user has
+a possibility of choosing among various symmetries of the nuclear HF problem
+for rotating or non-rotating nuclei; they vary from the non-axial
+parity-invariant nuclear shapes, through those also breaking the intrinsic
+parity, towards the least-restrictive case corresponding to only one symmetry
+plane. The code provides a solution for a complete superdeformed rotational
+band in an A~150 nucleus within one CPU hour of the CRAY C-90 supercomputer or
+within two-three CPU hours of a fast workstation.
+","[{""version"":""v1"",""created"":""Sun, 17 Nov 1996 10:12:46 GMT""}]","2009-10-30"

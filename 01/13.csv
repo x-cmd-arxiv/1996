@@ -1,0 +1,363 @@
+"alg-geom/9601009","Elizabeth Gasparim","Elizabeth Gasparim","Holomorphic Rank Two Vector Bundles on Blow-ups","Latex2e. University of New Mexico, Ph.D. Thesis",,,,"alg-geom math.AG",,"  In this paper we study holomorphic rank two vector bundles on the blow up of
+$ {\bf C}^2$ at the origin. A classical theorem of Birchoff and Grothendieck
+says that any holomorphic vector bundle on the projective plane ${\bf P}^1$
+splits into a sum of line bundles. If $E$ is a holomorphic vector bundle over
+the blow up of $ {\bf C}^2$ at the origin, then the restriction of $E$ to the
+exceptional divisor is a vector bundle over ${\bf P}^1$ and therefore splits.
+Moreover we assume that $E$ is a rank two bundle that has zero first Chern
+class. Hence its restriction to the exceptional divisor is of the form $ {\cal
+O}(j) \oplus {\cal O}(-j) $ for some integer $j.$ We denote by ${\cal M}_j$ the
+moduli space of equivalence classes (under holomorphic isomorphisms) of rank
+two holomorphic vector bundles on the blow up of $ {\bf C}^2$ at the origin
+whose restriction to the exceptional divisor is $ {\cal O}(j) \oplus {\cal
+O}(-j) .$
+","[{""version"":""v1"",""created"":""Fri, 12 Jan 1996 16:18:50 GMT""}]","2008-02-03"
+"astro-ph/9601072","Stephen Holland","Harvey B. Richer (UBC), William E. Harris (McMaster), Gregory G.
+  Fahlman (UBC), Roger A. Bell (Maryland), Howard E. Bond (STScI), James E.
+  Hesser (DAO), Stephen Holland (UBC), Carlton Pryor (Rutgers), Peter B.
+  Stetson (DAO), Don A. Vandenberg (Victoria), and Sidney van den Bergh (DAO)","Age Gradient and the Second Parameter Problem in the Galactic Halo","26 pages, AASTeX v3.0 with 3 Postscript figures",,"10.1086/177274",,"astro-ph",,"  We establish a framework for determing absolute ages of Galactic globular
+clusters and then use these ages to investigate the age-metallicity and
+age-Galactocentric distance relations for the 36 clusters with the most
+reliable age data. The clusters span Galactocentric distances from 4 through
+100 kpc and cover a metallicity range from $[Fe/H] = -0.6$ to $-2.3$. Adopting
+currently plausible choices for the relation between cluster metallicity and
+horizontal-branch luminosity, and alpha-enhancement ratios, we find that the
+majority of the globular clusters form an age distribution with a dispersion
+$\sigma(t)$ about $10^9$ years, and a total age spread smaller than 4 Gyr.
+Clusters in the lowest metallicity group ($[Fe/H] < -1.8$) appear to be the
+same age to well within 1 Gyr at all locations in the Milky Way halo,
+suggesting that star formation began throughout the halo nearly simultaneously
+in its earliest stages. We find no statistically significant correlation
+between mean cluster age and Galactocentric distance (no age gradient) from 4
+to 100 kpc. The correlation between cluster age and horizontal-branch type
+suggests that causes in addition to metallicity and age are required to
+understand the distribution of stars along the horizontal branches in globular
+cluster color-magnitude diagrams.
+","[{""version"":""v1"",""created"":""Fri, 12 Jan 1996 20:05:41 GMT""}]","2009-10-28"
+"astro-ph/9601073","Rohan Mahadevan","Rohan Mahadevan, Ramesh Narayan (Harvard University), and Insu Yi
+  (Institute for Advanced Study, Princeton)","Harmony in Electrons: Cyclotron and Synchrotron Emission by Thermal
+  Electrons in a Magnetic Field","17 pages, 6 Postscript figures, tarred and gzipped. Accepted to The
+  Astrophysical Journal. Also available at this
+  http://cfa-www.harvard.edu/~rohan/",,"10.1086/177422",,"astro-ph",,"  We present a complete solution to the cyclotron-synchrotron radiation due to
+an isotropic distribution of electrons moving in a magnetic field. We make no
+approximations in the calculations other than artificially broadening the
+harmonics by a small amount in order to facilitate the numerics. In contrast to
+previous calculations, we sum over all relevant harmonics and integrate over
+all particle and observer angles relative to the magnetic field. We present
+emission spectra for electron temperatures $T=5\times10^8$ K, $10^9$ K,
+$2\times10^9$ K to $3.2\times10^{10}$ K, and provide simple fitting formulae
+which give a fairly accurate representation of the detailed results. For
+$T\geq3.2\times10^{10}$ K, the spectrum is represented well by the asymptotic
+synchrotron formula, which is obtained by assuming that the radiating electrons
+have Lorentz factors large compared to unity. We give an improved fitting
+formula also for this asymptotic case.
+","[{""version"":""v1"",""created"":""Fri, 12 Jan 1996 22:06:41 GMT""}]","2009-10-28"
+"astro-ph/9601074","Ann Esin","A. A. Esin, R. Narayan, E. Ostriker, I. Yi","Hot One-Temperature Accretion Flows Around Black Holes","24 pages tex file and 7 postscript figures all included in one
+  compressed tar file. Accepted for publication in ApJ. In case of problems,
+  write to aidle@cfa160.harvard.edu",,"10.1086/177421",,"astro-ph",,"  We describe hot, optically-thin solutions for one-temperature accretion disks
+around black holes. We include cooling by synchrotron, bremsstrahlung, and
+Comptonization. Our solutions are thermally and viscously stable, with gas
+temperatures on the order of $T \sim 10^9-10^{10.7}$K. The thermal stability is
+a direct result of the inclusion of synchrotron cooling.
+  The new solution branch is related to the advection-dominated solution for a
+two-temperature gas described by Narayan \& Yi (1995b). It is present only for
+mass accretion rates less than some critical $\dot{M}_{crit}$ which depends on
+the radius $R$ and viscosity parameter $\alpha$. The solutions are
+advection-dominated for extremely low values of $\dot{M}$. However, for a range
+of intermediate accretion rates, the new solutions are both hot ($T \sim
+10^{10}$K) and cooling-dominated. Because of this new feature, one-temperature
+solutions are significantly more luminous than the corresponding two
+temperature solutions.
+  The radial profile of the new solutions is unusual. The inner parts of the
+flow are cooling-dominated and have a disk-like geometry, while the outer parts
+are fully advection-dominated and nearly quasi-spherical.
+","[{""version"":""v1"",""created"":""Fri, 12 Jan 1996 22:32:37 GMT""}]","2016-08-30"
+"cond-mat/9601040","Hans Weber","Hans Weber, Mats Wallin and Henrik Jeldtoft Jensen","Monte Carlo calculation of the current-voltage characteristics of a two
+  dimensional lattice Coulomb gas","latex",,"10.1103/PhysRevB.53.8566",,"cond-mat",,"  We have studied the nonlinear current-voltage characteristic of a two
+dimensional lattice Coulomb gas by Monte Carlo simulation. We present three
+different determinations of the power-law exponent $a(T)$ of the nonlinear
+current-voltage characteristic, $V \sim I^{a(T)+1}$. The determinations rely on
+both equilibrium and non-equilibrium simulations. We find good agreement
+between the different determinations, and our results also agree closely with
+experimental results for Hg-Xe thin film superconductors and for certain single
+crystal thin-film high temperature superconductors.
+","[{""version"":""v1"",""created"":""Sat, 13 Jan 1996 12:03:50 GMT""}]","2009-10-28"
+"cond-mat/9601043","Maria de Sousa Vieira","M. de Sousa Vieira and H. J. Herrmann","A Growth model for DNA evolution","To be published in Europhysics Letters",,"10.1209/epl/i1996-00354-1",,"cond-mat q-bio.GN",,"  A simple growth model for DNA evolution is introduced which is analytically
+solvable and reproduces the observed statistical behavior of real sequences.
+","[{""version"":""v1"",""created"":""Fri, 12 Jan 1996 19:47:57 GMT""}]","2009-10-28"
+"cond-mat/9601044","Benjamin E. C. Koltenbah","B.E.C. Koltenbah (1) and Robert Joynt (1 and 2) ((1) Dept. of Physics
+  and Applied Superconductivity Center, University of Wisconsin-Madison (2)
+  Materials Physics Laboratory, Helsinki University of Technology)","Material-specific gap function in the high-temperature superconductors","20 pages; requires revtex.sty v3.0, epsf.sty; includes 6 EPS figures;
+  Postscript version also available at
+  http://lifshitz.physics.wisc.edu/www/koltenbah/papers/gapfunc2.ps . This
+  version contains an extensive amount of new work including theoretical
+  background, an additional mean field treatment with new figures, and a more
+  thorough experimental survey","B.E.C. Koltenbah and Robert Joynt, Rep on Prog in Phy 60, 23
+  (1997).","10.1088/0034-4885/60/1/002",,"cond-mat",,"  We present theoretical arguments and experimental support for the idea that
+high-Tc superconductivity can occur with s-wave, d-wave, or mixed-wave pairing
+in the context of a magnetic mechanism. The size and shape of the gap is
+different for different materials. The theoretical arguments are based on the
+t-J model as derived from the Hubbard model so that it necessarily includes
+three-site terms. We argue that this should be the basic minimal model for
+high-Tc systems. We analyze this model starting with the dilute limit which can
+be solved exactly, passing then to the Cooper problem which is numerically
+tractable, then ending with a mean field approach. It is found that the
+relative stability of s-wave and d-wave depends on the size and the shape of
+the Fermi surface. We identify three striking trends. First, materials with
+large next-nearest-neighbor hopping (such as YBa(2)Cu(3)O(7-x)) are nearly pure
+d-wave, whereas nearest-neighbor materials (such as La(2-x)Sr(x)CuO(4)) tend to
+be more s-wave-like. Second, low hole doping materials tend to be pure d-wave,
+but high hole doping leads to s-wave. Finally, the optimum hole doping level
+increases as the next-nearest-neighbor hopping increases. We examine the
+experimental evidence and find support for this idea that gap function in the
+high-temperature superconductors is material-specific.
+","[{""version"":""v1"",""created"":""Sat, 13 Jan 1996 00:43:58 GMT""},{""version"":""v2"",""created"":""Tue, 28 May 1996 23:04:00 GMT""}]","2009-10-28"
+"hep-ex/9601003","John Conway","F. Abe, et al. (CDF Collaboration)","Search for charged Higgs decays of the top quark using hadronic tau
+  decays","uuencoded, gzipped tar file of LaTeX and 6 Postscript figures; 11 pp;
+  submitted to Phys. Rev. D","Phys.Rev.D54:735-742,1996","10.1103/PhysRevD.54.735","FERMILAB-PUB-96/004-E","hep-ex",,"  We present the result of a search for charged Higgs decays of the top quark,
+produced in $p\bar{p}$ collisions at $\surd s =$ 1.8 TeV. When the charged
+Higgs is heavy and decays to a tau lepton, which subsequently decays
+hadronically, the resulting events have a unique signature: large missing
+transverse energy and the low-charged-multiplicity tau. Data collected in the
+period 1992-1993 at the Collider Detector at Fermilab, corresponding to
+18.7$\pm$0.7~pb$^{-1}$, exclude new regions of combined top quark and charged
+Higgs mass, in extensions to the standard model with two Higgs doublets.
+","[{""version"":""v1"",""created"":""Fri, 12 Jan 1996 20:43:43 GMT""}]","2010-05-12"
+"hep-ph/9601253",,"Chun-Gui Duan, Wei Lu","Positivity restrictions to the transverse polarization of the
+  inclusively detected spin-half baryons in unpolarized electron-positron
+  annihilation","final version to appear in Z. Phys. C, references updated",,,,"hep-ph",,"  The positivity constraints to the structure functions for the inclusive
+spin-half baryon production by a time-like photon fragmentation are
+investigated. One conclusion is that $\hat F$, which arises from the hadronic
+final-state interactions, is subjected to an inequality between its absolute
+value and the two spin-independent structure functions. On the basis of this
+finding, we derive a formula through which the upper limits can be given for
+the transverse polarization of the inclusively detected spin-half baryons in
+unpolarized electron-positron annihilation. The derived upper bound supplies a
+consistency check for the judgement of reliability of experimental data and
+model calculations.
+","[{""version"":""v1"",""created"":""Sat, 13 Jan 1996 02:31:46 GMT""},{""version"":""v2"",""created"":""Tue, 9 Jul 1996 17:57:40 GMT""}]","2008-02-03"
+"hep-ph/9601255",,"Wei Lu, Jian-Jun Yang","Symmetry aspects of the pion leptoproduction and the upper limit of the
+  Levelt-Mulders asymmetry","8 pages, final version to appear in Z. Phys. C, completely rephrased","Z.Phys. C73 (1997) 689-696",,,"hep-ph",,"  We examined the symmetry aspect of the semi-inclusive one-pion production in
+the deep inelastic scattering of a lepton beam off an unpolarized nucleon
+target, with an emphasis on the positivity restrictions on the corresponding
+structure functions. In combination with the Callan-Gross-type relation between
+two twist-two structure functions $W_1$ and $W_2$, we derived an upper bound on
+the Levelt-Mulders asymmetry, which occurs when the lepton beam is
+longitudinally polarized.
+","[{""version"":""v1"",""created"":""Sat, 13 Jan 1996 03:02:54 GMT""},{""version"":""v2"",""created"":""Tue, 16 Jan 1996 18:33:28 GMT""},{""version"":""v3"",""created"":""Tue, 9 Jul 1996 18:02:49 GMT""}]","2008-02-03"
+"hep-ph/9601256",,"Wei Lu, Xue-Qian Li, Hai-Ming Hu","Manifestation of $s\to \Lambda$ fragmentation matrix elements via
+  transverse $\Lambda$ polarization in unpolarized $e^-e^+$ annihilation","RevTex, 12 pages, typos corrected","Phys.Lett. B368 (1996) 281-290","10.1016/0370-2693(95)01512-4","BIHEP-96-07","hep-ph",,"  Making use of the collinear expansion technique developed by Ellis, Furmanski
+and Petrozio, and the special propagator concept invented by Qiu, we present a
+factorization approach to the photon fragmentation tensor for the inclusive
+Lambda hyperon production. As a result, the structure function $\tilde F$,
+which is related to the transverse polarization of the inclusive Lambda hyperon
+in unpolarized electron-positron annihilation, is expressed as a combination of
+four parton fragmentation matrix elements. Since the inclusive $\Lambda$
+production we considered is theoretically the simplest, our study can be taken
+as a question to the operatability and practability of the first nonleading QCD
+factorization theorem in the transverse $\Lambda$ polarization phenomena.
+","[{""version"":""v1"",""created"":""Sat, 13 Jan 1996 04:01:07 GMT""},{""version"":""v2"",""created"":""Tue, 16 Jan 1996 18:39:18 GMT""}]","2019-08-15"
+"hep-ph/9601258",,"Jian-Jun Yang, Bo-Qiang Ma, Guang-Lie Li","Non-perturbative effect in the nucleon structure function and the
+  Gottfried sum","LaTex, 14 pages, one figue appended as uuencoded file",,,"BIHEP-95-41","hep-ph",,"  We investigate the non-perturbative effect in the nucleon structure function
+and the Gottfried sum by using a non-perturbative quark propagator with lowest
+dimensional condensate contributions from the QCD vacuum. It is shown that the
+non-perturbative effect modifies the conventional quark-parton model formula of
+the nucleon structure function at finite $Q^2$ and suggests a non-trivial $Q^2$
+dependence in the Gottfried sum.
+","[{""version"":""v1"",""created"":""Sat, 13 Jan 1996 04:26:49 GMT""}]","2007-05-23"
+"hep-ph/9601259","David Persson","David Persson","Asymptotic Freedom from Thermal and Vacuum Magnetization","38 pages. Latex. More sequential treatment of different limits.
+  Thermal gluon mass included","Annals Phys. 252 (1996) 33-71","10.1006/aphy.1996.0124","Goteborg ITP 96-01","hep-ph hep-th",,"  We calculate the effective Lagrangian for a magnetic field in spinor, scalar
+and vector QED. Connections are then made to $SU(N_C)$ Yang--Mills theory and
+QCD. The magnetization and the corresponding effective charge are obtained from
+the effective Lagrangian. The renormalized vacuum magnetization will depend on
+the renormalization scale chosen. Regardless of this, the effective charge
+decreasing with the magnetic field, as in QCD, corresponds to anti- screening
+and asymptotic freedom. In spinor and scalar QED on the other hand, the
+effective charge is increasing with the magnetic field, corresponding to
+screening. Including effects due to finite temperature and density, we comment
+on the effective charge in a degenerate fermion gas, increasing linearly with
+the chemical potential. Neglecting the tachyonic mode, we find that in hot QCD
+the effective charge is decreasing as the inverse temperature, in favor for the
+formation of a quark-gluon plasma. However, including the real part of the
+contribution from the tachyonic mode, we find instead an effective charge
+increasing with the temperature. Including a thermal gluon mass, the effective
+charge in hot QCD is group invariant (unlike in the two cases above), and
+decreases logarithmically in accordance to the vacuum renormalization group
+equation, with the temperature as the momentum scale.
+","[{""version"":""v1"",""created"":""Fri, 12 Jan 1996 16:11:04 GMT""},{""version"":""v2"",""created"":""Thu, 21 Mar 1996 14:51:24 GMT""}]","2009-10-28"
+"hep-ph/9601260","Robert Singleton","Claudio Rebbi and Robert Singleton, Jr","Computational Study of Baryon Number Violation in High Energy
+  Electroweak Collisions","57 pages, LaTeX, 14 figues. Four of these figures are gray scale 3D
+  surface plots too large to distribute in color. The full color figures can be
+  viewed or downloaded from http://cthulu.bu.edu/~bobs/bviolate.html","Phys.Rev.D54:1020-1043,1996","10.1103/PhysRevD.54.1020","BUHEP-94-34","hep-ph hep-lat",,"  We use semiclassical methods to study processes which give rise to change of
+topology and therefore to baryon number violation in the standard model. We
+consider classically allowed processes, i.e.~energies above the sphaleron
+barrier. We develop a computational procedure that allows us to solve the Yang
+Mills equations of motion for spherically symmetric configurations and to
+identify the particle numbers of the in- and out-states. A stochastic sampling
+technique is then used to map the region spanned by the topology changing
+solutions in the energy versus incoming particle number plane and, in
+particular, to determine its lower boundary. A lower boundary which approaches
+small particle number would be a strong indication that baryon number violation
+would occur in high energy collisions, whereas a lower asymptote at large
+particle number would be evidence of the contrary. With our method and the
+computational resources we have had at our disposal, we have been able to
+determine the lower boundary up to energies approximately equal to one and a
+half time times the sphaleron energy and observed a 40\% decrease in particle
+number with no sign of the particle number leveling off. However encouraging
+this may be, the decrease in incoming particle number is only from particles 50
+down to approximately 30. Nevertheless, the formalism we have established will
+make it possible to extend the scope of this investigation and also to study
+processes in the classically forbidden region, which we plan to do in the
+future.
+","[{""version"":""v1"",""created"":""Fri, 12 Jan 1996 18:37:58 GMT""}]","2012-08-27"
+"hep-ph/9601261","Jorge L. Lopez","J. Lopez, D. Nanopoulos, A. Zichichi","Experimental constraints on a stringy SU(5)$\times$U(1) model","12 pages, LaTeX, 4 figures (included) Slightly revised version to
+  appear in Phys. Rev. D (May 1 issue); noted that trilepton searches cannot
+  probe the full parameter space of the model because the leptons from
+  neutralino decay become too soft to be detectable","Phys.Rev.D53:5253-5257,1996","10.1103/PhysRevD.53.5253","CTP-TAMU-01/96, DOE/ER/40717-24","hep-ph hep-th",,"  We re-examine the phenomenological aspects of a recently proposed
+string-derived SU(5)$\times$U(1) one-parameter supergravity model, and explore
+the sensitivity of the model predictions to variations in the strong coupling
+and the string unification scale. We also perform an analysis of the
+constraints on the parameter space of the model in light of the recent Tevatron
+trilepton data and the LEP~1.5 chargino and slepton data. We obtain
+$m_{\chi^\pm_1}\gsim70\GeV$, which excludes one-third of the parameter space of
+the model. The remainder of the parameter space should be probed by ongoing
+analyses of the Tevatron trilepton data and forthcoming LEP~2 runs.
+","[{""version"":""v1"",""created"":""Fri, 12 Jan 1996 20:46:41 GMT""},{""version"":""v2"",""created"":""Tue, 19 Mar 1996 17:45:10 GMT""}]","2009-08-25"
+"hep-ph/9601262",,"Nima Arkani-Hamed, Hsin-Chia Cheng and L.J. Hall","A Supersymmetric Theory of Flavor with Radiative Fermion Masses","45 pages, LaTeX, 6 figures","Phys.Rev. D54 (1996) 2242-2260","10.1103/PhysRevD.54.2242","LBL-37894, UCB-PTH-95/36","hep-ph",,"  Supersymmetric theories involving a spontaneously broken flavor symmetry can
+lead to fermion masses which vanish at tree level but are generated by
+radiative corrections. In the context of supersymmetric theories with minimal
+low energy field content we discuss which fermion masses and mixings may be
+obtained radiatively, and find that constraints from flavor changing
+phenomenology imply that only the first generation fermion masses and some (but
+not all) CKM mixings can naturally come from radiative corrections. We also
+consider general conditions on theories of flavor which guarantee the existence
+of tree level massless fermions while having non-trivial CKM matrix elements at
+tree level. Two complete models of flavor are presented. In the first model,
+all first generation fermion masses are radiatively generated. In the second
+model, the electron and up quark mass are due to radiative corrections whereas
+the down mass appears at tree level, as does a successful prediction for the
+Cabibbo angle $\sin \theta_c = \sqrt{m_d/m_s}$.
+","[{""version"":""v1"",""created"":""Sat, 13 Jan 1996 01:34:51 GMT""}]","2009-10-28"
+"hep-ph/9601263","Wolfgang Lucha","Wolfgang Lucha and Franz F. Sch\""oberl","Effective Potential Models for Hadrons","71 pages, LaTeX",,,"HEPHY-PUB 621/95","hep-ph hep-th",,"  The aim of these lectures is to give a self-contained introduction to
+nonrelativistic potential models, to their formulation as well as to their
+possible applications. At the price of some lack of (in a mathematical sense)
+rigorous derivations, we try to give a feeling and understanding for the
+simplest conceivable method to extract the explicit form of the forces acting
+between quarks from the interplay between experimental observations and
+theoretical considerations. According to this spirit, we demonstrate, in
+detail, how to obtain the underlying Hamiltonian and how to determine the
+Lorentz structure of the quark--(anti-)quark interaction potential from
+well-established experimental facts.
+","[{""version"":""v1"",""created"":""Sat, 13 Jan 1996 11:49:58 GMT""}]","2007-05-23"
+"hep-th/9601063","Vasily Tarasov","Vasily E. Tarasov","Analog of Lie Algebra and Lie Group for Quantum Non-Hamiltonian Systems","7 pages, LaTeX; Proceedings of X Workshop on High Energy Physics and
+  Quantum Field Theory (September 1995, Zvenigorod, Russia)",,,,"hep-th funct-an math.FA math.QA q-alg quant-ph",,"  Quantum mechanics of Hamiltonian (non-dissipative) systems uses Lie algebra
+and analytic group (Lie group). In order to describe non-Hamiltonian
+(dissipative) systems in quantum theory we need to use non-Lie algebra and
+analytic quasigroup (loop).
+  The author derives that analog of Lie algebra for quantum non-Hamiltonian
+systems is commutant Lie algebra and analog of Lie group for these systems is
+analytic commutant associative loop (Valya loop). A commutant Lie algebra is an
+algebra such that commutant (a subspace which is generated by all commutators)
+is a Lie subalgebra. Valya loop is a non-associative loop such that the
+commutant of this loop is associative subloop (group). We prove that a tangent
+algebra of Valya loop is a commutant Lie algebra. It is shown that generalized
+Heisenberg-Weyl algebra, suggested by the author to describe quantum
+non-Hamiltonian (dissipative) systems, is a commutant Lie algebra. As the other
+example of commutant Lie algebra, it is considered a generalized Poisson
+algebra for differential 1-forms.
+  Note that non-Hamiltonian (dissipative) quantum theory has a broad range of
+application for non-critical strings in ""coupling constant"" phase space and
+bosonic string in non-Riemannian (for example, affine-metric) curved space
+which are non-Hamiltonian (dissipative) systems.
+","[{""version"":""v1"",""created"":""Fri, 12 Jan 1996 17:29:46 GMT""}]","2016-09-06"
+"hep-th/9601064","T. Jacobson","Ted Jacobson","On the Origin of the Outgoing Black Hole Modes","12 pages, plain latex, 2 figures included using psfig; Analogy to
+  ``Andreev reflection"" in superfluid systems noted, references and
+  acknowledgment added, format changed to shorten text","Phys.Rev.D53:7082-7088,1996","10.1103/PhysRevD.53.7082","Utrecht THU-96/01","hep-th cond-mat gr-qc",,"  The question of how to account for the outgoing black hole modes without
+drawing upon a transplanckian reservoir at the horizon is addressed. It is
+argued that the outgoing modes must arise via conversion from ingoing modes. It
+is further argued that the back-reaction must be included to avoid the
+conclusion that particle creation cannot occur in a strictly stationary
+background. The process of ``mode conversion"" is known in plasma physics by
+this name and in condensed matter physics as ``Andreev reflection"" or ``branch
+conversion"". It is illustrated here in a linear Lorentz non-invariant model
+introduced by Unruh. The role of interactions and a physical short distance
+cutoff is then examined in the sonic black hole formed with Helium-II.
+","[{""version"":""v1"",""created"":""Fri, 12 Jan 1996 21:15:33 GMT""},{""version"":""v2"",""created"":""Thu, 25 Jan 1996 09:09:18 GMT""}]","2014-11-18"
+"hep-th/9601065","Antonio Edson Goncalves S.","D.M. Gitman, A.E. Gon\c{c}alves, I.V. Tyutin","Pseudoclassical supersymmetrical model for 2+1 Dirac particle","9 pages, LaTex (RevTex)",,,"IFUSP/P-95-1144","hep-th",,"  A new pseudoclassical supersymmetrical model of a spinning particle in 2+1
+dimensions is proposed. Different ways of its quantization are discussed. They
+all reproduce the minimal quantum theory of the particle.
+","[{""version"":""v1"",""created"":""Sat, 13 Jan 1996 01:04:51 GMT""}]","2007-05-23"
+"hep-th/9601066","Kenichi Horie","Kenichi Horie (KEK Japan)","Geometric Interpretation of Electromagnetism in a Gravitational Theory
+  with Torsion and Spinorial Matter","Ph.D. thesis, 98 pages, LaTeX file, ca 276kB",,,,"hep-th gr-qc",,"  Possible geometric frameworks for a unified theory of gravity and
+electromagnetism are investigated: General relativity is enlarged by allowing
+for an arbitrary complex linear connection and by constructing an extended
+spinor derivative based on the complex connection. Thereby the spacetime
+torsion not only is coupled to the spin of fermions and causes a four-fermion
+contact interaction, but the non-metric vector-part of torsion is also related
+to the electromagnetic potential. However, this long-standing relation is shown
+to be valid only in a special U(1) gauge, and it is a formal consequence of the
+underlying extended geometry.
+","[{""version"":""v1"",""created"":""Sat, 13 Jan 1996 05:41:29 GMT""}]","2007-05-23"
+"hep-th/9601068",,"H. Arfaei, S. Parvizi","WZNW Models from Non-Standard Bilinear Forms","LaTeX file, 26 pages","Mod.Phys.Lett. A11 (1996) 1289-1306","10.1142/S0217732396001302","IPM-95-119","hep-th",,"  We study the WZNW models based on nonstandard bilinear forms. We approach the
+problem from algebraic, perturbative and functional exact methods. It is shown
+that even in the case of integer $k$ we can find irrational CFT's. We prove
+that when the base group is noncompact with nonabelian maximal compact
+subgroup, the Kac-Moody representations are nonunitary.
+","[{""version"":""v1"",""created"":""Sat, 13 Jan 1996 12:12:10 GMT""}]","2015-06-26"
+"nucl-th/9601016","Npd Barc","B. K. Jain and Bijoy Kundu","Delta Decay in Nuclear Medium","Latex, 23 pages, 11 figures (not included, can be obtained on
+  request); Submitted to Phy. Rev. C","Phys.Rev.C53:1917-1926,1996","10.1103/PhysRevC.53.1917","BARC/1995/P/005","nucl-th",,"  Proton-nucleus collisions, where the beam proton gets excited to the delta
+resonance and then decays to p$\pi ^+$, either inside or outside the nuclear
+medium, are studied. Cross-sections for various kinematics for the (p,p$' \pi
+^+$) reaction between 500 MeV and 1 GeV beam energy are calculated to see the
+effects of the nuclear medium on the propagation and decay of the resonance.
+The cross-sections studied include proton energy spectra in coincidence with
+the pion, four momentum transfer distributions, and the invariant p$\pi^+$ mass
+distributions. We find that the effect of the nuclear medium on these
+cross-sections mainly reduces their magnitudes. Comparing these cross-sections
+with those considering the decay of the delta outside the nucleus only, we
+further find that at 500 MeV the two sets of cross-sections have large
+differences, while by 1 GeV the differences between them become much smaller.
+","[{""version"":""v1"",""created"":""Fri, 12 Jan 1996 19:55:32 GMT""}]","2009-09-25"
+"nucl-th/9601017","Joachim Retamosa","E. Caurier, F. Nowacki, A. Poves and J. Retamosa","Shell Model Study of the Double Beta Decays of $^{76}$Ge, $^{82}$Se and
+  $^{136}$Xe",,,"10.1103/PhysRevLett.77.1954",,"nucl-th",,"  The lifetimes for the double beta decays of $^{76}$Ge, $^{82}$Se and
+$^{136}$Xe are calculated using very large shell model spaces. The two neutrino
+matrix elements obtained are in good agreement with the present experimental
+data. For $<m_{\nu}><1$ eV we predict the following upper bounds to the
+half-lives for the neutrinoless mode: $T^{(0\nu)}_{1/2}(Ge) > 1.85\,10^{25}
+yr.$, $T^{(0\nu)}_{1/2}(Se) > 2.36\,10^{24} yr.$ and $T^{(0\nu)}_{1/2}(Xe) >
+1.21\,10^{25} yr$. These results are the first from a new generation of Shell
+Model calculations reaching O(10$^{8}$) dimensions.
+","[{""version"":""v1"",""created"":""Fri, 12 Jan 1996 16:12:14 GMT""}]","2009-10-30"
+"nucl-th/9601018",,"E.L. Bratkovskaya (Giessen Univ. & JINR, Dubna), W. Cassing and U.
+  Mosel (Giessen Univ.)","Dilepton anisotropy from $p + Be$ and $Ca + Ca$ collisions at BEVALAC
+  energies","10 pages, LaTeX, plus 4 postscript figures tarred, compressed and
+  uuencoded in separate file","Phys.Lett. B376 (1996) 12-18","10.1016/0370-2693(96)00302-4","UGI-96-03, submitted to Phys. Lett. B","nucl-th",,"  A full calculation of lepton-pair angular characteristics is carried out for
+$e^+e^-$ pairs created in $p + Be$ and $Ca + Ca$ collisions from 1.0 to 2.1
+GeV/A. It is demonstrated that the dilepton decay anisotropy depends
+sensitively on the different sources and may be used for their disentangling.
+Due to the dominance of the $\eta$-and $\Delta$-Dalitz decays and only a small
+anisotropy coefficient for $\pi^+\pi^-$ annihilation, the expected anisotropy
+coefficients show a decrease with invariant mass of the dilepton pair and
+change only moderately when comparing $p + Be$ and $Ca + Ca$ reactions at the
+same bombarding energy.
+","[{""version"":""v1"",""created"":""Fri, 12 Jan 1996 17:52:07 GMT""}]","2009-10-30"
+"nucl-th/9601019","David E. Kahana","D. E. Kahana (SUNY at Stony Brook), S. H. Kahana (BNL), Y. Pang
+  (Columbia University, BNL), A. J. Baltz (BNL), C. B. Dover (BNL), E.
+  Schnedermann (BNL), T. J. Schlagel (BNL)","Modeling Cluster Production at the AGS","31 pages REVTeX, 19 figures (4 oversized included as JPEG). For full
+  postscript figures (LARGE): contact dkahana@bnlnth.phy.bnl.gov","Phys.Rev.C54:338-352,1996","10.1103/PhysRevC.54.338","BNL-62600","nucl-th",,"  Deuteron coalescence, during relativistic nucleus-nucleus collisions, is
+carried out in a model incorporating a minimal quantal treatment of the
+formation of the cluster from its individual nucleons by evaluating the overlap
+of intial cascading nucleon wave packets with the final deuteron wave function.
+In one approach the nucleon and deuteron center of mass wave packet sizes are
+estimated dynamically for each coalescing pair using its past light-cone
+history in the underlying cascade, a procedure which yields a parameter free
+determination of the cluster yield. A modified version employing a global
+estimate of the deuteron formation probability, is identical to a general
+implementation of the Wigner function formalism but can differ from the most
+frequent realisation of the latter. Comparison is made both with the extensive
+existing E802 data for Si+Au at 14.6 GeV/c and with the Wigner formalism. A
+globally consistent picture of the Si+Au measurements is achieved. In light of
+the deuteron's evident fragility, information obtained from this analysis may
+be useful in establishing freeze-out volumes and help in heralding the presence
+of high-density phenomena in a baryon-rich environment.
+","[{""version"":""v1"",""created"":""Sat, 13 Jan 1996 03:21:40 GMT""}]","2008-11-26"

@@ -1,0 +1,212 @@
+"alg-geom/9610007","Brent Gordon","B. Brent Gordon (Oklahoma), and Jacob P. Murre (Leiden)","Chow motives of elliptic modular surfaces and threefolds","53 pages, AMS-TeX v2.1, AMSppt v2.1d, AMSfonts v2.1. Minor
+  misstatements and typographical errors corrected. Email queries to
+  bgordon@ou.edu",,,"Math. Inst. Univ. Leiden Report W 96-16, September 1996","alg-geom math.AG",,"  The main result of this paper is the proof for elliptic modular threefolds of
+conjectures on the existence and structure of a filtration on the Chow groups
+of smooth projective varieties. In the form we prove them these conjectures
+were formulated by the second-named author, but as Jannsen has shown, these
+conjectures are equivalent to a conjecture of Beilinson. These conjectures have
+previously been proved for surfaces in general, but for elliptic modular
+surfaces we obtain more precise results which are then used in proving the
+conjectures for elliptic modular threefolds.
+","[{""version"":""v1"",""created"":""Sun, 6 Oct 1996 04:16:46 GMT""},{""version"":""v2"",""created"":""Sat, 26 Oct 1996 20:44:25 GMT""}]","2008-02-03"
+"astro-ph/9610041","Stefan Gottloeber","Andrei G. Doroshkevich, Stefan Gottloeber, Soeren Madsen","The accuracy of parameters determined with the core-sampling method:
+  application to Voronoi tessellations","14 pages (Latex) with 6 figures, the complete paper with 8 figures is
+  available at http://kosmos.aip.de/~got/projects.html {Characteristical scales
+  in point distributions}, Astronomy and Astrophysics Supplement Series,
+  accepted",,"10.1051/aas:1997172",,"astro-ph",,"  The large-scale matter distribution represents a complex network of structure
+elements such as voids, clusters, filaments, and sheets. This network is
+spanned by a point distribution. The global properties of the point process can
+be measured by different statistical methods, which, however, do not describe
+directly the structure elements. The morphology of structure elements is an
+important property of the point distribution. Here we apply the core-sampling
+method to various Voronoi tessellations. Using the core-sampling method we
+identify one- and two-dimensional structure elements (filaments and sheets) in
+these Voronoi tessellations and reconstruct their mean separation along random
+straight lines. We compare the results of the core-sampling method with the a
+priori known structure elements of the Voronoi tessellations under
+consideration and find good agreement between the expected and found structure
+parameters, even in the presence of substantial noise. We conclude that the
+core-sampling method is a potentially powerful tool to investigate the
+distribution of such structure elements like filaments and walls of galaxies.
+","[{""version"":""v1"",""created"":""Sun, 6 Oct 1996 12:42:11 GMT""}]","2009-10-28"
+"cond-mat/9610032","Srikanth Hariharan","H. Srikanth, Balam A. Willemsen, T. Jacobs, S. Sridhar (Northeastern
+  University), A. Erb, E. Walker and R. Flukiger (University of Geneva)","New features in the microwave response of YBCO crystals: Evidence for a
+  multi-component order parameter","4 pages 4 figures, Revtex, multicols [to appear in Phys. Rev. B
+  (Rapid Comm)]. Our preprints also available at
+  http://sagar.physics.neu.edu/preprints.html",,"10.1103/PhysRevB.55.R14733",,"cond-mat.supr-con",,"  New features are reported in precision measurements of the complex microwave
+conductivity of high quality $YBa_{2}Cu_{3}O_{6.95}$ crystals grown in
+$BaZrO_{3}$ crucibles. A third peak in the normal conductivity,
+$\sigma_{1}(T)$, at around $80K$, and enhanced pair conductivity
+$\sigma_{2}(T)$ below $\sim 65K$ are observed. The data are inconsistent with a
+single order parameter, and instead are indicative of multi-component
+superconductivity. Overall, these results point to the presence of multiple
+pairing interactions in $YBa_{2}Cu_{3}O_{6.95}$ and also provide a natural
+explanation to account for the low temperature $35K$ conductivity peak observed
+in all $YBa_{2}Cu_{3}O_{6.95}$ crystals.
+","[{""version"":""v1"",""created"":""Sat, 5 Oct 1996 19:07:23 GMT""},{""version"":""v2"",""created"":""Wed, 16 Oct 1996 14:28:46 GMT""},{""version"":""v3"",""created"":""Thu, 24 Apr 1997 16:55:22 GMT""}]","2016-08-31"
+"cond-mat/9610033","J. A. Sauls","J. A. Sauls (Northwestern) and D. Rainer (Bayreuth)","Unconventional Pairing in Heavy Fermion Metals","8 pages in a LaTex (3.0) file plus 5 Figures in PostScript. To appear
+  in the Proceedings of the XXI International Conference on Low Temperature
+  Physics held in Prague, 8-14 August 1996","Czech. J. Phys. 46, pp. 3089-3096 (1996)","10.1007/BF02548114",,"cond-mat.supr-con",,"  The Fermi-liquid theory of superconductivity is applicable to a broad range
+of systems that are candidates for unconventional pairing. Fundamental
+differences between unconventional and conventional anisotropic superconductors
+are illustrated by the unique effects that impurities have on the
+low-temperature transport properties of unconventional superconductors. For
+special classes of unconventional superconductors the low-temperature transport
+coefficients are {\it universal}, i.e. independent of the impurity
+concentration and scattering phase shift. The existence of a universal limit
+depends on the symmetry of the order parameter and is achieved at low
+temperatures $k_B T \ll \gamma \ll \Delta_0$, where $\gamma$ is the bandwidth
+of the impurity induced Andreev bound states. In the case of UPt$_3$ thermal
+conductivity measurements favor an $E_{1g}$ or $E_{2u}$ ground state.
+Measurements at ultra-low temperatures should distinguish different pairing
+states.
+","[{""version"":""v1"",""created"":""Sat, 5 Oct 1996 22:26:11 GMT""}]","2010-11-16"
+"cond-mat/9610034","Igor Aleiner","I.L. Aleiner and A.I. Larkin","Role of divergence of classical trajectories in quantum chaos","4 pages, no figures",,"10.1103/PhysRevE.55.R1243",,"cond-mat",,"  We study logarithmical in $\hbar$ effects in the statistical description of
+quantum chaos. We found analytical expressions for the deviations from the
+universality in the weak localization corrections and the level statistics and
+showed that the characteristic scale for these deviations is the Ehrenfest
+time, $t_E= \lambda^{-1}|\ln\hbar|$, where $\lambda$ is the Lyapunov exponent
+of the classical motion.
+","[{""version"":""v1"",""created"":""Sun, 6 Oct 1996 00:31:30 GMT""}]","2009-10-28"
+"cond-mat/9610035",,"Simon C. Benjamin and Neil F. Johnson (Oxford University)","A Possible Nanometer-scale Computing Device Based on an Adding Cellular
+  Automaton","8 pages, RevTex, 3 Postscript figures. This version to appear in App.
+  Phys. Lett",,"10.1063/1.118851",,"cond-mat.mes-hall physics.pop-ph quant-ph",,"  We present a simple one-dimensional Cellular Automaton (CA) which has the
+property that an initial state composed of two binary numbers evolves quickly
+into a final state which is their sum. We call this CA the Adding Cellular
+Automaton (ACA). The ACA requires only 2N two-state cells in order to add any
+two N-1 bit binary numbers. The ACA could be directly realized as a wireless
+nanometer-scale computing device - a possible implementation using coupled
+quantum dots is outlined.
+","[{""version"":""v1"",""created"":""Sun, 6 Oct 1996 05:51:28 GMT""},{""version"":""v2"",""created"":""Mon, 10 Mar 1997 21:15:07 GMT""}]","2009-10-28"
+"cond-mat/9610041","Paulo M. C. Oliveira","P.M.C. de Oliveira, T.J.P. Penna and H.J. Herrmann","Broad Histogram Method","9 pages, plain tex, 5 PS figures, WWW.IF.UFF.BR","Brazilian Journal Of Physics 26, 677 (1996)",,"UFF-026/96","cond-mat.stat-mech",,"  Ferrenberg and Swendsen histogram method is based on Boltzmann probability
+distribution which presents exponentially decaying tails. Thus, it gives
+accurate measures only within a narrow window around the simulated temperature.
+The larger the system, the narrower this window, and the worst the performance
+of this method.
+  We present a quite different approach, defining a non-biased random walk
+along the E axis with long range power-law decaying tails, and measuring
+directly the degeneracy g(E), without thermodynamic constraints. Our arguments
+are general (model independent), and the method is shown to be exact for the 1D
+Ising ferromagnet. Also for the 2D Ising ferromagnet, our numerical results for
+different thermodynamic quantities agree quite well with exact expressions.
+","[{""version"":""v1"",""created"":""Sat, 5 Oct 1996 21:11:24 GMT""}]","2008-02-03"
+"dg-ga/9610003","Bernhard Leeb","Bruce Kleiner, Bernhard Leeb","Groups quasi-isometric to symmetric spaces","10 pages, Latex",,,,"dg-ga math.DG",,"  We determine the structure of finitely generated groups which are
+quasi-isometric to symmetric spaces of noncompact type, allowing Euclidean de
+Rham factors If $X$ is a symmetric space of noncompact type with no Euclidean
+de Rham factor, and $\Ga$ is a finitely generated group quasi-isometric to the
+product $\E^k\times X$, then there is an exact sequence $1\ra H\ra\Ga\ra L\ra
+1$ where $H$ contains a finite index copy of $\Z^k$ and $L$ is a uniform
+lattice in the isometry group of $X$.
+","[{""version"":""v1"",""created"":""Sun, 6 Oct 1996 10:52:06 GMT""}]","2008-02-03"
+"hep-ph/9610257","Lavignac","St\'ephane Lavignac (LPTHE, Orsay)","Neutrino Mass Models with an Abelian Family Symmetry","10 pages, LaTeX, to appear in the proceedings of the NATO ASI on
+  Masses of Fundamental Particles, Carg\`ese, France, August 5-17, 1996","NATO Adv.Study Inst.Ser.B Phys.363:229-236,1997",,"LPTHE-ORSAY 96/79","hep-ph",,"  Abelian family symmetries provide a predictive framework for neutrino mass
+models. In seesaw models based on an abelian family symmetry, the structures of
+the Dirac and the Majorana matrices are derived from the symmetry, and the
+neutrino masses and mixing angles are determined by the lepton charges under
+the family symmetry. Such models can lead to mass degeneracies and large mixing
+angles as well as mass hierarchies, the squared mass difference between
+quasi-degenerate neutrinos being determined by the symmetry. We present two
+models illustrating this approach.
+","[{""version"":""v1"",""created"":""Sat, 5 Oct 1996 16:16:26 GMT""}]","2009-02-16"
+"hep-ph/9610259","Patrick Huet","Patrick Huet and D.T. Son (University of Washington)","Long Range Physics in a Hot Non-Abelian Plasma","14 pages, uses LaTeX; Typographical errors corrected and references
+  added","Phys.Lett. B393 (1997) 94-102","10.1016/S0370-2693(96)01616-4","UW/PT 96-20","hep-ph",,"  We derive a set of equations describing the real time dynamics of modes with
+spatial momentum of order g^2 T in a high temperature gauge theory, where g is
+the coupling constant and T is the temperature. This dynamics is stochastic in
+nature. Important implications for baryon number violation at high temperature
+and for the physics at the electroweak phase transition, are discussed.
+","[{""version"":""v1"",""created"":""Sat, 5 Oct 1996 21:40:48 GMT""},{""version"":""v2"",""created"":""Thu, 2 Jan 1997 23:35:43 GMT""}]","2008-02-03"
+"hep-ph/9610260","Davison E. Soper","Stanley J. Brodsky, Francesco Hautmann, and Davison E. Soper","Probing the QCD pomeron in e+ e- collisions","Revised version with corrected numerical values of Qmin corresponding
+  to quoted e+ e- cross sections. Text modified slightly. Nine pages including
+  three figures","Phys.Rev.Lett.78:803-806,1997; Erratum-ibid.79:3544,1997","10.1103/PhysRevLett.78.803","OITS 607, SLAC-PUB 7218-T/E","hep-ph",,"  The total cross section for scattering virtual photons at high energy is
+sensitive to pomeron physics. If the photons are sufficiently virtual, QCD
+perturbation theory applies, so that the reaction probes the short distance
+pomeron. We study this reaction for present and future e+/- e- colliders.
+","[{""version"":""v1"",""created"":""Sat, 5 Oct 1996 22:41:35 GMT""},{""version"":""v2"",""created"":""Thu, 14 Aug 1997 21:32:12 GMT""}]","2009-09-11"
+"hep-ph/9610261","Damon Fasching","D. Fasching (University of Wisconsin-Madison)","A (Slightly Less Brutal) Method for Numerically Evaluating Structure
+  Functions","21 pages, LaTeX, 11 epsf figures included",,,,"hep-ph",,"  A fast numerical algorithm for the evolution of parton distributions in x
+space is described. The method is close in spirit to `brute' force techniques.
+The necessary integrals are performed by summing the approximate contributions
+from small steps of the integration region. Because it is a numerical
+evaluation it shares the advantage with brute force numerical integration that
+there are no restrictions placed on the functional form of the distributions to
+be evolved. However, an improvement in the approximation technique results in a
+significant reduction in the number of integration steps and a savings in time
+on the order of three hundred fifty. The method has been implemented for the
+structure functions F_2 and g_1 at next-to-leading order.
+","[{""version"":""v1"",""created"":""Sun, 6 Oct 1996 07:49:54 GMT""}]","2007-05-23"
+"hep-ph/9610262","Giovanni Amelino-Camelia","G. Amelino-Camelia","Rayleigh-Ritz Variational Approximation and Symmetry Nonrestoration","9 pages, LaTex. To be published in Physics Letters B","Phys.Lett. B388 (1996) 776-782","10.1016/S0370-2693(96)01199-9",,"hep-ph",,"  The investigation of symmetry nonrestoration scenarios has led to a
+controversy, with certain nonperturbative approximation schemes giving
+indications in sharp disagreement with those found within conventional
+perturbation theory. A Rayleigh-Ritz variational approach to the problem, which
+might be useful in bridging the gap between perturbative and nonperturbative
+viewpoints, is here proposed. As a first application, this approach is used in
+the investigation of a $Z_2 \times Z_2$-invariant thermal field theory with two
+scalar fields, placing particular emphasis on the region of parameter space
+that has been claimed to support symmetry nonrestoration.
+","[{""version"":""v1"",""created"":""Sun, 6 Oct 1996 14:43:25 GMT""}]","2016-09-06"
+"hep-th/9610026","Marco Matone","G. Bonelli, M. Matone, M. Tonin","Solving N=2 SYM by Reflection Symmetry of Quantum Vacua","12 pg. LaTex, Discussion of the generalization to higher rank groups
+  added. To be published in Phys. Rev. D","Phys.Rev. D55 (1997) 6466-6470","10.1103/PhysRevD.55.6466","DPFD96/TH/29","hep-th alg-geom hep-ph math.AG",,"  The recently rigorously proved nonperturbative relation between u and the
+prepotential, underlying N=2 SYM with gauge group SU(2), implies both the
+reflection symmetry $\overline{u(\tau)}=u(-\bar\tau)$ and $u(\tau+1)=-u(\tau)$
+which hold exactly. The relation also implies that $\tau$ is the inverse of the
+uniformizing coordinate u of the moduli space of quantum vacua. In this
+context, the above quantum symmetries are the key points to determine the
+structure of the moduli space. It turns out that the functions a(u) and a_D(u),
+which we derive from first principles, actually coincide with the solution
+proposed by Seiberg and Witten. We also consider some relevant generalizations.
+","[{""version"":""v1"",""created"":""Sun, 6 Oct 1996 12:58:48 GMT""},{""version"":""v2"",""created"":""Tue, 15 Oct 1996 17:46:06 GMT""},{""version"":""v3"",""created"":""Tue, 25 Feb 1997 17:38:09 GMT""}]","2009-10-30"
+"hep-th/9610028","Manoelito Martins de Souza","Manoelito M. de Souza","Classical Electrodynamics and the Quantum Nature of Light","29 pages in Revtex, 4 ps figures","J.Phys.A30:6565-6585,1997","10.1088/0305-4470/30/18/030","UFES-DF-MMS-96/3","hep-th",,"  A review of old inconsistencies of Classical Electrodynamics (CED) and of
+some new ideas that solve them is presented. Problems with causality violating
+solutions of the wave equation and of the electron equation of motion, and
+problems with the non-integrable singularity of its self-field energy tensor
+are well known. The correct interpretation of the two (advanced and retarded)
+Lienard-Wiechert solutions are in terms of creation and annihilation of
+particles in classical physics. They are both retarded solutions. Previous work
+on the short distance limit of CED of a spinless point electron are based on a
+faulty assumption which causes the well known inconsistencies of the theory: a
+diverging self-energy (the non-integrable singularity of its self-field energy
+tensor) and a causality-violating third order equation of motion (the
+Lorentz-Dirac equation). The correct assumption fixes these problems without
+any change in the Maxwell's equations and let exposed, in the zero-distance
+limit, the discrete nature of light: the flux of energy from a point charge is
+discrete in time. CED cannot have a true equation of motion but only an
+effective one, as a consequence of the intrinsic meaning of the Faraday-Maxwell
+concept of field that does not correspond to the classical description of
+photon exchange, but only to the smearing of its effects in the space around
+the charge. This, in varied degrees, is transferred to QED and to other field
+theories that are based on the same concept of fields as space-smeared
+interactions.
+","[{""version"":""v1"",""created"":""Sat, 5 Oct 1996 21:08:23 GMT""}]","2008-11-26"
+"hep-th/9610029","Arefeva Irina","I.Ya. Aref'eva","Planar Approximation as Two-Field Boltzmann Theory","A talk given at Quarks 96, 9 pages, latex (4 figures use bezier.sty
+  and emlines2.sty)",,,"SMI/TH-18-96","hep-th",,"  A modified interaction representation for the master field describing
+connected $SU(N)$-invariant Wightman's functions in the large $N$ limit of
+matrix fields is constructed. This construction is based on the representation
+of the master field in terms of Boltzmannian field theory found before. In the
+modified interaction representation we deal with two scalar Boltzmann fields
+({\it up} and {\it down} fields). For up and down fields only half-planar
+diagrams contribute and this could help to write down a recursive set of
+non-linear integral-differential equations summing up planar diagrams.
+","[{""version"":""v1"",""created"":""Sun, 6 Oct 1996 09:58:05 GMT""}]","2007-05-23"
+"hep-th/9610030","Pms4","Paul Sutcliffe","Cyclic Monopoles","latex, 28 pages, 6 figures (3 as gif files)","Nucl.Phys. B505 (1997) 517-539","10.1016/S0550-3213(97)00390-8","UKC/IMS/96-52","hep-th",,"  We study charge k SU(2) BPS monopoles which are symmetric under the cyclic
+group of order k. Approximate twistor data (spectral curves and Nahm data) is
+constructed using a new technique based upon a Painleve analysis of Nahm's
+equation around a pole. With this data both analytical and numerical
+approximate ADHMN constructions are performed to study the zeros of the Higgs
+field and the monopole energy densities. The results describe, via the moduli
+space approximation, a novel type of low energy k monopole scattering.
+","[{""version"":""v1"",""created"":""Sun, 6 Oct 1996 14:22:09 GMT""}]","2009-10-30"
+"nucl-ex/9610004","Makoto C. Fujiwara","MUH collaboration at TRIUMF: M. C. Fujiwara (1), G. A. Beer (2), J. L.
+  Beveridge (3), J. L. Douglas (2), T. M. Huber (4), R. Jacot-Guillarmod (5),
+  S. K. Kim (6), P. E. Knowles (2), A. R. Kunselman (7), M. Maier (2), G. M.
+  Marshall (3), G. R. Mason (2), F. Mulhauser (3), A. Olin (3), C. Petitjean
+  (8), T. A. Porcelli (2), J. Zmeskal (9) ((1) U. British Columbia, Canada, (2)
+  U. Victoria, (3) TRIUMF, (4) Gustavus Adolphus Coll., (5) U. Fribourg, (6)
+  Jeonbuk Natl U., (7) U. Wyoming, (8) PSI, (9) Austrian Academy of Sciences)","Characterization of Solidified Gas Thin Film Targets via Alpha Particle
+  Energy Loss","25 pages, 11 figures (psfig), submitted to Nucl. Intrum. Meth. A","Nucl.Instrum.Meth. A395 (1997) 159-168","10.1016/S0168-9002(97)00716-X","TRI-PP-96-53","nucl-ex hep-ex",,"  A method is reported for measuring the thickness and uniformity of thin films
+of solidified gas targets. The energy of alpha particles traversing the film is
+measured and the energy loss is converted to thickness using the stopping
+power. The uniformity is determined by measuring the thickness at different
+positions with an array of sources. Monte Carlo simulations have been performed
+to study the film deposition mechanism. Thickness calibrations for a TRIUMF
+solid hydrogen target system are presented.
+","[{""version"":""v1"",""created"":""Sun, 6 Oct 1996 02:36:33 GMT""}]","2012-08-27"

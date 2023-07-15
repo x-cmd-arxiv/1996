@@ -1,0 +1,276 @@
+"astro-ph/9612146","Charley Lineweaver","Charles H. Lineweaver and Domingos Barbosa (Observatoire de
+  Strasbourg, France)","Cosmic Microwave Background Observations: Implications for Hubble's
+  Constant and the Spectral Parameters $\n$ and $Q$ in Cold Dark Matter
+  Critical Density Universes","accepted for publication in Astro & Astrophysics, 11 pages, 9
+  figures, a more careful and digested, major rewrite of previous version",,,,"astro-ph",,"  Recent cosmic microwave background (CMB) measurements over a large range of
+angular scales have become sensitive enough to provide interesting constraints
+on cosmological parameters within a restricted class of models. We use the CMB
+measurements to study inflation-based, cold dark matter (CDM) critical density
+universes. We explore the 4-dimensional parameter space having as free
+parameters, Hubble's constant Ho, baryonic fraction Omega_b, the spectral slope
+of scalar perturbations n and the power spectrum quadrupole normalization Q. We
+calculate chi-squared minimization values and likelihood intervals for these
+parameters. Within the models considered, a low value for the Hubble constant
+is preferred: Ho= 30^{+18}_{-7} km/s/Mpc. The baryonic fraction is not as
+well-constrained by the CMB data: Omega_b = 0.07^{+ 0.24}_{-0.07}. The power
+spectrum slope is n=0.91^{+0.20}_{-0.12}. The power spectrum normalization is
+Q=18 +/- 2.5 uK. The error bars on each parameter are approximately 1 sigma and
+are for the case where the other 3 parameters have been marginalized. If we
+condition on n=1 we obtain the normalization Q = 17 +/- 1.0 uK. The permitted
+regions of the 4-D parameter space are presented in a series of 2-D
+projections. In the context of the CDM critical density universes considered
+here, current CMB data favor a low value for the Hubble constant. Such low-Ho
+models are consistent with Big Bang nucleosynthesis, cluster baryonic
+fractions, the large-scale distribution of galaxies and the ages of globular
+clusters; although in disagreement with direct determinations of the Hubble
+constant.
+","[{""version"":""v1"",""created"":""Sun, 15 Dec 1996 03:18:57 GMT""},{""version"":""v2"",""created"":""Fri, 23 May 1997 15:18:15 GMT""}]","2008-02-03"
+"astro-ph/9612147","Firoza K. Sutaria","F. K. Sutaria, J. A. Sheikh and A. Ray","Relativistic Mean Field calculations of nuclear properties in early
+  stages of stellar collapse","4 pages , Latex, 4 figures, uses espcrc1.sty. To appear in Nucl.
+  Phys. A, proceedings of ""Nuclei in the Cosmos 1996"" 4th International
+  Symposium on Nuclear Astrophysics. e-mail contact: fks@dashoo.tifr.res.in",,"10.1016/S0375-9474(97)00274-1",,"astro-ph",,"  We use the Relativistic Mean Field (RMF) method to calculate properties of
+neutron rich, usually deformed nuclei, important for equation of state
+calculations and which have significant abundance in the early stages of
+stellar collapse. We compare the results of our microscopic calculations with
+existing cold nuclear equations of state based on macroscopic liquid drop model
+and the FRLDM model.
+","[{""version"":""v1"",""created"":""Sun, 15 Dec 1996 05:19:33 GMT""}]","2009-10-28"
+"astro-ph/9612148","Dick Bond","J. W. Wadsley and J. Richard Bond (CITA)","SPH P3MG Simulations of the Lyman-alpha Forest","9 pages, 4 Postscript figures, uses paspconf.sty (included), to
+  appear in ""Computational Astrophysics"", Proc. 12th Kingston Conference,
+  Halifax, Oct. 1996, ed. D. Clarke & M. West (PASP), also available from
+  anonymous ftp site: ftp://ftp.cita.utoronto.ca/ftp/cita/bond/kingston/",,,"CITA preprint CITA-96-24","astro-ph",,"  Our understanding of the Lyman-$\alpha$ forest has received a great boost
+with the advent of the Keck Telescope and large 3D hydrodynamical simulations.
+We present new simulations using the SPH technique with a P^3MG
+(Particle-Particle Particle-MultiGrid) non-periodic gravity solver. Our method
+employs a high resolution (1 kpc) inner volume, essential for capturing the
+complex gas physics, a larger low resolution volume, essential for correct
+larger scale tidal fields and a self-consistently applied, uniform tidal field
+to model the influence of ultra long waves. We include a photoionizing UV flux
+and relevant atomic cooling processes. We use constrained field realisations to
+probe a selection of environments and construct a statistical sample
+representative of the wider universe. We generate artificial Lyman-$\alpha$
+spectra and fit Voigt profiles. We examine the importance of (1) the
+photoionizing flux level and history, (2) tidal environment and (3) differing
+cosmologies, including CDM and CDM+{$\Lambda$}. With an appropriate choice for
+the UV flux, we find that the data is fit quite well if the rms density
+contrast is $\sim$ 1 at $z\sim 3$ on galaxy scales.
+","[{""version"":""v1"",""created"":""Sun, 15 Dec 1996 06:12:30 GMT""}]","2007-05-23"
+"cond-mat/9612137","Cristian Micheletti","C. Micheletti, A. B. Harris and J. M. Yeomans","A complete devil's staircase in the Falicov-Kimball model","6 pages, RevTeX, 3 Postscript figures",,"10.1088/0305-4470/30/21/002","OUTP-96-22S","cond-mat",,"  We consider the neutral, one-dimensional Falicov-Kimball model at zero
+temperature in the limit of a large electron--ion attractive potential, U. By
+calculating the general n-ion interaction terms to leading order in 1/U we
+argue that the ground-state of the model exhibits the behavior of a complete
+devil's staircase.
+","[{""version"":""v1"",""created"":""Sat, 14 Dec 1996 17:47:03 GMT""}]","2009-10-28"
+"cond-mat/9612138","Igor Aleiner","I.L. Aleiner and L.I. Glazman","Quantum Coulomb Blockade in Chaotic Systems","4 pages, 1.eps figure",,,,"cond-mat.mes-hall",,"  We study the Coulomb blockade in a chaotic cavity connected to a lead by a
+perfectly transmitting quantum channel. In contrast to the previous theories,
+we show that the quantum fluctuations of charge, resulting from the perfect
+transmission, do not destroy the Coulomb blockade completely. The oscillatory
+dependence of all the observable characteristics on the gate voltage persists,
+its period is not affected; however, phases of the oscillations are random,
+reflecting the chaotic electron motion in the cavity. Because of this
+randomness, the Coulomb blockade shows up not in the averages but in the
+correlation functions of the fluctuating observables (e.g., capacitance or
+tunneling conductance).
+","[{""version"":""v1"",""created"":""Sat, 14 Dec 1996 19:55:17 GMT""}]","2016-08-31"
+"cond-mat/9612139","Jorge Piekarewicz","J. Piekarewicz and J.R. Shepard","A Plaquette Basis for the Study of Heisenberg Ladders","12 pages with two postscript figures",,"10.1103/PhysRevB.56.5366","FSU-SCRI-96-1214","cond-mat hep-lat nucl-th",,"  We employ a plaquette basis-generated by coupling the four spins in a
+$2\times2$ lattice to a well-defined total angular momentum-for the study of
+Heisenberg ladders with antiferromagnetic coupling. Matrix elements of the
+Hamiltonian in this basis are evaluated using standard techniques in
+angular-momentum (Racah) algebra. We show by exact diagonalization of small
+($2\times4$ and $2\times6$) systems that in excess of 90% of the ground-state
+probability is contained in a very small number of basis states. These few
+basis states can be used to define a severely truncated basis which we use to
+approximate low-lying exact eigenstates. We show how, in this low-energy basis,
+the isotropic spin-1/2 Heisenberg ladder can be mapped onto an anisotropic
+spin-1 ladder for which the coupling along the rungs is much stronger than the
+coupling between the rungs. The mapping thereby generates two distinct energy
+scales which greatly facilitates understanding the dynamics of the original
+spin-1/2 ladder. Moreover, we use these insights to define an effective
+low-energy Hamiltonian in accordance to the newly developed COntractor
+REnormalization group (CORE) method. We show how a simple range-2 CORE
+approximation to the effective Hamiltonian to be used with our truncated basis
+reproduces the low-energy spectrum of the exact $2\times6$ theory at the $\alt
+1%$ level.
+","[{""version"":""v1"",""created"":""Sat, 14 Dec 1996 21:56:37 GMT""}]","2016-08-31"
+"cond-mat/9612140","Colin D. Denniston","Colin Denniston (Princeton University), Chao Tang (NEC Research
+  Institute)","Domain Walls and Phase Transitions in the Frustrated Two-Dimensional XY
+  Model","5 pages, 3 eps figures, REVTEX, revised version with new figures","Phys. Rev. Lett 79, p451 (1997)","10.1103/PhysRevLett.79.451",,"cond-mat.stat-mech cond-mat.supr-con",,"  We study and compare the critical properties of the two-dimensional (2D) XY
+model in a transverse magnetic field with magnetic filling factors f=1/3 and
+f=2/5. In addition to the spin waves, the low energy excitations of the system
+consist of various domain walls between degenerate ground states. The lowest
+energy domain wall has a similar structure for both f=1/3 and f=2/5 and its
+properties dictate the nature of the phase transition. For f=2/5 these lowest
+energy walls have a negative energy for binding to each other, giving rise to a
+branching domain-wall structure and leading to a first order phase transition.
+For f=1/3 this binding energy is positive, resulting in a linear critical
+interface. In order to make a comparison to recent experiments, we investigate
+the effect of small quenched bond disorder for f=2/5. A finite-size scaling
+analysis of extensive Monte Carlo simulations strongly suggests that the
+critical exponents of the phase transition for f=1/3, and for f=2/5 with
+disorder, fall into the universality class of the two-dimensional Ising model.
+","[{""version"":""v1"",""created"":""Sat, 14 Dec 1996 23:31:08 GMT""},{""version"":""v2"",""created"":""Mon, 16 Dec 1996 01:50:12 GMT""},{""version"":""v3"",""created"":""Fri, 14 Mar 1997 20:03:50 GMT""}]","2009-10-28"
+"cond-mat/9612141","Jorge Berger","Jorge Berger and Jacob Rubinstein","Design for the Detection of the Singly-Connected Superconducting State","Revtex, 8 pages, 10 scanned figures","Physica C 288 (1997) 105","10.1016/S0921-4534(97)01563-3",,"cond-mat.supr-con",,"  We study the Little-Parks effect for mesoscopic loops with very nonuniform
+thickness. The results follow the trend of the phase diagram obtained for
+almost uniform thickness. In particular, the singly-connected state is stable
+on a line segment delimited by two critical points. Most of this study
+considers loops with piecewise constant thickness; in this case the
+Euler-Lagrange equation can be integrated analytically. Under appropriate
+conditions, the temperature range where the singly-connected state is stable is
+proportional to the square of the ratio between the maximal and the minimal
+thicknesses. Our results may serve as a guide for planning experiments.
+","[{""version"":""v1"",""created"":""Sun, 15 Dec 1996 06:05:42 GMT""}]","2009-10-28"
+"gr-qc/9612036","Arvind Borde","Arvind Borde and Alexander Vilenkin","Singularities in Inflationary Cosmology: A Review","Plain TeX. Twelve pages, five figures (that will automatically appear
+  if you use ""dvips"" to print the file)","Int.J.Mod.Phys.D5:813-824,1996","10.1142/S0218271896000497",,"gr-qc",,"  We review here some recent results that show that inflationary cosmological
+models must contain initial singularities. We also present a new singularity
+theorem. The question of the initial singularity re-emerges in inflationary
+cosmology because inflation is known to be generically future-eternal. It is
+natural to ask, therefore, if inflationary models can be continued into the
+infinite past in a non-singular way. The results that we discuss show that the
+answer to the question is ``no.'' This means that we cannot use inflation as a
+way of avoiding the question of the birth of the Universe. We also argue that
+our new theorem suggests - in a sense that we explain in the paper - that the
+Universe cannot be infinitely old.
+","[{""version"":""v1"",""created"":""Sun, 15 Dec 1996 00:29:07 GMT""}]","2014-11-17"
+"hep-ph/9612361","A. Djouadi","Abdelhak Djouadi (LPM Montpellier, ITP Karlsruhe)","Higgs Phenomenology: a short review","16 pages in Latex, no figure","Acta Phys.Polon.B27:3837-3853,1996",,"PM/96--34, KA-TP-27-1996","hep-ph",,"  I briefly review the Higgs sector in the Standard Model and in its minimal
+supersymmetric extension. After summarizing the properties of the Higgs bosons,
+I will discuss the prospects for discovering these particles at the present
+colliders LEP2 and Tevatron, and at the next generation colliders LHC and a
+high--energy $e^+e^-$ linear collider. The possibilities of studying the
+properties of the Higgs bosons will be then summarized. [Short write-up of
+lectures given at the XXXVI Cracow School of Theoretical Physics, June 1996.]
+","[{""version"":""v1"",""created"":""Sat, 14 Dec 1996 20:45:22 GMT""}]","2011-04-15"
+"hep-ph/9612362","A. Djouadi","A. Djouadi, V. Driesen, W. Hollik and J.I. Illana","The coupling of the lightest SUSY Higgs boson to two photons in the
+  decoupling regime","30 pages, LaTeX, 8 figures, the complete *.ps file can be found at
+  http://itpaxp1.physik.uni-karlsruhe.de/prep/prep.html","Eur.Phys.J.C1:149-162,1998","10.1007/BF01245805","PM/96-35, KA-TP-28-1996","hep-ph",,"  We analyze the contribution of the SUSY particles to the coupling of the
+lightest Higgs boson to two photons in supersymmetric theories. We discuss to
+what extent these contributions can be large enough to allow for a
+discrimination between the lightest SUSY and the standard Higgs particles in
+the decoupling limit where all other Higgs bosons are very heavy and no
+supersymmetric particle has been discovered at future colliders. We find that
+only chargino and top squark loops can generate a sizeable difference between
+the standard and the SUSY Higgs-photon couplings. For masses above 250 GeV, the
+effect of chargino loops on the two-photon width is however smaller than $\sim
+10%$ in the entire SUSY parameter space. Top squarks heavier than 250 GeV can
+induce deviations larger than 10% only if their couplings to the Higgs boson
+are large. Since top squark contributions can be sizeable, we derive the
+two-loop QCD correction to squark loops and show that they are well under
+control.
+","[{""version"":""v1"",""created"":""Sat, 14 Dec 1996 21:12:33 GMT""}]","2015-06-25"
+"hep-ph/9612363","Georg Weiglein","A. Djouadi, P. Gambino, S. Heinemeyer, W. Hollik, C. J\""unger, G.
+  Weiglein","Supersymmetric contributions to electroweak precision observables: QCD
+  corrections","10 pages, LaTeX, 5 ps-figures. The paper is also available via www at
+  http://www-itp.physik.uni-karlsruhe.de/prep/prep96/preplist96.html","Phys.Rev.Lett.78:3626-3629,1997","10.1103/PhysRevLett.78.3626","KA-TP-29-1996, MPI-PhT/96-129, PM/96-36","hep-ph",,"  We calculate the two-loop QCD correction to the scalar quark contributions to
+the electroweak gauge-boson self-energies at zero momentum-transfer in the
+supersymmetric extension of the Standard Model. We then derive the
+$O(\alpha_s)$ correction to the contribution of the scalar top and bottom quark
+loops to the rho parameter, which is the most sizable supersymmetric
+contribution to the electroweak mixing angle and the W-boson mass. The two-loop
+corrections modify the one-loop contribution by up to 30%; the gluino decouples
+for large masses. Contrary to the SM case where the QCD corrections are
+negative and screen the one-loop value, the corresponding corrections in the
+supersymmetric case are in general positive, increasing the sensitivity in the
+search for scalar quarks through their virtual effects in high-precision
+electroweak observables.
+","[{""version"":""v1"",""created"":""Sat, 14 Dec 1996 20:58:47 GMT""}]","2009-07-09"
+"hep-ph/9612364","Mikko Laine","D. Bodeker, P. John, M. Laine and M. G. Schmidt","The 2-loop MSSM finite temperature effective potential with stop
+  condensation","30 pages, 7 figures","Nucl.Phys. B497 (1997) 387-414","10.1016/S0550-3213(97)00252-6","HD-THEP-96-56","hep-ph",,"  We calculate the finite temperature 2-loop effective potential in the MSSM
+with stop condensation, using a 3-dimensional effective theory. We find that in
+a part of the parameter space, a two-stage electroweak phase transition appears
+possible. The first stage would be the formation of a stop condensate, and the
+second stage is the transition to the standard electroweak minimum. The
+two-stage transition could significantly relax the baryon erasure bounds, but
+the parameter space allowing it (m_H \lsim 100 GeV, m_tR \sim 155-160 GeV) is
+not very large. We estimate the reliability of our results using
+renormalization scale and gauge dependence. Finally we discuss some real-time
+aspects relevant for the viability of the two-stage scenario.
+","[{""version"":""v1"",""created"":""Sun, 15 Dec 1996 13:06:28 GMT""}]","2009-10-30"
+"hep-ph/9612365","Ilia Gogoladze","Ilia Gogoladze","SU(7) SUSY GUTs with a natural intermediate scale","14 pages, 1 figure (epsfig style)",,,"IC/96/239","hep-ph",,"  We investigate the SU(N) supersymmetric Grand Unified Theories with
+``custodial symmetry'' mechanism to explane the doublet-triplet hierarchy. We
+show that in such type of SU(7) SUSY theory intermediate scale appears
+naturally and the correct value for sin^2(\theta)_W is predicted via
+vector-like matter superfields splitting. The unification appears to be closed
+to M_Pl for all the reasonable values of \alpha_s and M_SUSY. Due to the large
+unification scale the baryon number violating d=5 operator is suppressed in
+comparison with that in minimal SU(5) theory.
+","[{""version"":""v1"",""created"":""Sun, 15 Dec 1996 11:59:05 GMT""}]","2007-05-23"
+"hep-ph/9612366","Michael Lublinsky","I. Halperin (U. of British Columbia, Vancouver) and M. Lublinsky
+  (Technion, Haifa)","Inclusive B \to sg decay in QCD","RevTex file, 3 pages and 2 poscript pictures","Phys.Rev. D56 (1997) 512-514","10.1103/PhysRevD.56.512",,"hep-ph",,"  The inclusive nonleptonic transition rate of B meson in gluonic penguin
+channel is calculated in QCD using the heavy quark mass expansion. We found the
+branching ratio to be approximately 0.25%.
+","[{""version"":""v1"",""created"":""Sun, 15 Dec 1996 15:32:54 GMT""}]","2009-10-30"
+"hep-th/9612155","H. Falomir","H. Falomir","Condiciones de contorno globales para el operador de Dirac","Talk given at SOCHIFI X, November 27-29/1996, Valparaiso, Chile. 12
+  pages, RevTeX, in spanish",,,,"hep-th",,"  Functional determinants for Dirac operators on manifolds with boundary are
+considered. Ellipticity of boundary value problems is discussed in terms of the
+Calderon projector.
+  The functional determinant for a Dirac operator on a bidimensional disk, in
+the presence of an Abelian gauge field, subject to global boundary conditions
+of the type introduced by Atiyah-Patodi-Singer, is evaluated. The relationship
+with the index theorem is also commented.
+","[{""version"":""v1"",""created"":""Sun, 15 Dec 1996 15:06:29 GMT""}]","2007-05-23"
+"hep-th/9612159",,"M.A. Walton (University of Lethbridge)","Demazure Characters and Affine Fusion Rules","23 pages, TeX, uses harvmac","J.Math.Phys. 39 (1998) 665-681","10.1063/1.532340",,"hep-th math.QA q-alg",,"  The Demazure character formula is applied to the Verlinde formula for affine
+fusion rules. We follow Littelmann's derivation of a generalized
+Littlewood-Richardson rule from Demazure characters. A combinatorial rule for
+affine fusions does not result, however. Only a modified version of the
+Littlewood-Richardson rule is obtained that computes an (old) upper bound on
+the fusion coefficients of affine $A_r$ algebras. We argue that this is because
+the characters of simple Lie algebras appear in this treatment, instead of the
+corresponding affine characters. The Bruhat order on the affine Weyl group must
+be implicated in any combinatorial rule for affine fusions; the Bruhat order on
+subgroups of this group (such as the finite Weyl group) does not suffice.
+","[{""version"":""v1"",""created"":""Sat, 14 Dec 1996 22:09:53 GMT""}]","2009-10-30"
+"hep-th/9612160","Carlos Castro","Carlos Castro","The Noncritical W(infinity) String Sector of the Membrane","15 pages, tex file. A review of work that appeared in the Journal of
+  Chaos, Solitons and Fractals with some new results",,,,"hep-th",,"  The exact quantum integrability aspects of a sector of the membrane is
+investigated. It is found that spherical membranes ( in the lightcone gauge)
+moving in flat target spacetime backgrounds admit a class of integrable
+solutions linked to $SU(\infty)$ SDYM equations ( dimensionally reduced to one
+temporal dimension) which, in turn, are related to Plebanski 4D SD
+Gravitational equations. A further rotational Killing-symmetry reduction yields
+the 3D continuous Toda theory. It is precisely the latter which bears a direct
+relationship to non critical $W_\infty$ string theory. The expected critical
+dimensions for the ( super) membrane , (D=11) and D=27, are easily obtained.
+This suggests that this particular sector of the membrane's spectrum (connected
+to the $SU(\infty)$ SDYM equations ) bears a direct connection to a critical
+$W_\infty$ string spectrum adjoined to a q=N+1 unitary minimal model of the W_N
+algebra in the $N\rightarrow \infty$ limit. Final comments are made about the
+connection to Jevicki's observation that the 4D quantum membrane is linked to
+dilatonic-self dual gravity plus matter . 2D dilatonic ( super) gravity was
+studied by Ikeda and its relation to nonlinear $W_\infty$ algebras from
+nonlinear integrable deformations of 4D self dual gravity was studied by the
+author.The full $SU(\infty)$ YM theory remains to be explored as well as the
+incipient role that noncritical nonlinear $W_\infty$ strings might have in the
+full quantization program.
+","[{""version"":""v1"",""created"":""Sun, 15 Dec 1996 06:22:40 GMT""}]","2007-05-23"
+"math/9612223","Nikita Sidorov","Nikita Sidorov, Anatoly Vershik","Ergodic properties of Erd\""os measure, the entropy of the goldenshift,
+  and related problems","51 pages in AMS-TeX, 11 PS figures; changed content","Monatsh. Math. 126 N 3 (1998), 215-261",,"IMS 96-14","math.DS math.NT",,"  We define a two-sided analog of Erd\""os measure on the space of two-sided
+expansions with respect to the powers of the golden ratio, or, equivalently,
+the Erd\""os measure on the 2-torus. We construct the transformation
+(goldenshift) preserving both Erd\""os and Lebesgue measures on $\Bbb T^2$ which
+is the induced automorphism with respect to the ordinary shift (or the
+corresponding Fibonacci toral automorphism) and proves to be Bernoulli with
+respect to both measures in question. This provides a direct way to obtain
+formulas for the entropy dimension of the Erd\""os measure on the interval, its
+entropy in the sense of Garsia-Alexander-Zagier and some other results.
+Besides, we study central measures on the Fibonacci graph, the dynamics of
+expansions and related questions.
+","[{""version"":""v1"",""created"":""Sun, 15 Dec 1996 00:00:00 GMT""},{""version"":""v2"",""created"":""Tue, 11 Aug 1998 17:18:17 GMT""},{""version"":""v3"",""created"":""Tue, 27 Oct 1998 21:57:19 GMT""}]","2008-02-03"
+"math/9612226","Saharon Shelah","Mirna D\v{z}amonja, Saharon Shelah","Club does not imply the existence of a Suslin tree","Proof is incorrect",,,"Shelah [DjSh:604]","math.LO",,"  We prove that club does not imply the existence of a Suslin tree, so
+answering a question of I. Juhasz.
+","[{""version"":""v1"",""created"":""Sun, 15 Dec 1996 00:00:00 GMT""},{""version"":""v2"",""created"":""Fri, 23 Aug 2019 21:05:26 GMT""}]","2019-08-27"
+"math/9612227","Shelah Office","Joel David Hamkins, Saharon Shelah","Superdestructibility: a dual to Laver indestructibility",,"J. Symbolic Logic 63 (1998), 549--554",,"Shelah [HmSh:618]","math.LO",,"  After small forcing, any < kappa-closed forcing will destroy the
+supercompactness, even the strong compactness, of kappa .
+","[{""version"":""v1"",""created"":""Sun, 15 Dec 1996 00:00:00 GMT""}]","2008-02-03"
+"nucl-th/9612038","Lev Filkov","V. M. Alekseyev, S. N. Cherepnya, L. V. Fil'kov and V. L. Kashevarov
+  (P.N.Lebedev Physical Institute, Moscow)","Possibility of observation of supernarrow dibaryons with symmetric wave
+  function in $\gamma d --> \pi^{\pm}+\gamma NN$ reactions","14 pages, Latex, 13 figures in eps",,,"Lebedev Physical Institute, 52 (1996)","nucl-th hep-ph nucl-ex",,"  The possibility of obsevation of supernarrow dibaryons with symmetric wave
+function in reactions $\gamma +d to \pi^+ +\gamma +nn$ and $\gamma +d to \pi^-
++\gamma +pp$ is studied. These dibaryons satisfy the condition $(-1)^{T+S}P=+1$
+(where T is the isospin, S is the internal spin and P is the dibaryon parity)
+and their decay into two nucleons is suppressed by the Pauly principle. In the
+present paper the method of a dibaryon masses reconstruction over the dibaryon
+decay products (\gamma nn) and (\gamma pp) is analysed. The Monte-Carlo
+simulation is used to choose the optimal location of the detectors, to estimate
+the contribution of the main background processes and to calculate the expected
+yields of the dibaryon production. It is shown that 100 hours of the exposition
+time at the microtron MAMI (Mainz) is quite enough to determine whether or not
+the supernarrow dibaryons with symmetric wave function exist.
+","[{""version"":""v1"",""created"":""Sat, 14 Dec 1996 17:10:05 GMT""},{""version"":""v2"",""created"":""Mon, 16 Dec 1996 09:32:33 GMT""}]","2008-02-03"

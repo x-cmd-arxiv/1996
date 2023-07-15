@@ -1,0 +1,192 @@
+"alg-geom/9609022","Richard Borcherds","Richard E. Borcherds","Automorphic forms with singularities on Grassmannians","65 pages plain tex. References added, introduction improved. To
+  appear in Invent. Math","Invent. Math. 132, 491-562 (1998)","10.1007/s002220050232",,"alg-geom hep-th math.AG",,"  We construct some families of automorphic forms on Grassmannians which have
+singularities along smaller sub Grassmannians, using Harvey and Moore's
+extension of the Howe (or theta) correspondence to modular forms with poles at
+cusps. Some of the applications are as follows. We construct families of
+holomorphic automorphic forms which can be written as infinite products, which
+give many new examples of generalized Kac-Moody superalgebras. We extend the
+Shimura and Maass-Gritsenko correspondences to modular forms with
+singularities. We prove some congruences satisfied by the theta functions of
+positive definite lattices, and find a sufficient condition for a Lorentzian
+lattice to have a reflection group with a finite volume fundamental domain. We
+give some examples suggesting that these automorphic forms with singularities
+are related to Donaldson polynomials and to mirror symmetry for K3 surfaces.
+","[{""version"":""v1"",""created"":""Sun, 29 Sep 1996 13:40:00 GMT""},{""version"":""v2"",""created"":""Sat, 7 Jun 1997 09:22:00 GMT""}]","2015-06-24"
+"astro-ph/9609192","Daniel Schaerer","Daniel Schaerer (STScI), and William D. Vacca (IfA, Hawaii)","WR Populations in Starbursts: WN and WC Subtypes and the Role of
+  Binaries","To appear in ""WR stars in the Framework of Stellar Evolution"", 33rd
+  Liege Int. Astrophy. Coll., Eds. J.M. Vreux et al., in press. 7 pages,
+  including 2 figures",,,,"astro-ph",,"  We present the first results of a new set of population synthesis models,
+which utilize the latest stellar evolutionary tracks, recent non-LTE atmosphere
+models which include stellar winds, and observed line strengths in WR spectra
+to predict the relative strengths of various WN and WC/WO emission features in
+the spectra of starburst galaxies. Our results will be used to derive accurate
+numbers of WN and WC stars in starburst galaxies. We also analyze the frequency
+and the WN and WC content of WR-rich galaxies in low metallicity samples; the
+theoretical predictions are found to be in good agreement with the observed
+frequencies. We also discuss the possible role of massive close binaries in
+starburst regions. If the starburst regions are formed in relatively
+instantaneous bursts we argue that, given their young age as derived from
+emission lines equivalent widths, (1) in the majority of the observed WR
+galaxies massive close binaries have not contributed significantly to the WR
+population, and (2) nebular HeII 4686 emission is very unlikely due to massive
+X-ray binaries.
+","[{""version"":""v1"",""created"":""Sat, 28 Sep 1996 18:26:43 GMT""}]","2007-05-23"
+"astro-ph/9609193","Dr. Noah Brosch","Noah Brosch","Ultraviolet Sky Surveys","11 pages, plain LaTex, invited review at IAU Symposium 179 on
+  ""Multi-Wavelength Sky Surveys"" (POSTSCRIPT version replaced with plain LaTex)",,,,"astro-ph",,"  I review the development of UV and EUV astronomy, covering the spectral range
+from 5 to 300 nm, with emphasis on sky surveys for discrete sources. I discuss
+studies which resulted in lists of sources observed by imaging. The missions
+are compared in terms of their ""survey power"", a variable which combines sky
+coverage and survey depth. I describe UV missions which will detect faint
+sources and will fly in the near future, and present a wish list for low-cost
+ventures, which could advance considerably the knowledge of the UV sky.
+","[{""version"":""v1"",""created"":""Sun, 29 Sep 1996 06:49:19 GMT""},{""version"":""v2"",""created"":""Mon, 30 Sep 1996 07:13:46 GMT""}]","2008-02-03"
+"cmp-lg/9609009","Dan Melamed","I. Dan Melamed (University of Pennsylvania)","A Geometric Approach to Mapping Bitext Correspondence","15 pages, minor revisions on Sept. 30, 1996",,,"IRCS 96-22","cmp-lg cs.CL",,"  The first step in most corpus-based multilingual NLP work is to construct a
+detailed map of the correspondence between a text and its translation. Several
+automatic methods for this task have been proposed in recent years. Yet even
+the best of these methods can err by several typeset pages. The Smooth
+Injective Map Recognizer (SIMR) is a new bitext mapping algorithm. SIMR's
+errors are smaller than those of the previous front-runner by more than a
+factor of 4. Its robustness has enabled new commercial-quality applications.
+The greedy nature of the algorithm makes it independent of memory resources.
+Unlike other bitext mapping algorithms, SIMR allows crossing correspondences to
+account for word order differences. Its output can be converted quickly and
+easily into a sentence alignment. SIMR's output has been used to align over 200
+megabytes of the Canadian Hansards for publication by the Linguistic Data
+Consortium.
+","[{""version"":""v1"",""created"":""Sat, 28 Sep 1996 17:39:33 GMT""},{""version"":""v2"",""created"":""Mon, 30 Sep 1996 22:15:29 GMT""}]","2008-02-03"
+"cmp-lg/9609010","Dan Melamed","I. Dan Melamed (University of Pennsylvania)","Automatic Detection of Omissions in Translations","6 pages, minor revisions on Sept. 30, 1996",,,"IRCS 96-23","cmp-lg cs.CL",,"  ADOMIT is an algorithm for Automatic Detection of OMIssions in Translations.
+The algorithm relies solely on geometric analysis of bitext maps and uses no
+linguistic information. This property allows it to deal equally well with
+omissions that do not correspond to linguistic units, such as might result from
+word-processing mishaps. ADOMIT has proven itself by discovering many errors in
+a hand-constructed gold standard for evaluating bitext mapping algorithms.
+Quantitative evaluation on simulated omissions showed that, even with today's
+poor bitext mapping technology, ADOMIT is a valuable quality control tool for
+translators and translation bureaus.
+","[{""version"":""v1"",""created"":""Sat, 28 Sep 1996 17:41:19 GMT""},{""version"":""v2"",""created"":""Mon, 30 Sep 1996 22:18:08 GMT""}]","2008-02-03"
+"cond-mat/9609277","Robert Pelcovits","A. M. Smondyrev and Robert A. Pelcovits","Glass Formation in the Gay-Berne Nematic Liquid Crystal","10 pages, 6 figures",,,,"cond-mat chem-ph",,"  We present the results of molecular dynamics simulations of the Gay-Berne
+model of liquid crystals, supercooled from the nematic phase. We find a glass
+transition to a metastable phase with nematic order and frozen translational
+and orientational degrees of freedom. For fast quench rates the local structure
+is nematic-like, while for slower quench rates smectic order is present as
+well.
+","[{""version"":""v1"",""created"":""Sat, 28 Sep 1996 17:40:04 GMT""}]","2007-05-23"
+"cond-mat/9609278","Wolfhard Janke","Wolfhard Janke, Tilman Sauer (JGU Mainz, FU Berlin)","Computer Simulations of Quantum Chains","5 pages, LaTeX + 2 postscript figures. Talk presented by TS at ""Path
+  Integrals from meV to MeV: Dubna '96"". See also
+  http://www.cond-mat.physik.uni-mainz.de/~janke/doc/home_janke.html",,,"KOMA-96-30","cond-mat",,"  We report recent progress in computer simulations of quantum systems
+described in the path-integral formulation. For the example of the $\phi^4$
+quantum chain we show that the accuracy of the simulation may greatly be
+enhanced by a combination of multigrid update techniques with a refined
+discretization scheme. This allows us to assess the accuracy of a variational
+approximation.
+","[{""version"":""v1"",""created"":""Sun, 29 Sep 1996 15:33:18 GMT""}]","2007-05-23"
+"hep-ex/9609019",,"SLD Collaboration: K. Abe, K. Abe, I. Abt","First Measurement of the Left-Right Charge Asymmetry in Hadronic Z Boson
+  Decays and a New Determination of sin^2(theta_eff)","14 pages, RevTeX document with 1 eps (included) figure. Also
+  available in gzip-compressed postscript form (64 Kb) at
+  ftp://ftp.slac.stanford.edu/users/morris/qlr_preprint.ps.gz and
+  /afs/slac.stanford.edu/public/users/morris/qlr_preprint.ps.gz. Uncompressed
+  postscript file (244 Kb) available to DECNET users as SLC:
+  :USER_DISK_SLC1:[MORRIS]qlr_preprint.ps","Phys.Rev.Lett.78:17-21,1997","10.1103/PhysRevLett.78.17","SLAC-PUB-96-7069, COLO-HEP-367","hep-ex",,"  We present the first measurement of the left-right charge asymmetry A_Q^{obs}
+in hadronic Z boson decays. This was performed at E_cm = 91.27 GeV with the SLD
+at the SLAC Linear Collider with a polarized electron beam. Using 89838 events,
+we obtain A_Q^{obs}=0.225+-0.056+-0.019 which leads to a measurement of the
+electron left-right asymmetry parameter, A_e=0.162+-0.041+-0.014, and
+sin^2(theta_eff)=0.2297+-0.0052 +-0.0018. Also, the A_Q^{obs} measurement
+combined with the left-right cross section asymmetry determines A_e
+independently of the value of the electron-beam polarization.
+","[{""version"":""v1"",""created"":""Sun, 29 Sep 1996 12:29:59 GMT""}]","2008-11-26"
+"hep-lat/9609045","Wolfhard Janke","Wolfhard Janke (JGU Mainz)","Logarithmic Corrections in the 2D XY Model","13 pages, LaTeX + 8 postscript figures. See also
+  http://www.cond-mat.physik.uni-mainz.de/~janke/doc/home_janke.html",,"10.1103/PhysRevB.55.3580","KOMA-96-17","hep-lat",,"  Using two sets of high-precision Monte Carlo data for the two-dimensional XY
+model in the Villain formulation on square $L \times L$ lattices, the scaling
+behavior of the susceptibility $\chi$ and correlation length $\xi$ at the
+Kosterlitz-Thouless phase transition is analyzed with emphasis on
+multiplicative logarithmic corrections $(ln L)^{-2r}$ in the finite-size
+scaling region and $(ln \xi)^{-2r}$ in the high-temperature phase near
+criticality, respectively. By analyzing the susceptibility at criticality on
+lattices of size up to $512^2$ we obtain $r = -0.0270(10)$, in agreement with
+recent work of Kenna and Irving on the the finite-size scaling of Lee-Yang
+zeros in the cosine formulation of the XY model. By studying susceptibilities
+and correlation lengths up to $\xi \approx 140$ in the high-temperature phase,
+however, we arrive at quite a different estimate of $r = 0.0560(17)$, which is
+in good agreement with recent analyses of thermodynamic Monte Carlo data and
+high-temperature series expansions of the cosine formulation.
+","[{""version"":""v1"",""created"":""Sat, 28 Sep 1996 18:16:06 GMT""}]","2009-10-28"
+"hep-lat/9609046","Tanmoy Bhattacharya","R. Gupta and T. Bhattacharya","Light Quark Masses and the CP violation parameter $\epsilon'/\epsilon$","3 Pages LaTex. Axis files of figures included. Talk presented at
+  LATTICE96 (phenomenology)","Nucl.Phys.Proc.Suppl. 53 (1997) 292-294","10.1016/S0920-5632(96)00640-8","LAUR-96-3337","hep-lat",,"  We present estimates of light quarks masses using lattice data. Our main
+results are based on a global analysis of all the published data for Wilson and
+Staggered fermions, both in the quenched approximation and with $n_f=2$
+dynamical flavors. The Wilson and Staggered results agree after extrapolation
+to the continuum limit for both the $n_f=0,2$ theories. Our best estimates, in
+the MSbar scheme at scale $2 GeV$, are $mbar=3.2(4) MeV$ and $m_s = 90(20) MeV$
+in the quenched approximation, and $mbar ~ 2.7 MeV$ and $m_s ~ 70 MeV$ for the
+$n_f=2$ theory. These estimates are significantly smaller than phenomenological
+estimates based on sum rules, but maintain the ratios predicted by chiral
+perturbation theory. Along with the new estimates of 4-fermion operators, lower
+quark masses have a significant impact on the extraction of
+$\epsilon'/\epsilon$ from the Standard Model.
+","[{""version"":""v1"",""created"":""Sat, 28 Sep 1996 18:56:44 GMT""}]","2016-09-01"
+"hep-lat/9609047","Wolfhard Janke","Wolfhard Janke, Stefan Kappler (JGU Mainz)","Monte Carlo Study of Cluster-Diameter Distribution: A New Observable to
+  Estimate Correlation Lengths","20 pages, LaTeX + 13 postscript figures. See also
+  http://www.cond-mat.physik.uni-mainz.de/~janke/doc/home_janke.html",,"10.1103/PhysRevE.56.1414","KOMA-96-33","hep-lat",,"  We report numerical simulations of two-dimensional $q$-state Potts models
+with emphasis on a new quantity for the computation of spatial correlation
+lengths. This quantity is the cluster-diameter distribution function
+$G_{diam}(x)$, which measures the distribution of the diameter of
+stochastically defined cluster. Theoretically it is predicted to fall off
+exponentially for large diameter $x$, $G_{diam} \propto \exp(-x/\xi)$, where
+$\xi$ is the correlation length as usually defined through the large-distance
+behavior of two-point correlation functions. The results of our extensive Monte
+Carlo study in the disordered phase of the models with $q=10$, 15, and $20$ on
+large square lattices of size $300 \times 300$, $120 \times 120$, and $80
+\times 80$, respectively, clearly confirm the theoretically predicted behavior.
+Moreover, using this observable we are able to verify an exact formula for the
+correlation length $\xi_d(\beta_t)$ in the disordered phase at the first-order
+transition point $\beta_t$ with an accuracy of about $1%-2%$ for all considered
+values of $q$. This is a considerable improvement over estimates derived from
+the large-distance behavior of standard (projected) two-point correlation
+functions, which are also discussed for comparison.
+","[{""version"":""v1"",""created"":""Sat, 28 Sep 1996 19:07:44 GMT""}]","2009-10-28"
+"hep-lat/9609048","Tanmoy Bhattacharya","A. Ali Khan and T. Bhattacharya","$B$ and $B_c$ mesons with NRQCD and Clover actions","6 Pages LaTex. Axis files of figures included. Joint writeup of two
+  talks presented at LATTICE96(heavy quarks)","Nucl.Phys.Proc.Suppl. 53 (1997) 368-373","10.1016/S0920-5632(96)00662-7","LAUR-96-3338","hep-lat",,"  We present preliminary results from our study of the heavy-light spectrum and
+decay constants. For the heavy quark, we use NRQCD at various masses around and
+above the $b$ quark mass. For the first time, the heavy quark action and the
+heavy-light current consistently include corrections at second order in the
+non-relativistic expansion, as well as the leading finite $a$ corrections. The
+light quarks are simulated using a tadpole-improved Clover action at various
+masses in the strange and $c$ quark region.
+","[{""version"":""v1"",""created"":""Sat, 28 Sep 1996 19:41:36 GMT""}]","2007-05-23"
+"hep-ph/9609512","Toru Goto","Toru Goto (Tohoku U), Yasuhiro Okada (KEK), Yasuhiro Shimizu
+  (Tohoku/KEK) and Minoru Tanaka (Osaka U)","$b \to s l \bar l $ in the minimal supergravity model","LaTeX, 52 pages including figures","Phys.Rev.D55:4273-4289,1997; Erratum-ibid.D66:019901,2002","10.1103/PhysRevD.55.4273 10.1103/PhysRevD.66.019901","KEK-TH-483, OU-HET 247, TU-504","hep-ph",,"  The $b \rightarrow s l^+ l^-$ process is studied in the minimal supergravity
+model in detail. Taking account of the long distance contributions from the
+$c\overline{c}$ resonances, we calculate the branching ratio and the lepton
+forward-backward asymmetry in this model. We find that there is a strong
+correlation between the branching ratios of $b \rightarrow s \gamma$ and $b
+\rightarrow s l^+ l^-$ processes and that the interference effect can change
+the $b \rightarrow s l^+ l^-$ branching ratio in the off-resonance regions by
+up to $\pm 15%$ depending on the relative phase between the long and short
+distance contributions. Using various phenomenological constraints including
+the branching ratio of $b \rightarrow s \gamma$, we show that there are regions
+in the parameter space where the branching ratio of $b \rightarrow s l^+ l^-$
+is enhanced by about 50% compared to the SM. We also show that the branching
+ratio of $b \rightarrow s \nu{\overline \nu}$ is reduced at most by 10% from
+the SM prediction.
+","[{""version"":""v1"",""created"":""Sat, 28 Sep 1996 16:37:34 GMT""}]","2014-11-17"
+"hep-ph/9609513","Hiroaki Masuda","P.N. Burrows, T. Abraha, M. Samuel, E. Steinfelds, H. Masuda","Application of Pade Approximants to Determination of alpha_s(M_Z^2) from
+  Hadronic Event Shape Observables in e+e- Annihilation","15 pages, 1 EPS figure, Submitted to Physics Letters B","Phys.Lett. B392 (1997) 223-228","10.1016/S0370-2693(96)01582-1","SLAC-PUB-7222, MIT-LNS-96-212","hep-ph hep-ex",,"  We have applied Pade approximants to perturbative QCD calculations of event
+shape observables in e+e- --> hadrons. We used the exact O(alpha_s^2)
+prediction and the [0/1] Pade approximant to estimate the O(alpha_s^3) term for
+15 observables, and in each case determined alpha_s(M_Z^2) from comparison with
+hadronic Z^0 decay data from the SLD experiment. We found the scatter among the
+alpha_s(M_Z^2) values to be significantly reduced compared with the standard
+O(alpha_s^2) determination, implying that the Pade method provides at least a
+partial approximation of higher-order perturbative contributions to event shape
+observables.
+","[{""version"":""v1"",""created"":""Sun, 29 Sep 1996 01:20:41 GMT""}]","2009-10-28"
+"quant-ph/9609027","Wolfhard Janke","Wolfhard Janke, Hagen Kleinert (JGU Mainz, FU Berlin)","Convergence Behavior of Variational Perturbation Expansions","5 pages, LaTeX + 2 postscript figures. Talk presented by WJ at ""Path
+  Integrals from meV to MeV: Dubna '96"". See also
+  http://www.cond-mat.physik.uni-mainz.de/~janke/doc/home_janke.html",,,"KOMA-96-35","quant-ph",,"  Variational weak-coupling perturbation theory yields converging
+approximations, uniformly in the coupling strength. This allows us to calculate
+directly the coefficients of `strong-coupling' expansions. For the anharmonic
+oscillator we explain the physical origin of the empirically observed
+convergence behavior which is exponentially fast with superimposed
+oscillations.
+","[{""version"":""v1"",""created"":""Sat, 28 Sep 1996 22:57:51 GMT""}]","2016-09-08"

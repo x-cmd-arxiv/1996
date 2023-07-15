@@ -1,0 +1,43 @@
+"cond-mat/9601045","Boris Muzykantsky","B.A.Muzykantskii and D.E.Khmelnitskii","Nearly Localised States in Weakly Disordered Conductors. II. Beyond
+  Diffusion Approximation","RevTex, two figures in an attached post-script file",,,,"cond-mat",,"  We use optimal fluctuation method for a new ballistic $\sigma$-model to study
+the long time dispersion of conductance $G(t)$ of a mesoscopic sample. In the
+long time limit the conductance of a $d$-dimensional sample decays as $\exp (-A
+\ln^d t ) $. At shorter times the new results match those in our previous
+paper. It is found that at very long times the diffraction effects are
+important and the ballistic treatment is not valid. We also suggest a physical
+picture of trapping.
+","[{""version"":""v1"",""created"":""Sat, 13 Jan 1996 20:27:00 GMT""}]","2016-08-31"
+"cond-mat/9601046","Yan Fyodorov","Yan V. Fyodorov and H.-J. Sommers","Parametric Correlations of Scattering Phase Shifts and Fluctuations of
+  Delay Times in Few-Channel Chaotic Scattering","The text is essentially restructured and new expressions are added 4
+  pages, RevTEX","Phys.Rev.Lett. v.76 (1996), 4709","10.1103/PhysRevLett.76.4709",,"cond-mat chao-dyn nlin.CD",,"  By using the supersymmetry method we derive an explicit expression for the
+parametric correlation function of densities of eigenphases $\theta_a$ of the
+S-matrix in a chaotic quantum system with broken time-reversal symmetry coupled
+to continua via M equivalent open channels;$\,\,a=1,..,M$ .We use it to find
+the distribution of derivatives of these eigenphases over the energy
+(""phaseshift times"") as well as over an arbitrary external parameter.We also
+find the parametric correlations of Wigner-Smith delay times
+","[{""version"":""v1"",""created"":""Sun, 14 Jan 1996 15:14:50 GMT""},{""version"":""v2"",""created"":""Fri, 19 Apr 1996 12:46:53 GMT""}]","2009-10-28"
+"dg-ga/9601004","Thomas Ackermann","Thomas Ackermann","Supersymmetry and the generalized Lichnerowicz formula","20 pages, plain tex",,,,"dg-ga math.DG",,"  A classical result in differential geometry due to Lichnerowicz [8] is
+concerned with the decomposition of the square of Dirac operators defined by
+Clifford connections on a Clifford module ${\cal E}$\ over a Riemannian
+manifold $M$. Recently, this formula has been generalized to arbitrary Dirac
+operators [2]. In this paper we prove a supersymmetric version of the
+generalized Lichnerowicz formula, motivated by the fact that there is a
+one-to-one correspondence between Clifford superconnections and Dirac
+operators. We extend this result to obtain a simple formula for the
+supercurvature of a generalized Bismut superconnection. This might be seen as a
+first step to prove the local index theorem also for families of arbitrary
+Dirac operators.
+","[{""version"":""v1"",""created"":""Sun, 14 Jan 1996 09:29:53 GMT""}]","2008-02-03"
+"hep-ph/9601264",,"A.A. Bolokhov (1), P.A. Bolokhov (1), T.A. Bolokhov (1) and S.G.
+  Sherman (2) ((1) St. Petersburg State University, (2) St. Petersburg Nuclear
+  Physics Institute)","Gauss Integration over Relativistic 3--Body Phase Space for
+  1--Dimensional Distributions of $ 2 \to 3 $ Reaction","32 pages, Latex",,,"SPbU-IP-96-1","hep-ph",,"  We present the analysis of the phase space geometry of 2 $\rightarrow$ 3
+reaction for the general case of nonzero and unequal particle masses. Its
+purpose is to elaborate an alternative approach to the problem of integration
+over phase space which does not exploit the Monte Carlo principle. The fast and
+effective algorithm of integration based on Gauss method is developed for
+treating 1--dimensional distributions in two--particle invariant variables. The
+algorithm is characterized by significantly improved accuracy and it can meet
+requirements of interactive processing.
+","[{""version"":""v1"",""created"":""Sun, 14 Jan 1996 15:53:12 GMT""}]","2007-05-23"
